@@ -42,13 +42,13 @@ The final goal of this list is to also contain the following media as complete a
 
 CPEPF, CPEPF Unused, CPEPFHR, Game Day, Game Day Unused, App, CPI
 
+And others to be defined.
+
 The data inside the media info is divided in the following keys:
 
 "Order": This is named the same as the other one, but this is the ordering in the context of this specific media, while the other one is in the context of the whole series.
 "Earliest Date": Likewise, this is the earliest data in this particular media.
 "Related To": A string listing everything that links this song to the game. For example, in Club Penguin Flash it would be listing the rooms, the parties or minigames it played on.
-
-And others to be defined.
 
 # Transforming the data into a spreadsheet
 
