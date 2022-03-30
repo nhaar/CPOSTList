@@ -5,11 +5,16 @@
     "Order": 70,
     "Link": "https://www.youtube.com/watch?v=kagPOkdEiM8",
     "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 70,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Funny Hat Week Party"
+    },
+    "Game Day Info": {
+        "Order": 40,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Red Ski Hill Challenge"
     },
     "Composers": "?",
     "Alternate Names": "Caribbean Jam, Music Jam Cove Theme"

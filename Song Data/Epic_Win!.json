@@ -5,11 +5,16 @@
     "Order": 77,
     "Link": "https://www.youtube.com/watch?v=IlkNXQ7mHSQ",
     "Earliest Date": "2008/08/22",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 77,
         "Earliest Date": "2008/08/22",
         "Related To": "Penguin Games, Dance-A-Thon, Music Jam, Dance Contest, Puffle Party"
+    },
+    "Game Day Info": {
+        "Order": 35,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Red Ski Village Challenge"
     },
     "Composers": "?",
     "Alternate Names": "Rave Wave, Penguin Games 2"

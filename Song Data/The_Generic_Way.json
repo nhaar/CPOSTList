@@ -5,11 +5,16 @@
     "Order": 72,
     "Link": "https://www.youtube.com/watch?v=opcNfM8GeQo",
     "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 72,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Dance Contest, Make Your Mark: Ultimate Jam"
+    },
+    "Game Day Info": {
+        "Order": 26,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Dance Off! Easy"
     },
     "Composers": "?",
     "Alternate Names": "Sparkling Stage, Vegas, Jazzy Lounge"

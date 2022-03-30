@@ -5,11 +5,16 @@
     "Order": 71,
     "Link": "https://www.youtube.com/watch?v=r9eUD9N9gAk",
     "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 71,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Penguin Games, Penguin Cup"
+    },
+    "Game Day Info": {
+        "Order": 8,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Goal!"
     },
     "Composers": "?",
     "Alternate Names": "Rock Rink, Let The Game Begin, Rock N Roll"

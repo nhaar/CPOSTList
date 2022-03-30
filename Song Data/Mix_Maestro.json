@@ -5,11 +5,16 @@
     "Order": 64,
     "Link": "https://www.youtube.com/watch?v=W4z3l2BnMSQ",
     "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 64,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam"
+    },
+    "Game Day Info": {
+        "Order": 18,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Enemy team zone"
     },
     "Composers": "?",
     "Alternate Names": "DJ3K Mix, DJ3K, Mix"

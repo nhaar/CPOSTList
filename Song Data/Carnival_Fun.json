@@ -5,11 +5,16 @@
     "Order": 41,
     "Link": "https://www.youtube.com/watch?v=vDMf5gQxsA8",
     "Earliest Date": "2007/09/21",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 41,
         "Earliest Date": "2007/09/21",
         "Related To": "The Fair"
+    },
+    "Game Day Info": {
+        "Order": 12,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Pufflle Paddle"
     },
     "Composers": "?",
     "Alternate Names": "Fun Fair, Carnie"

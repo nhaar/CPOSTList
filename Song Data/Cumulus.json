@@ -5,11 +5,16 @@
     "Order": 111,
     "Link": NaN,
     "Earliest Date": "2009/08/14",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 111,
         "Earliest Date": "2009/08/14",
         "Related To": "Festival Of Flight, Wilderness Expedition"
+    },
+    "Game Day Info": {
+        "Order": 42,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Single team island conquered cutscene"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Festival of Flight Main Theme, The Shore"

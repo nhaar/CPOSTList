@@ -5,11 +5,16 @@
     "Order": 40,
     "Link": "https://www.youtube.com/watch?v=pnfHyC1nfCs",
     "Earliest Date": "2007/09/21",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 40,
         "Earliest Date": "2007/09/21",
         "Related To": "The Fair"
+    },
+    "Game Day Info": {
+        "Order": 41,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Blue Ski Hill Challenge"
     },
     "Composers": "TAS 1000",
     "Alternate Names": "Carnival, Fall Fair, All the Fun of The Fair"

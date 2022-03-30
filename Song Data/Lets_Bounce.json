@@ -5,11 +5,16 @@
     "Order": 91,
     "Link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
     "Earliest Date": "2009/01/15",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 91,
         "Earliest Date": "2009/01/15",
         "Related To": "Dance Contest"
+    },
+    "Game Day Info": {
+        "Order": 5,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Minigame title screen"
     },
     "Composers": "?",
     "Alternate Names": NaN

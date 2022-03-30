@@ -5,11 +5,16 @@
     "Order": 128,
     "Link": NaN,
     "Earliest Date": "2010/04/21",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 128,
         "Earliest Date": "2010/04/21",
         "Related To": "Recycling Plant"
+    },
+    "Game Day Info": {
+        "Order": 30,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Jackhammer!"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Recycling Plant Theme, Recycle!"

@@ -5,11 +5,16 @@
     "Order": 56,
     "Link": "https://www.youtube.com/watch?v=cEVX2fVmmRk",
     "Earliest Date": "2008/03/28",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 56,
         "Earliest Date": "2008/03/28",
         "Related To": "April Fools Party, Anniversary Party"
+    },
+    "Game Day Info": {
+        "Order": 1,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Title screen, Credits"
     },
     "Composers": "TAS 1000",
     "Alternate Names": NaN

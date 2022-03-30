@@ -5,11 +5,16 @@
     "Order": 68,
     "Link": "https://www.youtube.com/watch?v=LsI3_-78UEo",
     "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 68,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, The Fair, Make Your Mark: Ultimate Jam"
+    },
+    "Game Day Info": {
+        "Order": 3,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Wi-fi connect"
     },
     "Composers": "?",
     "Alternate Names": "Pink Puffle Song, Pop Song, Bubble Pop"

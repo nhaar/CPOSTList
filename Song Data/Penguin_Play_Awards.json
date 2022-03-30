@@ -5,11 +5,16 @@
     "Order": 97,
     "Link": "https://www.youtube.com/watch?v=4J2efFi21hQ",
     "Earliest Date": "2009/03/20",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 97,
         "Earliest Date": "2009/03/20",
         "Related To": "Penguin Play Awards, Hollywood Party"
+    },
+    "Game Day Info": {
+        "Order": 43,
+        "Earliest Date": "2010/09/17",
+        "Related To": "All teams island conquered cutscene"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": NaN

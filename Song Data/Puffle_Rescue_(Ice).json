@@ -5,11 +5,16 @@
     "Order": 124,
     "Link": NaN,
     "Earliest Date": "2010/03/15",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 124,
         "Earliest Date": "2010/03/15",
         "Related To": "Puffle Rescue"
+    },
+    "Game Day Info": {
+        "Order": 6,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Pre-minigame cutscene"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": NaN

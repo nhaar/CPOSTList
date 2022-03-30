@@ -5,11 +5,16 @@
     "Order": 115,
     "Link": NaN,
     "Earliest Date": "2009/10/27",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 115,
         "Earliest Date": "2009/10/27",
         "Related To": "Halloween Party, Mustache Madness, Zootopia Party"
+    },
+    "Game Day Info": {
+        "Order": 36,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Blue Skii Village Challenge"
     },
     "Composers": "?",
     "Alternate Names": NaN

@@ -5,11 +5,16 @@
     "Order": 112,
     "Link": NaN,
     "Earliest Date": "2009/08/14",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 112,
         "Earliest Date": "2009/08/14",
         "Related To": "Festival Of Flight, Halloween Party"
+    },
+    "Game Day Info": {
+        "Order": 31,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Jackhammer! results"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Baloon Ride Theme"

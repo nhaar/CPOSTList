@@ -36,11 +36,11 @@ Aditionally, there are some keys containing dictionary of the form "Media name I
 
 The list of media currently listed are:
 
-CP Flash, CP Flash Unused, Penguin Chat
+CP Flash, CP Flash Unused, Penguin Chat, Game Day
 
 The final goal of this list is to also contain the following media as complete as possible:
 
-CPEPF, CPEPF Unused, CPEPFHR, Game Day, Game Day Unused, App, CPI
+CPEPF, CPEPF Unused, CPEPFHR, Game Day Unused, App, CPI
 
 And others to be defined.
 

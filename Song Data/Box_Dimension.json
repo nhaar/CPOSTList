@@ -5,11 +5,16 @@
     "Order": 98,
     "Link": "https://www.youtube.com/watch?v=JlZMvH_ngE0",
     "Earliest Date": "2009/04/01",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 98,
         "Earliest Date": "2009/04/01",
         "Related To": "Box Dimension"
+    },
+    "Game Day Info": {
+        "Order": 38,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Yellow Ski Village Challenge"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Into The Box Dimension, Box Dimension V6"

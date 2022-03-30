@@ -5,11 +5,16 @@
     "Order": 99,
     "Link": "https://www.youtube.com/watch?v=4d3Ka1HUyLs",
     "Earliest Date": "2009/04/24",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 99,
         "Earliest Date": "2009/04/24",
         "Related To": "Sled Racing"
+    },
+    "Game Day Info": {
+        "Order": 39,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Sled & Slide"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": NaN

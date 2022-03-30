@@ -5,11 +5,16 @@
     "Order": 53,
     "Link": "https://www.youtube.com/watch?v=tSG-oSCoA1Y",
     "Earliest Date": "2008/02/08",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 53,
         "Earliest Date": "2008/02/08",
         "Related To": "Team Blue's Rally Debut, Puffle Party, Hollywood Party, Mine Shack"
+    },
+    "Game Day Info": {
+        "Order": 15,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Blue team zone"
     },
     "Composers": "?",
     "Alternate Names": "Team Blue Rally, Team Power"

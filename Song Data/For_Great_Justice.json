@@ -5,11 +5,16 @@
     "Order": 51,
     "Link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
     "Earliest Date": "2008/01/11",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 51,
         "Earliest Date": "2008/01/11",
         "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair"
+    },
+    "Game Day Info": {
+        "Order": 34,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Snow Forts Challenge"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic"
