@@ -6,14 +6,14 @@ Data_division = {
     'General': {
         'Name' : [],
         'Name_official' : [],
+        'Composers' : [],
+        'Order' : [],
+        'Link' : [],
         'HQ Source(s)' : [],
         'Source Links' : [],
-        'Order' : [],
-        'Composers' : [],
-        'Link' : [],
         'Alternate Names' : [],
-        'Earliest Date' : [],
         'Medias' : [],
+        'Earliest Date' : [],
     }
 }
 
@@ -22,7 +22,7 @@ Order = {'General': {}}
 Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
 Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'Earliest Date', 'Medias']
 for i in Medias:
-    Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Order' : [], 'Earliest Date' : [], 'Related To' : []}
+    Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
     Order[i + ' Info'] = {}
 
 directory = 'Song Data'
@@ -40,15 +40,17 @@ for x in all_files[0][2]:
 # Iterating through every song
 
 for x in files:
-    print(x)
     newsong = json.load(open(directory+'/' +x, 'r'))
     for y in Medias:
         try:
             dummy = newsong[y + ' Info']
-            Data_division[y + ' Info']['Name'].append(newsong['Name'])
-            Data_division[y + ' Info']['Name_official'].append(newsong['Name_official'])
             Data_division[y + ' Info']['Earliest Date'].append(newsong[y + ' Info']['Earliest Date'])
             Data_division[y + ' Info']['Related To'].append(newsong[y + ' Info']['Related To'])
+            for z in ['Name', 'Composers', 'Alternate Names', 'HQ Source(s)', 'Source Links', 'Name_official', 'Link']:
+                try:
+                    Data_division[y + ' Info'][z].append(newsong[z])
+                except:
+                    Data_division[y + ' Info'][z].append(None)
             Order[y + ' Info'][newsong['Name']] = newsong[y + ' Info']['Order']
         except:
             pass
