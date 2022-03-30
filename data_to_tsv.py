@@ -45,16 +45,11 @@ for x in files:
     for y in Medias:
         try:
             dummy = newsong[y + ' Info']
-            print('Hey')
             Data_division[y + ' Info']['Name'].append(newsong['Name'])
             Data_division[y + ' Info']['Name_official'].append(newsong['Name_official'])
-            print('Hey2')
             Data_division[y + ' Info']['Earliest Date'].append(newsong[y + ' Info']['Earliest Date'])
-            print('Hey3')
             Data_division[y + ' Info']['Related To'].append(newsong[y + ' Info']['Related To'])
-            print('Hey4')
             Order[y + ' Info'][newsong['Name']] = newsong[y + ' Info']['Order']
-            print('Hey5')
         except:
             pass
     for y in Variables:
