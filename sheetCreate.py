@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from openpyxl import Workbook
 
-Data_division = {
+Data_division = { ##If decide to change these names, must change in every JSON
     'General': {
         'Name' : [],
         'Name_official' : [],
@@ -20,7 +20,13 @@ Data_division = {
 
 Order = {'General': {}}
 
-Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
+
+##This dictionary is important, keys are the sheet names related to the name in the jsons. Order is order of sheet
+sheetIs = {'Flash OST': 'CP Flash', 'Penguin Chast OST' : 'Penguin Chat', 'Game Day OST' : 'Game Day', 'Unused Flash OST' : 'CP Flash Unused'}
+
+#Old medias list Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
+Medias = [sheetIs[k] for k in sheetIs]
+
 Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'Earliest Date', 'Medias']
 for i in Medias:
     Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
@@ -113,19 +119,11 @@ wb.create_sheet('Downloads')
 #Create Series OST's
 
 #names
-flash = 'Flash OST'
-pc = 'Penguin Chast OST'
-gd = 'Game Day OST'
-flashU = 'Unused Flash OST'
 
 #data correlations
 
-sheetIs = {flash: 'CP Flash', pc : 'Penguin Chat', gd : 'Game Day', flashU : 'CP Flash Unused'}
-
-wb.create_sheet(flash)
-wb.create_sheet(pc)
-wb.create_sheet(gd)
-wb.create_sheet(flashU)
+for k in sheetIs:
+    wb.create_sheet(k)
 
 #Extra sheets
 
