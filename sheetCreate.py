@@ -1,5 +1,4 @@
 import json
-import pandas as pd
 import os
 from openpyxl import Workbook
 
@@ -81,17 +80,6 @@ for x in Order:
         neworder[x][y] = i
     for y in Data_division[x]['Name']:
         Data_division[x]['Order'].append(neworder[x][y])
-
-#Getting the Series tab .tsv
-
-series = pd.DataFrame(Data_division['General'])
-series.to_csv(r'series.tsv', index = False, sep = '\t')
-
-#Getting each media tab .tsv
-
-for x in Medias:
-    series = pd.DataFrame(Data_division[x + ' Info'])
-    series.to_csv(r'' + x + '.tsv', index = False, sep = '\t')
 
 #sort data_division by order
 
