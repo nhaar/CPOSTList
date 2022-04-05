@@ -134,12 +134,9 @@ for k in sheetIs:
             elif x == 'HQ Source(s)':
                 j += 1
                 wb[k][letters[i] + str(j)] = y
-                try:
-                    if newdata[sheetIs[k] + ' Info']['Source Links'][j] != None:
-                        wb[k][letters[i] + str(j)].hyperlink = newdata[sheetIs[k] + ' Info']['Source Links'][j-1]
-                        wb[k][letters[i] + str(j)].style = "Hyperlink"
-                except:
-                    pass
+                if newdata[sheetIs[k] + ' Info']['Source Links'][j-1] != None:
+                    wb[k][letters[i] + str(j)].hyperlink = newdata[sheetIs[k] + ' Info']['Source Links'][j-1]
+                    wb[k][letters[i] + str(j)].style = "Hyperlink"
             elif x == 'Name_official':
                 j += 1
                 if y:
