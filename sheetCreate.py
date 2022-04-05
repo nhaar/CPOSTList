@@ -1,6 +1,7 @@
 import json
 import os
 from openpyxl import Workbook
+from openpyxl.styles import Font
 
 Data_division = { ##If decide to change these names, must change in every JSON
     'General': {
@@ -125,9 +126,35 @@ for k in sheetIs:
     i = 0
     for x in newdata[sheetIs[k] + ' Info']:
         j = 0
-        i += 1
+        if x != 'Source Links' and x != 'Name_official':
+            i += 1
         for y in newdata[sheetIs[k] + ' Info'][x]:
-            j += 1
-            wb[k][letters[i] + str(j+1)] = y
+            if x == 'Source Links':
+                pass
+            elif x == 'HQ Source(s)':
+                j += 1
+                wb[k][letters[i] + str(j)] = y
+                try:
+                    if newdata[sheetIs[k] + ' Info']['Source Links'][j] != None:
+                        wb[k][letters[i] + str(j)].hyperlink = newdata[sheetIs[k] + ' Info']['Source Links'][j-1]
+                        wb[k][letters[i] + str(j)].style = "Hyperlink"
+                except:
+                    pass
+            elif x == 'Name_official':
+                j += 1
+                if y:
+                    wb[k][letters[i] + str(j)].font = Font(color='2E47AA')
+                else:
+                    wb[k][letters[i] + str(j)].font = Font(color='CC0000')
+            elif x == 'Link':
+                j += 1
+                wb[k][letters[i] + str(j)] = y
+                if y != None or y != '':
+                    wb[k][letters[i] + str(j)].hyperlink = y
+                    wb[k][letters[i] + str(j)].value = 'Link'
+                    wb[k][letters[i] + str(j)].style = 'Hyperlink'
+            else:
+                j += 1
+                wb[k][letters[i] + str(j)] = y
 
 wb.save('sheet.xlsx')
