@@ -5,11 +5,16 @@
     "Order": 102,
     "Link": "https://www.youtube.com/watch?v=XfcceKzuHHw",
     "Earliest Date": "2009/05/08",
-    "Medias": "Club Penguin",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
         "Order": 102,
         "Earliest Date": "2009/05/08",
         "Related To": "Haunting of the Viking Opera, Island Adventure Party, Medieval Party, The Fair"
+    },
+    "Game Day Info": {
+        "Order": 25,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Fast Freeze"
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Viking Opera"
