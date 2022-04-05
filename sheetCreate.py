@@ -146,7 +146,7 @@ for k in sheetIs:
             elif x == 'Link':
                 j += 1
                 wb[k][letters[i] + str(j)] = y
-                if y != None or y != '':
+                if y != None and y != '':
                     wb[k][letters[i] + str(j)].hyperlink = y
                     wb[k][letters[i] + str(j)].value = 'Link'
                     wb[k][letters[i] + str(j)].style = 'Hyperlink'
