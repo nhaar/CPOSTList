@@ -1,6 +1,6 @@
 {
-    "Name": "Wizard Library",
-    "Name_official": 0,
+    "Name": "Wizard Waltz",
+    "Name_official": 1,
     "HQ Source(s)": "SWF 494",
     "Order": 221,
     "Link": "",
@@ -12,5 +12,5 @@
         "Related To": "Medieval Party, Anniversary Party"
     },
     "Composers": "Someday",
-    "Alternate Names": "Wizard School Observatory"
+    "Alternate Names": "Wizard Library, Wizard School Observatory"
 }
