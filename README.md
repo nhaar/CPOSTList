@@ -52,4 +52,4 @@ The data inside the media info is divided in the following keys:
 
 # Transforming the data into a spreadsheet
 
-This repository was built having in mind that this data is better visualized as a spreadsheet. The python script generates a .xslx file with all the data. The Visual Basic macros help cleaning it.
+This repository was built having in mind that this data is better visualized as a spreadsheet. The python script generates a .xslx file with all the data.
