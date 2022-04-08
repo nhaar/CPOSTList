@@ -13,8 +13,6 @@ Data_division = { ##If decide to change these names, must change in every JSON
         'HQ Source(s)' : [],
         'Source Links' : [],
         'Alternate Names' : [],
-        'Medias' : [],
-        'Earliest Date' : [],
     }
 }
 
@@ -23,11 +21,12 @@ Order = {'General': {}}
 
 ##This dictionary is important, keys are the sheet names related to the name in the jsons. Order is order of sheet
 sheetIs = {'Flash OST': 'CP Flash', 'Penguin Chast OST' : 'Penguin Chat', 'Game Day OST' : 'Game Day', 'Unused Flash OST' : 'CP Flash Unused', 'App OST' : 'App', 'CPI Ost': 'CPI'}
+mediasIs = {'Flash OST': 'Club Penguin', 'Penguin Chast OST' : 'Penguin Chat', 'Game Day OST': 'Club Penguin: Game Day!', 'Unused Flash OST': 'Club Penguin Unused', 'App OST': 'Club Penguin App', 'CPI Ost': 'Club Penguin Island'}
 
 #Old medias list Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
 Medias = [sheetIs[k] for k in sheetIs]
 
-Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'Earliest Date', 'Medias']
+Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names']
 for i in Medias:
     Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
     Order[i + ' Info'] = {}
@@ -116,9 +115,12 @@ for k in sheetIs:
 
 #Extra sheets
 
+cpseries = 'Series OST'
+
+wb.create_sheet(cpseries)
 wb.create_sheet('to-do')
 
-#Fill data to sheets
+#Fill data to media sheets
 
 letters = {1:'A',2:'B',3:'C',4:'D',5:'E',6:'F',7:'G',8:'H',9:'I',10:'J'}
 
@@ -154,4 +156,87 @@ for k in sheetIs:
                 j += 1
                 wb[k][letters[i] + str(j)] = y
 
+#Fill data to series sheet
+
+def dateToNumber(x):
+    if x == "?":
+        return False
+    year = 0
+    month = 0
+    day = 0
+    foundYear = False
+    foundMonth = False
+    for char in x:
+        if char == "/":
+            if foundYear:
+                foundMonth = True
+            else:
+                foundYear = True
+        else:
+            if foundYear:
+                if foundMonth:
+                    day = day * 10 + int(char)
+                else:
+                    month = month * 10 + int(char)
+            else:
+                year = year * 10 + int(char)
+    return day + month * 100 + year * 10000
+
+i = 0
+for k in newdata['General']:
+    j = 0
+    if k != 'Source Links' and k != 'Name_official':
+        i += 1
+    for x in newdata['General'][k]:
+        print(k)
+        if k == 'Source Links':
+            pass
+        elif k == 'HQ Source(s)':
+            j += 1
+            wb[cpseries][letters[i] + str(j)] = x
+            if newdata['General']['Source Links'][j-1] != None:
+                wb[cpseries][letters[i] + str(j)].hyperlink = newdata['General']['Source Links'][j-1]
+                wb[cpseries][letters[i] + str(j)].style = "Hyperlink"
+        elif k == 'Name_official':
+            j += 1
+            if x:
+                wb[cpseries][letters[i] + str(j)].font = Font(color='2E47AA')
+            else:
+                wb[cpseries][letters[i] + str(j)].font = Font(color='CC0000')
+        elif k == 'Link':
+            j += 1
+            wb[cpseries][letters[i] + str(j)] = x
+            if x != None and x != '':
+                wb[cpseries][letters[i] + str(j)].hyperlink = x
+                wb[cpseries][letters[i] + str(j)].value = 'Link'
+                wb[cpseries][letters[i] + str(j)].style = 'Hyperlink'
+        else:
+            j += 1
+            wb[cpseries][letters[i]+str(j)] = x
+    for x in newdata['General']['Name']:
+        overall_order = newdata['General']['Name'].index(x)
+        all_medias = []
+        all_dates = []
+        for y in sheetIs:
+            if x in newdata[sheetIs[y] + ' Info']['Name']:
+                order = newdata[sheetIs[y] + ' Info']['Name'].index(x)
+                all_medias.append(mediasIs[y])
+                all_dates.append(newdata[sheetIs[y] + ' Info']['Earliest Date'][order])
+        medias_str = ''
+        medias_str += all_medias[0]
+        for media in range(1,len(all_medias)):
+            medias_str += ', ' + all_medias[media]
+        the_date = ''
+        lowestdate = 3000000000000000000
+        print(all_dates)
+        for date in all_dates:
+            date_number = dateToNumber(date)
+            if lowestdate > date_number and date_number != False:
+                lowestdate = date_number
+                the_date = date
+        if lowestdate == 3000000000000000000:
+            the_date = '?'
+        wb[cpseries]['G' + str(overall_order+1)] = medias_str
+        wb[cpseries]['H' + str(overall_order+1)] = the_date
+        
 wb.save('sheet.xlsx')

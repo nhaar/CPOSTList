@@ -24,10 +24,6 @@ Each song has the following keys (Some of these may be ignored):
 
 "Alternate Names": A string listing alternate names.
 
-"Earliest Date": A date, if it is known, in the format YYYY/MM/DD. This formatting is importat so that it's exportable to the spreadsheet. If it's unknown, it's written as "?".
-
-"Medias": All Club Penguin media where the song is found. EG. Club Penguin Island, Club Penguin: Game Day!
-
 "Order": This is an arbitrary attempt at ordering songs in a chronological way. This is meant to be used with floats, and it it's later sorted into integers. For example, if two songs have orders 0.5 and 0.6, they'll be sorted from least to biggest, and then an integer count will follow. This is to avoid having to rewrite every song when changing a single song out of order. It is not very elegant, but it works.
 
 Aditionally, there are some keys containing dictionary of the form "Media name Info". For example:
@@ -47,7 +43,7 @@ And others to be defined.
 The data inside the media info is divided in the following keys:
 
 "Order": This is named the same as the other one, but this is the ordering in the context of this specific media, while the other one is in the context of the whole series.
-"Earliest Date": Likewise, this is the earliest data in this particular media.
+"Earliest Date": A date, if it is known, in the format YYYY/MM/DD. This formatting is importat so that it's exportable to the spreadsheet. If it's unknown, it's written as "?".
 "Related To": A string listing everything that links this song to the game. For example, in Club Penguin Flash it would be listing the rooms, the parties or minigames it played on.
 
 # Transforming the data into a spreadsheet
