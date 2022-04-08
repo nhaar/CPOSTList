@@ -12,6 +12,11 @@
         "Earliest Date": "2010/11/14",
         "Related To": "Bean Counters"
     },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Bean Counters"
+    },
     "Composers": "Chris Hendricks",
     "Alternate Names": "New Bean Counters"
 }

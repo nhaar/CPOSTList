@@ -11,6 +11,11 @@
         "Earliest Date": "2006/02/24",
         "Related To": "Pizza Parlor"
     },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Town"
+    },
     "Composers": "Skip Peck",
     "Alternate Names": "Pizza Parlor Theme"
 }
