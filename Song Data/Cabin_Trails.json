@@ -12,6 +12,11 @@
         "Earliest Date": "2015/03/18",
         "Related To": "Ski Lodge"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Ski Lodge"
+    },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""
 }

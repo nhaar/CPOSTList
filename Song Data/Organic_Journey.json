@@ -11,6 +11,11 @@
         "Earliest Date": "2005/10/24",
         "Related To": "Bean Counters"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
     "Composers": "Doug Brown",
     "Alternate Names": "Old Bean Counters"
 }

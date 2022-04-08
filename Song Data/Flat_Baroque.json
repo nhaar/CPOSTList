@@ -11,6 +11,11 @@
         "Earliest Date": "2007/12/14",
         "Related To": "The Twelfth Fish, Puffle Party"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
     "CPI Info": {
         "Order": 1,
         "Earliest Date" : "?",

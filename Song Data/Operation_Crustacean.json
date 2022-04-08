@@ -1,7 +1,7 @@
 {
-    "Name": "Operation: Crustacean",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 1064",
+    "Name": "Red Alert Ultimate Battle",
+    "Name_official": 1,
+    "HQ Source(s)": "App",
     "Order": 350,
     "Link": "",
     "Earliest Date": "2015/11/18",
@@ -9,6 +9,11 @@
     "CP Flash Info": {
         "Order": 350,
         "Earliest Date": "2015/11/18",
+        "Related To": "Operation: Crustacean"
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Operation: Crustacean"
     },
     "Composers": "?",

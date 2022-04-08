@@ -11,6 +11,11 @@
         "Earliest Date": "2014/11/20",
         "Related To": "Pirate Party"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
     "CPI Info": {
         "Order": 1,
         "Earliest Date" : "?",

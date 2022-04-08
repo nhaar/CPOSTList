@@ -12,6 +12,11 @@
         "Earliest Date": "2014/06/19",
         "Related To": "Penguin Cup"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
     "CPI Info": {
         "Order": 1,
         "Earliest Date" : "?",

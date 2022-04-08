@@ -16,6 +16,11 @@
         "Earliest Date": "2010/09/17",
         "Related To": "Menu"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Town"
+    },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",

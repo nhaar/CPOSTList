@@ -11,6 +11,11 @@
         "Earliest Date": "2012/12/20",
         "Related To": "Holiday Party"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Ice Palace"
 }

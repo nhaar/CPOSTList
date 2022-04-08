@@ -11,6 +11,11 @@
         "Earliest Date": "2012/02/01",
         "Related To": "Clothes Shop"
     },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Gift Shop"
+    },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Fashion Show"
 }
