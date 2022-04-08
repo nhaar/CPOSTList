@@ -22,7 +22,7 @@ Order = {'General': {}}
 
 
 ##This dictionary is important, keys are the sheet names related to the name in the jsons. Order is order of sheet
-sheetIs = {'Flash OST': 'CP Flash', 'Penguin Chast OST' : 'Penguin Chat', 'Game Day OST' : 'Game Day', 'Unused Flash OST' : 'CP Flash Unused'}
+sheetIs = {'Flash OST': 'CP Flash', 'Penguin Chast OST' : 'Penguin Chat', 'Game Day OST' : 'Game Day', 'Unused Flash OST' : 'CP Flash Unused', 'App OST' : 'App', 'CPI Ost': 'CPI'}
 
 #Old medias list Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
 Medias = [sheetIs[k] for k in sheetIs]
