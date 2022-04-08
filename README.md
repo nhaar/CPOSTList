@@ -6,7 +6,7 @@ This project aims to document the Club Penguin OST as much as it is possible. Th
 
 The list is a work in progress. There are two ways one can help:
 - Add more data to the songs, or adding more songs.
--- Particularly, the App and CPI soundtracks are a work in progress. Club Penguin Youtube and TV Special soundtrack is also in the plans.
+- Particularly, the App and CPI soundtracks are a work in progress. Club Penguin Youtube and TV Special soundtrack is also in the plans.
 - Improving the python script.
 
 # The repository
