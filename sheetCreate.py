@@ -58,7 +58,7 @@ Medias = [sheetIs[k] for k in sheetIs]
 #    Variables.append(x)
 Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'versions', 'stock']
 for i in Medias:
-    Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
+    Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : [], 'files': [], 'uses': []}
     Order[i + ' Info'] = {}
 
 directory = 'Song Data'
@@ -76,14 +76,21 @@ for x in all_files[0][2]:
 # Iterating through every song
 
 for x in files:
+    print(x)
     newsong = json.load(open(directory+'/' +x, 'r'))
     for y in Medias:
         try:
+            print(y)
             dummy = newsong[y + ' Info']
-            Data_division[y + ' Info']['Earliest Date'].append(newsong[y + ' Info']['Earliest Date'])
-            Data_division[y + ' Info']['Related To'].append(newsong[y + ' Info']['Related To'])
-            for z in ['Name', 'Composers', 'Alternate Names', 'HQ Source(s)', 'Source Links', 'Name_official', 'Link']:
+            for z in ['Earliest Date', 'Related To', 'files', 'uses']:
                 try:
+                    Data_division[y + ' Info'][z].append(newsong[y + ' Info'][z])
+                except:
+                    Data_division[y + ' Info'][z].append(None)
+            for z in ['Name', 'Composers', 'Alternate Names', 'HQ Source(s)', 'Source Links', 'Name_official', 'Link']:
+                print(z)
+                try:
+                    print('Hello')
                     Data_division[y + ' Info'][z].append(newsong[z])
                 except:
                     Data_division[y + ' Info'][z].append(None)
@@ -169,6 +176,10 @@ for k in sheetIs:
                 if newdata[sheetIs[k] + ' Info']['Source Links'][j-1] != None:
                     wb[k][letters[i] + str(j)].hyperlink = newdata[sheetIs[k] + ' Info']['Source Links'][j-1]
                     wb[k][letters[i] + str(j)].style = "Hyperlink"
+            elif x == 'uses':
+                pass
+            elif x == 'files':
+                pass
             elif x == 'Name_official':
                 j += 1
                 if y:
@@ -218,7 +229,6 @@ for k in newdata['General']:
     if k != 'Source Links' and k != 'Name_official':
         i += 1
     for x in newdata['General'][k]:
-        print(k)
         if k == 'Source Links':
             pass
         elif k == 'versions':
@@ -262,7 +272,6 @@ for k in newdata['General']:
             medias_str += ', ' + all_medias[media]
         the_date = ''
         lowestdate = 3000000000000000000
-        print(all_dates)
         for date in all_dates:
             date_number = dateToNumber(date)
             if lowestdate > date_number and date_number != False:
@@ -316,6 +325,16 @@ for x in gen['Order']:
     if versions != None:
         doc_text += '\n## Versions'
         doc_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
+    for y in Medias:
+        y = y + ' Info'
+        if gen["Name"][x-1] in newdata[y]["Name"]:
+            mediaorder = newdata[y]["Name"].index(gen["Name"][x-1])
+            doc_text += '\n##' + y
+            try:
+                files = newdata[y]['files'][mediaorder]
+                doc_text += '\n' + tableCreate(('Name', 'Info'), files)
+            except:
+                pass
     doc_text += '\n'
 
 doc.write(doc_text)

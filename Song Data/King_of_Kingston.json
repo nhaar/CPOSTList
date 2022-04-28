@@ -9,7 +9,35 @@
     "CP Flash Info": {
         "Order": 1,
         "Earliest Date": "2005/10/24",
-        "Related To": "Coffee Shop, Book Room"
+        "Related To": "Coffee Shop, Book Room",
+        "files": {
+            "name": [
+                "1.swf",
+                "429.swf",
+                "669.swf"
+            ],
+            "info": [
+                "It used the four loops, played randomly in order",
+                "All 4 loops played sequentially, with ambience noise",
+                "All 4 loops palyed sequentially, with ambience noises"
+            ]
+        },
+        "uses": {
+            "date": [
+                "?", "?", "?"
+            ],
+            "use": [
+                "Coffee Shop",
+                "Coffee Shop",
+                "Coffee Shop"
+            ],
+            "info": [
+                "", "", ""
+            ],
+            "files": [
+                "1.swf", "429.swf", "669.swf"
+            ]
+        }
     },
     "App Info": {
         "Order": 1,
