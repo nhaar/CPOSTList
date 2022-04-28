@@ -28,7 +28,7 @@ def tableCreate(headers, dict):
     return table
 
 Data_division = { ##If decide to change these names, must change in every JSON
-                #If adding anything, make sure to add to Variables
+                #If adding anything, make sure to add to Variables, and if needed, add exception when creating spreadsheet
     'General': {
         'Name' : [],
         'Name_official' : [],
@@ -38,7 +38,8 @@ Data_division = { ##If decide to change these names, must change in every JSON
         'HQ Source(s)' : [],
         'Source Links' : [],
         'Alternate Names' : [],
-        'versions': []
+        'versions': [],
+        'stock': []
     }
 }
 
@@ -55,7 +56,7 @@ Medias = [sheetIs[k] for k in sheetIs]
 #Variables = []
 #for x in Data_division['General']:
 #    Variables.append(x)
-Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'versions']
+Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'versions', 'stock']
 for i in Medias:
     Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
     Order[i + ' Info'] = {}
@@ -222,6 +223,8 @@ for k in newdata['General']:
             pass
         elif k == 'versions':
             pass
+        elif k == 'stock':
+            pass
         elif k == 'HQ Source(s)':
             j += 1
             wb[cpseries][letters[i] + str(j)] = x
@@ -300,7 +303,11 @@ for x in gen['Order']:
     if songtype == 0:
         doc_text += ' an original song.'
     elif songtype == 1:
-        doc_text += ' a stock song.'
+        try:
+            stockinfo = gen['stock'][x-1]['info']
+            doc_text += ' a stock song from (' + stockinfo['origin'] + ')[' + stockinfo['link'] + ']'
+        except:
+            pass
     elif songtype == 2:
         doc_text += ' of unknown origins.'
     elif songtype == 3:

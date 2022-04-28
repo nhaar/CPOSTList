@@ -14,7 +14,7 @@
 # I'm At 9933
 
 # King of Kingston
-This song is a stock song.
+This song is a stock song from (Shockwave Sound)[https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston]
 ## Versions
 | Name | Info | Source | 
 | - | - | - |
@@ -87,7 +87,7 @@ This song is an original song.
 # Dance Ye Merry
 
 # Sparky's New Bike
-This song is a stock song.
+This song is
 
 # Wave Rider
 This song is an original song.
