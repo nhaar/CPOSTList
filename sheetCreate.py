@@ -278,7 +278,7 @@ stock_composers = ["Paul Sumpter"]
 original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
 licensed_composers = ["John Williams"]
 
-doc = open('WIPnotes.txt', 'w')
+doc = open('WIPnotes.md', 'w')
 doc_text = ''
 
 gen = newdata['General']
