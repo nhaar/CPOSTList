@@ -3,7 +3,32 @@ import os
 from openpyxl import Workbook
 from openpyxl.styles import Font
 
+def tableCreate(headers, dict):
+    newdict = {}
+    i = 0
+    for x in headers:
+        i += 1
+        j = 0
+        for y in dict:
+            j += 1
+            if j == i:
+                newdict[x] = dict[y]
+    table = '| '
+    lenght = 0
+    for x in  newdict:
+        table += x + ' | '
+        length = len(newdict[x])
+    table += '\n|'
+    for x in newdict:
+        table += ' - |'
+    for x in range(length-1):
+        table += '\n| '
+        for y in newdict:
+            table += newdict[y][x] + ' | '
+    return table
+
 Data_division = { ##If decide to change these names, must change in every JSON
+                #If adding anything, make sure to add to Variables
     'General': {
         'Name' : [],
         'Name_official' : [],
@@ -13,6 +38,7 @@ Data_division = { ##If decide to change these names, must change in every JSON
         'HQ Source(s)' : [],
         'Source Links' : [],
         'Alternate Names' : [],
+        'versions': []
     }
 }
 
@@ -26,7 +52,10 @@ mediasIs = {'Flash OST': 'Club Penguin', 'Penguin Chast OST' : 'Penguin Chat', '
 #Old medias list Medias = ['CP Flash', 'CP Flash Unused', 'CPEPF', 'Unused CPEPF', 'CPEPFHR', 'Game Day', 'Unused Game Day', 'CPI', 'Penguin Chat']
 Medias = [sheetIs[k] for k in sheetIs]
 
-Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names']
+#Variables = []
+#for x in Data_division['General']:
+#    Variables.append(x)
+Variables = ['Name', 'Name_official', 'HQ Source(s)', 'Source Links', 'Composers', 'Link', 'Alternate Names', 'versions']
 for i in Medias:
     Data_division[i + ' Info'] = {'Name' : [], 'Name_official' : [], 'Composers' : [], 'Order' : [], 'Link' : [], 'Related To' : [], 'Alternate Names' : [], 'HQ Source(s)': [], 'Source Links' : [], 'Earliest Date' : []}
     Order[i + ' Info'] = {}
@@ -191,6 +220,8 @@ for k in newdata['General']:
         print(k)
         if k == 'Source Links':
             pass
+        elif k == 'versions':
+            pass
         elif k == 'HQ Source(s)':
             j += 1
             wb[cpseries][letters[i] + str(j)] = x
@@ -240,3 +271,45 @@ for k in newdata['General']:
         wb[cpseries]['H' + str(overall_order+1)] = the_date
         
 wb.save('sheet.xlsx')
+
+#Creating the doc
+
+stock_composers = ["Paul Sumpter"]
+original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
+licensed_composers = ["John Williams"]
+
+doc = open('WIPnotes.txt', 'w')
+doc_text = ''
+
+gen = newdata['General']
+
+for x in gen['Order']:
+    doc_text += '\n# ' + gen['Name'][x-1]
+    if gen['Composers'][x-1] in original_composers:
+        songtype = 0
+    elif gen['Composers'][x-1] in stock_composers:
+        songtype = 1
+    elif gen['Composers'][x-1] in licensed_composers:
+        songtype = 3
+    elif gen['Composers'][x-1] == '?':
+        songtype = 2
+    else:
+        songtype = None
+    if songtype != None:
+        doc_text += '\nThis song is'
+    if songtype == 0:
+        doc_text += ' an original song.'
+    elif songtype == 1:
+        doc_text += ' a stock song.'
+    elif songtype == 2:
+        doc_text += ' of unknown origins.'
+    elif songtype == 3:
+        doc_text += ' a licensed song.'
+    versions = gen['versions'][x-1]
+    if versions != None:
+        doc_text += '\n## Versions'
+        doc_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
+    doc_text += '\n'
+
+doc.write(doc_text)
+doc.close()

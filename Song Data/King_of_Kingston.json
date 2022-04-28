@@ -17,5 +17,40 @@
         "Related To": "Coffee Shop"
     },
     "Composers": "Paul Sumpter",
-    "Alternate Names": "Coffee Shop Theme"
+    "Alternate Names": "Coffee Shop Theme",
+	"type" : 1,
+	"stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston"},
+		"sale" : ["Full track", "60-secs version", "30-secs version", "Set of 4 music loops"]
+	},
+    "versions": {
+        "names": [
+            "King of Kingston loop1.wav",
+            "King of Kingston loop2.wav",
+            "King of Kingston loop3.wav",
+            "King of Kingston loop4.wav",
+            "king-of-kingston-30secs.wav",
+            "king-of-kingston-60secs.wav",
+            "king-of-kingston-complete.wav"
+        ],
+        "info": [
+            "Loop 1 from the set of 4 loops.",
+            "Loop 2 from the set of 4 loops.",
+            "Loop 3 from the set of 4 loops.",
+            "Loop 4 from the set of 4 loops.",
+            "30 seconds version.",
+            "60 seconds version.",
+            "Full version."
+        ],
+        "source": [
+            "Other",
+            "Other",
+            "Other",
+            "Other",
+            "Other",
+            "Other",
+            "Other",
+            "Other"
+        ]
+    }
 }
