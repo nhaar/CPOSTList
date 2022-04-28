@@ -305,7 +305,7 @@ for x in gen['Order']:
     elif songtype == 1:
         try:
             stockinfo = gen['stock'][x-1]['info']
-            doc_text += ' a stock song from (' + stockinfo['origin'] + ')[' + stockinfo['link'] + ']'
+            doc_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ')'
         except:
             pass
     elif songtype == 2:
