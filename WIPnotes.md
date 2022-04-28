@@ -1,18 +1,4 @@
 
-# I've Been Delayed
-
-# Protein Shoes
-
-# Birthday
-
-# I Am a Truly Fully Licensed Hairstylist
-
-# Parks Canada
-
-# Before You Leave
-
-# I'm At 9933
-
 # King of Kingston
 This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston)
 ## Versions
@@ -35,65 +21,11 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 
-# Organic Journey
-
-# Crossing Over
-
-# Yessir
-
-# Stealth
-
-# Renewed
-
-# Paparazzi Shuffle
-
-# Jingle Bells
-
-# Sunshine Holiday
-
-# Honolulu Honey
-
-# Communication
-
-# Charlie's Here
-
-# Paris St Germain
-
-# Gravitons
-
-# Maximum Wave
-
-# Guadeloupe Beach Party
-
-# Southern Fried
-
-# Event Prep
-
-# Alehouse
-
-# Seek And Hide
-
-# Time Travellers
-
-# Techno Cowboy
-
-# Santiago Swing
-
 # Thin Ice Theme
 This song is an original song.
 
-# Spanish Rumba
-
-# Rainy Day Ska
-
 # Pizzatron 3000
 This song is an original song.
-
-# C'est Chaud
-
-# Good Attitude
-
-# Dance Ye Merry
 
 # Sparky's New Bike
 This song is a stock song.
@@ -112,8 +44,6 @@ This song is an original song.
 
 # Coconut
 This song is an original song.
-
-# Ska Mad
 
 # Water Kongo
 This song is an original song.
@@ -141,8 +71,6 @@ This song is an original song.
 
 # Space Adventure
 This song is of unknown origins.
-
-# Flat Baroque
 
 # Snowy Holidays
 This song is an original song.
@@ -201,8 +129,6 @@ This song is an original song.
 # Flipper Stomper
 This song is an original song.
 
-# Maybe Baby
-
 # Orca Straw
 This song is an original song.
 
@@ -254,10 +180,6 @@ This song is an original song.
 # It's Behind You!
 This song is an original song.
 
-# Phantasmagoria
-
-# Mountain Dojo
-
 # Ninja Training
 This song is an original song.
 
@@ -275,8 +197,6 @@ This song is an original song.
 
 # Let's Bounce
 This song is of unknown origins.
-
-# Penguin Band Boogie
 
 # Puffle Party Theme
 This song is an original song.
@@ -374,8 +294,6 @@ This song is an original song.
 # Extra Anchovies
 This song is an original song.
 
-# Christmas Jammin'
-
 # Santa's Sleigh
 This song is an original song.
 
@@ -408,8 +326,6 @@ This song is of unknown origins.
 
 # Dragon Battle
 This song is an original song.
-
-# Elite Penguin Force
 
 # Pirates And Monkeys
 This song is an original song.
@@ -579,8 +495,6 @@ This song is an original song.
 # Attack on The City of Heroic Things
 This song is an original song.
 
-# The Party Starts Now!
-
 # Street Rock
 This song is an original song.
 
@@ -610,8 +524,6 @@ This song is an original song.
 
 # Ooga Booga
 This song is an original song.
-
-# Gotta Have A Wingman
 
 # Welcome to Hollywood
 This song is an original song.
@@ -682,10 +594,6 @@ This song is a licensed song.
 # The Throne Room
 This song is a licensed song.
 
-# Star Wars Remix
-
-# Get Pink
-
 # Monster Karaoke
 This song is of unknown origins.
 
@@ -695,17 +603,11 @@ This song is an original song.
 # Scare Games Challenge
 This song is of unknown origins.
 
-# Steer the Funk
-
 # University Rally
 This song is of unknown origins.
 
-# We're All Ok
-
 # Ride The Wave
 This song is an original song.
-
-# Surf's Up
 
 # Forever Summer
 This song is an original song.
@@ -719,14 +621,8 @@ This song is an original song.
 # Party In My Iggy
 This song is of unknown origins.
 
-# Medieval Theme (2013)
-
-# Wizard Waltz
-
 # What Lurks In The Night
 This song is an original song.
-
-# Ghosts Just Wanna Dance
 
 # Organ You Play
 This song is an original song.
@@ -779,12 +675,6 @@ This song is of unknown origins.
 # Bretzel Bash
 This song is an original song.
 
-# Festive India
-
-# Kalinka
-
-# French Avenue
-
 # English Anthem
 This song is an original song.
 
@@ -805,8 +695,6 @@ This song is of unknown origins.
 
 # Come Out to Play!
 This song is an original song.
-
-# Electric Ballet
 
 # Extra Planetary Force
 This song is an original song.
@@ -829,8 +717,6 @@ This song is of unknown origins.
 # Zero Gravity Disco
 This song is an original song.
 
-# Cool In The Cold
-
 # Penguin Cup Anthem
 This song is an original song.
 
@@ -849,21 +735,11 @@ This song is an original song.
 # This is CPSN
 This song is an original song.
 
-# Anchors Aweigh
-
 # Rock The Boat
 This song is an original song.
 
 # Rock The Boat Quartet
 This song is of unknown origins.
-
-# Puffle Party Cole Plante Remix
-
-# Hoy Somo Mas
-
-# Replay
-
-# Can't Blame
 
 # Lighthouse Band (New)
 This song is of unknown origins.
@@ -877,10 +753,6 @@ This song is of unknown origins.
 # Frozen Wonder
 This song is an original song.
 
-# In Summer
-
-# Let It Go
-
 # Sk8 Skool
 This song is of unknown origins.
 
@@ -893,8 +765,6 @@ This song is of unknown origins.
 # Starting Fresh 8-Bit Mix
 This song is of unknown origins.
 
-# I'm A Mod
-
 # It's Your Birthday!
 This song is of unknown origins.
 
@@ -903,8 +773,6 @@ This song is an original song.
 
 # Turn Back Now
 This song is an original song.
-
-# Spooky Jazz
 
 # Spooky Jazz Decay
 This song is of unknown origins.
@@ -930,8 +798,6 @@ This song is an original song.
 # Cream Soda Shanty
 This song is of unknown origins.
 
-# Puffle Shuffle
-
 # We Wish You A Merry Walrus
 This song is of unknown origins.
 
@@ -949,8 +815,6 @@ This song is of unknown origins.
 
 # Holiday Lights Dance Remix
 This song is an original song.
-
-# Rebels Theme
 
 # Tatooine
 This song is of unknown origins.
@@ -1042,8 +906,6 @@ This song is of unknown origins.
 # Sunshine Days
 This song is of unknown origins.
 
-# Making Today a Perfect Day
-
 # Trader's Trove
 This song is of unknown origins.
 
@@ -1056,19 +918,11 @@ This song is of unknown origins.
 # The Snow Parade
 This song is of unknown origins.
 
-# Free Your Mind
-
-# Far Away Dreaming
-
 # Eraser
 This song is an original song.
 
-# Glam Jam
-
 # Rock the Boat Quartet Remix
 This song is of unknown origins.
-
-# Rotten To the Core
 
 # Did I Mention
 This song is of unknown origins.
@@ -1079,19 +933,11 @@ This song is of unknown origins.
 # Gonna Be Epic!
 This song is of unknown origins.
 
-# Gotta Get The Gotcha
-
 # Penguin Panic
 This song is of unknown origins.
 
 # Red Alert Ultimate Battle
 This song is of unknown origins.
-
-# Future Odyssey
-
-# Alien Lounge
-
-# Epic Suspense
 
 # Jungle Jam
 This song is an original song.
@@ -1152,8 +998,6 @@ This song is of unknown origins.
 
 # Frozen Celebration
 This song is of unknown origins.
-
-# Oaken Sauna
 
 # CP Music Mashup 2013
 This song is of unknown origins.

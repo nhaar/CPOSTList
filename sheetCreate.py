@@ -297,7 +297,7 @@ doc_text = ''
 gen = newdata['General']
 
 for x in gen['Order']:
-    doc_text += '\n# ' + gen['Name'][x-1]
+    song_text = ''
     if gen['Composers'][x-1] in original_composers:
         songtype = 0
     elif gen['Composers'][x-1] in stock_composers:
@@ -309,23 +309,23 @@ for x in gen['Order']:
     else:
         songtype = None
     if songtype != None:
-        doc_text += '\nThis song is'
+        song_text += '\nThis song is'
     if songtype == 0:
-        doc_text += ' an original song.'
+        song_text += ' an original song.'
     elif songtype == 1:
         try:
             stockinfo = gen['stock'][x-1]['info']
-            doc_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ')'
+            song_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ')'
         except:
-            doc_text += ' a stock song.'
+            song_text += ' a stock song.'
     elif songtype == 2:
-        doc_text += ' of unknown origins.'
+        song_text += ' of unknown origins.'
     elif songtype == 3:
-        doc_text += ' a licensed song.'
+        song_text += ' a licensed song.'
     versions = gen['versions'][x-1]
     if versions != None:
-        doc_text += '\n## Versions'
-        doc_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
+        song_text += '\n## Versions'
+        song_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
     for y in Medias:
         media_text = ''
         y = y + ' Info'
@@ -337,9 +337,12 @@ for x in gen['Order']:
             except:
                 pass
         if media_text != '':
-            doc_text += '\n## ' + y
-            doc_text += media_text
-    doc_text += '\n'
+            song_text += '\n## ' + y
+            song_text += media_text
+    song_text += '\n'
+    if song_text != '\n':
+        doc_text += '\n# ' + gen['Name'][x-1]
+        doc_text += song_text
 
 doc.write(doc_text)
 doc.close()
