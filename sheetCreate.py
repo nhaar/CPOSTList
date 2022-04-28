@@ -25,6 +25,7 @@ def tableCreate(headers, dict):
         table += '\n| '
         for y in newdict:
             table += newdict[y][x] + ' | '
+    table += '\n\n'
     return table
 
 Data_division = { ##If decide to change these names, must change in every JSON
