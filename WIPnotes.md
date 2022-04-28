@@ -18,6 +18,7 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 | - | - |
 | 1.swf | It used the four loops, played randomly in order | 
 | 429.swf | All 4 loops played sequentially, with ambience noise | 
+| 669.swf | All 4 loops palyed sequentially, with ambience noises | 
 
 
 

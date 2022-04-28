@@ -21,7 +21,7 @@ def tableCreate(headers, dict):
     table += '\n|'
     for x in newdict:
         table += ' - |'
-    for x in range(length-1):
+    for x in range(length):
         table += '\n| '
         for y in newdict:
             table += newdict[y][x] + ' | '
