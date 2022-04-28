@@ -4,6 +4,31 @@ exec(open('dataBuild.py').read())
 
 #Creating the doc
 
+def tableCreate(headers, dict):
+    newdict = {}
+    i = 0
+    for x in headers:
+        i += 1
+        j = 0
+        for y in dict:
+            j += 1
+            if j == i:
+                newdict[x] = dict[y]
+    table = '| '
+    lenght = 0
+    for x in  newdict:
+        table += x + ' | '
+        length = len(newdict[x])
+    table += '\n|'
+    for x in newdict:
+        table += ' - |'
+    for x in range(length):
+        table += '\n| '
+        for y in newdict:
+            table += newdict[y][x] + ' | '
+    table += '\n\n'
+    return table
+
 stock_composers = ["Paul Sumpter"]
 original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
 licensed_composers = ["John Williams"]
@@ -11,17 +36,29 @@ licensed_composers = ["John Williams"]
 doc = open('WIPnotes.md', 'w')
 doc_text = ''
 
-gen = newdata['General']
+order_assist = {}
+for x in all_data:
+    order_assist[all_data[x]['Order']] = all_data[x]['Name']
+order_assist = dict(sorted(order_assist.items()))
 
-for x in gen['Order']:
+ordered_data = {}
+for x in order_assist:
+    for y in all_data:
+        if all_data[y]['Name'] == order_assist[x]:
+            ordered_data[y] = all_data[y]
+            break
+
+for x in ordered_data: #all_data is from dataBuild.py
+    song = all_data[x]
     song_text = ''
-    if gen['Composers'][x-1] in original_composers:
+    composer = song['Composers']
+    if composer in original_composers:
         songtype = 0
-    elif gen['Composers'][x-1] in stock_composers:
+    elif composer in stock_composers:
         songtype = 1
-    elif gen['Composers'][x-1] in licensed_composers:
+    elif composer in licensed_composers:
         songtype = 3
-    elif gen['Composers'][x-1] == '?':
+    elif composer == '?':
         songtype = 2
     else:
         songtype = None
@@ -31,34 +68,36 @@ for x in gen['Order']:
         song_text += ' an original song.'
     elif songtype == 1:
         try:
-            stockinfo = gen['stock'][x-1]['info']
-            song_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ')'
+            stockinfo = song['stock']['info']
+            song_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ').'
         except:
             song_text += ' a stock song.'
     elif songtype == 2:
         song_text += ' of unknown origins.'
     elif songtype == 3:
         song_text += ' a licensed song.'
-    versions = gen['versions'][x-1]
-    if versions != None:
-        song_text += '\n## Versions'
-        song_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
-    for y in Medias:
+    try:
+        versions = song['versions']
+        if versions != None:
+            song_text += '\n## Versions'
+            song_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
+    except:
+        pass
+    for y in medias:
         media_text = ''
         y = y + ' Info'
-        if gen["Name"][x-1] in newdata[y]["Name"]:
-            mediaorder = newdata[y]["Name"].index(gen["Name"][x-1])
-            try:
-                files = newdata[y]['files'][mediaorder]
-                media_text += '\n' + tableCreate(('Name', 'Info'), files)
-            except:
-                pass
+        try:
+            mediainfo = song[y]
+            files = mediainfo['files']
+            media_text += '\n' + tableCreate(('Name', 'Info'), files)
+        except:
+            pass
         if media_text != '':
             song_text += '\n## ' + y
             song_text += media_text
     song_text += '\n'
     if song_text != '\n':
-        doc_text += '\n# ' + gen['Name'][x-1]
+        doc_text += '\n# ' + song['Name']
         doc_text += song_text
 
 doc.write(doc_text)

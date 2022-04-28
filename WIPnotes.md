@@ -1,6 +1,6 @@
 
 # King of Kingston
-This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston)
+This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston).
 ## Versions
 | Name | Info | Source | 
 | - | - | - |
@@ -1031,15 +1031,6 @@ This song is an original song.
 This song is of unknown origins.
 
 # Welcome Home
-This song is of unknown origins.
-
-# Jet Pack Boost Menu
-This song is of unknown origins.
-
-# Jet Pack Boost Theme
-This song is of unknown origins.
-
-# Jet Pack Boost Turbo
 This song is of unknown origins.
 
 # Sushi Drop
