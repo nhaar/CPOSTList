@@ -317,7 +317,7 @@ for x in gen['Order']:
             stockinfo = gen['stock'][x-1]['info']
             doc_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ')'
         except:
-            pass
+            doc_text += ' a stock song.'
     elif songtype == 2:
         doc_text += ' of unknown origins.'
     elif songtype == 3:
@@ -327,15 +327,18 @@ for x in gen['Order']:
         doc_text += '\n## Versions'
         doc_text += '\n' + tableCreate(('Name', 'Info', 'Source'), versions)
     for y in Medias:
+        media_text = ''
         y = y + ' Info'
         if gen["Name"][x-1] in newdata[y]["Name"]:
             mediaorder = newdata[y]["Name"].index(gen["Name"][x-1])
-            doc_text += '\n##' + y
             try:
                 files = newdata[y]['files'][mediaorder]
-                doc_text += '\n' + tableCreate(('Name', 'Info'), files)
+                media_text += '\n' + tableCreate(('Name', 'Info'), files)
             except:
                 pass
+        if media_text != '':
+            doc_text += '\n## ' + y
+            doc_text += media_text
     doc_text += '\n'
 
 doc.write(doc_text)
