@@ -4,7 +4,20 @@ exec(open('dataBuild.py').read())
 
 #Creating the doc
 
+def dicTableFormat(x):
+    newdict = {'id' : []}
+    for key in x:
+        for header in x[key]:
+            newdict[header] = []
+        break
+    for key in x:
+        newdict['id'].append(key)
+        for header in x[key]:
+            newdict[header].append(x[key][header])
+    return newdict
+
 def tableCreate(headers, dict):
+    dict = dicTableFormat(dict)
     newdict = {}
     i = 0
     for x in headers:

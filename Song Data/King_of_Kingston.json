@@ -11,32 +11,32 @@
         "Earliest Date": "2005/10/24",
         "Related To": "Coffee Shop, Book Room",
         "files": {
-            "name": [
-                "1.swf",
-                "429.swf",
-                "669.swf"
-            ],
-            "info": [
-                "It used the four loops, played randomly in order",
-                "All 4 loops played sequentially, with ambience noise",
-                "All 4 loops palyed sequentially, with ambience noises"
-            ]
+            "1.swf" : {
+                "info" : "It used the four loops, played randomly in order"
+            },
+            "429.swf" : {
+                "info" : "All 4 loops played sequentially, with ambience noise"
+            },
+            "669.swf" : {
+                "info" : "All 4 loops palyed sequentially, with ambience noises"
+            }
         },
         "uses": {
-            "date": [
-                "?", "?", "?"
-            ],
-            "use": [
-                "Coffee Shop",
-                "Coffee Shop",
-                "Coffee Shop"
-            ],
-            "info": [
-                "", "", ""
-            ],
-            "files": [
-                "1.swf", "429.swf", "669.swf"
-            ]
+            "?" : {
+                "use": "Coffee Shop",
+                "Info" : "",
+                "files": "1.swf"
+            },
+            "??" : {
+                "use": "Coffee Shop",
+                "Info" : "",
+                "files": "429.swf"
+            },
+            "???" : {
+                "use": "Coffee Shop",
+                "Info" : "",
+                "files": "669.swf"
+            }
         }
     },
     "App Info": {
@@ -52,32 +52,33 @@
 		"sale" : ["Full track", "60-secs version", "30-secs version", "Set of 4 music loops"]
 	},
     "versions": {
-        "names": [
-            "King of Kingston loop1.wav",
-            "King of Kingston loop2.wav",
-            "King of Kingston loop3.wav",
-            "King of Kingston loop4.wav",
-            "king-of-kingston-30secs.wav",
-            "king-of-kingston-60secs.wav",
-            "king-of-kingston-complete.wav"
-        ],
-        "info": [
-            "Loop 1 from the set of 4 loops.",
-            "Loop 2 from the set of 4 loops.",
-            "Loop 3 from the set of 4 loops.",
-            "Loop 4 from the set of 4 loops.",
-            "30 seconds version.",
-            "60 seconds version.",
-            "Full version."
-        ],
-        "source": [
-            "Other",
-            "Other",
-            "Other",
-            "Other",
-            "Other",
-            "Other",
-            "Other"
-        ]
+        "King of Kingston loop1.wav" : {
+            "info" : "Loop 1 from the set of 4 loops.",
+            "source" : "Other"
+        },
+        "King of Kingston loop2.wav" : {
+            "info" : "Loop 2 from the set of 4 loops.",
+            "source" : "Other"
+        },
+        "King of Kingston loop3.wav" : {
+            "info" : "Loop 3 from the set of 4 loops.",
+            "source" : "Other"
+        },
+        "King of Kingston loop4.wav" : {
+            "info" : "Loop 4 from the set of 4 loops.",
+            "source" : "Other"
+        },        
+        "king-of-kingston-30secs.wav" : {
+            "info" : "30 seconds version.",
+            "source" : "Other"
+        },        
+        "king-of-kingston-60secs.wav" : {
+            "info" : "60 seconds version.",
+            "source" : "Other"
+        },        
+        "king-of-kingston-complete.wav" : {
+            "info" : "Full version.",
+            "source" : "Other"
+        }
     }
 }
