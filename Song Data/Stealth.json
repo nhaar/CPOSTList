@@ -9,7 +9,24 @@
     "CP Flash Info": {
         "Order": 5,
         "Earliest Date": "2005/10/24",
-        "Related To": "PSA HQ, Everyday Phoning Facility"
+        "Related To": "PSA HQ, Everyday Phoning Facility",
+        "files" : {
+            "7.swf": {
+                "info" : "It consisted of 3 clips, loops A to C, played progressively at random."
+            }
+        },
+        "uses": {
+            "?": {
+                "use" : "PSQ HQ",
+                "Info" : "",
+                "file" : "7.swf"
+            },
+            "??": {
+                "use" : "Everyday Phoning Facility",
+                "Info" : "",
+                "file" : ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
@@ -17,5 +34,17 @@
         "Related To": "Igloo"
     },
     "Composers": "David Ingall",
-    "Alternate Names": "PSA HQ Theme"
+    "Alternate Names": "PSA HQ Theme",
+    "stock": {
+        "info" : {"origin" : "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2988/stealth-lynnemusic"},
+        "sale" : [
+            "Full Track",
+            "60sec",
+            "30sec",
+            "Loop A",
+            "Loop B",
+            "Loop C",
+            "Loop D"
+        ]
+    }
 }

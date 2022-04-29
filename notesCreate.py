@@ -44,7 +44,10 @@ def tableCreate(headers, dict):
 
 stock_composers = ["Paul Sumpter",
 "Doug Brown, Harmonious Wail",
-"Bjorn Lynne"
+"Bjorn Lynne",
+"Craig Riley",
+"David Ingall",
+"Johnny Bone"
 ]
 original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
 licensed_composers = ["John Williams"]
