@@ -80,10 +80,39 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 
 
 
+# Yessir
+This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Vintage+Comedy/Yessir/).
+
+# Stealth
+This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-free-music/songs/2988/stealth-lynnemusic).
+## Stock Information
+ The following versions were for sale:
+- Full Track
+- 60sec
+- 30sec
+- Loop A
+- Loop B
+- Loop C
+- Loop D
+
+## Club Penguin Information
+## Files
+| Name | Info | 
+| - | - |
+| 7.swf | It consisted of 3 clips, loops A to C, played progressively at random. | 
+
+
+
+# Renewed
+This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/).
+
 # Jingle Bells
 This song is a stock song.
 
 # Communication
+This song is a stock song.
+
+# Southern Fried
 This song is a stock song.
 
 # Thin Ice Theme
