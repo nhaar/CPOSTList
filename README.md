@@ -67,7 +67,9 @@ There are a handful of medias you can use:
 - CP Flash Unused
 - Penguin Chat
 - Game Day
-- CPI, App
+- CPI
+- App
+
 Thus, if you want to create info for Penguin Chat, you'd create "Penguin Chat Info", and so on. Planned medias for the future:
 - CPYT
 - CPTV
