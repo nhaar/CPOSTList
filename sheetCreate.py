@@ -183,9 +183,10 @@ for k in medias:
                     wb[tab][cell].hyperlink = orderedtabs[k]['Source Links'][j-1]
                     wb[tab][cell].style = "Hyperlink"
             elif tabs_order[i] == 'Link':
-                wb[tab][cell].hyperlink = column[j-1]
-                wb[tab][cell].value = 'Link'
-                wb[tab][cell].style = "Hyperlink"
+                if column[j-1] != "" and column[j-1] != None:
+                    wb[tab][cell].hyperlink = column[j-1]
+                    wb[tab][cell].value = 'Link'
+                    wb[tab][cell].style = "Hyperlink"
             else:
                 wb[tab][cell] = column[j-1]
 
