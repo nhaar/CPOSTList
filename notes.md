@@ -30,6 +30,13 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 ### Uses
+| Date | Usage | File(s) | Info | 
+| - | - | - | - |
+| ? | Coffee Shop | 1.swf |  | 
+| ? | Coffee Shop | 429.swf |  | 
+| ? | Coffee Shop | 669.swf |  | 
+
+
 
 # Organic Journey
 This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/).
@@ -49,7 +56,7 @@ This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-f
 
 
 ### Uses
-| Date | Usage | Info | File(s) | 
+| Date | Usage | File(s) | Info | 
 | - | - | - | - |
 | ?-2010/Nov/14 | Bean Counters |  | 101.swf | 
 
@@ -110,7 +117,7 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 
 
 ### Uses
-| Date | Usage | Info | File(s) | 
+| Date | Usage | File(s) | Info | 
 | - | - | - | - |
 | ? | PSQ HQ | 7.swf |  | 
 | ? | Everyday Phoning Facility |  |  | 
@@ -121,7 +128,7 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/).
 ## Club Penguin Information
 ### Uses
-| Date | Usage | Info | File(s) | 
+| Date | Usage | File(s) | Info | 
 | - | - | - | - |
 | ? | Puffle Roundup | ? |  | 
 | ? | The Fair 2014 | ? |  | 
@@ -1180,7 +1187,7 @@ This song is an original song.
 
 
 ### Uses
-| Date | Usage | Info | File(s) | 
+| Date | Usage | File(s) | Info | 
 | - | - | - | - |
 | 2010/Feb/18-2010/Feb/25 | Puffle Party 2010 | 282.swf |  | 
 
