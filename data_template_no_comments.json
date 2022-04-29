@@ -1,0 +1,41 @@
+{
+    "Name": "The Name",
+    "Name_official": 0,
+    "Alternate Names" : "Za Namae"
+    "Composers" : "Someone"
+    "HQ Source(s)": "The Source",
+    "Source Links" "www.alink.com"
+    "Order": 0,
+    "Link": "Youtube Link",
+    "Earliest Date": "YYYY/MM/DD", # Earliest Date seen in the whole series. "?" if unknown.
+    "Media Info": { 
+        "Order": 0, 
+        "Earliest Date": "YYYY/MM/DD", # Earliest date seen in this media. "?" if unknown.
+        "Related To": "Coffee Shop, Book Room", 
+        "files": { 
+            "1": { 
+                "name" : "1st file name",
+                "info" : "A description of the file"
+            }
+        },
+        "uses": {
+            "1": {
+                "date" :"Date it was used",
+                "use": "Where/How it was used", 
+                "files": "The files that were used",
+                "info" : "Detailed comments"
+            }
+        }
+    },
+	"stock": {
+		"info" : {"origin": "Website the stock song is from", "link": ""},
+		"sale" : ["Buying option 1", "Buying option 2"]
+	},
+    "versions": {
+        "1": {
+            "name" : "music.mp3",
+            "info" : "Description",
+            "source" : "Source of file"
+        }
+    }
+}
