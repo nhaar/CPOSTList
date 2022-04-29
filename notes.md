@@ -21,7 +21,7 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 ## Club Penguin Information
-## Files
+###Files
 | Name | Info | 
 | - | - |
 | 1.swf | It used the four loops, played randomly in order | 
@@ -41,7 +41,7 @@ This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-f
 - Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above
 
 ## Club Penguin Information
-## Files
+###Files
 | Name | Info | 
 | - | - |
 | 101.swf | It contains the first 67 seconds of the full version. | 
@@ -71,7 +71,7 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 - Stinger/Indent D
 
 ## Club Penguin Information
-## Files
+###Files
 | Name | Info | 
 | - | - |
 | 5.swf | It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random. | 
@@ -96,7 +96,7 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 - Loop D
 
 ## Club Penguin Information
-## Files
+###Files
 | Name | Info | 
 | - | - |
 | 7.swf | It consisted of 3 clips, loops A to C, played progressively at random. | 

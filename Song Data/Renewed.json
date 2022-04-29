@@ -14,12 +14,12 @@
             "?": {
                 "use": "Puffle Roundup",
                 "Info": "",
-                "file" : "?"
+                "files" : "?"
             },
             "??": {
                 "use" : "The Fair 2014",
                 "Info": "",
-                "file" : "?"
+                "files" : "?"
             }
         }
     },

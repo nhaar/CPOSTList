@@ -115,7 +115,7 @@ for x in ordered_data: #all_data is from dataBuild.py
         try:
             mediainfo = song[y + ' Info']
             files = mediainfo['files']
-            media_text +='\n## Files'
+            media_text +='\n###Files'
             media_text += '\n' + tableCreate(('Name', 'Info'), files)
         except:
             pass
