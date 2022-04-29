@@ -69,6 +69,7 @@ for x in order_assist:
 for x in ordered_data: #all_data is from dataBuild.py
     song = all_data[x]
     song_text = ''
+    print(song['Name'])
     composer = song['Composers']
     if composer in original_composers:
         songtype = 0

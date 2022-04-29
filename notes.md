@@ -1153,3 +1153,35 @@ This song is of unknown origins.
 
 # Sushi Drop
 This song is of unknown origins.
+
+# Dance Off! Easy
+This song is of unknown origins.
+
+# Jet Pack Boost Menu
+This song is of unknown origins.
+
+# Jet Pack Boost Theme
+This song is of unknown origins.
+
+# Puffle Party Remix
+This song is an original song.
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| MUS_647_Igloo_2014_PuffleParty.mp3 |  | App | 
+| MUS_Quest_Rookie_Medium_PuffleParty.fsb |  | Club Penguin Island | 
+
+
+## Club Penguin Information
+### Files
+| Name | Info | 
+| - | - |
+| 282.swf |  | 
+
+
+### Uses
+| Date | Usage | Info | File(s) | 
+| - | - | - | - |
+| 2010/Feb/18-2010/Feb/25 | Puffle Party 2010 | 282.swf |  | 
+
+
