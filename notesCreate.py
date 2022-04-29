@@ -114,9 +114,18 @@ for x in ordered_data: #all_data is from dataBuild.py
         y = y
         try:
             mediainfo = song[y + ' Info']
-            files = mediainfo['files']
-            media_text +='\n###Files'
-            media_text += '\n' + tableCreate(('Name', 'Info'), files)
+            try:
+                files = mediainfo['files']
+                media_text +='\n### Files'
+                media_text += '\n' + tableCreate(('Name', 'Info'), files)
+            except:
+                pass
+            try:
+                uses = mediainfo['uses']
+                media_text += '\n### Uses'
+                media_text += '\n' + tableCreate(('Date', 'Usage', 'Info', 'File(s)'),uses)
+            except:
+                pass
         except:
             pass
         if media_text != '':

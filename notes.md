@@ -21,12 +21,20 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 ## Club Penguin Information
-###Files
+### Files
 | Name | Info | 
 | - | - |
 | 1.swf | It used the four loops, played randomly in order | 
 | 429.swf | All 4 loops played sequentially, with ambience noise | 
 | 669.swf | All 4 loops palyed sequentially, with ambience noises | 
+
+
+### Uses
+| Date | Usage | Info | File(s) | 
+| - | - | - | - |
+| ? | Coffee Shop |  | 1.swf | 
+| ?? | Coffee Shop |  | 429.swf | 
+| ??? | Coffee Shop |  | 669.swf | 
 
 
 
@@ -41,10 +49,16 @@ This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-f
 - Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above
 
 ## Club Penguin Information
-###Files
+### Files
 | Name | Info | 
 | - | - |
 | 101.swf | It contains the first 67 seconds of the full version. | 
+
+
+### Uses
+| Date | Usage | Info | File(s) | 
+| - | - | - | - |
+| ?-2010/Nov/14 | Bean Counters |  | 101.swf | 
 
 
 
@@ -71,7 +85,7 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 - Stinger/Indent D
 
 ## Club Penguin Information
-###Files
+### Files
 | Name | Info | 
 | - | - |
 | 5.swf | It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random. | 
@@ -96,15 +110,30 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 - Loop D
 
 ## Club Penguin Information
-###Files
+### Files
 | Name | Info | 
 | - | - |
 | 7.swf | It consisted of 3 clips, loops A to C, played progressively at random. | 
 
 
+### Uses
+| Date | Usage | Info | File(s) | 
+| - | - | - | - |
+| ? | PSQ HQ |  | 7.swf | 
+| ?? | Everyday Phoning Facility |  |  | 
+
+
 
 # Renewed
 This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/).
+## Club Penguin Information
+### Uses
+| Date | Usage | Info | File(s) | 
+| - | - | - | - |
+| ? | Puffle Roundup |  | ? | 
+| ?? | The Fair 2014 |  | ? | 
+
+
 
 # Jingle Bells
 This song is a stock song.
