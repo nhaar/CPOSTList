@@ -30,13 +30,6 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 ### Uses
-| Date | Usage | Info | File(s) | 
-| - | - | - | - |
-| ? | Coffee Shop |  | 1.swf | 
-| ?? | Coffee Shop |  | 429.swf | 
-| ??? | Coffee Shop |  | 669.swf | 
-
-
 
 # Organic Journey
 This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/).
@@ -86,11 +79,11 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 
 ## Club Penguin Information
 ### Files
-| Name | Info | 
-| - | - |
-| 5.swf | It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random. | 
-| 6.swf | It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random. | 
-| 673.swf | Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D | 
+| Name | 
+| - |
+| It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random. | 
+| It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random. | 
+| Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D | 
 
 
 
@@ -119,8 +112,8 @@ This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-fr
 ### Uses
 | Date | Usage | Info | File(s) | 
 | - | - | - | - |
-| ? | PSQ HQ |  | 7.swf | 
-| ?? | Everyday Phoning Facility |  |  | 
+| ? | PSQ HQ | 7.swf |  | 
+| ? | Everyday Phoning Facility |  |  | 
 
 
 
@@ -130,8 +123,8 @@ This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-f
 ### Uses
 | Date | Usage | Info | File(s) | 
 | - | - | - | - |
-| ? | Puffle Roundup |  | ? | 
-| ?? | The Fair 2014 |  | ? | 
+| ? | Puffle Roundup | ? |  | 
+| ? | The Fair 2014 | ? |  | 
 
 
 

@@ -5,13 +5,12 @@ exec(open('dataBuild.py').read())
 #Creating the doc
 
 def dicTableFormat(x):
-    newdict = {'id' : []}
+    newdict = {}
     for key in x:
         for header in x[key]:
             newdict[header] = []
         break
     for key in x:
-        newdict['id'].append(key)
         for header in x[key]:
             newdict[header].append(x[key][header])
     return newdict

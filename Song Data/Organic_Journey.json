@@ -11,12 +11,14 @@
         "Earliest Date": "2005/10/24",
         "Related To": "Bean Counters",
         "files": {
-            "101.swf" : {
+            "1": {
+                "name" : "101.swf",
                 "info" : "It contains the first 67 seconds of the full version."
             }
         },
         "uses": {
-            "?-2010/Nov/14" : {
+            "1": {
+                "date" : "?-2010/Nov/14",
                 "use": "Bean Counters",
                 "Info" : "",
                 "files": "101.swf"
