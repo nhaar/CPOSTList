@@ -30,6 +30,15 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 # Organic Journey
+This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/).
+## Stock Information
+ The following versions were for sale:
+- Full version
+- 60 seconds
+- 30 seconds
+- 15 seconds
+- Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above
+
 ## Club Penguin Information
 | Name | Info | 
 | - | - |
