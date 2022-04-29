@@ -16,60 +16,63 @@ This repository is composed of 3 parts: The song data, which is available in JSO
 
 # Data template
 
-Each song has the following keys:
-
-- "Name" : The main name adopted in this spreadsheet. This may differ from the names some might use, but one name is chosen for each song, an official one if it exists.
-- "Name_official" : This is a "boolean". It's 1 if the name listed in "Name" is official, or 0 if it's not.
-- "HQ Source(s)" : A simple string for all the Highest Quality sources. It may be a single name like "App" or multiples like "App + Youtube".
-- "Source Links": If the source comes from an accessible link, it is listed. Sometimes, multiple links are listed, but always in the same string, so this leads to broken links in the spreadsheet.
-- "Composers": A string listing all the artists involved.
-- "Link": A link to Youtube of the song.
-- "Alternate Names": A string listing alternate names.
-- "Order": This is an arbitrary attempt at ordering songs in a chronological way. If you are creating a song you can set this to whatever. This is meant to be used with floats, and it it's later sorted into integers. For example, if two songs have orders 0.5 and 0.6, they'll be sorted from least to biggest, and then an integer count will follow. This is to avoid having to rewrite every song when changing a single song out of order. It is not very elegant, but it works.
-
-Aditionally, there are some keys containing dictionary of the form "Media name Info". For example:
-
-"CP Flash Info": {...}
-
-The list of media currently listed are:
-
-CP Flash, CP Flash Unused, Penguin Chat, Game Day, CPI, App
-
-The final goal of this list is to also contain the following media as complete as possible:
-
-CPYT, CPTV
-
-And maybe others to be defined.
-
-The data inside the media info is divided in the following keys:
-
-- "Order": This is named the same as the other one, but this is the ordering in the context of this specific media, while the other one is in the context of the whole series.
-- "Earliest Date": A date, if it is known, in the format YYYY/MM/DD. This formatting is importat so that it's exportable to the spreadsheet. If it's unknown, it's written as "?".
-- "Related To": A string listing everything that links this song to the game. For example, in Club Penguin Flash it would be listing the rooms, the parties or minigames it played on.
-- "files": A dictionary. Details below.
-- "uses": A dictionary. Details below.
-
-This is the model of the "files" dictionary:
+This is the data template to be used, comments written after the # symbol.
+```
 {
-  "file1" : {
-      "info" : "..."
+    "Name": "The Name", # One name is picked to be the main one.
+    "Name_official": 0, # 0 if the name is NOT official, 1 if the name IS official.
+    "Alternate Names" : "Za Namae" # Any other names go in here.
+    "Composers" : "Someone" # "?" if unknown, can list multiple, like "Someone1, Someone2"
+    "HQ Source(s)": "The Source", # If multiple, then list as "Source1 + Source2"
+    "Source Links" "www.alink.com" # Optional, if the source is available on the internet, link it.
+    "Order": 0, # Order in the series (more details below).
+    "Link": "Youtube Link", # Youtube link. Apart from licensed music, uses the Club Penguin High Quality OST channel.
+    "Earliest Date": "YYYY/MM/DD", # Earliest Date seen in the whole series. "?" if unknown.
+    "Media Info": { # For example, "Game Day Info". The list of media are written below.
+        "Order": 0, # Order in this media (more details below)
+        "Earliest Date": "YYYY/MM/DD", # Earliest date seen in this media. "?" if unknown.
+        "Related To": "Coffee Shop, Book Room", # Places or ways it was used in this media.
+        "files": { # List all the files, ordered by a string number, from oldest to newest.
+            "1": { # Keep the order the same as this: name, info.
+                "name" : "1st file name", # Name of the file in the code/media.
+                "info" : "A description of the file" # Any comments that may exist for it.
+            }
+        },
+        "uses": { # List all the usages, ordered by a string number, from oldest to newest.
+            "1": { # Keep the order the same as this: date, use, files, info
+                "date" :"Date it was used", # No strict standard, preference to style 2000/Jan/01, may have start and end, like 2005/Jan/01-2005/Jan/05. "?" if unknown.
+                "use": "Where/How it was used", # Keep it brief.
+                "files": "The files that were used", # Use file names from the "files" dictionary.
+                "info" : "Detailed comments" # If any exist, may detail which rooms in a party it was used, for example.
+            }
+        }
     },
-  "file..." : {
-      ...
+	"stock": { # Only for stock songs
+		"info" : {"origin": "Website the stock song is from", "link": ""}, # Origin website and link.
+		"sale" : ["Buying option 1", "Buying option 2"] # A list of the versions one can buy.
+	},
+    "versions": { # This refers to the google drive files.
+        "1": { # First file
+            "name" : "music.mp3", # Name and extension
+            "info" : "Description",
+            "source" : "Source of file"
+        }
     }
 }
-And this is the model of the "uses" dictionary:
-{
-  "date1" : {
-    "uses" : "uses...",
-    "Info" : "Descritpion...",
-    "files" : "Files that were used..."
-  }, {
-    "date..." : {
-      ...
-    }
-  }
-}
+```
+About "Order": This is an arbitrary attempt at ordering songs in a chronological way. If you are creating a song you can set this to whatever, it will be sorted in the future. This is meant to be used with floats, and it it's later sorted into integers. For example, if two songs have orders 0.5 and 0.6, they'll be sorted from least to biggest, and then an integer count will follow. This is to avoid having to rewrite every song when changing a single song out of order. It is not very elegant, but it works.
+
+There are a handful of medias you can use:
+- CP Flash
+- CP Flash Unused
+- Penguin Chat
+- Game Day
+- CPI
+- App
+
+Thus, if you want to create info for Penguin Chat, you'd create "Penguin Chat Info", and so on. Planned medias for the future:
+- CPYT
+- CPTV
 
 As always, check out the data and notes for examples.
 
