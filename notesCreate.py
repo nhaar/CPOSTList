@@ -42,11 +42,14 @@ def tableCreate(headers, dict):
     table += '\n\n'
     return table
 
-stock_composers = ["Paul Sumpter", "Doug Brown, Harmonious Wail"]
+stock_composers = ["Paul Sumpter",
+"Doug Brown, Harmonious Wail",
+"Bjorn Lynne"
+]
 original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
 licensed_composers = ["John Williams"]
 
-doc = open('WIPnotes.md', 'w')
+doc = open('notes.md', 'w')
 doc_text = ''
 
 order_assist = {}
@@ -109,6 +112,7 @@ for x in ordered_data: #all_data is from dataBuild.py
         try:
             mediainfo = song[y + ' Info']
             files = mediainfo['files']
+            media_text +='\n## Files'
             media_text += '\n' + tableCreate(('Name', 'Info'), files)
         except:
             pass

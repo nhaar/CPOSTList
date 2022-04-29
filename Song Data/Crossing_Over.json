@@ -9,7 +9,18 @@
     "CP Flash Info": {
         "Order": 3,
         "Earliest Date": "2005/10/24",
-        "Related To": "Dance Club"
+        "Related To": "Dance Club",
+        "files" : {
+            "5.swf": {
+                "info" : "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random."
+            },
+            "6.swf": {
+                "info" : "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random."
+            },
+            "673.swf" : {
+                "info" : "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D"
+            }
+        }
     },
     "App Info": {
         "Order": 1,
@@ -22,5 +33,27 @@
         "Related To": "Beacon Boardwalk, Pirate Expedition"
     },
     "Composers": "Bjorn Lynne",
-    "Alternate Names": "Dance Club Theme, Dance Mix 2"
+    "Alternate Names": "Dance Club Theme, Dance Mix 2",
+    "stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic"},
+		"sale" : [
+            "Full Track",
+            "Variation",
+            "60sec",
+            "30sec",
+            "Loop A",
+            "Loop B",
+            "Loop C",
+            "Loop D",
+            "Loop E",
+            "Loop F",
+            "Loop G",
+            "Loop H",
+            "Loop I",
+            "Stinger/Indent A",
+            "Stinger/Indent B",
+            "Stinger/Indent C",
+            "Stinger/Indent D"
+        ]
+	}
 }

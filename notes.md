@@ -21,6 +21,7 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 ## Club Penguin Information
+## Files
 | Name | Info | 
 | - | - |
 | 1.swf | It used the four loops, played randomly in order | 
@@ -40,11 +41,50 @@ This song is a stock song from [SmartSound](https://www.smartsound.com/royalty-f
 - Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above
 
 ## Club Penguin Information
+## Files
 | Name | Info | 
 | - | - |
 | 101.swf | It contains the first 67 seconds of the full version. | 
 
 
+
+# Crossing Over
+This song is a stock song from [NEO Sounds](https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic).
+## Stock Information
+ The following versions were for sale:
+- Full Track
+- Variation
+- 60sec
+- 30sec
+- Loop A
+- Loop B
+- Loop C
+- Loop D
+- Loop E
+- Loop F
+- Loop G
+- Loop H
+- Loop I
+- Stinger/Indent A
+- Stinger/Indent B
+- Stinger/Indent C
+- Stinger/Indent D
+
+## Club Penguin Information
+## Files
+| Name | Info | 
+| - | - |
+| 5.swf | It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random. | 
+| 6.swf | It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random. | 
+| 673.swf | Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D | 
+
+
+
+# Jingle Bells
+This song is a stock song.
+
+# Communication
+This song is a stock song.
 
 # Thin Ice Theme
 This song is an original song.
@@ -963,6 +1003,9 @@ This song is of unknown origins.
 
 # Red Alert Ultimate Battle
 This song is of unknown origins.
+
+# Epic Suspense
+This song is a stock song.
 
 # Jungle Jam
 This song is an original song.
