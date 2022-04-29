@@ -29,6 +29,14 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 
+# Organic Journey
+## Club Penguin Information
+| Name | Info | 
+| - | - |
+| 101.swf | It contains the first 67 seconds of the full version. | 
+
+
+
 # Thin Ice Theme
 This song is an original song.
 

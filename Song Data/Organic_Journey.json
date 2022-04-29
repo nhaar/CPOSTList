@@ -9,7 +9,19 @@
     "CP Flash Info": {
         "Order": 2,
         "Earliest Date": "2005/10/24",
-        "Related To": "Bean Counters"
+        "Related To": "Bean Counters",
+        "files": {
+            "101.swf" : {
+                "info" : "It contains the first 67 seconds of the full version."
+            }
+        },
+        "uses": {
+            "?-2010/Nov/14" : {
+                "use": "Bean Counters",
+                "Info" : "",
+                "files": "101.swf"
+            }
+        }
     },
     "App Info": {
         "Order": 1,
@@ -17,5 +29,9 @@
         "Related To": "Igloo"
     },
     "Composers": "Doug Brown, Harmonious Wail",
-    "Alternate Names": "Melodie du Crouton, Old Bean Counters"
+    "Alternate Names": "Melodie du Crouton, Old Bean Counters",
+    "stock": {
+		"info" : {"origin": "SmartSound", "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/"},
+		"sale" : ["Full version", "60 seconds", "30 seconds", "15 seconds", "Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above"]
+	}
 }

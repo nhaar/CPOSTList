@@ -42,7 +42,7 @@ def tableCreate(headers, dict):
     table += '\n\n'
     return table
 
-stock_composers = ["Paul Sumpter"]
+stock_composers = ["Paul Sumpter", "Doug Brown, Harmonious Wail"]
 original_composers = ["Chris Hendricks", "Friction Music", "Norrie Henderson", "Rory", "Michael Campitelli"]
 licensed_composers = ["John Williams"]
 
