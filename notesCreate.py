@@ -85,6 +85,13 @@ for x in ordered_data: #all_data is from dataBuild.py
             song_text += ' a stock song from [' + stockinfo['origin'] + '](' + stockinfo['link'] + ').'
         except:
             song_text += ' a stock song.'
+        try:
+            sale = song['stock']['sale']
+            song_text += '\n## Stock Information\n The following versions were for sale:\n'
+            for x in sale:
+                song_text += '- ' + x + '\n'
+        except:
+            pass
     elif songtype == 2:
         song_text += ' of unknown origins.'
     elif songtype == 3:
@@ -98,15 +105,15 @@ for x in ordered_data: #all_data is from dataBuild.py
         pass
     for y in medias:
         media_text = ''
-        y = y + ' Info'
+        y = y
         try:
-            mediainfo = song[y]
+            mediainfo = song[y + ' Info']
             files = mediainfo['files']
             media_text += '\n' + tableCreate(('Name', 'Info'), files)
         except:
             pass
         if media_text != '':
-            song_text += '\n## ' + y
+            song_text += '\n## ' + medias[y]['media'] + ' Information'
             song_text += media_text
     song_text += '\n'
     if song_text != '\n':

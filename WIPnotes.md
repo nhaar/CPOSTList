@@ -1,6 +1,13 @@
 
 # King of Kingston
 This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston).
+## Stock Information
+ The following versions were for sale:
+- Full track
+- 60-secs version
+- 30-secs version
+- Set of 4 music loops
+
 ## Versions
 | Name | Info | Source | 
 | - | - | - |
@@ -13,7 +20,7 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 | king-of-kingston-complete.wav | Full version. | Other | 
 
 
-## CP Flash Info
+## Club Penguin Information
 | Name | Info | 
 | - | - |
 | 1.swf | It used the four loops, played randomly in order | 
