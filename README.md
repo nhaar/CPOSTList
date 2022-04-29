@@ -17,7 +17,7 @@ This repository is composed of 3 parts: The song data, which is available in JSO
 # Data template
 
 This is the data template to be used, comments written after the # symbol.
-´´´
+```
 {
     "Name": "The Name", # One name is picked to be the main one.
     "Name_official": 0, # 0 if the name is NOT official, 1 if the name IS official.
@@ -59,7 +59,7 @@ This is the data template to be used, comments written after the # symbol.
         }
     }
 }
-´´´
+```
 About "Order": This is an arbitrary attempt at ordering songs in a chronological way. If you are creating a song you can set this to whatever, it will be sorted in the future. This is meant to be used with floats, and it it's later sorted into integers. For example, if two songs have orders 0.5 and 0.6, they'll be sorted from least to biggest, and then an integer count will follow. This is to avoid having to rewrite every song when changing a single song out of order. It is not very elegant, but it works.
 
 There are a handful of medias you can use:
