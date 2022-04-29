@@ -1,16 +1,16 @@
 {
     "Name": "The Name",
     "Name_official": 0,
-    "Alternate Names" : "Za Namae"
-    "Composers" : "Someone"
+    "Alternate Names" : "Za Namae",
+    "Composers" : "Someone",
     "HQ Source(s)": "The Source",
-    "Source Links" "www.alink.com"
+    "Source Links" : "www.alink.com",
     "Order": 0,
     "Link": "Youtube Link",
-    "Earliest Date": "YYYY/MM/DD", # Earliest Date seen in the whole series. "?" if unknown.
+    "Earliest Date": "YYYY/MM/DD",
     "Media Info": { 
         "Order": 0, 
-        "Earliest Date": "YYYY/MM/DD", # Earliest date seen in this media. "?" if unknown.
+        "Earliest Date": "YYYY/MM/DD",
         "Related To": "Coffee Shop, Book Room", 
         "files": { 
             "1": { 
