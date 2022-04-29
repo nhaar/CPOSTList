@@ -123,7 +123,7 @@ for x in ordered_data: #all_data is from dataBuild.py
             try:
                 uses = mediainfo['uses']
                 media_text += '\n### Uses'
-                media_text += '\n' + tableCreate(('Date', 'Usage', 'Info', 'File(s)'),uses)
+                media_text += '\n' + tableCreate(('Date', 'Usage', 'File(s)', 'Info'),uses)
             except:
                 pass
         except:
