@@ -17,5 +17,17 @@
         "Related To": "Single team island conquered cutscene"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Float in the clouds, Festival of Flight Main Theme, The Shore"
+    "Alternate Names": "Float in the clouds, Festival of Flight Main Theme, The Shore",
+	"versions": {
+		"1": {
+            "name" : "mn_demo_00.brstm",
+            "info" : "Highest quality version.",
+            "source" : "Game Day"
+		},
+		"2": {
+            "name" : "Music306.swf",
+            "info" : "Highest quality version of the harpless version.",
+            "source" : "SWF 306"
+		}
+	}
 }

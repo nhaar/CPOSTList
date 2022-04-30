@@ -9,7 +9,13 @@
     "CP Flash Info": {
         "Order": 31,
         "Earliest Date": "2007/05/25",
-        "Related To": "Cove Opening Party"
+        "Related To": "Cove Opening Party", 
+		"files": { 
+			"1": { 
+			"name" : "214.swf",
+			"info" : "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped."
+			}
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Cool Surf"

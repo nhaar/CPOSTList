@@ -13,5 +13,51 @@
         "Related To": "Igloo, April Fools Party 2011, April Fools Party 2012, Extreme Paint Festival"
     },
     "Composers": "Jeremy Sherman",
-    "Alternate Names": "Folk Guitar"
+    "Alternate Names": "Folk Guitar",
+	"stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2499/c-est-chaud-lynnemusic"},
+		"sale" : ["Full Track", "Variation", "30sec", "Loop A", "Loop B", "Loop C", "Loop D", "Loop E"]
+	},
+	"versions": {
+		"1": {
+            "name" : "C'est Chaud-I1bIeSObFNY.wav",
+            "info" : "Full version.",
+            "source" : "Youtube"
+		},
+		"2": {
+            "name" : "9445.mp3",
+            "info" : "Variation version.",
+            "source" : "Sample"
+		},
+		"3": {
+            "name" : "30 seconds version.",
+            "info" : "9446.mp3",
+            "source" : "Sample"
+		},
+		"4": {
+            "name" : "9447.mp3",
+            "info" : "Loop A",
+            "source" : "Sample"
+		},
+		"5": {
+            "name" : "9448.mp3",
+            "info" : "Loop B",
+            "source" : "Sample"
+		},
+		"6": {
+            "name" : "9449.mp3",
+            "info" : "Loop C",
+            "source" : "Sample"
+		},
+		"7": {
+            "name" : "9450.mp3",
+            "info" : "Loop D",
+            "source" : "Sample"
+		},
+		"8": {
+            "name" : "9451.mp3",
+            "info" : "Loop E",
+            "source" : "Sample"
+		}
+	}
 }

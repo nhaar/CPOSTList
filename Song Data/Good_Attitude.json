@@ -13,5 +13,9 @@
         "Related To": "Igloo, Music Jam 2008, Music Jam 2009"
     },
     "Composers": "Julio Kladniew",
-    "Alternate Names": "Driving Guitar"
+    "Alternate Names": "Driving Guitar",
+	"stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/3758/good-attitude-julio-kladniew"},
+		"sale" : ["Full Track", "60sec", "30sec", "15sec", "Loop A", "Loop B", "Loop C", "Loop D", "Loop E"]
+	}
 }

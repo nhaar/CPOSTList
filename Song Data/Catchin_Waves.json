@@ -10,8 +10,31 @@
     "CP Flash Info": {
         "Order": 33,
         "Earliest Date": "2007/06/04",
-        "Related To": "Catchin' Waves"
+        "Related To": "Catchin' Waves", 
+		"files": { 
+			"1": { 
+			"name" : "113.swf",
+			"info" : "The song consists of 8 clips, that are played in the order 1, 2, 2, 3, 4, 5, 6, 6, 7, 6, 8, and then loops."
+			}
+		}
     },
     "Composers": "Friction Music",
-    "Alternate Names": ""
+    "Alternate Names": "",
+	"versions": {
+		"1": {
+            "name" : "113.swf",
+            "info" : "Contains all the segments of the song, in the highest quality available without background noise.",
+            "source" : "SWF 113"
+		},
+		"2": {
+            "name" : "Club Penguin - Puffles!-4LlBqvUTgS4.mkv",
+            "info" : "A video on which segment is included in the highest quality available with heavy background noises from around 00:13 to 00:28.",
+            "source" : "Club Penguin Youtube Channel"
+        },
+		"3": {
+            "name" : "Club Penguin - Spoiler Alert Episode 17 - April Fools!-bSciCnrYI3A.mkv",
+            "info" : "A video on which a segment is included in the highest quality available with heavy background noises from around 00:13 to 00:28.",
+            "source" : "Club Penguin Youtube Channel"
+        }
+	}
 }

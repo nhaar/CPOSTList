@@ -10,8 +10,44 @@
     "CP Flash Info": {
         "Order": 45,
         "Earliest Date": "2007/11/16",
-        "Related To": "Space Adventure"
+        "Related To": "Space Adventure",
+		"uses": {
+			"1": {
+			"date" :"2007/Nov/??",
+			"use": "", 
+			"files": "30.swf",
+			"info" : ""
+			},
+			"2": {
+                "date" :"2008/Mar/??",
+                "use": "Space Adventure", 
+                "files": "?",
+                "info" : "This version has been lost, alongside all its exclusive segments, and only survives in Youtube videos."
+            }
+		}
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Alternate Names": "",
+	"versions": {
+		"1": {
+		"name" : "30.swf",
+		"info" : "",
+		"source" : "SWF 30"
+		},
+		"2": {
+            "name" : "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
+            "info" : "Contains segments in the highest available quality with background noises around the video.",
+            "source" : "Club Penguin Youtube Channel"
+        },
+		"3": {
+            "name" : "Club Penguin - Space Adventure [XxoEDiwd6bU].opus",
+            "info" : "A video with all the lost segments from the March 2008 version, with minimal background noises.",
+            "source" : ""
+        },
+		"4": {
+            "name" : "ClubPenguin -Space Adventure(Stage Play) [atcWcTDrWVI].opus",
+            "info" : "A video with some of the lost segments from the March 2008 verison, in the highest quality available with background noises.",
+            "source" : ""
+        }
+	}
 }

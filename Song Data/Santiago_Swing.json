@@ -12,5 +12,10 @@
         "Related To": "Igloo"
     },
     "Composers": "Gavin Courtie, Liz Radford",
-    "Alternate Names": "Beach Mix"
+    "Alternate Names": "Beach Mix",
+	"stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/1224/santiago-swing-notepad-music"},
+		"sale" : ["Full Track", "60sec", "30sec A", "30sec B", "Loop A", "Loop B", "Loop C"]
+	},
+    "notes": "Canonically, this song is played and performed by the Penguin Band."
 }

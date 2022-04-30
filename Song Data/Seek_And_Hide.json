@@ -17,5 +17,9 @@
         "Related To": "Igloo, Halloween Party 2014"
     },
     "Composers": "Nicolas Mallia",
-    "Alternate Names": ""
+    "Alternate Names": "",
+	"stock": {
+		"info" : {"origin": "BMG Production", "link": "https://bmgmusic.sourceaudio.com/#!explorer?b=6779386"}
+	},
+    "notes" : "This song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R)."
 }

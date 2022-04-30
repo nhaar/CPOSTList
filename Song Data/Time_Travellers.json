@@ -13,5 +13,9 @@
         "Related To": "Jet Pack Adventure"
     },
     "Composers": "Tomasz Stobierski",
-    "Alternate Names": "Jet Pack Adventure Theme"
+    "Alternate Names": "Jet Pack Adventure Theme",
+	"stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/3796/time-travellers-t-stobierski"},
+		"sale" : ["Full track", "60-secs version 1", "60-secs version 2", "30-secs version 1", "30-secs version 2", "Set of 2 music loops"]
+	}
 }

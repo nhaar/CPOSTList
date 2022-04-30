@@ -17,5 +17,17 @@
         "Related To": "Goal!"
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Rock Rink, Let The Game Begin, Rock N Roll"
+    "Alternate Names": "Rock Rink, Let The Game Begin, Rock N Roll",
+	"versions": {
+		"1": {
+            "name" : "ig_IH_00.brstm",
+            "info" : "Highest quality version, but incomplete, missing the ending.",
+            "source" : "Game Day"
+		},
+		"2": {
+            "name" : "MUS_271_Igloo_AmbientRiffing.mp3",
+            "info" : "Highest quality version that is complete.",
+            "source" : "App"
+		}
+	}
 }

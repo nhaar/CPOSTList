@@ -12,5 +12,17 @@
         "Related To": "Card-Jitsu"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    "Alternate Names": "",
+	"versions": {
+		"1": {
+            "name" : "Card-Jitsu.mp3",
+            "info" : "Highest quality available with ambience.",
+            "source" : "Other"
+		},
+		"2": {
+            "name" : "116.swf",
+            "info" : "Highest quality available with no ambience.",
+            "source" : "SWF 116"
+        }
+	}
 }

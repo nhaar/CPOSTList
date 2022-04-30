@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 115,
         "Earliest Date": "2009/10/27",
-        "Related To": "Halloween Party, Mustache Madness, Zootopia Party"
+        "Related To": "Halloween Party, Mustache Madness, Zootopia Party",
+		"uses": {
+			"1": {
+                "date" :"?",
+                "use": "Halloween Party 2009", 
+                "files": "?",
+                "info" : "Played periodically in the haunted mansion by the haunted instruments."
+            },
+			"2": {
+                "date" :"",
+                "use": "", 
+                "files": "",
+                "info" : ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 36,

@@ -9,8 +9,21 @@
     "CP Flash Info": {
         "Order": 14,
         "Earliest Date": "2006/05/26",
-        "Related To": "Underground Opening Party, Sub-Marine Party"
+        "Related To": "Underground Opening Party, Sub-Marine Party",
+		"uses": {
+			"1": {
+                "date" :"?",
+                "use": "Cave Opening Party", 
+                "files": "?",
+                "info" : ""
+			},
+                "date" :":",
+                "use": "Sub-Marine Party", 
+                "files": "?",
+                "info" : "Used in the Night Club."
+        }
     },
     "Composers": "Bjorn Fogelberg",
-    "Alternate Names": ""
+    "Alternate Names": "",
+    "Notes" : "You can find this song in the [creator's bandcamp](https://fogelberg.bandcamp.com/track/gravitons)"
 }

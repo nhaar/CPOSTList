@@ -17,5 +17,17 @@
         "Related To": "Igloo"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Christmas Theme, Holiday Happiness"
+    "Alternate Names": "Christmas Theme, Holiday Happiness",
+	"versions": {
+		"1": {
+            "name" : "Santa's Mix-182017540.mp3",
+            "info" : "Highest quality version, but incomplete, with a fadeout in the end.",
+            "source" : "SoundCloud"
+		},
+		"2": {
+            "name" : "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
+            "info" : "Highest quality version that is complete.",
+            "source" : "App"
+		}
+	}
 }

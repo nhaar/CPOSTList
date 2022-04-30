@@ -22,5 +22,56 @@
         "Related To": "Ice Fishing"
     },
     "Composers": "Jeremy Sherman",
-    "Alternate Names": "Ice Fishing Theme"
+    "Alternate Names": "Ice Fishing Theme",
+	"stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/3566/paris-st-germain"},
+		"sale" : ["Full track", "60-secs version", "30-secs version", "Underscore version", "Set of 5 music loops"]
+	},
+	"versions": {
+		"1": {
+		"name" : "6_Paris_St._Germain.flac",
+		"info" : "Full version.",
+		"source" : "Other"
+		},
+		"2": {
+            "name" : "paris-st-germain-30secs-preview-no-voiceover.mp3",
+            "info" : "30-secs version.",
+            "source" : "Sample"
+        },
+		"3": {
+		"name" : "paris-st-germain-60secs-preview-no-voiceover.mp3",
+		"info" : "60-secs version.",
+		"source" : "Sample"
+		},
+		"4": {
+            "name" : "paris-st-germain-no-voiceover-loop01.mp3",
+            "info" : "Loop 1 from the set of 5 loops.",
+            "source" : "Sample"
+        },
+		"5": {
+            "name" : "paris-st-germain-no-voiceover-loop02.mp3",
+            "info" : "Loop 2 from the set of 5 loops.",
+            "source" : "Sample"
+		},
+		"6": {
+            "name" : "paris-st-germain-no-voiceover-loop03.mp3",
+            "info" : "Loop 3 from the set of 5 loops.",
+            "source" : "Sample"
+        },
+		"7": {
+            "name" : "paris-st-germain-no-voiceover-loop04.mp3",
+            "info" : "Loop 4 from the set of 5 loops.",
+            "source" : "Sample"
+		},
+		"8": {
+            "name" : "paris-st-germain-no-voiceover-loop05.mp3",
+            "info" : "Loop 5 from the set of 5 loops.",
+            "source" : "Sample"
+        },
+		"9": {
+            "name" : "paris-st-germain-underscore-preview-no-voiceover.mp3",
+            "info" : "Underscore version.",
+            "source" : "Sample"
+		}
+    }
 }

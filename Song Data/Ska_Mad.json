@@ -12,5 +12,9 @@
         "Related To": "Water Party, Anniversary Party"
     },
     "Composers": "Jeremy Sherman",
-    "Alternate Names": "Water Party Main Theme"
+    "Alternate Names": "Water Party Main Theme",
+	"stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2549/ska-mad-lynnemusic"},
+		"sale" : ["60sec A", "60sec B", "30sec", "Loop A", "Loop B", "Loop C"]
+	}
 }

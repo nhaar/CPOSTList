@@ -13,5 +13,9 @@
         "Related To": "St. Patrick's Day, April Fools Party"
     },
     "Composers": "Adam Skorupa",
-    "Alternate Names": "St. Patrick's Day Theme"
+    "Alternate Names": "St. Patrick's Day Theme",
+	"stock": {
+		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2808/dance-ye-merry-lynnemusic"},
+		"sale" : ["Full Track", "60sec", "30sec", "Loop A", "Loop B", "Loop C"]
+	}
 }

@@ -18,5 +18,20 @@
         "Related To": "Igloo, Fashion Party"
     },
     "Composers": "Curt Macdonald",
-    "Alternate Names": ""
+    "Alternate Names": "",
+	"stock": {
+		"info" : {"origin": "SoundDogs", "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep"}
+	},
+	"versions": {
+		"1": {
+            "name" : "Club Penguin Music - Penguin Games - Full Main Theme OST [0iymJWwEM9s].m4a",
+            "info" : "An extended version with voiceovers. The origins of this version are unknown, as it was not available on SoundDogs.",
+            "source" : "Youtube"
+		},
+		"2": {
+            "name" : "MUS_213_Igloo_EventPrep.mp3",
+            "info" : "Highest quality of the version used in game.",
+            "source" : "App"
+            }
+	}
 }

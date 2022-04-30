@@ -9,7 +9,13 @@
     "CP Flash Info": {
         "Order": 165.1,
         "Earliest Date": "?",
-        "Related To": "Holiday Party"
+        "Related To": "Holiday Party", 
+		"files": { 
+			"1": { 
+			"name" : "4.swf",
+			"info" : ""
+			}
+		},
     },
     "App Info": {
         "Order": 1,

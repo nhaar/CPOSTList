@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 44,
         "Earliest Date": "2007/11/05",
-        "Related To": "PSA Missions"
+        "Related To": "PSA Missions",
+		"uses": {
+			"1": {
+			"date" :"?",
+			"use": "PSA Missions", 
+			"files": "?",
+			"info" : "Played on the back of the Ski Lodge in Secret of the Fur upon finding Herbert."
+			}
+		}
     },
     "Composers": "Friction Music",
     "Alternate Names": "Herbert/Klutzy Theme, Secret of the Fur Horror Theme"

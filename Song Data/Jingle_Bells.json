@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 8,
         "Earliest Date": "2005/12/22",
-        "Related To": "Christmas Party 2005, Christmas Party 2007, Anniversary Party 2015"
+        "Related To": "Christmas Party 2005, Christmas Party 2007, Anniversary Party 2015",
+        "uses": {
+			"1": {
+			"date" :"?",
+			"use": "Holiday Party 2005", 
+			"files": "?",
+			"info" : ""
+			},
+			"2": {
+                "date" :"?",
+                "use": "10th Anniversary Party", 
+                "files": "?",
+                "info" : ""
+                }
+		}
     },
     "App Info": {
         "Order": 1,
@@ -18,5 +32,41 @@
         "Related To": "Halloween Party 2015"
     },
     "Composers": "Bjorn Lynne",
-    "Alternate Names": ""
+    "Alternate Names": "",
+    "stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne"},
+		"sale" : ["Full track", "30-secs version", "Set of 3 music loops"]
+	},
+	"versions": {
+        "1": {
+            "name" : "Jingle Bells-182017542.mp3",
+            "info" : "Highest quality available, but incomplete.",
+            "source" : "SoundCloud"
+            },
+            "2": {
+                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
+                "info" : "Highest quality complete version available.",
+                "source" : "Sample"
+                },
+            "3": {
+                "name" : "jingle-bells-30secs-preview-no-voiceover.mp3",
+                "info" : "30-secs version.",
+                "source" : "Sample"
+                },
+            "4": {
+                "name" : "jingle-bells-no-voiceover-loop01.mp3",
+                "info" : "Loop 1 from the set of 3 loops.",
+                "source" : "Sample"
+                },
+            "5": {
+                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
+                "info" : "Loop 2 from the set of 3 loops.",
+                "source" : "Sample"
+                },
+            "6": {
+                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
+                "info" : "Loop 3 from the set of 3 loops.",
+                "source" : "Sample"
+        }   
+	}
 }
