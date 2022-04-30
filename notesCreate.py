@@ -103,7 +103,7 @@ for x in ordered_data: #all_data is from dataBuild.py
     elif songtype == 3:
         song_text += ' a licensed song.'
     try:
-        song_text += 'n' + song['notes']
+        song_text += '\n' + song['notes']
     except:
         pass
     try:

@@ -261,7 +261,8 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 
-# Charlie's HerenThis song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere.
+# Charlie's Here
+This song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere.
 
 # Paris St Germain
 ## Versions
@@ -309,7 +310,8 @@ This song is a stock song from [Shockwave Sound](https://www.shockwave-sound.com
 
 
 # Southern Fried
-This song is a stock song.nIt used to be for sale on SoundDogs.
+This song is a stock song.
+It used to be for sale on SoundDogs.
 
 # Event Prep
 ## Versions
@@ -320,14 +322,18 @@ This song is a stock song.nIt used to be for sale on SoundDogs.
 
 
 
-# AlehousenIt used to be for sale on SoundDogs.
+# Alehouse
+It used to be for sale on SoundDogs.
 
-# Seek And HidenThis song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R).
+# Seek And Hide
+This song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R).
 
-# Techno CowboynThis song is available for download in [Deezer](https://www.deezer.com/en/track/114801216)
+# Techno Cowboy
+This song is available for download in [Deezer](https://www.deezer.com/en/track/114801216)
 Canonically, this song is played and performed by the Penguin Band.
 
-# Santiago SwingnCanonically, this song is played and performed by the Penguin Band.
+# Santiago Swing
+Canonically, this song is played and performed by the Penguin Band.
 
 # Thin Ice Theme
 This song is an original song.
@@ -448,7 +454,8 @@ This song is of unknown origins.
 
 
 
-# Flat BaroquenThis song is a colaboration between Friction Music and Chris Hendricks, who composed the harpsichord melody.
+# Flat Baroque
+This song is a colaboration between Friction Music and Chris Hendricks, who composed the harpsichord melody.
 
 # Snowy Holidays
 This song is an original song.
@@ -490,10 +497,12 @@ This song is an original song.
 This song is an original song.
 
 # Medieval Party Town
-This song is an original song.nIt is the first song to use the medieval party motif
+This song is an original song.
+It is the first song to use the medieval party motif
 
 # Medieval Forest Theme
-This song is an original song.nIt uses the medieval party motif
+This song is an original song.
+It uses the medieval party motif
 
 # Medieval Party Battle
 This song is an original song.
@@ -502,7 +511,8 @@ This song is an original song.
 This song is an original song.
 
 # Mix Maestro
-This song is an original song.nIt is a mix from the DJ3K minigame samples.
+This song is an original song.
+It is a mix from the DJ3K minigame samples.
 
 # Flipper Stomper
 This song is an original song.
@@ -572,9 +582,11 @@ This song is an original song.
 # It's Behind You!
 This song is an original song.
 
-# PhantasmagorianIt is an arrangement of Toccata in D Minor by Johann Sebastian Bach.
+# Phantasmagoria
+It is an arrangement of Toccata in D Minor by Johann Sebastian Bach.
 
-# Mountain DojonThe song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks.
+# Mountain Dojo
+The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks.
 
 # Ninja Training
 This song is an original song.
@@ -615,7 +627,8 @@ This song is an original song.
 This song is an original song.
 
 # O'Berry Jazz
-This song is an original song.nIt uses the puffle party motif.
+This song is an original song.
+It uses the puffle party motif.
 
 # Patrick's Jig
 This song is an original song.
@@ -624,7 +637,8 @@ This song is an original song.
 This song is an original song.
 
 # Box Dimension
-This song is an original song.nThis is the 6th iteration of the Box Dimension theme. More details can be found on [Chris Hendrick's video](https://www.youtube.com/watch?v=eoq6Z0IEbeQ)
+This song is an original song.
+This is the 6th iteration of the Box Dimension theme. More details can be found on [Chris Hendrick's video](https://www.youtube.com/watch?v=eoq6Z0IEbeQ)
 
 # Box Dimension V1
 This song is an original song.
@@ -669,7 +683,8 @@ This song is an original song.
 This song is an original song.
 
 # Lighthouse Band (Old)
-This song is of unknown origins.nThis song consists of six different tracks:
+This song is of unknown origins.
+This song consists of six different tracks:
 - Acoustic Guitar
 - Bass Guitar
 - Electric Guitar
@@ -697,7 +712,8 @@ This song is an original song.
 This song is an original song.
 
 # Night of the Living Sled
-This song is an original song.nThe full song is composed of the 3 chapters of the Night of the Linving Sled play.
+This song is an original song.
+The full song is composed of the 3 chapters of the Night of the Linving Sled play.
 
 # All The Way Home
 This song is an original song.
@@ -723,7 +739,8 @@ This song is an original song.
 This song is an original song.
 
 # Extra Anchovies
-This song is an original song.nIt is an orchestral arrangement of Pizzatron 3000.
+This song is an original song.
+It is an orchestral arrangement of Pizzatron 3000.
 
 # Santa's Sleigh
 This song is an original song.
@@ -758,7 +775,8 @@ This song is of unknown origins.
 # Dragon Battle
 This song is an original song.
 
-# Elite Penguin ForcenThe song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks.
+# Elite Penguin Force
+The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks.
 
 # Pirates And Monkeys
 This song is an original song.
@@ -776,7 +794,8 @@ This song is an original song.
 This song is of unknown origins.
 
 # Casa Fiesta Band
-This song is of unknown origins.nThis song consists of five different tracks:
+This song is of unknown origins.
+This song consists of five different tracks:
 - Brass
 - Piano
 - Guitar
@@ -796,7 +815,8 @@ This song is an original song.
 This song is an original song.
 
 # Bean Counters
-This song is an original song.nIt replaced Organic Journey as the Bean Counters theme.
+This song is an original song.
+It replaced Organic Journey as the Bean Counters theme.
 
 # Master the Elements
 This song is an original song.
