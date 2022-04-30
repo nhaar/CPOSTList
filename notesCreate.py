@@ -102,7 +102,10 @@ for x in ordered_data: #all_data is from dataBuild.py
         song_text += ' of unknown origins.'
     elif songtype == 3:
         song_text += ' a licensed song.'
-    song_text += 'n' + song['notes']
+    try:
+        song_text += 'n' + song['notes']
+    except:
+        pass
     try:
         versions = song['versions']
         if versions != None:
