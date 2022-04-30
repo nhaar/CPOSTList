@@ -9,33 +9,33 @@
 	"Link": "",
 	"Earliest Date": "//",
 	"Media Info": { 
-	"Order": 0, 
-	"Earliest Date": "//",
-	"Related To": "", 
-	"files": { 
-	    "1": { 
-		"name" : "",
-		"info" : ""
-	    }
-	},
-	"uses": {
-	    "1": {
-		"date" :"",
-		"use": "", 
-		"files": "",
-		"info" : ""
-	    }
-	}
+		"Order": 0, 
+		"Earliest Date": "//",
+		"Related To": "", 
+		"files": { 
+			"1": { 
+			"name" : "",
+			"info" : ""
+			}
+		},
+		"uses": {
+			"1": {
+			"date" :"",
+			"use": "", 
+			"files": "",
+			"info" : ""
+			}
+		}
 	},
 	"stock": {
 		"info" : {"origin": "", "link": ""},
 		"sale" : [""]
 	},
 	"versions": {
-	"1": {
-	    "name" : "",
-	    "info" : "",
-	    "source" : ""
+		"1": {
+		"name" : "",
+		"info" : "",
+		"source" : ""
+		}
 	}
-    }
 }
