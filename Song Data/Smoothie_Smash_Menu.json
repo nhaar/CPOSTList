@@ -1,0 +1,34 @@
+{
+    "Name": "Smoothie Smash Menu",
+    "Name_official": 0,
+    "Composers" : "?",
+    "HQ Source(s)": "App",
+    "Order": 0,
+    "Earliest Date": "?",
+    "App Info": { 
+        "Order": 1, 
+        "Earliest Date": "?",
+        "Related To": "Smoothie Smash", 
+        "files": { 
+            "1": { 
+                "name" : "MUS_MG_SmoothieSmash_MenuAmb.aac",
+                "info" : ""
+            }
+        },
+        "uses": {
+            "1": {
+                "date" :"?",
+                "use": "Smoothie Smash", 
+                "files": "?",
+                "info" : "This played in the minigame's menu."
+            }
+        }
+    },
+    "versions": {
+        "1": {
+            "name" : "MUS_MG_SmoothieSmash_MenuAmb.aac",
+            "info" : "",
+            "source" : "App"
+        }
+    }
+}
