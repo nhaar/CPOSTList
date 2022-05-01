@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 166,
         "Earliest Date": "2012/01/26",
-        "Related To": "Underwater Expedition, Inside Out Party"
+        "Related To": "Underwater Expedition, Inside Out Party",
+		"uses": {
+			"1": {
+                "date" :"?",
+                "use": "Underwater Expedition", 
+                "files": "?",
+                "info" : "Part 1 only, was used on mysterious deep."
+			},
+			"2": {
+                "date" :"?",
+                "use": "Underwater Expedition", 
+                "files": "?",
+                "info" : "Part 2 only, was used on the underwater maze."
+			}
+		}
     },
     "App Info": {
         "Order": 1,
@@ -23,5 +37,18 @@
         "Related To": "Rainbow Migration 2018"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Underwater Expedition Theme, Maze Theme"
+    "Alternate Names": "Underwater Expedition Theme, Maze Theme",
+	"versions": {
+		"1": {
+            "name" : "BubblingBrook.mp3",
+            "info" : "Highest quality version of part 1.",
+            "source" : "Other"
+		},
+		"2": {
+            "name" : "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
+            "info" : "Highest quality version of part 2.",
+            "source" : "Youtube"
+		}
+	},
+    "notes" : "This song has two parts."
 }

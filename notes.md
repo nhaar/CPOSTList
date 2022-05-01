@@ -842,6 +842,13 @@ This song is an original song.
 
 # System Defender Theme
 This song is an original song.
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| main.swf | The SWF contains the highest quality available for the version used in the game. | SWF main | 
+| Club Penguin Music #16 - System Defender-xmnHF_k2y04.wav | The video contains a few of the loop used in the flash version in the highest quality available. | Youtube. | 
+
+
 
 # Brown Puffle Lab
 This song is an original song.
@@ -905,12 +912,51 @@ This song is an original song.
 
 # Cave of Battle
 This song is an original song.
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| A Time for Heroes-478947087.mp3 |  | CPI SoundCloud | 
+
+
 
 # Herbert Boss Battle
 This song is an original song.
 
 # Rooftop Beatz
 This song is an original song.
+The song is composed of 4 parts, A, B, C, D, which are further divided in 3 parts each, for example, A1, A2 and A3, summing to a total of 12. Althought there were 12 different stems, the different parts weren't a stem. Parts ending in 1 have one solo stem, parts in 2 have the solo stem from 1 and an extra stem, and so on. The parts can be divided as:
+- A: Percussion, disk scratch, brass
+- Bass, organ, keyboard
+- Percussion, brass, higher brass
+- Three percussion tracks
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| Rooftop Beatz... With A Zed 2, A1, Mix (16).wav | Highest quality version of A1. | Other | 
+| Rooftop Beatz... With A Zed 2, A2, Mix (17).wav | Highest quality version of A2. |  | 
+|  | Highest quality version of A3. |  | 
+|  | Highest quality version of B3. |  | 
+|  | Highest quality version of C2. |  | 
+|  | Highest quality version of C3. |  | 
+|  | Highest quality version of D1. |  | 
+|  | Highest quality version of D2. |  | 
+|  | Highest quality version of D3. |  | 
+|  | SWF containing the highest available quality of B1, B2 and C1. |  | 
+
+
+## Club Penguin Information
+### Files
+| Name | Info | 
+| - | - |
+| party2.swf | Party SWF from Music Jam 2011. | 
+
+
+### Uses
+| Date | Usage | File(s) | Info | 
+| - | - | - | - |
+| 2011/Jun/16 | Music Jam 2011 | party2.swf | The song was interactive, and played depending on the penguins dancing on each pad. Each pad played one of the parts (A, B, C and D), and the number of penguins would progress to the next part (for a max of 3 penguins). | 
+
+
 
 # Better Days
 This song is an original song.
@@ -932,6 +978,23 @@ This song is an original song.
 
 # November in Okinawa
 This song is an original song.
+This song has two parts.
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| November+in+Okinawa+2_02.mp3 | Part 1 of November in Okinawa. | Screenhog's Website | 
+| Music409.swf | Highest quality version of part 2 without ambience | SWF 409 | 
+| Music1021.swf | Highest quality version of part 2, but has ambience | SWF 409 | 
+
+
+## Club Penguin Information
+### Uses
+| Date | Usage | File(s) | Info | 
+| - | - | - | - |
+| ? | Card-Jitsu Party | ? | Part 1 only, was used as the "outdoors" theme. | 
+| ? | Card-Jitsu Party | ? | Part 2 only, was used as the "indoors" theme. | 
+
+
 
 # Gingerbread Manic
 This song is an original song.
@@ -948,12 +1011,29 @@ This song is an original song.
 
 # Bubbling Brook
 This song is an original song.
+This song has two parts.
+## Versions
+| Name | Info | Source | 
+| - | - | - |
+| BubblingBrook.mp3 | Highest quality version of part 1. | Other | 
+| Screenhog Studios - Calm Music [wq9rGY5CBSo].wav | Highest quality version of part 2. | Youtube | 
+
+
+## Club Penguin Information
+### Uses
+| Date | Usage | File(s) | Info | 
+| - | - | - | - |
+| ? | Underwater Expedition | ? | Part 1 only, was used on mysterious deep. | 
+| ? | Underwater Expedition | ? | Part 2 only, was used on the underwater maze. | 
+
+
 
 # Superstar
 This song is an original song.
 
 # On High Seas
 This song is an original song.
+This is an orchestral arrangement of Ocean Voyage.
 
 # Shipwreck Island
 This song is an original song.

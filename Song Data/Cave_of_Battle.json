@@ -1,7 +1,7 @@
 {
     "Name": "Cave of Battle",
     "Name_official": 1,
-    "HQ Source(s)": "Club Penguin Island + Club Penguin Island Soundcloud",
+    "HQ Source(s)": "Club Penguin Island Soundcloud",
     "Order": 157,
     "Link": "",
     "Earliest Date": "2011/05/19",
@@ -17,5 +17,12 @@
         "Related To": "Rockhopper Quest"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Hydra Electric Damage"
+    "Alternate Names": "Hydra Electric Damage",
+	"versions": {
+		"1": {
+            "name" : "A Time for Heroes-478947087.mp3",
+            "info" : "",
+            "source" : "CPI SoundCloud"
+		}
+    }
 }

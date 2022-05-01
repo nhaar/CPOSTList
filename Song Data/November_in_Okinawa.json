@@ -10,8 +10,40 @@
     "CP Flash Info": {
         "Order": 164,
         "Earliest Date": "2011/11/24",
-        "Related To": "Card-Jitsu Party, Card-Jitsu Snow Party"
+        "Related To": "Card-Jitsu Party, Card-Jitsu Snow Party",
+		"uses": {
+			"1": {
+                "date" :"?",
+                "use": "Card-Jitsu Party", 
+                "files": "?",
+                "info" : "Part 1 only, was used as the \"outdoors\" theme."
+            },
+			"2": {
+                "date" :"?",
+                "use": "Card-Jitsu Party", 
+                "files": "?",
+                "info" : "Part 2 only, was used as the \"indoors\" theme."
+            }
+        }
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Cherry Blossoms Fall, Sensei's Mix, Card-Jitsu Party Main Theme"
+    "Alternate Names": "Cherry Blossoms Fall, Sensei's Mix, Card-Jitsu Party Main Theme",
+    "notes" : "This song has two parts.",
+	"versions": {
+		"1": {
+            "name" : "November+in+Okinawa+2_02.mp3",
+            "info" : "Part 1 of November in Okinawa.",
+            "source" : "Screenhog's Website"
+        },
+		"2": {
+            "name" : "Music409.swf",
+            "info" : "Highest quality version of part 2 without ambience",
+            "source" : "SWF 409"
+        },
+		"3": {
+            "name" : "Music1021.swf",
+            "info" : "Highest quality version of part 2, but has ambience",
+            "source" : "SWF 409"
+        }
+    }
 }

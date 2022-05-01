@@ -9,8 +9,75 @@
     "CP Flash Info": {
         "Order": 159,
         "Earliest Date": "2011/06/16",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam", 
+		"files": { 
+			"1": { 
+			"name" : "party2.swf",
+			"info" : "Party SWF from Music Jam 2011."
+			}
+		},
+		"uses": {
+			"1": {
+			"date" :"2011/Jun/16",
+			"use": "Music Jam 2011", 
+			"files": "party2.swf",
+			"info" : "The song was interactive, and played depending on the penguins dancing on each pad. Each pad played one of the parts (A, B, C and D), and the number of penguins would progress to the next part (for a max of 3 penguins)."
+			}
+		}
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Night Club Rooftop"
+    "Alternate Names": "Night Club Rooftop",
+	"versions": {
+		"1": {
+            "name" : "Rooftop Beatz... With A Zed 2, A1, Mix (16).wav",
+            "info" : "Highest quality version of A1.",
+            "source" : "Other"
+		},
+		"2": {
+            "name" : "Rooftop Beatz... With A Zed 2, A2, Mix (17).wav",
+            "info" : "Highest quality version of A2.",
+            "source" : ""
+		},
+		"3": {
+            "name" : "",
+            "info" : "Highest quality version of A3.",
+            "source" : ""
+		},
+		"4": {
+            "name" : "",
+            "info" : "Highest quality version of B3.",
+            "source" : ""
+		},
+		"5": {
+            "name" : "",
+            "info" : "Highest quality version of C2.",
+            "source" : ""
+		},
+		"6": {
+            "name" : "",
+            "info" : "Highest quality version of C3.",
+            "source" : ""
+		},
+		"7": {
+            "name" : "",
+            "info" : "Highest quality version of D1.",
+            "source" : ""
+		},
+		"8": {
+            "name" : "",
+            "info" : "Highest quality version of D2.",
+            "source" : ""
+		},
+		"9": {
+            "name" : "",
+            "info" : "Highest quality version of D3.",
+            "source" : ""
+		},
+		"10": {
+            "name" : "",
+            "info" : "SWF containing the highest available quality of B1, B2 and C1.",
+            "source" : ""
+		}
+    },
+    "notes" : "The song is composed of 4 parts, A, B, C, D, which are further divided in 3 parts each, for example, A1, A2 and A3, summing to a total of 12. Althought there were 12 different stems, the different parts weren't a stem. Parts ending in 1 have one solo stem, parts in 2 have the solo stem from 1 and an extra stem, and so on. The parts can be divided as:\n- A: Percussion, disk scratch, brass\n- Bass, organ, keyboard\n- Percussion, brass, higher brass\n- Three percussion tracks"
 }
