@@ -392,8 +392,8 @@ This song is an original song.
 | Name | Info | Source | 
 | - | - | - |
 | 113.swf | Contains all the segments of the song, in the highest quality available without background noise. | SWF 113 | 
-| Club Penguin - Puffles!-4LlBqvUTgS4.mkv | A video on which segment is included in the highest quality available with heavy background noises from around 00:13 to 00:28. | Club Penguin Youtube Channel | 
-| Club Penguin - Spoiler Alert Episode 17 - April Fools!-bSciCnrYI3A.mkv | A video on which a segment is included in the highest quality available with heavy background noises from around 00:13 to 00:28. | Club Penguin Youtube Channel | 
+| Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv | A video on which segment is included in the highest quality available with heavy background noises. | Club Penguin Youtube Channel | 
+| Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus | A video on which segment is included in the highest quality available with heavy background noises starting at 4:32. | Club Penguin Youtube Channel | 
 
 
 ## Club Penguin Information
@@ -934,13 +934,13 @@ The song is composed of 4 parts, A, B, C, D, which are further divided in 3 part
 | - | - | - |
 | Rooftop Beatz... With A Zed 2, A1, Mix (16).wav | Highest quality version of A1. | Other | 
 | Rooftop Beatz... With A Zed 2, A2, Mix (17).wav | Highest quality version of A2. |  | 
-|  | Highest quality version of A3. |  | 
-|  | Highest quality version of B3. |  | 
-|  | Highest quality version of C2. |  | 
-|  | Highest quality version of C3. |  | 
-|  | Highest quality version of D1. |  | 
-|  | Highest quality version of D2. |  | 
-|  | Highest quality version of D3. |  | 
+| Rooftop Beatz... With A Zed 2, A3, Mix (18).wav | Highest quality version of A3. |  | 
+| Rooftop Beatz... With A Zed 2, B3, Mix (19).wav | Highest quality version of B3. |  | 
+| Rooftop Beatz... With A Zed 2, C2, Mix (20).wav | Highest quality version of C2. |  | 
+| Rooftop Beatz... With A Zed 2, C3, Mix (21).wav | Highest quality version of C3. |  | 
+| Rooftop Beatz... With A Zed 2, D1, Mix (22).wav | Highest quality version of D1. |  | 
+| Rooftop Beatz... With A Zed 2, D2, Mix (23).wav | Highest quality version of D2. |  | 
+| Rooftop Beatz... With A Zed 2, D3, Mix (24).wav | Highest quality version of D3. |  | 
 |  | SWF containing the highest available quality of B1, B2 and C1. |  | 
 
 
