@@ -393,7 +393,7 @@ This song is an original song.
 | - | - | - |
 | 113.swf | Contains all the segments of the song, in the highest quality available without background noise. | SWF 113 | 
 | Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv | A video on which segment is included in the highest quality available with heavy background noises. | Club Penguin Youtube Channel | 
-| Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus | A video on which segment is included in the highest quality available with heavy background noises starting at 4:32. | Club Penguin Youtube Channel | 
+| Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus | A video on which segment is included in the highest quality available with heavy background noises starting at 4:32. | Youtube | 
 
 
 ## Club Penguin Information
