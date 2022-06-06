@@ -1,0 +1,21 @@
+{
+	"Name": "EPF Unused Song",
+	"Name_official": 0,
+	"Composers" : "Chris Hendricks",
+	"HQ Source(s)": "Youtube",
+	"Source Links" : "https://youtu.be/OfdlpqO0LNo?t=548",
+	"Order": 1110,
+	"Earliest Date": "?",
+	"CP Flash Unused Info": { 
+		"Order": 5.1, 
+		"Earliest Date": "2011/03/25",
+		"Related To": "EPF"
+	},
+	"versions": {
+		"1": {
+		"name" : "Club Penguin Music #8 - Elite Penguin Force [OfdlpqO0LNo].wav",
+		"info" : "",
+		"source" : "Youtube"
+		}
+	}
+}
