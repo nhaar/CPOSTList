@@ -16,6 +16,26 @@
         "Earliest Date": "?",
         "Related To": "Igloo"
     },
+    "CPI Info": {
+        "Order": 0, 
+        "Earliest Date": "//",
+        "Related To": "", 
+        "files": {},
+		"uses": {
+			"1": { 
+                "date" : "?",
+                "use" : "Aunt Arctic Quest",
+                "files" : "?",
+                "info" : "?"
+            },
+            "2": { 
+                "date" : "?",
+                "use" : "Rockhopper Quest",
+                "files" : "?",
+                "info" : "?"
+            }
+		}
+    },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""
 }

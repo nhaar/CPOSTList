@@ -9,6 +9,14 @@
 	"CPI Info": { 
 		"Order": 1100, 
 		"Earliest Date": "?",
-		"Related To": "?"
+		"Related To": "?",
+		"uses": {
+			"1": { 
+                "date" : "?",
+                "use" : "Sea Cave Race Course",
+                "files" : "?",
+                "info" : "?"
+            }
+		}
 	}
 }
