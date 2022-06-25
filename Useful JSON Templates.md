@@ -26,46 +26,46 @@ The basic template that every song needs
 File Versions template
 
 ```
-"1": {
-            "name" : "",
-            "info" : "",
-            "source" : ""
-        }
+"": {
+"name" : "",
+"info" : "",
+"source" : ""
+}
 ```
 
 Media Info template
 
 ```
 "Order": 0, 
-        "Earliest Date": "//",
-        "Related To": "", 
-        "files": {},
-        "uses": {}
+"Earliest Date": "//",
+"Related To": "", 
+"files": {},
+"uses": {}
 ```
 
 Files template (for Media Info)
 
 ```
-"1": { 
-                "name" : "",
-                "info" : ""
-            }
+"": { 
+"name" : "",
+"info" : ""
+}
 ```
 
 Uses template (for Media Info)
 
 ```
-"1": { 
-                "date" : "",
-                "use" : "",
-                "files" : "",
-                "info" : "",
-            }
+"": { 
+"date" : "",
+"use" : "",
+"files" : "",
+"info" : "",
+}
 ```
 
 Stock template
 
 ```
 "info" : {"origin": "", "link": ""},
-		"sale" : [""]
+"sale" : [""]
 ```
