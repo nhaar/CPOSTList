@@ -80,6 +80,14 @@ for x in all_data: #all_data is form dataBuild.py
         try:
             dummy = song[media + ' Info']
             present_medias.append(media)
+            usages = dummy['uses']
+            use_str = ''
+            for thing in usages:
+                use_str += usages[thing]['use']
+            if use_str[len(use_str)-1] == ' ':
+                all_data[x][media + ' Info']['Related To'] = use_str[:-1]
+            else:
+                all_data[x][media + ' Info']['Related To'] = use_str
         except:
             pass
     for media in present_medias:
