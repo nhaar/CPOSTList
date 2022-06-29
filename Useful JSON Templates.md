@@ -11,7 +11,7 @@ The basic template that every song needs
 	"Order": 0,
 	"Link": "",
 	"Earliest Date": "//",
-    "Media Info: {
+        "Media Info": {
         "Order": 0, 
         "Earliest Date": "//",
         "Related To": "", 
