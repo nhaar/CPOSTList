@@ -1,0 +1,26 @@
+{
+    "Name": "That Aha Moment",
+    "Name_official": 1,
+    "Alternate Names": "Jazz",
+    "Composers": "Dr Steven Trip, Lawrence Sam Goldings",
+    "HQ Source(s)": "Sample",
+    "Source Links": "https://www.extrememusic.com/albums/2877",
+    "Order": 0,
+    "Link": "",
+    "Earliest Date": "?",
+    "CPI Info": {
+        "Order": 0,
+        "Earliest Date": "?",
+        "Related To": "",
+        "files": {},
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "versions": {}
+}
