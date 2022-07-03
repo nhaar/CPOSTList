@@ -59,7 +59,7 @@ Uses template (for Media Info)
 "date" : "",
 "use" : "",
 "files" : "",
-"info" : "",
+"info" : ""
 }
 ```
 
