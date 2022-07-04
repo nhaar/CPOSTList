@@ -1,24 +1,24 @@
 {
-    "Name": "Celebration of Snow Dojo",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 399",
-    "Order": 194,
-    "Link": "",
-    "Earliest Date": "2013/05/23",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 194,
         "Earliest Date": "2013/05/23",
+        "Order": 194,
         "Related To": "Card-Jitsu Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2013/05/23",
-                "use": "Card-Jitsu Party 2013",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Card-Jitsu Party 2013"
             }
-        }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2013/05/23",
+    "HQ Source(s)": "SWF 399",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Celebration of Snow Dojo",
+    "Name_official": 0,
+    "Order": 194
 }

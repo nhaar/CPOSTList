@@ -1,43 +1,43 @@
 {
-    "Name": "Good Attitude",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=w0PccSIo-To",
-    "Order": 29,
-    "Link": "https://www.youtube.com/watch?v=xo3LYO8AkHo",
-    "Earliest Date": "2007/03/16",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Driving Guitar",
     "CP Flash Info": {
-        "Order": 29,
         "Earliest Date": "2007/03/16",
+        "Order": 29,
         "Related To": "Igloo, Music Jam 2008, Music Jam 2009",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2007/03/16",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Music Jam 2008",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2008"
             },
-            "3": {
+            {
                 "date": "?",
-                "use": "Music Jam 2009",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2009"
             }
-        }
+        ]
     },
     "Composers": "Julio Kladniew",
-    "Alternate Names": "Driving Guitar",
+    "Earliest Date": "2007/03/16",
+    "HQ Source(s)": "Youtube",
+    "Link": "https://www.youtube.com/watch?v=xo3LYO8AkHo",
+    "Medias": "Club Penguin",
+    "Name": "Good Attitude",
+    "Name_official": 1,
+    "Order": 29,
+    "Source Links": "https://www.youtube.com/watch?v=w0PccSIo-To",
     "stock": {
         "info": {
-            "origin": "NEO Sounds",
-            "link": "https://www.neosounds.com/royalty-free-music/songs/3758/good-attitude-julio-kladniew"
+            "link": "https://www.neosounds.com/royalty-free-music/songs/3758/good-attitude-julio-kladniew",
+            "origin": "NEO Sounds"
         },
         "sale": [
             "Full Track",

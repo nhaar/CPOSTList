@@ -1,24 +1,24 @@
 {
-    "Name": "Hydra Suspense",
-    "Name_official": 1,
-    "HQ Source(s)": "Other + SWF 309",
-    "Order": 156,
-    "Link": "https://youtu.be/p-Yy2hfGxJA",
-    "Earliest Date": "2011/05/19",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Hall of Hints",
     "CP Flash Info": {
-        "Order": 156,
         "Earliest Date": "2011/05/19",
+        "Order": 156,
         "Related To": "Medieval Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2011/05/19",
-                "use": "Medieval Party 2011",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Medieval Party 2011"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Hall of Hints"
+    "Earliest Date": "2011/05/19",
+    "HQ Source(s)": "Other + SWF 309",
+    "Link": "https://youtu.be/p-Yy2hfGxJA",
+    "Medias": "Club Penguin",
+    "Name": "Hydra Suspense",
+    "Name_official": 1,
+    "Order": 156
 }

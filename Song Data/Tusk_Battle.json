@@ -1,16 +1,16 @@
 {
-    "Name": "Tusk Battle",
-    "Name_official": 0,
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Order": 197,
-    "Link": "",
-    "Earliest Date": "2013/05/23",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 197,
         "Earliest Date": "2013/05/23",
+        "Order": 197,
         "Related To": "Card-Jitsu Snow"
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2013/05/23",
+    "HQ Source(s)": "SoundCloud (NL)",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Tusk Battle",
+    "Name_official": 0,
+    "Order": 197
 }

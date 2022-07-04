@@ -1,27 +1,27 @@
 {
-    "Name": "Phantasmagoria",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 84,
-    "Link": "https://www.youtube.com/watch?v=sXSvgAZMWZk",
-    "Earliest Date": "2008/10/28",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 84,
-        "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party"
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo"
     },
+    "CP Flash Info": {
+        "Earliest Date": "2008/10/28",
+        "Order": 84,
+        "Related To": "Halloween Party"
+    },
     "CPI Info": {
+        "Earliest Date": "?",
         "Order": 1,
-        "Earliest Date" : "?",
         "Related To": "Halloween 2018"
     },
     "Composers": "Chris Hendricks, Johann Sebastian Bach",
-    "Alternate Names": "",
-    "notes" : "It is an arrangement of Toccata in D Minor by Johann Sebastian Bach."
+    "Earliest Date": "2008/10/28",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "https://www.youtube.com/watch?v=sXSvgAZMWZk",
+    "Medias": "Club Penguin",
+    "Name": "Phantasmagoria",
+    "Name_official": 1,
+    "Order": 84,
+    "notes": "It is an arrangement of Toccata in D Minor by Johann Sebastian Bach."
 }

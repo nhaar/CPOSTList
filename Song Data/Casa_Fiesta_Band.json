@@ -1,43 +1,43 @@
 {
-    "Name": "Casa Fiesta Band",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF Party 4 Music Jam 2011 + SWF Party 7 Music Jam 2016",
-    "Order": 139,
-    "Link": "https://www.youtube.com/watch?v=pf2ziiKQi2s",
-    "Earliest Date": "2010/07/08",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 139,
         "Earliest Date": "2010/07/08",
+        "Order": 139,
         "Related To": "Music Jam 2011, Music Jam 2015, Music Jam 2016",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2010/07/08",
-                "use": "Music Jam 2010",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2010"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Music Jam 2011",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2011"
             },
-            "3": {
+            {
                 "date": "?",
-                "use": "Music Jam 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2015"
             },
-            "4": {
+            {
                 "date": "?",
-                "use": "Music Jam 2016",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2016"
             }
-        }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": "",
+    "Earliest Date": "2010/07/08",
+    "HQ Source(s)": "SWF Party 4 Music Jam 2011 + SWF Party 7 Music Jam 2016",
+    "Link": "https://www.youtube.com/watch?v=pf2ziiKQi2s",
+    "Medias": "Club Penguin",
+    "Name": "Casa Fiesta Band",
+    "Name_official": 0,
+    "Order": 139,
     "notes": "This song consists of five different tracks:\n- Brass\n- Piano\n- Guitar\n- Drums\n- Bass Guitar"
 }

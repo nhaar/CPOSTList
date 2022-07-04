@@ -1,24 +1,24 @@
 {
-    "Name": "Shipwreck Island",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 169,
-    "Link": "https://youtu.be/0H92_6Hx-zg",
-    "Earliest Date": "2012/02/24",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Rockhopper's Quest Shipwreck Island",
     "CP Flash Info": {
-        "Order": 169,
         "Earliest Date": "2012/02/24",
+        "Order": 169,
         "Related To": "Rockhopper's Quest",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2012/02/24",
-                "use": "Rockhopper's Quest",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Rockhopper's Quest"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Rockhopper's Quest Shipwreck Island"
+    "Earliest Date": "2012/02/24",
+    "HQ Source(s)": "Other",
+    "Link": "https://youtu.be/0H92_6Hx-zg",
+    "Medias": "Club Penguin",
+    "Name": "Shipwreck Island",
+    "Name_official": 1,
+    "Order": 169
 }

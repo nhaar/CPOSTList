@@ -1,38 +1,38 @@
 {
-    "Name": "Epic Suspense",
-    "Name_official": 1,
-    "HQ Source(s)": "Sample",
-    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2225/epic-series-epic-2-suspense-lynnemusic",
-    "Order": 353,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 353,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
-        "uses": {
-            "1": {
-                "date": "?",
-                "use": "Igloo",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Cave Runner Theme, Egyptian Cart Surfer",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "?",
+        "Order": 353,
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
     },
     "Composers": "Bjorn Lynne",
-    "Alternate Names": "Cave Runner Theme, Egyptian Cart Surfer"
+    "Earliest Date": "?",
+    "HQ Source(s)": "Sample",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Epic Suspense",
+    "Name_official": 1,
+    "Order": 353,
+    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2225/epic-series-epic-2-suspense-lynnemusic"
 }

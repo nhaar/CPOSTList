@@ -1,21 +1,21 @@
 {
-    "Name": "Puffle Wild",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 324,
-    "Link": "",
-    "Earliest Date": "2015/03/25",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 324,
-        "Earliest Date": "2015/03/25",
-        "Related To": "Puffle Wild"
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Wild"
     },
+    "CP Flash Info": {
+        "Earliest Date": "2015/03/25",
+        "Order": 324,
+        "Related To": "Puffle Wild"
+    },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/03/25",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Puffle Wild",
+    "Name_official": 0,
+    "Order": 324
 }

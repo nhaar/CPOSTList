@@ -1,16 +1,16 @@
 {
-    "Name": "Sushi Drop",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 1000,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin App",
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Sushi Drop"
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "?",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin App",
+    "Name": "Sushi Drop",
+    "Name_official": 0,
+    "Order": 1000
 }

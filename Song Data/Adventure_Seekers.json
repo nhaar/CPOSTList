@@ -1,43 +1,43 @@
 {
-    "Name": "Adventure Seekers",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 323,
-    "Link": "",
-    "Earliest Date": "2015/03/18",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 323,
-        "Earliest Date": "2015/03/18",
-        "Related To": "Lodge Attic",
-        "uses": {
-            "1": {
-                "date": "2015/03/18",
-                "use": "Lodge Attic",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Attic Theme",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Attic",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Attic",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Attic"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/03/18",
+        "Order": 323,
+        "Related To": "Lodge Attic",
+        "uses": [
+            {
+                "date": "2015/03/18",
+                "files": "",
+                "info": "",
+                "use": "Lodge Attic"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": "Attic Theme"
+    "Earliest Date": "2015/03/18",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Adventure Seekers",
+    "Name_official": 1,
+    "Order": 323
 }

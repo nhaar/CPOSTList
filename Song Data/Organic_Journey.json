@@ -1,39 +1,48 @@
 {
-    "Name": "Organic Journey",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 2,
-    "Link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
-    "Earliest Date": "2005/10/24",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Melodie du Crouton, Old Bean Counters",
+    "App Info": {
+        "Earliest Date": "?",
+        "Order": 1,
+        "Related To": "Igloo"
+    },
     "CP Flash Info": {
-        "Order": 2,
         "Earliest Date": "2005/10/24",
+        "Order": 2,
         "Related To": "Bean Counters",
         "files": {
             "1": {
-                "name" : "101.swf",
-                "info" : "It contains the first 67 seconds of the full version."
+                "info": "It contains the first 67 seconds of the full version.",
+                "name": "101.swf"
             }
         },
-        "uses": {
-            "1": {
-                "date" : "?-2010/Nov/14",
-                "use": "Bean Counters",
-                "Info" : "",
-                "files": "101.swf"
+        "uses": [
+            {
+                "Info": "",
+                "date": "?-2010/Nov/14",
+                "files": "101.swf",
+                "use": "Bean Counters"
             }
-        }
-    },
-    "App Info": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo"
+        ]
     },
     "Composers": "Milo Deering",
-    "Alternate Names": "Melodie du Crouton, Old Bean Counters",
+    "Earliest Date": "2005/10/24",
+    "HQ Source(s)": "Other",
+    "Link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
+    "Medias": "Club Penguin",
+    "Name": "Organic Journey",
+    "Name_official": 1,
+    "Order": 2,
     "stock": {
-		"info" : {"origin": "SmartSound", "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/"},
-		"sale" : ["Full version", "60 seconds", "30 seconds", "15 seconds", "Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above"]
-	}
+        "info": {
+            "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/",
+            "origin": "SmartSound"
+        },
+        "sale": [
+            "Full version",
+            "60 seconds",
+            "30 seconds",
+            "15 seconds",
+            "Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above"
+        ]
+    }
 }

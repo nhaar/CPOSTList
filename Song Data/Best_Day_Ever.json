@@ -1,43 +1,43 @@
 {
-    "Name": "Best Day Ever",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + App",
-    "Order": 274,
-    "Link": "",
-    "Earliest Date": "2014/07/17",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 274,
-        "Earliest Date": "2014/07/17",
-        "Related To": "Music Jam, SoundStudio Party",
-        "uses": {
-            "1": {
-                "date": "2014/07/17",
-                "use": "Music Jam 2014",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "SoundStudio Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/07/17",
+        "Order": 274,
+        "Related To": "Music Jam, SoundStudio Party",
+        "uses": [
+            {
+                "date": "2014/07/17",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2014"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "SoundStudio Party"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2014/07/17",
+    "HQ Source(s)": "SoundCloud + App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Best Day Ever",
+    "Name_official": 1,
+    "Order": 274
 }

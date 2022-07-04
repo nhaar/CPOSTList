@@ -1,50 +1,50 @@
 {
-    "Name": "Haunted Disco",
-    "Name_official": 1,
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Order": 43,
-    "Link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
-    "Earliest Date": "2007/10/26",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 43,
-        "Earliest Date": "2007/10/26",
-        "Related To": "Halloween Party",
-        "uses": {
-            "1": {
-                "date": "2007/10/26",
-                "use": "Halloween Party 2007",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2007/10/26",
+        "Order": 43,
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2007/10/26",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2007"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Halloween 2018",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Halloween Party 2018",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Halloween Party 2018"
             }
-        }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": ""
+    "Earliest Date": "2007/10/26",
+    "HQ Source(s)": "App + Club Penguin Island",
+    "Link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
+    "Medias": "Club Penguin",
+    "Name": "Haunted Disco",
+    "Name_official": 1,
+    "Order": 43
 }

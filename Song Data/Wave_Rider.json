@@ -1,22 +1,22 @@
 {
-    "Name": "Wave Rider",
-    "Name_official": 1,
-    "HQ Source(s)": "SWF 214",
-    "Order": 31,
-    "Link": "https://www.youtube.com/watch?v=T9on03cx2EM",
-    "Earliest Date": "2007/05/25",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Cool Surf",
     "CP Flash Info": {
-        "Order": 31,
         "Earliest Date": "2007/05/25",
-        "Related To": "Cove Opening Party", 
-		"files": { 
-			"1": { 
-			"name" : "214.swf",
-			"info" : "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped."
-			}
+        "Order": 31,
+        "Related To": "Cove Opening Party",
+        "files": {
+            "1": {
+                "info": "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped.",
+                "name": "214.swf"
+            }
         }
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Cool Surf"
+    "Earliest Date": "2007/05/25",
+    "HQ Source(s)": "SWF 214",
+    "Link": "https://www.youtube.com/watch?v=T9on03cx2EM",
+    "Medias": "Club Penguin",
+    "Name": "Wave Rider",
+    "Name_official": 1,
+    "Order": 31
 }

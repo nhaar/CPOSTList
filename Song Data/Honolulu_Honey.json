@@ -1,123 +1,135 @@
 {
-    "Name": "Honolulu Honey",
-    "Name_official": 1,
-    "HQ Source(s)": "Other + App + Sample",
-    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
-    "Order": 10,
-    "Link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
-    "Earliest Date": "2006/01/27",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 10,
-        "Earliest Date": "2006/01/27",
-        "Related To": "Winter Luau, April Fools Party 2011, April Fools Party 2012, Operation: Blackout, Teen Beach Movie Summer Jam, Music Jam 2014, Finding Dory Party",
-        "files": { 
-			"1": { 
-			"name" : "11.swf",
-			"info" : "This consists of Loop A, followed by Loop C played twice, then Loop A and finally Loop C again."
-			}
-		},
-        "uses": {
-			"1": {
-			"date" :"?",
-			"use": "Winter Luau Party", 
-			"files": "?",
-			"info" : ""
-            },
-            "2": {
-                "date" :"?",
-                "use": "April Fools Party 2010", 
-                "files": "?",
-                "info" : "Played in the Strange Dimension room."
-                },
-            "3": {
-                "date" :"?",
-                "use": "April Fools Party 2011", 
-                "files": "?",
-                "info" : "Played in the Strange Dimension room."
-                },
-            "4": {
-                "date" :"?",
-                "use": "Operation: Blackout", 
-                "files": "?",
-                "info" : "Played in the Paradise room."
-                },
-            "5": {
-                "date" :"?",
-                "use": "Teen Beach Movie Summer Jam", 
-                "files": "?",
-                "info" : "Played in the Town and in Big Momma's."
-                },
-            "6": {
-                "date" :"?",
-                "use": "Music Jam 2014", 
-                "files": "?",
-                "info" : "Played in the Town."
-                },
-            "7": {
-                "date" :"?",
-                "use": "Finding Dory Party", 
-                "files": "?",
-                "info" : "Played in the Cove."
-                }
-		}
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo"
     },
-	"stock": {
-		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic"},
-		"sale" : ["Full Track", "Variation A", "Variation B", "60sec", "30sec", "Loop A", "Loop B", "Loop C"]
-	},
-    "Composers": "Jeremy Sherman",
-    "Alternate Names": "",
-    "versions": {
-		"1": {
-		"name" : "09 - Honolulu Honey.flac",
-		"info" : "Full track.",
-		"source" : "Other"
-		},
-		"2": {
-            "name" : "MUS_11_Igloo_HonoluluHoney.mp3",
-            "info" : "Highest quality available for the edit used in Club Penguin.",
-            "source" : "App"
-            },
-        "3": {
-            "name" : "9586.mp3",
-            "info" : "Variation A.",
-            "source" : "Sample"
-            },
-        "4": {
-            "name" : "9587.mp3",
-            "info" : "Variation B.",
-            "source" : "Sample"
-            },
-        "5": {
-            "name" : "9588.mp3",
-            "info" : "60sec version.",
-            "source" : "Sample"
-            },
-        "6": {
-            "name" : "9589.mp3",
-            "info" : "30sec version.",
-            "source" : "Sample"
-            },
-        "7": {
-            "name" : "9590.mp3",
-            "info" : "Loop A.",
-            "source" : "Sample"
-            },
-        "8": {
-            "name" : "9591.mp3",
-            "info" : "Loop B.",
-            "source" : "Sample"
-            },
-        "9": {
-            "name" : "9592.mp3",
-            "info" : "Loop C.",
-            "source" : "Sample"
+    "CP Flash Info": {
+        "Earliest Date": "2006/01/27",
+        "Order": 10,
+        "Related To": "Winter Luau, April Fools Party 2011, April Fools Party 2012, Operation: Blackout, Teen Beach Movie Summer Jam, Music Jam 2014, Finding Dory Party",
+        "files": {
+            "1": {
+                "info": "This consists of Loop A, followed by Loop C played twice, then Loop A and finally Loop C again.",
+                "name": "11.swf"
             }
-	}
+        },
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Winter Luau Party"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Strange Dimension room.",
+                "use": "April Fools Party 2010"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Strange Dimension room.",
+                "use": "April Fools Party 2011"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Paradise room.",
+                "use": "Operation: Blackout"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Town and in Big Momma's.",
+                "use": "Teen Beach Movie Summer Jam"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Town.",
+                "use": "Music Jam 2014"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Cove.",
+                "use": "Finding Dory Party"
+            }
+        ]
+    },
+    "Composers": "Jeremy Sherman",
+    "Earliest Date": "2006/01/27",
+    "HQ Source(s)": "Other + App + Sample",
+    "Link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
+    "Medias": "Club Penguin",
+    "Name": "Honolulu Honey",
+    "Name_official": 1,
+    "Order": 10,
+    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
+    "stock": {
+        "info": {
+            "link": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
+            "origin": "NEO Sounds"
+        },
+        "sale": [
+            "Full Track",
+            "Variation A",
+            "Variation B",
+            "60sec",
+            "30sec",
+            "Loop A",
+            "Loop B",
+            "Loop C"
+        ]
+    },
+    "versions": {
+        "1": {
+            "info": "Full track.",
+            "name": "09 - Honolulu Honey.flac",
+            "source": "Other"
+        },
+        "2": {
+            "info": "Highest quality available for the edit used in Club Penguin.",
+            "name": "MUS_11_Igloo_HonoluluHoney.mp3",
+            "source": "App"
+        },
+        "3": {
+            "info": "Variation A.",
+            "name": "9586.mp3",
+            "source": "Sample"
+        },
+        "4": {
+            "info": "Variation B.",
+            "name": "9587.mp3",
+            "source": "Sample"
+        },
+        "5": {
+            "info": "60sec version.",
+            "name": "9588.mp3",
+            "source": "Sample"
+        },
+        "6": {
+            "info": "30sec version.",
+            "name": "9589.mp3",
+            "source": "Sample"
+        },
+        "7": {
+            "info": "Loop A.",
+            "name": "9590.mp3",
+            "source": "Sample"
+        },
+        "8": {
+            "info": "Loop B.",
+            "name": "9591.mp3",
+            "source": "Sample"
+        },
+        "9": {
+            "info": "Loop C.",
+            "name": "9592.mp3",
+            "source": "Sample"
+        }
+    }
 }

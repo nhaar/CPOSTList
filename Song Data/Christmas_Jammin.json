@@ -1,37 +1,37 @@
 {
-    "Name": "Christmas Jammin'",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 120,
-    "Link": "https://youtu.be/xOoD45B4Wzc",
-    "Earliest Date": "2009/12/18",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 24.1,
-        "Earliest Date": "2006/12/22",
-        "Related To": "Holiday Party",
-        "uses": {
-            "1": {
-                "date": "2006/12/22",
-                "use": "Holiday Party 2005",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Christmas Jam, Christmas Rock",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2006/12/22",
+        "Order": 24.1,
+        "Related To": "Holiday Party",
+        "uses": [
+            {
+                "date": "2006/12/22",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2005"
+            }
+        ]
     },
     "Composers": "Mat Andasun",
-    "Alternate Names": "Christmas Jam, Christmas Rock"
+    "Earliest Date": "2009/12/18",
+    "HQ Source(s)": "Other",
+    "Link": "https://youtu.be/xOoD45B4Wzc",
+    "Medias": "Club Penguin",
+    "Name": "Christmas Jammin'",
+    "Name_official": 1,
+    "Order": 120
 }

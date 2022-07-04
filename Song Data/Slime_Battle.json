@@ -1,15 +1,15 @@
 {
-	"Name": "Slime Battle",
-	"Name_official": 1,
-	"Composers" : "?",
-	"HQ Source(s)": "SC Other",
-	"Source Links": "https://soundcloud.com/davidfairfield/scorn-awakened",
-	"Order": 1100,
-	"Link": "",
-	"Earliest Date": "?",
-	"CPI Info": { 
-		"Order": 1100, 
-		"Earliest Date": "?",
-		"Related To": "?"
-	}
+    "CPI Info": {
+        "Earliest Date": "?",
+        "Order": 1100,
+        "Related To": "?"
+    },
+    "Composers": "?",
+    "Earliest Date": "?",
+    "HQ Source(s)": "SC Other",
+    "Link": "",
+    "Name": "Slime Battle",
+    "Name_official": 1,
+    "Order": 1100,
+    "Source Links": "https://soundcloud.com/davidfairfield/scorn-awakened"
 }

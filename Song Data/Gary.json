@@ -1,22 +1,22 @@
 {
-	"Name": "Gary",
-	"Name_official": 1,
-	"Composers" : "?",
-	"HQ Source(s)": "CPI SoundCloud",
-	"Order": 1100,
-	"Link": "",
-	"Earliest Date": "?",
-	"CPI Info": { 
-		"Order": 1100, 
-		"Earliest Date": "?",
-		"Related To": "?",
-		"uses": {
-			"1": { 
-                "date" : "?",
-                "use" : "Aunt Arctic Quest",
-                "files" : "?",
-                "info" : "?"
+    "CPI Info": {
+        "Earliest Date": "?",
+        "Order": 1100,
+        "Related To": "?",
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "?",
+                "use": "Aunt Arctic Quest"
             }
-		}
-	}
+        ]
+    },
+    "Composers": "?",
+    "Earliest Date": "?",
+    "HQ Source(s)": "CPI SoundCloud",
+    "Link": "",
+    "Name": "Gary",
+    "Name_official": 1,
+    "Order": 1100
 }

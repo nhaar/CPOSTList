@@ -1,50 +1,50 @@
 {
-    "Name": "Discoween",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 42,
-    "Link": "https://www.youtube.com/watch?v=r5gu4qG_JtE",
-    "Earliest Date": "2007/10/26",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 42,
-        "Earliest Date": "2007/10/26",
-        "Related To": "Halloween Party",
-        "uses": {
-            "1": {
-                "date": "2007/10/26",
-                "use": "Halloween Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2007/10/26",
+        "Order": 42,
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2007/10/26",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Halloween 2018",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Halloween Party 2018",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Halloween Party 2018"
             }
-        }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam"
+    "Earliest Date": "2007/10/26",
+    "HQ Source(s)": "App",
+    "Link": "https://www.youtube.com/watch?v=r5gu4qG_JtE",
+    "Medias": "Club Penguin",
+    "Name": "Discoween",
+    "Name_official": 1,
+    "Order": 42
 }

@@ -1,31 +1,31 @@
 {
-    "Name": "Mountain Dojo",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 85,
-    "Link": "https://youtu.be/rCyou4Cz3J0",
-    "Earliest Date": "2008/11/14",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Dojo Theme",
     "CP Flash Info": {
-        "Order": 85,
         "Earliest Date": "2008/11/14",
+        "Order": 85,
         "Related To": "Dojo, Ninja Hideout",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2008/11/14",
-                "use": "Dojo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Dojo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Ninja Hideout",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Ninja Hideout"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks, Bart Roijmans",
-    "Alternate Names": "Dojo Theme",
+    "Earliest Date": "2008/11/14",
+    "HQ Source(s)": "Other",
+    "Link": "https://youtu.be/rCyou4Cz3J0",
+    "Medias": "Club Penguin",
+    "Name": "Mountain Dojo",
+    "Name_official": 1,
+    "Order": 85,
     "notes": "The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks."
 }

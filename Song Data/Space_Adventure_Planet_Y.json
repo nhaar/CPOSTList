@@ -1,29 +1,29 @@
 {
-    "Name": "Space Adventure: Planet Y",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube + Club Penguin Youtube Channel",
-    "Source Links": "https://www.youtube.com/watch?v=ORplNX1yUig",
-    "Order": 80,
-    "Link": "https://www.youtube.com/watch?v=G4vqTvU9hvs",
-    "Earliest Date": "2008/10/10",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Lunar Launch",
     "CP Flash Info": {
-        "Order": 80,
         "Earliest Date": "2008/10/10",
+        "Order": 80,
         "Related To": "Space Adventure: Planet Y"
     },
     "Composers": "Rory O'Neill",
-    "Alternate Names": "Lunar Launch",
-	"versions": {
-		"1": {
-		"name" : "Club Penguin Music OST - Space Adventure Planet 'Y' Theme Music 2014 [ORplNX1yUig].opus",
-		"info" : "Highest quality available without ambience. This played in the flash version, though the file's whereabouts are still unknown, but has been uploaded to Youtube.",
-		"source" : "Youtube"
-		},
+    "Earliest Date": "2008/10/10",
+    "HQ Source(s)": "Youtube + Club Penguin Youtube Channel",
+    "Link": "https://www.youtube.com/watch?v=G4vqTvU9hvs",
+    "Medias": "Club Penguin",
+    "Name": "Space Adventure: Planet Y",
+    "Name_official": 1,
+    "Order": 80,
+    "Source Links": "https://www.youtube.com/watch?v=ORplNX1yUig",
+    "versions": {
+        "1": {
+            "info": "Highest quality available without ambience. This played in the flash version, though the file's whereabouts are still unknown, but has been uploaded to Youtube.",
+            "name": "Club Penguin Music OST - Space Adventure Planet 'Y' Theme Music 2014 [ORplNX1yUig].opus",
+            "source": "Youtube"
+        },
         "2": {
-            "name" : "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
-            "info" : "This video contains segments of the song in the highest quality available with background noise.",
-            "source" : "Club Penguin Youtube Channel"
+            "info": "This video contains segments of the song in the highest quality available with background noise.",
+            "name": "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
+            "source": "Club Penguin Youtube Channel"
         }
-	}
+    }
 }

@@ -1,62 +1,62 @@
 {
-    "Name": "Campy's Camp",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 39,
-    "Link": "https://youtu.be/Y9awoMKWFHU",
-    "Earliest Date": "2007/08/24",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 39,
-        "Earliest Date": "2007/08/24",
-        "Related To": "Camp Penguin, Earth Day Party, Anniversary Party",
-        "uses": {
-            "1": {
-                "date": "2007/08/24",
-                "use": "Camp Penguin",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Earth Day Party",
-                "files": "",
-                "info": ""
-            },
-            "3": {
-                "date": "?",
-                "use": "Anniversary Party (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Camp Party",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2007/08/24",
+        "Order": 39,
+        "Related To": "Camp Penguin, Earth Day Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2007/08/24",
+                "files": "",
+                "info": "",
+                "use": "Camp Penguin"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Earth Day Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Anniversary Party (??)"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "?",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "?",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "?"
             }
-        }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Camp Party"
+    "Earliest Date": "2007/08/24",
+    "HQ Source(s)": "App",
+    "Link": "https://youtu.be/Y9awoMKWFHU",
+    "Medias": "Club Penguin",
+    "Name": "Campy's Camp",
+    "Name_official": 1,
+    "Order": 39
 }

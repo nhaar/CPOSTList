@@ -1,38 +1,38 @@
 {
-    "Name": "Attack on The City of Heroic Things",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=KVRFBFRudhk",
-    "Order": 172,
-    "Link": "",
-    "Earliest Date": "2012/06/14",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 172,
-        "Earliest Date": "2012/06/14",
-        "Related To": "Marvel Super Hero Takeover",
-        "uses": {
-            "1": {
-                "date": "2012/06/14",
-                "use": "Marvel Super Hero Takeover",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "City of Heroes",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2012/06/14",
+        "Order": 172,
+        "Related To": "Marvel Super Hero Takeover",
+        "uses": [
+            {
+                "date": "2012/06/14",
+                "files": "",
+                "info": "",
+                "use": "Marvel Super Hero Takeover"
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "City of Heroes"
+    "Earliest Date": "2012/06/14",
+    "HQ Source(s)": "Youtube",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Attack on The City of Heroic Things",
+    "Name_official": 1,
+    "Order": 172,
+    "Source Links": "https://www.youtube.com/watch?v=KVRFBFRudhk"
 }

@@ -1,43 +1,43 @@
 {
-    "Name": "Extra Planetary Force",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 252,
-    "Link": "",
-    "Earliest Date": "2014/05/22",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 252,
-        "Earliest Date": "2014/05/22",
-        "Related To": "Future Party, Star Wars Rebels Takeover",
-        "uses": {
-            "1": {
-                "date": "2014/05/22",
-                "use": "Future Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Star Wars Rebels Takeover",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/05/22",
+        "Order": 252,
+        "Related To": "Future Party, Star Wars Rebels Takeover",
+        "uses": [
+            {
+                "date": "2014/05/22",
+                "files": "",
+                "info": "",
+                "use": "Future Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Star Wars Rebels Takeover"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/05/22",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Extra Planetary Force",
+    "Name_official": 1,
+    "Order": 252
 }

@@ -1,26 +1,26 @@
 {
-    "Name": "Alehouse",
-    "Name_official": 1,
-    "HQ Source(s)": "Sample",
-    "Source Links": "https://web.archive.org/web/20160628182714/http:/www.royaltyfreemusic.com/mp3/studiocutz-full/Alehouse_full.mp3",
-    "Order": 19,
-    "Link": "https://www.youtube.com/watch?v=e1MJomdCEck",
-    "Earliest Date": "2006/09/22",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 19,
         "Earliest Date": "2006/09/22",
+        "Order": 19,
         "Related To": "Lighthouse Opening",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2006/09/22",
-                "use": "Lighthouse Opening",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Lighthouse Opening"
             }
-        }
+        ]
     },
     "Composers": "Milo Deering, Ron Jones",
-    "Alternate Names": "",
+    "Earliest Date": "2006/09/22",
+    "HQ Source(s)": "Sample",
+    "Link": "https://www.youtube.com/watch?v=e1MJomdCEck",
+    "Medias": "Club Penguin",
+    "Name": "Alehouse",
+    "Name_official": 1,
+    "Order": 19,
+    "Source Links": "https://web.archive.org/web/20160628182714/http:/www.royaltyfreemusic.com/mp3/studiocutz-full/Alehouse_full.mp3",
     "notes": "It used to be for sale on SoundDogs."
 }

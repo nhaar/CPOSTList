@@ -1,43 +1,43 @@
 {
-    "Name": "DJ Christmas",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 48,
-    "Link": "https://www.youtube.com/watch?v=LFUZHKiNMB8",
-    "Earliest Date": "2007/12/21",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 48,
-        "Earliest Date": "2007/12/21",
-        "Related To": "Holiday Party",
-        "uses": {
-            "1": {
-                "date": "2007/12/21",
-                "use": "Holiday Party 2007",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Holiday Celebration, Ravey Xmas, Christmas 1",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Holiday Party 2015",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Holiday Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party 2015"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2007/12/21",
+        "Order": 48,
+        "Related To": "Holiday Party",
+        "uses": [
+            {
+                "date": "2007/12/21",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2007"
+            }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Holiday Celebration, Ravey Xmas, Christmas 1"
+    "Earliest Date": "2007/12/21",
+    "HQ Source(s)": "App",
+    "Link": "https://www.youtube.com/watch?v=LFUZHKiNMB8",
+    "Medias": "Club Penguin",
+    "Name": "DJ Christmas",
+    "Name_official": 1,
+    "Order": 48
 }

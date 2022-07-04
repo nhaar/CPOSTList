@@ -1,44 +1,44 @@
 {
-    "Name": "Cave of Battle",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/18zKccjmwLw",
-    "Order": 157,
-    "Link": "",
-    "Earliest Date": "2011/05/19",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Hydra Electric Damage",
     "CP Flash Info": {
-        "Order": 157,
         "Earliest Date": "2011/05/19",
+        "Order": 157,
         "Related To": "Medieval Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2011/05/19",
-                "use": "Medieval Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Medieval Party"
             }
-        }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Rockhopper Quest",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Rockhopper Quest",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Rockhopper Quest"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Hydra Electric Damage",
+    "Earliest Date": "2011/05/19",
+    "HQ Source(s)": "Youtube",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Cave of Battle",
+    "Name_official": 1,
+    "Order": 157,
+    "Source Links": "https://youtu.be/18zKccjmwLw",
     "versions": {
         "1": {
-            "name": "A Time for Heroes-478947087.mp3",
             "info": "",
+            "name": "A Time for Heroes-478947087.mp3",
             "source": "CPI SoundCloud"
         }
     }

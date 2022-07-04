@@ -1,25 +1,25 @@
 {
-    "Name": "City of Heroic Things",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud (NL) + Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=KVRFBFRudhk",
-    "Order": 171,
-    "Link": "",
-    "Earliest Date": "2012/06/14",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Marvel Super Hero Takeover Theme",
     "CP Flash Info": {
-        "Order": 171,
         "Earliest Date": "2012/06/14",
+        "Order": 171,
         "Related To": "Marvel Super Hero Takeover",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2012/06/14",
-                "use": "Mavel Super Hero Takeover",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Mavel Super Hero Takeover"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Marvel Super Hero Takeover Theme"
+    "Earliest Date": "2012/06/14",
+    "HQ Source(s)": "SoundCloud (NL) + Youtube",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "City of Heroic Things",
+    "Name_official": 1,
+    "Order": 171,
+    "Source Links": "https://www.youtube.com/watch?v=KVRFBFRudhk"
 }

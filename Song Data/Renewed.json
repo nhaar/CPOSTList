@@ -1,38 +1,41 @@
 {
-    "Name": "Renewed",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 6,
-    "Link": "https://www.youtube.com/watch?v=OVAK5NE5mNo",
-    "Earliest Date": "2005/12/14",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Puffle Roundup Theme",
     "CP Flash Info": {
-        "Order": 6,
         "Earliest Date": "2005/12/14",
+        "Order": 6,
         "Related To": "Puffle Roundup, The Fair 2014",
-        "uses": {
-            "1": {
-                "date" :"?",
-                "use": "Puffle Roundup",
-                "files" : "?",
-                "info" : ""
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Puffle Roundup"
             },
-            "2" : {
-                "date" : "?",
-                "use" : "The Fair 2014",
-                "files" : "?",
-                "info" : ""
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "The Fair 2014"
             }
-        }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Puffle Roundup"
     },
     "Composers": "Milo Deering, Kevin Bailey",
-    "Alternate Names": "Puffle Roundup Theme",
-    "stock" : {
-        "info" : {"origin" : "SmartSound", "link": "https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/"}
+    "Earliest Date": "2005/12/14",
+    "HQ Source(s)": "Other",
+    "Link": "https://www.youtube.com/watch?v=OVAK5NE5mNo",
+    "Medias": "Club Penguin",
+    "Name": "Renewed",
+    "Name_official": 1,
+    "Order": 6,
+    "stock": {
+        "info": {
+            "link": "https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/",
+            "origin": "SmartSound"
+        }
     }
 }

@@ -1,43 +1,43 @@
 {
-    "Name": "Fair Winds",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 294,
-    "Link": "",
-    "Earliest Date": "2014/11/20",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 294,
-        "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party, Inside Out Party",
-        "uses": {
-            "1": {
-                "date": "2014/11/20",
-                "use": "Pirate Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Inside Out Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/11/20",
+        "Order": 294,
+        "Related To": "Pirate Party, Inside Out Party",
+        "uses": [
+            {
+                "date": "2014/11/20",
+                "files": "",
+                "info": "",
+                "use": "Pirate Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Inside Out Party"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/11/20",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Fair Winds",
+    "Name_official": 1,
+    "Order": 294
 }

@@ -1,25 +1,25 @@
 {
-    "Name": "Card-Jitsu Snow Battle Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "Media Server",
-    "Source Links": "https://icer.ink/media1.clubpenguin.com/game/mpassets/minigames/cjsnow/en_US/deploy/sound/gameplay/mus_mg_201303_cjsnow_gamewindamb.mp3",
-    "Order": 196,
-    "Link": "",
-    "Earliest Date": "2013/05/23",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 196,
         "Earliest Date": "2013/05/23",
+        "Order": 196,
         "Related To": "Card-Jitsu Snow",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2013/05/23",
-                "use": "Card-Jitsu Snow",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Card-Jitsu Snow"
             }
-        }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2013/05/23",
+    "HQ Source(s)": "Media Server",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Card-Jitsu Snow Battle Theme",
+    "Name_official": 0,
+    "Order": 196,
+    "Source Links": "https://icer.ink/media1.clubpenguin.com/game/mpassets/minigames/cjsnow/en_US/deploy/sound/gameplay/mus_mg_201303_cjsnow_gamewindamb.mp3"
 }

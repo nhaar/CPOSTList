@@ -1,43 +1,43 @@
 {
-    "Name": "Glam Jam",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 342,
-    "Link": "",
-    "Earliest Date": "2015/08/26",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 342,
-        "Earliest Date": "2015/08/26",
-        "Related To": "Fashion Festival",
-        "uses": {
-            "1": {
-                "date": "2015/08/26",
-                "use": "Fashion Festival",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Fashion Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Fashion Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Fashion Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/08/26",
+        "Order": 342,
+        "Related To": "Fashion Festival",
+        "uses": [
+            {
+                "date": "2015/08/26",
+                "files": "",
+                "info": "",
+                "use": "Fashion Festival"
+            }
+        ]
     },
     "Composers": "David Fairfield",
-    "Alternate Names": ""
+    "Earliest Date": "2015/08/26",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Glam Jam",
+    "Name_official": 1,
+    "Order": 342
 }

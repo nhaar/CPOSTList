@@ -1,16 +1,16 @@
 {
-    "Name": "Rebel Base",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 305,
-    "Link": "",
-    "Earliest Date": "2015/01/22",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 305,
         "Earliest Date": "2015/01/22",
+        "Order": 305,
         "Related To": "Star Wars Rebels Takeover"
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/01/22",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Rebel Base",
+    "Name_official": 1,
+    "Order": 305
 }

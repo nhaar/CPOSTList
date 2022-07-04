@@ -1,37 +1,37 @@
 {
-    "Name": "Coruscant",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 306,
-    "Link": "",
-    "Earliest Date": "2015/01/22",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 306,
-        "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover",
-        "uses": {
-            "1": {
-                "date": "2015/01/22",
-                "use": "Star Wars Rebels Takeover",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/01/22",
+        "Order": 306,
+        "Related To": "Star Wars Rebels Takeover",
+        "uses": [
+            {
+                "date": "2015/01/22",
+                "files": "",
+                "info": "",
+                "use": "Star Wars Rebels Takeover"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/01/22",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Coruscant",
+    "Name_official": 1,
+    "Order": 306
 }

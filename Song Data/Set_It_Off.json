@@ -1,21 +1,21 @@
 {
-    "Name": "Set It Off",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 346,
-    "Link": "",
-    "Earliest Date": "2015/09/16",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 346,
-        "Earliest Date": "2015/09/16",
-        "Related To": "Descendants Party"
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Descendants Party"
     },
+    "CP Flash Info": {
+        "Earliest Date": "2015/09/16",
+        "Order": 346,
+        "Related To": "Descendants Party"
+    },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/09/16",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Set It Off",
+    "Name_official": 1,
+    "Order": 346
 }

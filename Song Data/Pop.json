@@ -1,16 +1,16 @@
 {
-    "Name": "Pop",
-    "Name_official": 1,
-    "HQ Source(s)": "SWF 248",
-    "Order": 78,
-    "Link": "https://www.youtube.com/watch?v=9tvk9NlBmSM",
-    "Earliest Date": "2008/08/22",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Girl Pop",
     "CP Flash Info": {
-        "Order": 78,
         "Earliest Date": "2008/08/22",
+        "Order": 78,
         "Related To": "Penguin Games"
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Girl Pop"
+    "Earliest Date": "2008/08/22",
+    "HQ Source(s)": "SWF 248",
+    "Link": "https://www.youtube.com/watch?v=9tvk9NlBmSM",
+    "Medias": "Club Penguin",
+    "Name": "Pop",
+    "Name_official": 1,
+    "Order": 78
 }

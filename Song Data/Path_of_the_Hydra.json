@@ -1,16 +1,16 @@
 {
-    "Name": "Path of the Hydra",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 155,
-    "Link": "",
-    "Earliest Date": "2011/05/19",
-    "Medias": "Club Penguin",
+    "Alternate Names": "The Path to Battle and Victory, Knight Quest Hydra Battle, Chamber of Gems & Place of Puzzles",
     "CP Flash Info": {
-        "Order": 155,
         "Earliest Date": "2011/05/19",
+        "Order": 155,
         "Related To": "Medieval Party"
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "The Path to Battle and Victory, Knight Quest Hydra Battle, Chamber of Gems & Place of Puzzles"
+    "Earliest Date": "2011/05/19",
+    "HQ Source(s)": "Other",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Path of the Hydra",
+    "Name_official": 1,
+    "Order": 155
 }

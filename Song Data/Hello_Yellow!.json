@@ -1,43 +1,43 @@
 {
-    "Name": "Hello Yellow!",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 263,
-    "Link": "",
-    "Earliest Date": "2014/06/19",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 263,
-        "Earliest Date": "2014/06/19",
-        "Related To": "Penguin Cup",
-        "uses": {
-            "1": {
-                "date": "2014/06/19",
-                "use": "Penguin Cup",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Fashion Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Fashion Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Fashion Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/06/19",
+        "Order": 263,
+        "Related To": "Penguin Cup",
+        "uses": [
+            {
+                "date": "2014/06/19",
+                "files": "",
+                "info": "",
+                "use": "Penguin Cup"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/06/19",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Hello Yellow!",
+    "Name_official": 1,
+    "Order": 263
 }

@@ -1,76 +1,76 @@
 {
-    "Name": "Crossing Over",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 3,
-    "Link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
-    "Earliest Date": "2005/10/24",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Dance Club Theme, Dance Mix 2",
+    "App Info": {
+        "Earliest Date": "?",
+        "Order": 1,
+        "Related To": "Dance Club",
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Dance Club"
+            }
+        ]
+    },
     "CP Flash Info": {
-        "Order": 3,
         "Earliest Date": "2005/10/24",
+        "Order": 3,
         "Related To": "Dance Club",
         "files": {
             "1": {
-                "name": "5.swf",
-                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random."
+                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random.",
+                "name": "5.swf"
             },
             "2": {
-                "name": "6.swf",
-                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random."
+                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random.",
+                "name": "6.swf"
             },
             "3": {
-                "name": "673.swf",
-                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D"
+                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D",
+                "name": "673.swf"
             }
         },
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2005/10/24",
-                "use": "Dance Club",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Dance Club"
             }
-        }
-    },
-    "App Info": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Dance Club",
-        "uses": {
-            "1": {
-                "date": "?",
-                "use": "Dance Club",
-                "files": "",
-                "info": ""
-            }
-        }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Beacon Boardwalk, Pirate Expedition",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Beacon Boardwalk",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Beacon Boardwalk"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Pirate Expedition",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Pirate Expedition"
             }
-        }
+        ]
     },
     "Composers": "Bjorn Lynne",
-    "Alternate Names": "Dance Club Theme, Dance Mix 2",
+    "Earliest Date": "2005/10/24",
+    "HQ Source(s)": "Other",
+    "Link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
+    "Medias": "Club Penguin",
+    "Name": "Crossing Over",
+    "Name_official": 1,
+    "Order": 3,
     "stock": {
         "info": {
-            "origin": "NEO Sounds",
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic"
+            "link": "https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic",
+            "origin": "NEO Sounds"
         },
         "sale": [
             "Full Track",
