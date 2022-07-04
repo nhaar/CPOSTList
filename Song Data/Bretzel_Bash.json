@@ -1,49 +1,49 @@
 {
-    "Name": "Bretzel Bash",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 240,
-    "Link": "",
-    "Earliest Date": "2014/03/20",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 240,
-        "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour, Puffle Party",
-        "uses": {
-            "1": {
-                "date": "2014/03/20",
-                "use": "Muppter's World Tour",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Puffle Party (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Party 2015",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Puffle Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Puffle Party 2015"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/03/20",
+        "Order": 240,
+        "Related To": "Muppet's World Tour, Puffle Party",
+        "uses": [
+            {
+                "date": "2014/03/20",
+                "files": "",
+                "info": "",
+                "use": "Muppter's World Tour"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party (??)"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/03/20",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Bretzel Bash",
+    "Name_official": 1,
+    "Order": 240
 }

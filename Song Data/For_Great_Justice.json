@@ -1,56 +1,56 @@
 {
-    "Name": "For Great Justice",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 51,
-    "Link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
-    "Earliest Date": "2008/01/11",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
-        "Order": 51,
-        "Earliest Date": "2008/01/11",
-        "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair",
-        "uses": {
-            "1": {
-                "date": "2008/01/11",
-                "use": "Squidzoid vs Shadow Guy and Gamma Gal",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "The Fair (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
-    "Game Day Info": {
-        "Order": 34,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Snow Forts Challenge",
-        "uses": {
-            "1": {
-                "date": "2010/09/17",
-                "use": "Snow Forts Challenge",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2008/01/11",
+        "Order": 51,
+        "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair",
+        "uses": [
+            {
+                "date": "2008/01/11",
+                "files": "",
+                "info": "",
+                "use": "Squidzoid vs Shadow Guy and Gamma Gal"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "The Fair (??)"
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic"
+    "Earliest Date": "2008/01/11",
+    "Game Day Info": {
+        "Earliest Date": "2010/09/17",
+        "Order": 34,
+        "Related To": "Snow Forts Challenge",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Snow Forts Challenge"
+            }
+        ]
+    },
+    "HQ Source(s)": "Game Day",
+    "Link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "Name": "For Great Justice",
+    "Name_official": 1,
+    "Order": 51
 }

@@ -1,72 +1,79 @@
 {
-    "Name": "Jingle Bells",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + Other",
-    "Source Links": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
-    "Order": 8,
-    "Link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
-    "Earliest Date": "2005/12/22",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 8,
-        "Earliest Date": "2005/12/22",
-        "Related To": "Christmas Party 2005, Christmas Party 2007, Anniversary Party 2015",
-        "uses": {
-			"1": {
-			"date" :"?",
-			"use": "Holiday Party 2005", 
-			"files": "?",
-			"info" : ""
-			},
-			"2": {
-                "date" :"?",
-                "use": "10th Anniversary Party", 
-                "files": "?",
-                "info" : ""
-                }
-		}
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Halloween Party 2015"
     },
-    "Composers": "Joe",
-    "Alternate Names": "",
-    "stock": {
-		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne"},
-		"sale" : ["Full track", "30-secs version", "Set of 3 music loops"]
-	},
-	"versions": {
-        "1": {
-            "name" : "Jingle Bells-182017542.mp3",
-            "info" : "Highest quality available, but incomplete.",
-            "source" : "SoundCloud"
+    "CP Flash Info": {
+        "Earliest Date": "2005/12/22",
+        "Order": 8,
+        "Related To": "Christmas Party 2005, Christmas Party 2007, Anniversary Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Holiday Party 2005"
             },
-            "2": {
-                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
-                "info" : "Highest quality complete version available.",
-                "source" : "Sample"
-                },
-            "3": {
-                "name" : "jingle-bells-30secs-preview-no-voiceover.mp3",
-                "info" : "30-secs version.",
-                "source" : "Sample"
-                },
-            "4": {
-                "name" : "jingle-bells-no-voiceover-loop01.mp3",
-                "info" : "Loop 1 from the set of 3 loops.",
-                "source" : "Sample"
-                },
-            "5": {
-                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
-                "info" : "Loop 2 from the set of 3 loops.",
-                "source" : "Sample"
-                },
-            "6": {
-                "name" : "jingle-bells-complete-preview-no-voiceover.mp3",
-                "info" : "Loop 3 from the set of 3 loops.",
-                "source" : "Sample"
-        }   
-	}
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "10th Anniversary Party"
+            }
+        ]
+    },
+    "Composers": "Joe",
+    "Earliest Date": "2005/12/22",
+    "HQ Source(s)": "SoundCloud + Other",
+    "Link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
+    "Medias": "Club Penguin",
+    "Name": "Jingle Bells",
+    "Name_official": 1,
+    "Order": 8,
+    "Source Links": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
+    "stock": {
+        "info": {
+            "link": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
+            "origin": "Shockwave Sound"
+        },
+        "sale": [
+            "Full track",
+            "30-secs version",
+            "Set of 3 music loops"
+        ]
+    },
+    "versions": {
+        "1": {
+            "info": "Highest quality available, but incomplete.",
+            "name": "Jingle Bells-182017542.mp3",
+            "source": "SoundCloud"
+        },
+        "2": {
+            "info": "Highest quality complete version available.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        "3": {
+            "info": "30-secs version.",
+            "name": "jingle-bells-30secs-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        "4": {
+            "info": "Loop 1 from the set of 3 loops.",
+            "name": "jingle-bells-no-voiceover-loop01.mp3",
+            "source": "Sample"
+        },
+        "5": {
+            "info": "Loop 2 from the set of 3 loops.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        "6": {
+            "info": "Loop 3 from the set of 3 loops.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        }
+    }
 }

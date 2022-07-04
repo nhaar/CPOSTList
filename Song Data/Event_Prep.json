@@ -1,68 +1,68 @@
 {
-    "Name": "Event Prep",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Source Links": "https://web.archive.org/web/20210928075227oe_/https://s3.amazonaws.com/preview.freshmusic.com/2123/2123_06.m4a",
-    "Order": 18,
-    "Link": "https://youtu.be/clyysAx8yGc",
-    "Earliest Date": "2006/08/11",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 18,
-        "Earliest Date": "2006/08/11",
-        "Related To": "Sports Party, Penguin Games, Puffle Party 2011, Puffle Party 2012",
-        "uses": {
-            "1": {
-                "date": "2006/08/11",
-                "use": "Sports Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Penguin Games",
-                "files": "",
-                "info": ""
-            },
-            "3": {
-                "date": "?",
-                "use": "Puffle Party 2011",
-                "files": "",
-                "info": ""
-            },
-            "4": {
-                "date": "?",
-                "use": "Puffle party 2012",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Fashion Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Fashion Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Fashion Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2006/08/11",
+        "Order": 18,
+        "Related To": "Sports Party, Penguin Games, Puffle Party 2011, Puffle Party 2012",
+        "uses": [
+            {
+                "date": "2006/08/11",
+                "files": "",
+                "info": "",
+                "use": "Sports Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Penguin Games"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2011"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle party 2012"
+            }
+        ]
     },
     "Composers": "Curt Macdonald",
-    "Alternate Names": "",
+    "Earliest Date": "2006/08/11",
+    "HQ Source(s)": "Other",
+    "Link": "https://youtu.be/clyysAx8yGc",
+    "Medias": "Club Penguin",
+    "Name": "Event Prep",
+    "Name_official": 1,
+    "Order": 18,
+    "Source Links": "https://web.archive.org/web/20210928075227oe_/https://s3.amazonaws.com/preview.freshmusic.com/2123/2123_06.m4a",
     "stock": {
         "info": {
-            "origin": "SoundDogs",
-            "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep"
+            "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep",
+            "origin": "SoundDogs"
         }
     }
 }

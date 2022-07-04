@@ -1,56 +1,56 @@
 {
-    "Name": "Epic Island",
-    "Name_official": 1,
-    "HQ Source(s)": "CPI SoundCloud",
-    "Order": 384,
-    "Link": "",
-    "Earliest Date": "2017/01/31",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 384,
-        "Earliest Date": "2017/01/31",
-        "Related To": "Waddle On Party",
-        "uses": {
-            "1": {
-                "date": "2017/01/31",
-                "use": "Waddle On Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Club Penguin Island Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Club Penguin Island Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Club Penguin Island Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2017/01/31",
+        "Order": 384,
+        "Related To": "Waddle On Party",
+        "uses": [
+            {
+                "date": "2017/01/31",
+                "files": "",
+                "info": "",
+                "use": "Waddle On Party"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
     },
     "Composers": "David Fairfield",
-    "Alternate Names": ""
+    "Earliest Date": "2017/01/31",
+    "HQ Source(s)": "CPI SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Epic Island",
+    "Name_official": 1,
+    "Order": 384
 }

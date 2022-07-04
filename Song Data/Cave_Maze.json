@@ -1,49 +1,49 @@
 {
-    "Name": "Cave Maze",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 329,
-    "Link": "",
-    "Earliest Date": "2015/04/15",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 329,
-        "Earliest Date": "2015/04/15",
-        "Related To": "Cave Maze, Operation: Tri-umph",
-        "uses": {
-            "1": {
-                "date": "2015/04/15",
-                "use": "Cave Maze",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Operation: Tri-umph",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Undeground Adventure",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Cave Maze Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Cave Maze Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Cave Maze Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/04/15",
+        "Order": 329,
+        "Related To": "Cave Maze, Operation: Tri-umph",
+        "uses": [
+            {
+                "date": "2015/04/15",
+                "files": "",
+                "info": "",
+                "use": "Cave Maze"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Operation: Tri-umph"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": "Undeground Adventure"
+    "Earliest Date": "2015/04/15",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Cave Maze",
+    "Name_official": 1,
+    "Order": 329
 }

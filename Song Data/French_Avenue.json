@@ -1,62 +1,62 @@
 {
-    "Name": "French Avenue",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + App",
-    "Order": 243,
-    "Link": "",
-    "Earliest Date": "2014/03/20",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 243,
-        "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour, Puffle Party",
-        "uses": {
-            "1": {
-                "date": "2014/03/20",
-                "use": "Muppet's World Tour",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Puffle Party (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Party 2015",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Puffle Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Puffle Party 2015"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/03/20",
+        "Order": 243,
+        "Related To": "Muppet's World Tour, Puffle Party",
+        "uses": [
+            {
+                "date": "2014/03/20",
+                "files": "",
+                "info": "",
+                "use": "Muppet's World Tour"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party (??)"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Summer Splash 2018",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Summer Splash 2018",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Summer Splash 2018"
             }
-        }
+        ]
     },
     "Composers": "David Fairfield",
-    "Alternate Names": ""
+    "Earliest Date": "2014/03/20",
+    "HQ Source(s)": "SoundCloud + App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "French Avenue",
+    "Name_official": 1,
+    "Order": 243
 }

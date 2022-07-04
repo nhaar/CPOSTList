@@ -1,23 +1,23 @@
 {
+    "CP Flash Unused Info": {
+        "Earliest Date": "?",
+        "Order": 3,
+        "Related To": "Puffle Launch",
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Launch"
+            }
+        ]
+    },
+    "Composers": "Chris Hendricks",
+    "Earliest Date": "?",
+    "HQ Source(s)": "Youtube",
+    "Medias": "Club Penguin Unused",
     "Name": "Boss Bullet",
     "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/R8so7BYd9ZI?t=257",
     "Order": 151.7,
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
-    "CP Flash Unused Info": {
-        "Order": 3,
-        "Earliest Date": "?",
-        "Related To": "Puffle Launch",
-        "uses": {
-            "1": {
-                "date": "?",
-                "use": "Puffle Launch",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
-    "Composers": "Chris Hendricks"
+    "Source Links": "https://youtu.be/R8so7BYd9ZI?t=257"
 }

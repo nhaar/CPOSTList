@@ -1,37 +1,37 @@
 {
-    "Name": "English Anthem",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 244,
-    "Link": "",
-    "Earliest Date": "2014/03/20",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 244,
-        "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour",
-        "uses": {
-            "1": {
-                "date": "2014/03/20",
-                "use": "Muppet's World Tour",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/03/20",
+        "Order": 244,
+        "Related To": "Muppet's World Tour",
+        "uses": [
+            {
+                "date": "2014/03/20",
+                "files": "",
+                "info": "",
+                "use": "Muppet's World Tour"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/03/20",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "English Anthem",
+    "Name_official": 1,
+    "Order": 244
 }

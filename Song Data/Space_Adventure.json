@@ -1,53 +1,53 @@
 {
-    "Name": "Space Adventure",
-    "Name_official": 1,
-    "HQ Source(s)": "SWF 30 + Youtube + Youtube + Club Penguin Youtube Channel",
-    "Source Links": "https://www.youtube.com/watch?v=XxoEDiwd6bU,https://www.youtube.com/watch?v=atcWcTDrWVI",
-    "Order": 45,
-    "Link": "https://www.youtube.com/watch?v=2VUkmPANEDQ",
-    "Earliest Date": "2007/11/16",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 45,
         "Earliest Date": "2007/11/16",
+        "Order": 45,
         "Related To": "Space Adventure",
-		"uses": {
-			"1": {
-			"date" :"2007/Nov/??",
-			"use": "", 
-			"files": "30.swf",
-			"info" : ""
-			},
-			"2": {
-                "date" :"2008/Mar/??",
-                "use": "Space Adventure", 
+        "uses": [
+            {
+                "date": "2007/Nov/??",
+                "files": "30.swf",
+                "info": "",
+                "use": ""
+            },
+            {
+                "date": "2008/Mar/??",
                 "files": "?",
-                "info" : "This version has been lost, alongside all its exclusive segments, and only survives in Youtube videos."
+                "info": "This version has been lost, alongside all its exclusive segments, and only survives in Youtube videos.",
+                "use": "Space Adventure"
             }
-		}
+        ]
     },
     "Composers": "?",
-    "Alternate Names": "",
-	"versions": {
-		"1": {
-		"name" : "30.swf",
-		"info" : "",
-		"source" : "SWF 30"
-		},
-		"2": {
-            "name" : "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
-            "info" : "Contains segments in the highest available quality with background noises around the video.",
-            "source" : "Club Penguin Youtube Channel"
+    "Earliest Date": "2007/11/16",
+    "HQ Source(s)": "SWF 30 + Youtube + Youtube + Club Penguin Youtube Channel",
+    "Link": "https://www.youtube.com/watch?v=2VUkmPANEDQ",
+    "Medias": "Club Penguin",
+    "Name": "Space Adventure",
+    "Name_official": 1,
+    "Order": 45,
+    "Source Links": "https://www.youtube.com/watch?v=XxoEDiwd6bU,https://www.youtube.com/watch?v=atcWcTDrWVI",
+    "versions": {
+        "1": {
+            "info": "",
+            "name": "30.swf",
+            "source": "SWF 30"
         },
-		"3": {
-            "name" : "Club Penguin - Space Adventure [XxoEDiwd6bU].opus",
-            "info" : "A video with all the lost segments from the March 2008 version, with minimal background noises.",
-            "source" : ""
+        "2": {
+            "info": "Contains segments in the highest available quality with background noises around the video.",
+            "name": "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
+            "source": "Club Penguin Youtube Channel"
         },
-		"4": {
-            "name" : "ClubPenguin -Space Adventure(Stage Play) [atcWcTDrWVI].opus",
-            "info" : "A video with some of the lost segments from the March 2008 verison, in the highest quality available with background noises.",
-            "source" : ""
+        "3": {
+            "info": "A video with all the lost segments from the March 2008 version, with minimal background noises.",
+            "name": "Club Penguin - Space Adventure [XxoEDiwd6bU].opus",
+            "source": ""
+        },
+        "4": {
+            "info": "A video with some of the lost segments from the March 2008 verison, in the highest quality available with background noises.",
+            "name": "ClubPenguin -Space Adventure(Stage Play) [atcWcTDrWVI].opus",
+            "source": ""
         }
-	}
+    }
 }

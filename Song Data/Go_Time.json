@@ -1,56 +1,56 @@
 {
-    "Name": "Go Time",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 326,
-    "Link": "",
-    "Earliest Date": "2015/03/26",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 326,
-        "Earliest Date": "2015/03/26",
-        "Related To": "Puffle Party",
-        "uses": {
-            "1": {
-                "date": "20150326",
-                "use": "Puffle Party 2015",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Party 2015",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Puffle Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Puffle Party 2015"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/03/26",
+        "Order": 326,
+        "Related To": "Puffle Party",
+        "uses": [
+            {
+                "date": "20150326",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Mount Blizzard",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Mount Blizzard",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Mount Blizzard"
             }
-        }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/03/26",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Go Time",
+    "Name_official": 1,
+    "Order": 326
 }

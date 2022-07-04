@@ -1,43 +1,43 @@
 {
-    "Name": "Frozen Celebration",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 373,
-    "Link": "",
-    "Earliest Date": "2016/08/17",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 373,
-        "Earliest Date": "2016/08/17",
-        "Related To": "Frozen Fever Party",
-        "uses": {
-            "1": {
-                "date": "2016/08/17",
-                "use": "Frozen Fever Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Frozen Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Frozen Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Frozen Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2016/08/17",
+        "Order": 373,
+        "Related To": "Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2016/08/17",
+                "files": "",
+                "info": "",
+                "use": "Frozen Fever Party"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2016/08/17",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Frozen Celebration",
+    "Name_official": 1,
+    "Order": 373
 }

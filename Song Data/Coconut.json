@@ -1,56 +1,56 @@
 {
-    "Name": "Coconut",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 35,
-    "Link": "https://youtu.be/ZNrLDmo7hTU",
-    "Earliest Date": "2007/06/08",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 35,
-        "Earliest Date": "2007/06/08",
-        "Related To": "Summer Kickoff Party, April Fools Party",
-        "uses": {
-            "1": {
-                "date": "2007/06/08",
-                "use": "Summer Kickoff Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "April Fools (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Candy Dimension",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2007/06/08",
+        "Order": 35,
+        "Related To": "Summer Kickoff Party, April Fools Party",
+        "uses": [
+            {
+                "date": "2007/06/08",
+                "files": "",
+                "info": "",
+                "use": "Summer Kickoff Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "April Fools (??)"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "?",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "?",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "?"
             }
-        }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Candy Dimension"
+    "Earliest Date": "2007/06/08",
+    "HQ Source(s)": "App",
+    "Link": "https://youtu.be/ZNrLDmo7hTU",
+    "Medias": "Club Penguin",
+    "Name": "Coconut",
+    "Name_official": 1,
+    "Order": 35
 }

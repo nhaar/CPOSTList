@@ -1,24 +1,24 @@
 {
-    "Name": "Box Dimension V1",
-    "Name_official": 0,
+    "CP Flash Unused Info": {
+        "Earliest Date": "?",
+        "Order": 0.2,
+        "Related To": "Box Dimension",
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Box Dimension"
+            }
+        ]
+    },
+    "Composers": "Chris Hendricks",
+    "Earliest Date": "?",
     "HQ Source(s)": "Youtube",
     "Link": "https://youtu.be/qfbeWw7UHKg",
-    "Source Links": "https://youtu.be/eoq6Z0IEbeQ?t=101",
-    "Order": 98.5,
-    "Earliest Date": "?",
     "Medias": "Club Penguin Unused",
-    "CP Flash Unused Info": {
-        "Order": 0.2,
-        "Earliest Date": "?",
-        "Related To": "Box Dimension",
-        "uses": {
-            "1": {
-                "date": "?",
-                "use": "Box Dimension",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
-    "Composers": "Chris Hendricks"
+    "Name": "Box Dimension V1",
+    "Name_official": 0,
+    "Order": 98.5,
+    "Source Links": "https://youtu.be/eoq6Z0IEbeQ?t=101"
 }

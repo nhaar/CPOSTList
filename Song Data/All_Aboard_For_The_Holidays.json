@@ -1,57 +1,57 @@
 {
-    "Name": "All Aboard For The Holidays",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + Norrie Henderson Portfolio",
-    "Source Links": "https://www.norriehenderson.com/portfolio",
-    "Order": 228,
-    "Link": "",
-    "Earliest Date": "2013/12/19",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 228,
-        "Earliest Date": "2013/12/19",
-        "Related To": "Holiday Party",
-        "uses": {
-            "1": {
-                "date": "2013/12/19",
-                "use": "Holiday Party 2013",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Holiday Party 2014",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Holiday Party 2014",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party 2014"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2013/12/19",
+        "Order": 228,
+        "Related To": "Holiday Party",
+        "uses": [
+            {
+                "date": "2013/12/19",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2013"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Holiday 2017",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Holiday Party 2017",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party 2017"
             }
-        }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2013/12/19",
+    "HQ Source(s)": "SoundCloud + Norrie Henderson Portfolio",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "All Aboard For The Holidays",
+    "Name_official": 1,
+    "Order": 228,
+    "Source Links": "https://www.norriehenderson.com/portfolio"
 }

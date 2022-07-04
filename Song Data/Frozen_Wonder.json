@@ -1,44 +1,44 @@
 {
-    "Name": "Frozen Wonder",
-    "Name_official": 1,
-    "HQ Source(s)": "Norrie Henderson Portfolio",
-    "Source Links": "https://www.norriehenderson.com/portfolio",
-    "Order": 276,
-    "Link": "",
-    "Earliest Date": "2014/08/21",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 276,
-        "Earliest Date": "2014/08/21",
-        "Related To": "Frozen Party, Frozen Fever Party",
-        "uses": {
-            "1": {
-                "date": "2014/08/21",
-                "use": "Frozen Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Frozen Fever Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/08/21",
+        "Order": 276,
+        "Related To": "Frozen Party, Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2014/08/21",
+                "files": "",
+                "info": "",
+                "use": "Frozen Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Frozen Fever Party"
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    "Earliest Date": "2014/08/21",
+    "HQ Source(s)": "Norrie Henderson Portfolio",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Frozen Wonder",
+    "Name_official": 1,
+    "Order": 276,
+    "Source Links": "https://www.norriehenderson.com/portfolio"
 }

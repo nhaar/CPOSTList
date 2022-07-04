@@ -1,43 +1,43 @@
 {
-    "Name": "Catching Snowflakes",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 298,
-    "Link": "",
-    "Earliest Date": "2014/12/18",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 298,
-        "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party",
-        "uses": {
-            "1": {
-                "date": "2014/12/18",
-                "use": "Merry Walrus Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Holiday Party 2015",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Holiday Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party 2015"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/12/18",
+        "Order": 298,
+        "Related To": "Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2014/12/18",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Catching Snowflakes",
+    "Name_official": 1,
+    "Order": 298
 }

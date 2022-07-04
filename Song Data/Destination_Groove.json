@@ -1,43 +1,43 @@
 {
-    "Name": "Destination Groove",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 360,
-    "Link": "",
-    "Earliest Date": "2016/05/18",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 360,
-        "Earliest Date": "2016/05/18",
-        "Related To": "Zootopia Party",
-        "uses": {
-            "1": {
-                "date": "2016/05/18",
-                "use": "Zootopia Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Zootopia Party, Zootopia Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Zootopia Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Zootopia Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2016/05/18",
+        "Order": 360,
+        "Related To": "Zootopia Party",
+        "uses": [
+            {
+                "date": "2016/05/18",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2016/05/18",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Destination Groove",
+    "Name_official": 1,
+    "Order": 360
 }

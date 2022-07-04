@@ -1,50 +1,50 @@
 {
-    "Name": "Gingerbread Manic",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/VZezeEwBakA",
-    "Order": 165,
-    "Link": "",
-    "Earliest Date": "2011/12/15",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 165,
-        "Earliest Date": "2011/12/15",
-        "Related To": "Holiday Party, Merry Walrus Party",
-        "uses": {
-            "1": {
-                "date": "2011/12/15",
-                "use": "Holiday party 2011",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Merry Walrus Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Bakery Room Theme, A Little Holiday Magic",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Holiday Party 2013",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Holiday Party 2013",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party 2013"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2011/12/15",
+        "Order": 165,
+        "Related To": "Holiday Party, Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2011/12/15",
+                "files": "",
+                "info": "",
+                "use": "Holiday party 2011"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": "Bakery Room Theme, A Little Holiday Magic"
+    "Earliest Date": "2011/12/15",
+    "HQ Source(s)": "Youtube",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Gingerbread Manic",
+    "Name_official": 1,
+    "Order": 165,
+    "Source Links": "https://youtu.be/VZezeEwBakA"
 }

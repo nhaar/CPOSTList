@@ -1,43 +1,43 @@
 {
-    "Name": "All-Access Pass",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 107,
-    "Link": "https://www.youtube.com/watch?v=8BMLcROkgLc",
-    "Earliest Date": "2009/07/17",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 107,
-        "Earliest Date": "2009/07/17",
-        "Related To": "Music Jam, Puffle Party",
-        "uses": {
-            "1": {
-                "date": "2009/07/17",
-                "use": "Music Jam 2017",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Puffle Party (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "VIP Pass",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2009/07/17",
+        "Order": 107,
+        "Related To": "Music Jam, Puffle Party",
+        "uses": [
+            {
+                "date": "2009/07/17",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2017"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party (??)"
+            }
+        ]
     },
     "Composers": "Michael Campitelli",
-    "Alternate Names": "VIP Pass"
+    "Earliest Date": "2009/07/17",
+    "HQ Source(s)": "App",
+    "Link": "https://www.youtube.com/watch?v=8BMLcROkgLc",
+    "Medias": "Club Penguin",
+    "Name": "All-Access Pass",
+    "Name_official": 1,
+    "Order": 107
 }

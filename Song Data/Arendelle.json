@@ -1,37 +1,37 @@
 {
-    "Name": "Arendelle",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 332,
-    "Link": "",
-    "Earliest Date": "2015/04/22",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 332,
-        "Earliest Date": "2015/04/22",
-        "Related To": "Frozen Fever Party",
-        "uses": {
-            "1": {
-                "date": "2015/04/22",
-                "use": "Frozen Fever Party",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/04/22",
+        "Order": 332,
+        "Related To": "Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2015/04/22",
+                "files": "",
+                "info": "",
+                "use": "Frozen Fever Party"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/04/22",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Arendelle",
+    "Name_official": 1,
+    "Order": 332
 }

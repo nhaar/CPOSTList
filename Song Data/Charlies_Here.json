@@ -1,57 +1,57 @@
 {
-    "Name": "Charlie's Here",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 12,
-    "Link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
-    "Earliest Date": "2006/02/24",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 12,
-        "Earliest Date": "2006/02/24",
-        "Related To": "Pizza Parlor",
-        "uses": {
-            "1": {
-                "date": "2006/02/24",
-                "use": "Pizza Parlor",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "Pizza Parlor Theme",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Operation: Tri-umph",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Operation: Tri-ump",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Operation: Tri-ump"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2006/02/24",
+        "Order": 12,
+        "Related To": "Pizza Parlor",
+        "uses": [
+            {
+                "date": "2006/02/24",
+                "files": "",
+                "info": "",
+                "use": "Pizza Parlor"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Town",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Town",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Town"
             }
-        }
+        ]
     },
     "Composers": "Doug Frantz",
-    "Alternate Names": "Pizza Parlor Theme",
+    "Earliest Date": "2006/02/24",
+    "HQ Source(s)": "Other",
+    "Link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
+    "Medias": "Club Penguin",
+    "Name": "Charlie's Here",
+    "Name_official": 1,
+    "Order": 12,
     "notes": "This song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere."
 }

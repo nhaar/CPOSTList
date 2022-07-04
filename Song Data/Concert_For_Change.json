@@ -1,24 +1,24 @@
 {
-    "Name": "Concert For Change",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF Lighthouse + Other",
-    "Order": 122,
-    "Link": "https://youtu.be/5_QZeZiWT1k",
-    "Earliest Date": "2009/12/18",
-    "Medias": "Club Penguin",
+    "Alternate Names": "",
     "CP Flash Info": {
-        "Order": 122,
         "Earliest Date": "2009/12/18",
+        "Order": 122,
         "Related To": "Holiday Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2009/12/18",
-                "use": "Holiday Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Holiday Party"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    "Earliest Date": "2009/12/18",
+    "HQ Source(s)": "SWF Lighthouse + Other",
+    "Link": "https://youtu.be/5_QZeZiWT1k",
+    "Medias": "Club Penguin",
+    "Name": "Concert For Change",
+    "Name_official": 0,
+    "Order": 122
 }

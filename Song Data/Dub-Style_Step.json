@@ -1,56 +1,56 @@
 {
-    "Name": "Dub-Style Step",
-    "Name_official": 1,
-    "HQ Source(s)": "CPI SoundCloud",
-    "Order": 315,
-    "Link": "",
-    "Earliest Date": "2015/02/19",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 315,
-        "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party, Music Jam",
-        "uses": {
-            "1": {
-                "date": "2015/02/19",
-                "use": "SoundStudio Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Music Jam (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/02/19",
+        "Order": 315,
+        "Related To": "SoundStudio Party, Music Jam",
+        "uses": [
+            {
+                "date": "2015/02/19",
+                "files": "",
+                "info": "",
+                "use": "SoundStudio Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Music Jam (??)"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Sea Caves",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Sea Caves",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Sea Caves"
             }
-        }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/02/19",
+    "HQ Source(s)": "CPI SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Dub-Style Step",
+    "Name_official": 1,
+    "Order": 315
 }

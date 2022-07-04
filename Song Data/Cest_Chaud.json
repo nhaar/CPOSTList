@@ -1,101 +1,101 @@
 {
-      "Name": "C'est Chaud",
-      "Name_official": 1,
-      "HQ Source(s)": "Other + Sample",
-      "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2499/c-est-chaud-lynnemusic",
-      "Order": 28,
-      "Link": "https://youtu.be/0d668Y6Oqfg",
-      "Earliest Date": "2007/03/16",
-      "Medias": "Club Penguin",
-      "CP Flash Info": {
-            "Order": 28,
-            "Earliest Date": "2007/03/16",
-            "Related To": "Igloo, April Fools Party 2011, April Fools Party 2012, Extreme Paint Festival",
-            "uses": {
-                  "1": {
-                        "date": "2007/03/16",
-                        "use": "Igloo",
-                        "files": "",
-                        "info": ""
-                  },
-                  "2": {
-                        "date": "?",
-                        "use": "April Fools Party 2011",
-                        "files": "",
-                        "info": ""
-                  },
-                  "3": {
-                        "date": "?",
-                        "use": "April Fools Party 2012",
-                        "files": "",
-                        "info": ""
-                  },
-                  "4": {
-                        "date": "?",
-                        "use": "Extreme Paint Festival",
-                        "files": "",
-                        "info": ""
-                  }
+    "Alternate Names": "Folk Guitar",
+    "CP Flash Info": {
+        "Earliest Date": "2007/03/16",
+        "Order": 28,
+        "Related To": "Igloo, April Fools Party 2011, April Fools Party 2012, Extreme Paint Festival",
+        "uses": [
+            {
+                "date": "2007/03/16",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "April Fools Party 2011"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "April Fools Party 2012"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Extreme Paint Festival"
             }
-      },
-      "Composers": "Milo Deering, Danny Brown",
-      "Alternate Names": "Folk Guitar",
-      "stock": {
-            "info": {
-                  "origin": "NEO Sounds",
-                  "link": "https://www.neosounds.com/royalty-free-music/songs/2499/c-est-chaud-lynnemusic"
-            },
-            "sale": [
-                  "Full Track",
-                  "Variation",
-                  "30sec",
-                  "Loop A",
-                  "Loop B",
-                  "Loop C",
-                  "Loop D",
-                  "Loop E"
-            ]
-      },
-      "versions": {
-            "1": {
-                  "name": "C'est Chaud-I1bIeSObFNY.wav",
-                  "info": "Full version.",
-                  "source": "Youtube"
-            },
-            "2": {
-                  "name": "9445.mp3",
-                  "info": "Variation version.",
-                  "source": "Sample"
-            },
-            "3": {
-                  "name": "30 seconds version.",
-                  "info": "9446.mp3",
-                  "source": "Sample"
-            },
-            "4": {
-                  "name": "9447.mp3",
-                  "info": "Loop A",
-                  "source": "Sample"
-            },
-            "5": {
-                  "name": "9448.mp3",
-                  "info": "Loop B",
-                  "source": "Sample"
-            },
-            "6": {
-                  "name": "9449.mp3",
-                  "info": "Loop C",
-                  "source": "Sample"
-            },
-            "7": {
-                  "name": "9450.mp3",
-                  "info": "Loop D",
-                  "source": "Sample"
-            },
-            "8": {
-                  "name": "9451.mp3",
-                  "info": "Loop E",
-                  "source": "Sample"
-            }
-      }
+        ]
+    },
+    "Composers": "Milo Deering, Danny Brown",
+    "Earliest Date": "2007/03/16",
+    "HQ Source(s)": "Other + Sample",
+    "Link": "https://youtu.be/0d668Y6Oqfg",
+    "Medias": "Club Penguin",
+    "Name": "C'est Chaud",
+    "Name_official": 1,
+    "Order": 28,
+    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2499/c-est-chaud-lynnemusic",
+    "stock": {
+        "info": {
+            "link": "https://www.neosounds.com/royalty-free-music/songs/2499/c-est-chaud-lynnemusic",
+            "origin": "NEO Sounds"
+        },
+        "sale": [
+            "Full Track",
+            "Variation",
+            "30sec",
+            "Loop A",
+            "Loop B",
+            "Loop C",
+            "Loop D",
+            "Loop E"
+        ]
+    },
+    "versions": {
+        "1": {
+            "info": "Full version.",
+            "name": "C'est Chaud-I1bIeSObFNY.wav",
+            "source": "Youtube"
+        },
+        "2": {
+            "info": "Variation version.",
+            "name": "9445.mp3",
+            "source": "Sample"
+        },
+        "3": {
+            "info": "9446.mp3",
+            "name": "30 seconds version.",
+            "source": "Sample"
+        },
+        "4": {
+            "info": "Loop A",
+            "name": "9447.mp3",
+            "source": "Sample"
+        },
+        "5": {
+            "info": "Loop B",
+            "name": "9448.mp3",
+            "source": "Sample"
+        },
+        "6": {
+            "info": "Loop C",
+            "name": "9449.mp3",
+            "source": "Sample"
+        },
+        "7": {
+            "info": "Loop D",
+            "name": "9450.mp3",
+            "source": "Sample"
+        },
+        "8": {
+            "info": "Loop E",
+            "name": "9451.mp3",
+            "source": "Sample"
+        }
+    }
 }

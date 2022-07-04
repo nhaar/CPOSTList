@@ -1,49 +1,49 @@
 {
-    "Name": "Go Time Remix",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 327,
-    "Link": "",
-    "Earliest Date": "2015/03/26",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 327,
-        "Earliest Date": "2015/03/26",
-        "Related To": "Puffle Party",
-        "uses": {
-            "1": {
-                "date": "2015/03/26",
-                "use": "Puffle Party 2015",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Puffle Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Puffle Party 2015"
             },
-            "3": {
+            {
                 "date": "?",
-                "use": "Operation: Tri-umph",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Operation: Tri-umph"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2015/03/26",
+        "Order": 327,
+        "Related To": "Puffle Party",
+        "uses": [
+            {
+                "date": "2015/03/26",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "2015/03/26",
+    "HQ Source(s)": "SoundCloud",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Go Time Remix",
+    "Name_official": 1,
+    "Order": 327
 }

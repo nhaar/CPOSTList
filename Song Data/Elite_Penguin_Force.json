@@ -1,38 +1,38 @@
 {
-    "Name": "Elite Penguin Force",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 132,
-    "Link": "https://youtu.be/Fs43CFTDxrM",
-    "Earliest Date": "2010/05/27",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 132,
-        "Earliest Date": "2010/05/27",
-        "Related To": "EPF",
-        "uses": {
-            "1": {
-                "date": "2010/05/27",
-                "use": "EPF Command Room",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "EPF Command Room Theme",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2010/05/27",
+        "Order": 132,
+        "Related To": "EPF",
+        "uses": [
+            {
+                "date": "2010/05/27",
+                "files": "",
+                "info": "",
+                "use": "EPF Command Room"
+            }
+        ]
     },
     "Composers": "Chris Hendricks, Bart Roijmans",
-    "Alternate Names": "EPF Command Room Theme",
+    "Earliest Date": "2010/05/27",
+    "HQ Source(s)": "Other",
+    "Link": "https://youtu.be/Fs43CFTDxrM",
+    "Medias": "Club Penguin",
+    "Name": "Elite Penguin Force",
+    "Name_official": 1,
+    "Order": 132,
     "notes": "The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks."
 }

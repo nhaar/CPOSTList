@@ -1,49 +1,49 @@
 {
-    "Name": "Go West",
-    "Name_official": 1,
-    "HQ Source(s)": "Club Penguin Island",
-    "Order": 69,
-    "Link": "https://www.youtube.com/watch?v=MxdhaDi_azk",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Best of the West",
     "CP Flash Info": {
-        "Order": 69,
         "Earliest Date": "2008/07/25",
+        "Order": 69,
         "Related To": "Music Jam, Dance Contest, The Fair",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "2008/07/25",
-                "use": "Music Jam 2008",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Music Jam 2008"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Dance Contest",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Dance Contest"
             },
-            "3": {
+            {
                 "date": "?",
-                "use": "The Fair (??)",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "The Fair (??)"
             }
-        }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Beacon Boardwalk",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Beacon Boardwalk",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Beacon Boardwalk"
             }
-        }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Best of the West"
+    "Earliest Date": "2008/07/25",
+    "HQ Source(s)": "Club Penguin Island",
+    "Link": "https://www.youtube.com/watch?v=MxdhaDi_azk",
+    "Medias": "Club Penguin",
+    "Name": "Go West",
+    "Name_official": 1,
+    "Order": 69
 }

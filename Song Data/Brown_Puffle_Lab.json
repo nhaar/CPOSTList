@@ -1,81 +1,81 @@
 {
-    "Name": "Brown Puffle Lab",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/VZezeEwBakA",
-    "Order": 148,
-    "Link": "https://youtu.be/8g1e1DFudgM",
-    "Earliest Date": "2011/01/17",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 148,
-        "Earliest Date": "2011/01/17",
-        "Related To": "Wilderness Expedition, Puffle Party, School & Skate Party, Anniversary Party",
-        "uses": {
-            "1": {
-                "date": "2011/01/17",
-                "use": "Wilderness Expedition",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Puffle Party (??)",
-                "files": "",
-                "info": ""
-            },
-            "3": {
-                "date": "?",
-                "use": "School & Skate Party",
-                "files": "",
-                "info": ""
-            },
-            "4": {
-                "date": "?",
-                "use": "Anniversarty Party (??)",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo, Puffle Party 2015, School Party",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             },
-            "2": {
+            {
                 "date": "?",
-                "use": "Puffle Party 2015",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Puffle Party 2015"
             },
-            "3": {
+            {
                 "date": "?",
-                "use": "School Party",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "School Party"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2011/01/17",
+        "Order": 148,
+        "Related To": "Wilderness Expedition, Puffle Party, School & Skate Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2011/01/17",
+                "files": "",
+                "info": "",
+                "use": "Wilderness Expedition"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "School & Skate Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Anniversarty Party (??)"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
     },
     "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    "Earliest Date": "2011/01/17",
+    "HQ Source(s)": "Youtube",
+    "Link": "https://youtu.be/8g1e1DFudgM",
+    "Medias": "Club Penguin",
+    "Name": "Brown Puffle Lab",
+    "Name_official": 1,
+    "Order": 148,
+    "Source Links": "https://youtu.be/VZezeEwBakA"
 }

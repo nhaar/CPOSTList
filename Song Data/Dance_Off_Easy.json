@@ -1,23 +1,23 @@
 {
+    "Composers": "?",
+    "Earliest Date": "2010/09/17",
+    "Game Day Info": {
+        "Earliest Date": "2010/09/17",
+        "Order": 26,
+        "Related To": "Dance Off! Easy",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Dance Off! Easy"
+            }
+        ]
+    },
+    "HQ Source(s)": "Game Day (Sequenced)",
+    "Link": "",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "Dance Off! Easy",
     "Name_official": 0,
-    "HQ Source(s)": "Game Day (Sequenced)",
-    "Order": 1001,
-    "Link": "",
-    "Earliest Date": "2010/09/17",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Game Day Info": {
-        "Order": 26,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Dance Off! Easy",
-        "uses": {
-            "1": {
-                "date": "2010/09/17",
-                "use": "Dance Off! Easy",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
-    "Composers": "?"
+    "Order": 1001
 }

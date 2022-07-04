@@ -1,55 +1,55 @@
 {
-    "Name": "Cool In The Cold",
-    "Name_official": 1,
-    "HQ Source(s)": "Other + App",
-    "Order": 259,
-    "Link": "",
-    "Earliest Date": "2014/06/12",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 259,
-        "Earliest Date": "2014/06/12",
-        "Related To": "Penguin Prom, Merry Walrus Party, Holiday Party, Music Jam 2016",
-        "uses": {
-            "1": {
-                "date": "2014/06/12",
-                "use": "Penguin Prom",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Merry Walrus Party",
-                "files": "",
-                "info": ""
-            },
-            "3": {
-                "date": "?",
-                "use": "Holiday Party (??)",
-                "files": "",
-                "info": ""
-            },
-            "4": {
-                "date": "?",
-                "use": "Music Jam 2016",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2014/06/12",
+        "Order": 259,
+        "Related To": "Penguin Prom, Merry Walrus Party, Holiday Party, Music Jam 2016",
+        "uses": [
+            {
+                "date": "2014/06/12",
+                "files": "",
+                "info": "",
+                "use": "Penguin Prom"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2016"
+            }
+        ]
     },
     "Composers": "Michelle Lewis, Dan Petty",
-    "Alternate Names": ""
+    "Earliest Date": "2014/06/12",
+    "HQ Source(s)": "Other + App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Cool In The Cold",
+    "Name_official": 1,
+    "Order": 259
 }

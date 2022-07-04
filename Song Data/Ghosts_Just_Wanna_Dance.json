@@ -1,56 +1,56 @@
 {
-    "Name": "Ghosts Just Wanna Dance",
-    "Name_official": 1,
-    "HQ Source(s)": "Other + App",
-    "Order": 223,
-    "Link": "",
-    "Earliest Date": "2013/10/17",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 223,
-        "Earliest Date": "2013/10/17",
-        "Related To": "Halloween Party, Penguin Prom",
-        "uses": {
-            "1": {
-                "date": "2013/10/17",
-                "use": "Halloween Party",
-                "files": "",
-                "info": ""
-            },
-            "2": {
-                "date": "?",
-                "use": "Penguin Prom",
-                "files": "",
-                "info": ""
-            }
-        }
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Igloo",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Igloo",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Igloo"
             }
-        }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "2013/10/17",
+        "Order": 223,
+        "Related To": "Halloween Party, Penguin Prom",
+        "uses": [
+            {
+                "date": "2013/10/17",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Penguin Prom"
+            }
+        ]
     },
     "CPI Info": {
-        "Order": 1,
         "Earliest Date": "?",
+        "Order": 1,
         "Related To": "Halloween 2018",
-        "uses": {
-            "1": {
+        "uses": [
+            {
                 "date": "?",
-                "use": "Halloween Party 2018",
                 "files": "",
-                "info": ""
+                "info": "",
+                "use": "Halloween Party 2018"
             }
-        }
+        ]
     },
     "Composers": "Michelle Lewis, Dan Petty",
-    "Alternate Names": ""
+    "Earliest Date": "2013/10/17",
+    "HQ Source(s)": "Other + App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Ghosts Just Wanna Dance",
+    "Name_official": 1,
+    "Order": 223
 }

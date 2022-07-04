@@ -1,24 +1,24 @@
 {
-    "Name": "Herbert's Cold",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF Behind Lodge 3",
-    "Order": 44,
-    "Link": "https://www.youtube.com/watch?v=zV461EAqgxk",
-    "Earliest Date": "2007/11/05",
-    "Medias": "Club Penguin",
+    "Alternate Names": "Herbert/Klutzy Theme, Secret of the Fur Horror Theme",
     "CP Flash Info": {
-        "Order": 44,
         "Earliest Date": "2007/11/05",
+        "Order": 44,
         "Related To": "PSA Missions",
-		"uses": {
-			"1": {
-			"date" :"?",
-			"use": "PSA Missions", 
-			"files": "?",
-			"info" : "Played on the back of the Ski Lodge in Secret of the Fur upon finding Herbert."
-			}
-		}
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played on the back of the Ski Lodge in Secret of the Fur upon finding Herbert.",
+                "use": "PSA Missions"
+            }
+        ]
     },
     "Composers": "Friction Music",
-    "Alternate Names": "Herbert/Klutzy Theme, Secret of the Fur Horror Theme"
+    "Earliest Date": "2007/11/05",
+    "HQ Source(s)": "SWF Behind Lodge 3",
+    "Link": "https://www.youtube.com/watch?v=zV461EAqgxk",
+    "Medias": "Club Penguin",
+    "Name": "Herbert's Cold",
+    "Name_official": 0,
+    "Order": 44
 }
