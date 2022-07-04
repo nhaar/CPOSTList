@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 161,
         "Earliest Date": "2011/09/22",
-        "Related To": "The Fair"
+        "Related To": "The Fair",
+        "uses": {
+            "1": {
+                "date": "2011/09/22",
+                "use": "The Fair 2011",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Bumper Car Rink, Stadium"

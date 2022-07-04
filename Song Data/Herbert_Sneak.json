@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 355,
         "Earliest Date": "2016/02/10",
-        "Related To": "Operation: Tri-umph"
+        "Related To": "Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "2016/02/10",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Tri-umph"
+        "Related To": "Igloo, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

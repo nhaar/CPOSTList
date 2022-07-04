@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 329,
         "Earliest Date": "2015/04/15",
-        "Related To": "Cave Maze, Operation: Tri-umph"
+        "Related To": "Cave Maze, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "2015/04/15",
+                "use": "Cave Maze",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Cave Maze Party"
+        "Related To": "Igloo, Cave Maze Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Cave Maze Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": "Undeground Adventure"

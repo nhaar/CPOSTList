@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 306,
         "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover"
+        "Related To": "Star Wars Rebels Takeover",
+        "uses": {
+            "1": {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

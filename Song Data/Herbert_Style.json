@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 331,
         "Earliest Date": "2015/04/15",
-        "Related To": "Cave Maze, Operation: Tri-umph"
+        "Related To": "Cave Maze, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "2015/04/15",
+                "use": "Cave Maze",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

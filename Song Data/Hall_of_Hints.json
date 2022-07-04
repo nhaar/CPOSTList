@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 156,
         "Earliest Date": "2011/05/19",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": {
+            "1": {
+                "date": "2011/05/19",
+                "use": "Medieval Party 2011",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Hall of Hints"

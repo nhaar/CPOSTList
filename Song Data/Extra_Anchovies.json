@@ -10,14 +10,30 @@
     "CP Flash Info": {
         "Order": 119,
         "Earliest Date": "2009/09/25",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "2009/09/25",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 10,
         "Earliest Date": "2010/09/17",
-        "Related To": "Bean Balance"
+        "Related To": "Bean Balance",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Bean Balance",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "",
-    "notes" : "It is an orchestral arrangement of Pizzatron 3000."
+    "notes": "It is an orchestral arrangement of Pizzatron 3000."
 }

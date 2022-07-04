@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 41,
         "Earliest Date": "2007/09/21",
-        "Related To": "The Fair"
+        "Related To": "The Fair",
+        "uses": {
+            "1": {
+                "date": "2007/09/21",
+                "use": "The Fair 2007",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 12,
         "Earliest Date": "2010/09/17",
-        "Related To": "Pufflle Paddle"
+        "Related To": "Pufflle Paddle",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Puffle Paddle",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Fun Fair, Carnie"

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 130,
         "Earliest Date": "2010/05/07",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": {
+            "1": {
+                "date": "2010/05/07",
+                "use": "Medieval Party 2010",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": "Ye Knight's Quest 2"

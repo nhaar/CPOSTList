@@ -9,19 +9,43 @@
     "CP Flash Info": {
         "Order": 98,
         "Earliest Date": "2009/04/01",
-        "Related To": "Box Dimension"
+        "Related To": "Box Dimension",
+        "uses": {
+            "1": {
+                "date": "2009/04/01",
+                "use": "Box Dimension",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 38,
         "Earliest Date": "2010/09/17",
-        "Related To": "Yellow Ski Village Challenge"
+        "Related To": "Yellow Ski Village Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Yellow Ski Village Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "April Fools 2018"
+        "Related To": "April Fools 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "April Fools 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Into The Box Dimension, Box Dimension V6",
-    "notes" : "This is the 6th iteration of the Box Dimension theme. More details can be found on [Chris Hendrick's video](https://www.youtube.com/watch?v=eoq6Z0IEbeQ)"
+    "notes": "This is the 6th iteration of the Box Dimension theme. More details can be found on [Chris Hendrick's video](https://www.youtube.com/watch?v=eoq6Z0IEbeQ)"
 }

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 59,
         "Earliest Date": "2008/04/11",
-        "Related To": "Quest for the Golden Puffle"
+        "Related To": "Quest for the Golden Puffle",
+        "uses": {
+            "1": {
+                "date": "2008/04/11",
+                "use": "Quest for the Golden Puffle",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Jumpin' Egyptian"

@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 35,
         "Earliest Date": "2007/06/08",
-        "Related To": "Summer Kickoff Party, April Fools Party"
+        "Related To": "Summer Kickoff Party, April Fools Party",
+        "uses": {
+            "1": {
+                "date": "2007/06/08",
+                "use": "Summer Kickoff Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "April Fools (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "?"
+        "Related To": "?",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "?",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Candy Dimension"

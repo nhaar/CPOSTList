@@ -9,7 +9,15 @@
     "CP Flash Unused Info": {
         "Order": 3,
         "Earliest Date": "?",
-        "Related To": "Puffle Launch"
+        "Related To": "Puffle Launch",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Puffle Launch",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks"
 }

@@ -9,12 +9,28 @@
     "Game Day Info": {
         "Order": 11,
         "Earliest Date": "2010/09/17",
-        "Related To": "Java Jump"
+        "Related To": "Java Jump",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Java Jump",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rookie Quest"
+        "Related To": "Rookie Quest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

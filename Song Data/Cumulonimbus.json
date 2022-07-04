@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 112,
         "Earliest Date": "2009/08/14",
-        "Related To": "Festival Of Flight, Halloween Party"
+        "Related To": "Festival Of Flight, Halloween Party",
+        "uses": {
+            "1": {
+                "date": "2009/08/14",
+                "use": "Festivel Of Flight",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": ":",
+                "use": "Halloween Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 31,
         "Earliest Date": "2010/09/17",
-        "Related To": "Jackhammer! results"
+        "Related To": "Jackhammer! results",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Jackhammer! results",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Baloon Ride Theme"

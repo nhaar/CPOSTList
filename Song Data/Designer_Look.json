@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 382,
         "Earliest Date": "2017/01/04",
-        "Related To": "Club Penguin Island Party"
+        "Related To": "Club Penguin Island Party",
+        "uses": {
+            "1": {
+                "date": "2017/01/04",
+                "use": "Club Penguin Island Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

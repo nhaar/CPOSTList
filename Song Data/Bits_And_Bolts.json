@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 153,
         "Earliest Date": "2011/03/28",
-        "Related To": "Bits And Bolts"
+        "Related To": "Bits And Bolts",
+        "uses": {
+            "1": {
+                "date": "2011/03/28",
+                "use": "Bits And Bolts",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

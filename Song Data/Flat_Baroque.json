@@ -9,19 +9,49 @@
     "CP Flash Info": {
         "Order": 46,
         "Earliest Date": "2007/12/14",
-        "Related To": "The Twelfth Fish, Puffle Party"
+        "Related To": "The Twelfth Fish, Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2007/12/14",
+                "use": "The Twelfth Fish",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Medieval Party 2018"
+        "Earliest Date": "?",
+        "Related To": "Medieval Party 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Medieval Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music, Chris Hendricks",
     "Alternate Names": "Twelfth Fish Theme ",
-    "notes" : "This song is a colaboration between Friction Music and Chris Hendricks, who composed the harpsichord melody."
+    "notes": "This song is a colaboration between Friction Music and Chris Hendricks, who composed the harpsichord melody."
 }

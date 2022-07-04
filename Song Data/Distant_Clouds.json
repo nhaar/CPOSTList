@@ -9,17 +9,53 @@
     "CP Flash Info": {
         "Order": 189,
         "Earliest Date": "2013/03/23",
-        "Related To": "Cloud Forest"
+        "Related To": "Cloud Forest",
+        "uses": {
+            "1": {
+                "date": "2013/03/23",
+                "use": "Cloud Forest",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Rainbow Puffle Party, Cloud Forest"
+        "Related To": "Igloo, Rainbow Puffle Party, Cloud Forest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Rainbow Puffle Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Cloud Forest",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rainbow Migration 2018"
+        "Related To": "Rainbow Migration 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rainbow Migration 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

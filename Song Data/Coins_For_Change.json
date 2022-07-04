@@ -9,18 +9,34 @@
     "CP Flash Info": {
         "Order": 165.1,
         "Earliest Date": "?",
-        "Related To": "Holiday Party", 
-		"files": { 
-			"1": { 
-			"name" : "4.swf",
-			"info" : ""
-			}
-		}
+        "Related To": "Holiday Party",
+        "files": {
+            "1": {
+                "name": "4.swf",
+                "info": ""
+            }
+        },
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Holiday Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

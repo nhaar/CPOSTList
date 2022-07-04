@@ -10,14 +10,30 @@
     "CP Flash Info": {
         "Order": 143,
         "Earliest Date": "2010/11/14",
-        "Related To": "Bean Counters"
+        "Related To": "Bean Counters",
+        "uses": {
+            "1": {
+                "date": "2010/11/14",
+                "use": "Bean Counters",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Bean Counters"
+        "Related To": "Bean Counters",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Bean Counters",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "New Bean Counters",
-    "notes" : "It replaced Organic Journey as the Bean Counters theme."
+    "notes": "It replaced Organic Journey as the Bean Counters theme."
 }

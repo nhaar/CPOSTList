@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 38,
         "Earliest Date": "2007/08/24",
-        "Related To": "Camp Penguin, April Fools Party"
+        "Related To": "Camp Penguin, April Fools Party",
+        "uses": {
+            "1": {
+                "date": "2007/08/24",
+                "use": "Camp Penguin",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "April Fools (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Camp Party 2, Mess Hall, Doodle Dimension"

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 55,
         "Earliest Date": "2008/02/19",
-        "Related To": "Aqua Grabber"
+        "Related To": "Aqua Grabber",
+        "uses": {
+            "1": {
+                "date": "2008/02/19",
+                "use": "Aqua Grabber",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Aqua Grabber Theme, Clam Waters Theme"

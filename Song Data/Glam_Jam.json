@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 342,
         "Earliest Date": "2015/08/26",
-        "Related To": "Fashion Festival"
+        "Related To": "Fashion Festival",
+        "uses": {
+            "1": {
+                "date": "2015/08/26",
+                "use": "Fashion Festival",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party"
+        "Related To": "Igloo, Fashion Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "David Fairfield",
     "Alternate Names": ""

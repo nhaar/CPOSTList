@@ -10,12 +10,40 @@
     "CP Flash Info": {
         "Order": 165,
         "Earliest Date": "2011/12/15",
-        "Related To": "Holiday Party, Merry Walrus Party"
+        "Related To": "Holiday Party, Merry Walrus Party",
+        "uses": {
+            "1": {
+                "date": "2011/12/15",
+                "use": "Holiday party 2011",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2013"
+        "Related To": "Igloo, Holiday Party 2013",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Holiday Party 2013",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Bakery Room Theme, A Little Holiday Magic"

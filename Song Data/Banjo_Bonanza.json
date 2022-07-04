@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 362,
         "Earliest Date": "2016/05/18",
-        "Related To": "Zootopia Party"
+        "Related To": "Zootopia Party",
+        "uses": {
+            "1": {
+                "date": "2016/05/18",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Puffle Roundup, Igloo, Zootopia Party"
+        "Related To": "Puffle Roundup, Igloo, Zootopia Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Puffle Roundup",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 65,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": {
+            "1": {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 24,
         "Earliest Date": "2010/09/17",
-        "Related To": "Dock Challenge"
+        "Related To": "Dock Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Dock Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": ""

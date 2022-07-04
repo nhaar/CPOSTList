@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 238,
         "Earliest Date": "2014/03/06",
-        "Related To": "EPF Command Room"
+        "Related To": "EPF Command Room",
+        "uses": {
+            "1": {
+                "date": "2014/03/06",
+                "use": "EPF Command Room",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "EPF Command Room Modern Theme"

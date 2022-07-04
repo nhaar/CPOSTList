@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 259.1,
         "Earliest Date": "2014/06/12",
-        "Related To": "Penguin Prom, The Fair, Music Jam"
+        "Related To": "Penguin Prom, The Fair, Music Jam",
+        "uses": {
+            "1": {
+                "date": "2014/06/12",
+                "use": "Penguin Prom",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": ""

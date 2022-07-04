@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 158,
         "Earliest Date": "2011/05/31",
-        "Related To": "Battle of Doom"
+        "Related To": "Battle of Doom",
+        "uses": {
+            "1": {
+                "date": "2011/05/31",
+                "use": "Battle of Doom",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

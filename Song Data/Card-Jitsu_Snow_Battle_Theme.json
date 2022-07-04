@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 196,
         "Earliest Date": "2013/05/23",
-        "Related To": "Card-Jitsu Snow"
+        "Related To": "Card-Jitsu Snow",
+        "uses": {
+            "1": {
+                "date": "2013/05/23",
+                "use": "Card-Jitsu Snow",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

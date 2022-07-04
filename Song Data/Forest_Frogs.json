@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 154,
         "Earliest Date": "2011/04/21",
-        "Related To": "?"
+        "Related To": "?",
+        "uses": {
+            "1": {
+                "date": "2011/04/21",
+                "use": "Earth Day 2011",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

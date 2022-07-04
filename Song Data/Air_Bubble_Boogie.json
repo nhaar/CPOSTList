@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 54,
         "Earliest Date": "2008/02/15",
-        "Related To": "Sub-Marine Party, Underwater Adventure"
+        "Related To": "Sub-Marine Party, Underwater Adventure",
+        "uses": {
+            "1": {
+                "date": "2008/02/15",
+                "use": "Sub-Marine Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Underwater Adventure",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,

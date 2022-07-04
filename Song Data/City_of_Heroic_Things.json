@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 171,
         "Earliest Date": "2012/06/14",
-        "Related To": "Marvel Super Hero Takeover"
+        "Related To": "Marvel Super Hero Takeover",
+        "uses": {
+            "1": {
+                "date": "2012/06/14",
+                "use": "Mavel Super Hero Takeover",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Marvel Super Hero Takeover Theme"

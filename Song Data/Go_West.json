@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 69,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, Dance Contest, The Fair"
+        "Related To": "Music Jam, Dance Contest, The Fair",
+        "uses": {
+            "1": {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Best of the West"

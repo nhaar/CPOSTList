@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 259,
         "Earliest Date": "2014/06/12",
-        "Related To": "Penguin Prom, Merry Walrus Party, Holiday Party, Music Jam 2016"
+        "Related To": "Penguin Prom, Merry Walrus Party, Holiday Party, Music Jam 2016",
+        "uses": {
+            "1": {
+                "date": "2014/06/12",
+                "use": "Penguin Prom",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Holiday Party (??)",
+                "files": "",
+                "info": ""
+            },
+            "4": {
+                "date": "?",
+                "use": "Music Jam 2016",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": ""

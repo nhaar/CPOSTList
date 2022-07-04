@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 42,
         "Earliest Date": "2007/10/26",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": {
+            "1": {
+                "date": "2007/10/26",
+                "use": "Halloween Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Halloween 2018"
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam"

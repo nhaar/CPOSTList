@@ -10,17 +10,47 @@
     "CP Flash Info": {
         "Order": 228,
         "Earliest Date": "2013/12/19",
-        "Related To": "Holiday Party"
+        "Related To": "Holiday Party",
+        "uses": {
+            "1": {
+                "date": "2013/12/19",
+                "use": "Holiday Party 2013",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014"
+        "Related To": "Igloo, Holiday Party 2014",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Holiday Party 2014",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Holiday 2017"
+        "Earliest Date": "?",
+        "Related To": "Holiday 2017",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Holiday Party 2017",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

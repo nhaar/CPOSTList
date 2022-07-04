@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 240,
         "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour, Puffle Party"
+        "Related To": "Muppet's World Tour, Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2014/03/20",
+                "use": "Muppter's World Tour",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015"
+        "Related To": "Igloo, Puffle Party 2015",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 175,
         "Earliest Date": "2012/07/19",
-        "Related To": "Make Your Mark: Ultimate Jam, SoundStudio Party, Music Jam"
+        "Related To": "Make Your Mark: Ultimate Jam, SoundStudio Party, Music Jam",
+        "uses": {
+            "1": {
+                "date": "2012/07/19",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

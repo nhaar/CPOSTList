@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 118,
         "Earliest Date": "2009/11/13",
-        "Related To": "Card-Jitsu Fire"
+        "Related To": "Card-Jitsu Fire",
+        "uses": {
+            "1": {
+                "date": "2009/11/13",
+                "use": "Card-Jitsu Fire",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

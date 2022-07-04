@@ -13,7 +13,14 @@
         "Earliest Date": "",
         "Related To": "Brown Puffle Lab",
         "files": {},
-        "uses": {}
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Brown Puffle Lab",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "versions": {
         "1": {

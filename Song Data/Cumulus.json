@@ -9,25 +9,47 @@
     "CP Flash Info": {
         "Order": 111,
         "Earliest Date": "2009/08/14",
-        "Related To": "Festival Of Flight, Wilderness Expedition"
+        "Related To": "Festival Of Flight, Wilderness Expedition",
+        "uses": {
+            "1": {
+                "date": "",
+                "use": "",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Wilderness Expedition",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 42,
         "Earliest Date": "2010/09/17",
-        "Related To": "Single team island conquered cutscene"
+        "Related To": "Single team island conquered cutscene",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Single team island conquered cutscene",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Float in the clouds, Festival of Flight Main Theme, The Shore",
-	"versions": {
-		"1": {
-            "name" : "mn_demo_00.brstm",
-            "info" : "Highest quality version.",
-            "source" : "Game Day"
-		},
-		"2": {
-            "name" : "Music306.swf",
-            "info" : "Highest quality version of the harpless version.",
-            "source" : "SWF 306"
-		}
-	}
+    "versions": {
+        "1": {
+            "name": "mn_demo_00.brstm",
+            "info": "Highest quality version.",
+            "source": "Game Day"
+        },
+        "2": {
+            "name": "Music306.swf",
+            "info": "Highest quality version of the harpless version.",
+            "source": "SWF 306"
+        }
+    }
 }

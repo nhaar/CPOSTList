@@ -10,35 +10,71 @@
         "Order": 115,
         "Earliest Date": "2009/10/27",
         "Related To": "Halloween Party, Mustache Madness, Zootopia Party",
-		"uses": {
-			"1": {
-                "date" :"?",
-                "use": "Halloween Party 2009", 
+        "uses": {
+            "1": {
+                "date": "2009/10/27",
+                "use": "Halloween Party 2009",
                 "files": "?",
-                "info" : "Played periodically in the haunted mansion by the haunted instruments."
+                "info": "Played periodically in the haunted mansion by the haunted instruments."
             },
-			"2": {
-                "date" :"",
-                "use": "", 
+            "2": {
+                "date": "?",
+                "use": "Mustache Madness",
                 "files": "",
-                "info" : ""
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
             }
         }
     },
     "Game Day Info": {
         "Order": 36,
         "Earliest Date": "2010/09/17",
-        "Related To": "Blue Skii Village Challenge"
+        "Related To": "Blue Skii Village Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Blue Ski Village Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Zootopia Party"
+        "Related To": "Igloo, Zootopia Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Mount Blizzard"
+        "Related To": "Mount Blizzard",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Mount Blizzard",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michael Campitelli",
     "Alternate Names": ""

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 337,
         "Earliest Date": "2015/05/20",
-        "Related To": "The Fair"
+        "Related To": "The Fair",
+        "uses": {
+            "1": {
+                "date": "2015/05/20",
+                "use": "The Fair 2015",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

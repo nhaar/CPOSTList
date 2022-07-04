@@ -10,12 +10,28 @@
     "CP Flash Info": {
         "Order": 137,
         "Earliest Date": "2010/06/17",
-        "Related To": "Island Adventure Party"
+        "Related To": "Island Adventure Party",
+        "uses": {
+            "1": {
+                "date": "2010/06/17",
+                "use": "Island Aventure Party 2010",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Ship Battle Theme, Adventure Of A Lifetime"

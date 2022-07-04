@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 190.5,
         "Earliest Date": "?",
-        "Related To": "Operation: Hot Sauce"
+        "Related To": "Operation: Hot Sauce",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Operation: Hot Sauce",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?"
 }

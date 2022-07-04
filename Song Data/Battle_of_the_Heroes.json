@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 203,
         "Earliest Date": "2013/07/25",
-        "Related To": "Star Wars Takeover"
+        "Related To": "Star Wars Takeover",
+        "uses": {
+            "1": {
+                "date": "2013/07/25",
+                "use": "Star Wars Takeover",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "John Williams",
     "Alternate Names": ""

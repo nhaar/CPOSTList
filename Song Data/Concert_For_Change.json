@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 122,
         "Earliest Date": "2009/12/18",
-        "Related To": "Holiday Party"
+        "Related To": "Holiday Party",
+        "uses": {
+            "1": {
+                "date": "2009/12/18",
+                "use": "Holiday Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

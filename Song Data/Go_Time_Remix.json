@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 327,
         "Earliest Date": "2015/03/26",
-        "Related To": "Puffle Party"
+        "Related To": "Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2015/03/26",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph"
+        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

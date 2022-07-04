@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 263,
         "Earliest Date": "2014/06/19",
-        "Related To": "Penguin Cup"
+        "Related To": "Penguin Cup",
+        "uses": {
+            "1": {
+                "date": "2014/06/19",
+                "use": "Penguin Cup",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party"
+        "Related To": "Igloo, Fashion Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

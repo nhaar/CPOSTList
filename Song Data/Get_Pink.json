@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 207,
         "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover, Puffle Party"
+        "Related To": "Monster University Takeover, Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015"
+        "Related To": "Igloo, Puffle Party 2015",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2016",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "David Fairfield",
     "Alternate Names": "Go Pink, PNK House"

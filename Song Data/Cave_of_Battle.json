@@ -10,20 +10,36 @@
     "CP Flash Info": {
         "Order": 157,
         "Earliest Date": "2011/05/19",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": {
+            "1": {
+                "date": "2011/05/19",
+                "use": "Medieval Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rockhopper Quest"
+        "Related To": "Rockhopper Quest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rockhopper Quest",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Hydra Electric Damage",
-	"versions": {
-		"1": {
-            "name" : "A Time for Heroes-478947087.mp3",
-            "info" : "",
-            "source" : "CPI SoundCloud"
-		}
+    "versions": {
+        "1": {
+            "name": "A Time for Heroes-478947087.mp3",
+            "info": "",
+            "source": "CPI SoundCloud"
+        }
     }
 }

@@ -9,17 +9,59 @@
     "CP Flash Info": {
         "Order": 87,
         "Earliest Date": "2008/11/19",
-        "Related To": "Holiday Party, Merry Walrus Party, Anniversary Party"
+        "Related To": "Holiday Party, Merry Walrus Party, Anniversary Party",
+        "uses": {
+            "1": {
+                "date": "2008/11/19",
+                "use": "Holiday Party 2008",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Anniversarty Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014"
+        "Related To": "Igloo, Holiday Party 2014",
+        "uses": {
+            "1": {
+                "date": "Igloo",
+                "use": "?",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Holiday Party 2014",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Holiday 2017"
+        "Related To": "Holiday 2017",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Holiday Party 2017",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Christmas Piano Medley, Deck The Halls"

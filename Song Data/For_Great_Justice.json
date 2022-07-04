@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 51,
         "Earliest Date": "2008/01/11",
-        "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair"
+        "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair",
+        "uses": {
+            "1": {
+                "date": "2008/01/11",
+                "use": "Squidzoid vs Shadow Guy and Gamma Gal",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 34,
         "Earliest Date": "2010/09/17",
-        "Related To": "Snow Forts Challenge"
+        "Related To": "Snow Forts Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Snow Forts Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic"

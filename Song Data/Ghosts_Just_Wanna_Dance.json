@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 223,
         "Earliest Date": "2013/10/17",
-        "Related To": "Halloween Party, Penguin Prom"
+        "Related To": "Halloween Party, Penguin Prom",
+        "uses": {
+            "1": {
+                "date": "2013/10/17",
+                "use": "Halloween Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Penguin Prom",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Halloween 2018"
+        "Related To": "Halloween 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": ""

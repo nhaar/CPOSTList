@@ -10,16 +10,59 @@
     "CP Flash Info": {
         "Order": 18,
         "Earliest Date": "2006/08/11",
-        "Related To": "Sports Party, Penguin Games, Puffle Party 2011, Puffle Party 2012"
+        "Related To": "Sports Party, Penguin Games, Puffle Party 2011, Puffle Party 2012",
+        "uses": {
+            "1": {
+                "date": "2006/08/11",
+                "use": "Sports Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Penguin Games",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Puffle Party 2011",
+                "files": "",
+                "info": ""
+            },
+            "4": {
+                "date": "?",
+                "use": "Puffle party 2012",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party"
+        "Related To": "Igloo, Fashion Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Curt Macdonald",
     "Alternate Names": "",
-	"stock": {
-		"info" : {"origin": "SoundDogs", "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep"}
-	}
+    "stock": {
+        "info": {
+            "origin": "SoundDogs",
+            "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep"
+        }
+    }
 }

@@ -9,17 +9,59 @@
     "CP Flash Info": {
         "Order": 184,
         "Earliest Date": "?",
-        "Related To": "Igloo, Penguin Prom, Music Jam"
+        "Related To": "Igloo, Penguin Prom, Music Jam",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Penguin Prom",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2014"
+        "Related To": "Igloo, Puffle Party 2014",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2014",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Town"
+        "Related To": "Town",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": "Puffle Party"

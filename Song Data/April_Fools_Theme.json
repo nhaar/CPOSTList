@@ -9,22 +9,66 @@
     "CP Flash Info": {
         "Order": 56,
         "Earliest Date": "2008/03/28",
-        "Related To": "April Fools Party, Anniversary Party"
+        "Related To": "April Fools Party, Anniversary Party",
+        "uses": {
+            "1": {
+                "date": "2008/03/28",
+                "use": "April Fools 2008",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 1,
         "Earliest Date": "2010/09/17",
-        "Related To": "Title screen, Credits"
+        "Related To": "Title screen, Credits",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Title screen",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "2010/09/17",
+                "use": "Credits",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Sea Caves"
+        "Earliest Date": "?",
+        "Related To": "Sea Caves",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Sea Caves",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": ""

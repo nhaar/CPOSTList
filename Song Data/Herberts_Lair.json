@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 190,
         "Earliest Date": "2013/04/05",
-        "Related To": "Operation: Hot Sauce"
+        "Related To": "Operation: Hot Sauce",
+        "uses": {
+            "1": {
+                "date": "2013/04/05",
+                "use": "Operation: Hot Sauce",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

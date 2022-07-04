@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 19,
         "Earliest Date": "2006/09/22",
-        "Related To": "Lighthouse Opening"
+        "Related To": "Lighthouse Opening",
+        "uses": {
+            "1": {
+                "date": "2006/09/22",
+                "use": "Lighthouse Opening",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Milo Deering, Ron Jones",
     "Alternate Names": "",

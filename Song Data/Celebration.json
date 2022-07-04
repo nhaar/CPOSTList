@@ -9,22 +9,66 @@
     "CP Flash Info": {
         "Order": 81,
         "Earliest Date": "2008/10/24",
-        "Related To": "Anniversary Party, Make Your Mark: Ultimate Jam, Town"
+        "Related To": "Anniversary Party, Make Your Mark: Ultimate Jam, Town",
+        "uses": {
+            "1": {
+                "date": "2008/10/24",
+                "use": "3rd Anniversary Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Game Day Info": {
         "Order": 2,
         "Earliest Date": "2010/09/17",
-        "Related To": "Menu"
+        "Related To": "Menu",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Menu",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Town"
+        "Related To": "Town",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Town"
+        "Related To": "Town",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "Anniversary Party"

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 108,
         "Earliest Date": "2009/07/17",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": {
+            "1": {
+                "date": "2009/07/17",
+                "use": "Music Jam 2009",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Michael Campitelli",
     "Alternate Names": "Easy Island Music, Rocksteady"

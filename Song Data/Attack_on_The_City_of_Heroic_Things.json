@@ -10,12 +10,28 @@
     "CP Flash Info": {
         "Order": 172,
         "Earliest Date": "2012/06/14",
-        "Related To": "Marvel Super Hero Takeover"
+        "Related To": "Marvel Super Hero Takeover",
+        "uses": {
+            "1": {
+                "date": "2012/06/14",
+                "use": "Marvel Super Hero Takeover",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "City of Heroes"

@@ -10,17 +10,47 @@
     "CP Flash Info": {
         "Order": 177,
         "Earliest Date": "2012/10/18",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": {
+            "1": {
+                "date": "2012/10/18",
+                "use": "Halloween Party 2012",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014"
+        "Related To": "Igloo, Halloween Party 2014",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Halloween 2018"
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Haunted Mansion, Turn Back Now"

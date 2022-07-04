@@ -9,9 +9,23 @@
     "CP Flash Info": {
         "Order": 85,
         "Earliest Date": "2008/11/14",
-        "Related To": "Dojo, Ninja Hideout"
+        "Related To": "Dojo, Ninja Hideout",
+        "uses": {
+            "1": {
+                "date": "2008/11/14",
+                "use": "Dojo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Ninja Hideout",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks, Bart Roijmans",
     "Alternate Names": "Dojo Theme",
-    "notes" : "The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks."
+    "notes": "The song was originally composed by Bart Roijmans for Club Penguin: Elite Penguin Force on the DS, and was later arranged for the flash version by Chris Hendricks."
 }

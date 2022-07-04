@@ -9,19 +9,49 @@
     "CP Flash Info": {
         "Order": 12,
         "Earliest Date": "2006/02/24",
-        "Related To": "Pizza Parlor"
+        "Related To": "Pizza Parlor",
+        "uses": {
+            "1": {
+                "date": "2006/02/24",
+                "use": "Pizza Parlor",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Tri-umph"
+        "Related To": "Igloo, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-ump",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Town"
+        "Related To": "Town",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Doug Frantz",
     "Alternate Names": "Pizza Parlor Theme",
-    "notes" : "This song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere."
+    "notes": "This song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere."
 }

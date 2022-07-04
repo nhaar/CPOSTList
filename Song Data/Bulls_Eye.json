@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 234,
         "Earliest Date": "2014/02/20",
-        "Related To": "The Fair, Waddle On Party"
+        "Related To": "The Fair, Waddle On Party",
+        "uses": {
+            "1": {
+                "date": "2014/02/20",
+                "use": "The Fair 2014",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

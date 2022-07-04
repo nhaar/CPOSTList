@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 352,
         "Earliest Date": "2015/11/18",
-        "Related To": "Operation: Crustacean"
+        "Related To": "Operation: Crustacean",
+        "uses": {
+            "1": {
+                "date": "2015/11/18",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean"
+        "Related To": "Igloo, Operation: Crustacean",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "David Fairfield",
     "Alternate Names": ""

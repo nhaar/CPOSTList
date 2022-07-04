@@ -10,31 +10,39 @@
     "CP Flash Info": {
         "Order": 33,
         "Earliest Date": "2007/06/04",
-        "Related To": "Catchin' Waves", 
-		"files": { 
-			"1": { 
-			"name" : "113.swf",
-			"info" : "The song consists of 8 clips, that are played in the order 1, 2, 2, 3, 4, 5, 6, 6, 7, 6, 8, and then loops."
-			}
-		}
+        "Related To": "Catchin' Waves",
+        "files": {
+            "1": {
+                "name": "113.swf",
+                "info": "The song consists of 8 clips, that are played in the order 1, 2, 2, 3, 4, 5, 6, 6, 7, 6, 8, and then loops."
+            },
+            "uses": {
+                "1": {
+                    "date": "2007/06/04",
+                    "use": "Catchin' Waves",
+                    "files": "113.swf",
+                    "info": ""
+                }
+            }
+        }
     },
     "Composers": "Friction Music",
     "Alternate Names": "",
-	"versions": {
-		"1": {
-            "name" : "113.swf",
-            "info" : "Contains all the segments of the song, in the highest quality available without background noise.",
-            "source" : "SWF 113"
-		},
-		"2": {
-            "name" : "Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv",
-            "info" : "A video on which segment is included in the highest quality available with heavy background noises.",
-            "source" : "Club Penguin Youtube Channel"
+    "versions": {
+        "1": {
+            "name": "113.swf",
+            "info": "Contains all the segments of the song, in the highest quality available without background noise.",
+            "source": "SWF 113"
         },
-		"3": {
-            "name" : "Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus",
-            "info" : "A video on which segment is included in the highest quality available with heavy background noises starting at 4:32.",
-            "source" : "Youtube"
+        "2": {
+            "name": "Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv",
+            "info": "A video on which segment is included in the highest quality available with heavy background noises.",
+            "source": "Club Penguin Youtube Channel"
+        },
+        "3": {
+            "name": "Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus",
+            "info": "A video on which segment is included in the highest quality available with heavy background noises starting at 4:32.",
+            "source": "Youtube"
         }
-	}
+    }
 }

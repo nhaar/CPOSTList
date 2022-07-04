@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 58,
         "Earliest Date": "2008/03/28",
-        "Related To": "April Fools Party, The Fair"
+        "Related To": "April Fools Party, The Fair",
+        "uses": {
+            "1": {
+                "date": "2008/03/28",
+                "use": "April Fools Party 2008",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "The Fair 2014",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "8-Bit Dance"

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 217,
         "Earliest Date": "2013/08/22",
-        "Related To": "Teen Beach Movie Summer Jam"
+        "Related To": "Teen Beach Movie Summer Jam",
+        "uses": {
+            "1": {
+                "date": "2013/08/22",
+                "use": "Teen Beach Movie Summer Jam",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

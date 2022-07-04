@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 323,
         "Earliest Date": "2015/03/18",
-        "Related To": "Lodge Attic"
+        "Related To": "Lodge Attic",
+        "uses": {
+            "1": {
+                "date": "2015/03/18",
+                "use": "Lodge Attic",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Attic"
+        "Related To": "Igloo, Attic",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Attic",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": "Attic Theme"

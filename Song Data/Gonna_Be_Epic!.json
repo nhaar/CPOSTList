@@ -10,17 +10,47 @@
     "CP Flash Info": {
         "Order": 347,
         "Earliest Date": "2015/09/30",
-        "Related To": "10th Anniversary Party, Music Jam"
+        "Related To": "10th Anniversary Party, Music Jam",
+        "uses": {
+            "1": {
+                "date": "2015/09/30",
+                "use": "10th Anniversary Party",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rookie Quest"
+        "Related To": "Rookie Quest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""

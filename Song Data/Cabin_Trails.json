@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 322,
         "Earliest Date": "2015/03/18",
-        "Related To": "Ski Lodge"
+        "Related To": "Ski Lodge",
+        "uses": {
+            "1": {
+                "date": "2015/03/18",
+                "use": "Ski Lodge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Ski Lodge"
+        "Related To": "Igloo, Ski Lodge",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Ski Lodge",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

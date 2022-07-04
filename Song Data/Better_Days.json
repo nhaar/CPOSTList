@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 160,
         "Earliest Date": "2011/06/16",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": {
+            "1": {
+                "date": "2011/06/16",
+                "use": "Music Jam 2011",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

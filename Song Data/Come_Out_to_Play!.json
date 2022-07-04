@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 250,
         "Earliest Date": "2014/04/17",
-        "Related To": "Puffle Park"
+        "Related To": "Puffle Park",
+        "uses": {
+            "1": {
+                "date": "2014/04/17",
+                "use": "Puffle Park",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Park"
+        "Related To": "Igloo, Puffle Park",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Park",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Summer Splash 2018"
+        "Earliest Date": "?",
+        "Related To": "Summer Splash 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Summer Splash 2018",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

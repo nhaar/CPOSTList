@@ -10,29 +10,40 @@
         "Order": 16,
         "Earliest Date": "2006/06/16",
         "Related To": "Summer Party, Anniversary Party 2015",
-		"uses": {
-			"1": {
-			"date" :"?",
-			"use": "Summer Party", 
-			"files": "?",
-			"info" : ""
-			},
-			"2": {
-                "date" :"?",
-                "use": "10th Anniversary Party", 
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Summer Party",
                 "files": "?",
-                "info" : "Used in the Night Club."
-                }
-		}
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "10th Anniversary Party",
+                "files": "?",
+                "info": "Used in the Night Club."
+            }
+        }
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "Slim Pezinj",
     "Alternate Names": "",
-	"stock": {
-		"info" : {"origin": "BMG Production Music", "link": "https://bmgmusic.sourceaudio.com/#!explorer?s=Guadeloupe%20Beach%20Party"}
-	}
+    "stock": {
+        "info": {
+            "origin": "BMG Production Music",
+            "link": "https://bmgmusic.sourceaudio.com/#!explorer?s=Guadeloupe%20Beach%20Party"
+        }
+    }
 }

@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 138,
         "Earliest Date": "2010/07/08",
-        "Related To": "Music Jam, Anniversary Party"
+        "Related To": "Music Jam, Anniversary Party",
+        "uses": {
+            "1": {
+                "date": "2010/07/08",
+                "use": "Music Jam 2010",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "Composers": "?",
     "Alternate Names": ""
