@@ -1,37 +1,37 @@
 {
-    "Alternate Names": "",
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rookie Quest"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2010/09/17",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 11,
-        "Related To": "Java Jump",
-        "uses": [
-            {
-                "date": "2010/09/17",
-                "files": "",
-                "info": "",
-                "use": "Java Jump"
-            }
-        ]
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "",
-    "Medias": "Club Penguin: Game Day!",
     "Name": "Circus Funk",
     "Name_official": 0,
-    "Order": 154.1
+    "HQ Source(s)": "Game Day",
+    "Order": 154.1,
+    "Link": "",
+    "Earliest Date": "2010/09/17",
+    "Medias": "Club Penguin: Game Day!",
+    "Game Day Info": {
+        "Order": 11,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Java Jump",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Java Jump",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Rookie Quest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

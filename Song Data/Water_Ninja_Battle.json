@@ -1,16 +1,16 @@
 {
-    "Alternate Names": "Water Dojo",
+    "Name": "Water Ninja Battle",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 146,
+    "Link": "https://youtu.be/kygNKij8LkM",
+    "Earliest Date": "2010/11/24",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2010/11/24",
         "Order": 146,
+        "Earliest Date": "2010/11/24",
         "Related To": "Card-Jitsu Water"
     },
     "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/11/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/kygNKij8LkM",
-    "Medias": "Club Penguin",
-    "Name": "Water Ninja Battle",
-    "Name_official": 1,
-    "Order": 146
+    "Alternate Names": "Water Dojo"
 }

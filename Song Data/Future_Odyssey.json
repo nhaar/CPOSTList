@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Operation: Crustacean",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Operation: Crustacean"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2015/11/18",
-        "Order": 351,
-        "Related To": "Operation: Crustacean",
-        "uses": [
-            {
-                "date": "2015/11/18",
-                "files": "",
-                "info": "",
-                "use": "Operation: Crustacean"
-            }
-        ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2015/11/18",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Future Odyssey",
     "Name_official": 1,
-    "Order": 351
+    "HQ Source(s)": "App",
+    "Order": 351,
+    "Link": "",
+    "Earliest Date": "2015/11/18",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 351,
+        "Earliest Date": "2015/11/18",
+        "Related To": "Operation: Crustacean",
+        "uses": {
+            "1": {
+                "date": "2015/11/18",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Operation: Crustacean",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "David Fairfield",
+    "Alternate Names": ""
 }

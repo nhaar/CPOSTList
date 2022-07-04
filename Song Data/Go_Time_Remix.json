@@ -1,49 +1,49 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Operation: Tri-umph"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2015/03/26",
-        "Order": 327,
-        "Related To": "Puffle Party",
-        "uses": [
-            {
-                "date": "2015/03/26",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/03/26",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Go Time Remix",
     "Name_official": 1,
-    "Order": 327
+    "HQ Source(s)": "SoundCloud",
+    "Order": 327,
+    "Link": "",
+    "Earliest Date": "2015/03/26",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 327,
+        "Earliest Date": "2015/03/26",
+        "Related To": "Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2015/03/26",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

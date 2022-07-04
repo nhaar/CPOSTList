@@ -1,26 +1,26 @@
 {
-    "Alternate Names": "Caribbean Jam, Music Jam Cove Theme",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Fashion Party"
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2008/07/25",
-        "Order": 70,
-        "Related To": "Music Jam, Funny Hat Week Party"
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/07/25",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 40,
-        "Related To": "Red Ski Hill Challenge"
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=kagPOkdEiM8",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "Reggae Stage",
     "Name_official": 1,
-    "Order": 70
+    "HQ Source(s)": "Game Day",
+    "Order": 70,
+    "Link": "https://www.youtube.com/watch?v=kagPOkdEiM8",
+    "Earliest Date": "2008/07/25",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "CP Flash Info": {
+        "Order": 70,
+        "Earliest Date": "2008/07/25",
+        "Related To": "Music Jam, Funny Hat Week Party"
+    },
+    "Game Day Info": {
+        "Order": 40,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Red Ski Hill Challenge"
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Fashion Party"
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Caribbean Jam, Music Jam Cove Theme"
 }

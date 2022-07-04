@@ -1,43 +1,34 @@
 {
-    "Alternate Names": "Old Tutorial Music",
-    "CP Flash Info": {
-        "Earliest Date": "?",
-        "Order": 13.8,
-        "Related To": "Website Tutorial",
-        "files": {
-            "1": {
-                "info": "",
-                "name": "500.swf"
-            }
-        },
-        "uses": [
-            {
-                "date": "?",
-                "files": "500.swf",
-                "info": "This tutorial was present in the help section of the website. Thus, it never played in the actual game, but it is listed nonetheless, since it was part of the web game as whole.",
-                "use": "Website Tutorial"
-            }
-        ]
-    },
-    "Composers": "Jane Finstrom",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=hqnvunVQ6UI",
-    "Medias": "Club Penguin",
     "Name": "Paparazzi Shuffle",
     "Name_official": 1,
+    "HQ Source(s)": "Other",
     "Order": 7,
-    "stock": {
-        "info": {
-            "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Paparazzi+Shuffle/",
-            "origin": "SmartSound"
+    "Link": "https://www.youtube.com/watch?v=hqnvunVQ6UI",
+    "Earliest Date": "?",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 13.8,
+        "Earliest Date": "?",
+        "Related To": "Website Tutorial",
+        "files": { 
+            "1": { 
+            "name" : "500.swf",
+            "info" : ""
+            }
         },
-        "sale": [
-            "Full Version",
-            "60 seconds",
-            "30 seconds",
-            "15 seconds",
-            "Hit the road, Rewind, Wait up, Shakin, Look out variations of all above versions."
-        ]
-    }
+        "uses": {
+            "1": {
+            "date" :"?",
+            "use": "Website Tutorial", 
+            "files": "500.swf",
+            "info" : "This tutorial was present in the help section of the website. Thus, it never played in the actual game, but it is listed nonetheless, since it was part of the web game as whole."
+            }
+        }
+    },
+	"stock": {
+		"info" : {"origin": "SmartSound", "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Paparazzi+Shuffle/"},
+		"sale" : ["Full Version", "60 seconds", "30 seconds", "15 seconds", "Hit the road, Rewind, Wait up, Shakin, Look out variations of all above versions."]
+	},
+    "Composers": "Jane Finstrom",
+    "Alternate Names": "Old Tutorial Music"
 }

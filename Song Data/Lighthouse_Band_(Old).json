@@ -1,22 +1,22 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Lighthouse"
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2009/07/17",
-        "Order": 110,
-        "Related To": "Music Jam, Lighthouse"
-    },
-    "Composers": "?",
-    "Earliest Date": "2009/07/17",
-    "HQ Source(s)": "SWF Lighthouse + App",
-    "Link": "https://www.youtube.com/watch?v=8zoPiRYn1Ko",
-    "Medias": "Club Penguin",
     "Name": "Lighthouse Band (Old)",
     "Name_official": 0,
+    "HQ Source(s)": "SWF Lighthouse + App",
     "Order": 110,
-    "notes": "This song consists of six different tracks:\n- Acoustic Guitar\n- Bass Guitar\n- Electric Guitar\n- Drums\n- Trombone\n- Tube"
+    "Link": "https://www.youtube.com/watch?v=8zoPiRYn1Ko",
+    "Earliest Date": "2009/07/17",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 110,
+        "Earliest Date": "2009/07/17",
+        "Related To": "Music Jam, Lighthouse"
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Lighthouse"
+    },
+    "Composers": "?",
+    "Alternate Names": "",
+    "notes" : "This song consists of six different tracks:\n- Acoustic Guitar\n- Bass Guitar\n- Electric Guitar\n- Drums\n- Trombone\n- Tube"
 }

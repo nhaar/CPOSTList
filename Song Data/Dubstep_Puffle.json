@@ -1,49 +1,49 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2012/07/19",
-        "Order": 175,
-        "Related To": "Make Your Mark: Ultimate Jam, SoundStudio Party, Music Jam",
-        "uses": [
-            {
-                "date": "2012/07/19",
-                "files": "",
-                "info": "",
-                "use": "Make Your Mark: Ultimate Jam"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "SoundStudio Party"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Music Jam (??)"
-            }
-        ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2012/07/19",
-    "HQ Source(s)": "Other",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Dubstep Puffle",
     "Name_official": 1,
-    "Order": 175
+    "HQ Source(s)": "Other",
+    "Order": 175,
+    "Link": "",
+    "Earliest Date": "2012/07/19",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 175,
+        "Earliest Date": "2012/07/19",
+        "Related To": "Make Your Mark: Ultimate Jam, SoundStudio Party, Music Jam",
+        "uses": {
+            "1": {
+                "date": "2012/07/19",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Norrie Henderson",
+    "Alternate Names": ""
 }

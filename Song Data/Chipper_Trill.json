@@ -1,23 +1,23 @@
 {
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1100,
-        "Related To": "?",
-        "Uses": {
-            "1": {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "?"
-            }
-        }
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "SC Other",
-    "Link": "",
-    "Name": "Chipper Trill",
-    "Name_official": 1,
-    "Order": 1100,
-    "Source Links": "https://soundcloud.com/davidfairfield/scorn-awakened"
+	"Name": "Chipper Trill",
+	"Name_official": 1,
+	"Composers": "?",
+	"HQ Source(s)": "SC Other",
+	"Source Links": "https://soundcloud.com/davidfairfield/scorn-awakened",
+	"Order": 1100,
+	"Link": "",
+	"Earliest Date": "?",
+	"CPI Info": {
+		"Order": 1100,
+		"Earliest Date": "?",
+		"Related To": "?",
+		"Uses": {
+			"1": {
+				"date": "?",
+				"use": "?",
+				"files": "",
+				"info": ""
+			}
+		}
+	}
 }

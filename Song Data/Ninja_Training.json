@@ -1,28 +1,28 @@
 {
-    "Alternate Names": "",
+    "Name": "Ninja Training",
+    "Name_official": 1,
+    "HQ Source(s)": "SWF 116 + Other",
+    "Order": 86,
+    "Link": "https://youtu.be/DeDoEAdR0K8",
+    "Earliest Date": "2008/11/17",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2008/11/17",
         "Order": 86,
+        "Earliest Date": "2008/11/17",
         "Related To": "Card-Jitsu"
     },
     "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/11/17",
-    "HQ Source(s)": "SWF 116 + Other",
-    "Link": "https://youtu.be/DeDoEAdR0K8",
-    "Medias": "Club Penguin",
-    "Name": "Ninja Training",
-    "Name_official": 1,
-    "Order": 86,
-    "versions": {
-        "1": {
-            "info": "Highest quality available with ambience.",
-            "name": "Card-Jitsu.mp3",
-            "source": "Other"
-        },
-        "2": {
-            "info": "Highest quality available with no ambience.",
-            "name": "116.swf",
-            "source": "SWF 116"
+    "Alternate Names": "",
+	"versions": {
+		"1": {
+            "name" : "Card-Jitsu.mp3",
+            "info" : "Highest quality available with ambience.",
+            "source" : "Other"
+		},
+		"2": {
+            "name" : "116.swf",
+            "info" : "Highest quality available with no ambience.",
+            "source" : "SWF 116"
         }
-    }
+	}
 }

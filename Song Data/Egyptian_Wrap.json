@@ -1,24 +1,24 @@
 {
-    "Alternate Names": "Jumpin' Egyptian",
-    "CP Flash Info": {
-        "Earliest Date": "2008/04/11",
-        "Order": 59,
-        "Related To": "Quest for the Golden Puffle",
-        "uses": [
-            {
-                "date": "2008/04/11",
-                "files": "",
-                "info": "",
-                "use": "Quest for the Golden Puffle"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/04/11",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/RbKaKt2hDrY",
-    "Medias": "Club Penguin",
     "Name": "Egyptian Wrap",
     "Name_official": 1,
-    "Order": 59
+    "HQ Source(s)": "Other",
+    "Order": 59,
+    "Link": "https://youtu.be/RbKaKt2hDrY",
+    "Earliest Date": "2008/04/11",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 59,
+        "Earliest Date": "2008/04/11",
+        "Related To": "Quest for the Golden Puffle",
+        "uses": {
+            "1": {
+                "date": "2008/04/11",
+                "use": "Quest for the Golden Puffle",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": "Jumpin' Egyptian"
 }

@@ -1,22 +1,19 @@
 {
-    "Alternate Names": "Hydro Hopper Theme",
+    "Name": "Yessir",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 4,
+    "Link": "https://www.youtube.com/watch?v=0BP3mlNAGeQ",
+    "Earliest Date": "2005/10/24",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2005/10/24",
         "Order": 4,
+        "Earliest Date": "2005/10/24",
         "Related To": "Hydro Hopper"
     },
     "Composers": "Milo Deering, Ron Jones",
-    "Earliest Date": "2005/10/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=0BP3mlNAGeQ",
-    "Medias": "Club Penguin",
-    "Name": "Yessir",
-    "Name_official": 1,
-    "Order": 4,
-    "stock": {
-        "info": {
-            "link": "https://www.smartsound.com/royalty-free-music/Vintage+Comedy/Yessir/",
-            "origin": "SmartSound"
-        }
+    "Alternate Names": "Hydro Hopper Theme",
+    "stock" : {
+        "info" : {"origin" : "SmartSound", "link" : "https://www.smartsound.com/royalty-free-music/Vintage+Comedy/Yessir/"}
     }
 }

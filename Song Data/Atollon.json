@@ -1,24 +1,24 @@
 {
-    "Alternate Names": "",
-    "CP Flash Info": {
-        "Earliest Date": "2015/01/22",
-        "Order": 311,
-        "Related To": "Star Wars Rebels Takeover",
-        "uses": [
-            {
-                "date": "2015/01/22",
-                "files": "",
-                "info": "",
-                "use": "Star Wars Rebels Takeover"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/01/22",
-    "HQ Source(s)": "SWF 839",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Atollon",
     "Name_official": 0,
-    "Order": 311
+    "HQ Source(s)": "SWF 839",
+    "Order": 311,
+    "Link": "",
+    "Earliest Date": "2015/01/22",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 311,
+        "Earliest Date": "2015/01/22",
+        "Related To": "Star Wars Rebels Takeover",
+        "uses": {
+            "1": {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

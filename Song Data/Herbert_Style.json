@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2015/04/15",
-        "Order": 331,
-        "Related To": "Cave Maze, Operation: Tri-umph",
-        "uses": [
-            {
-                "date": "2015/04/15",
-                "files": "",
-                "info": "",
-                "use": "Cave Maze"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Operation: Tri-umph"
-            }
-        ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2015/04/15",
-    "HQ Source(s)": "App + Club Penguin Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Herbert Style",
     "Name_official": 1,
-    "Order": 331
+    "HQ Source(s)": "App + Club Penguin Youtube Channel",
+    "Order": 331,
+    "Link": "",
+    "Earliest Date": "2015/04/15",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 331,
+        "Earliest Date": "2015/04/15",
+        "Related To": "Cave Maze, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "2015/04/15",
+                "use": "Cave Maze",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Norrie Henderson",
+    "Alternate Names": ""
 }

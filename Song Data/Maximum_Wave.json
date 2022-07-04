@@ -1,80 +1,68 @@
 {
-    "Alternate Names": "Cart Surfer Theme",
+    "Name": "Maximum Wave",
+    "Name_official": 1,
+    "HQ Source(s)": "Other + Sample",
+    "Source Links": "https://sounddogs.com/Search?keywords=maximum%20wave",
+    "Order": 15,
+    "Link": "https://www.youtube.com/watch?v=rV0rjUWGysA",
+    "Earliest Date": "2006/06/06",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2006/06/06",
         "Order": 15,
+        "Earliest Date": "2006/06/06",
         "Related To": "Cart Surfer"
     },
     "CPI Info": {
-        "Earliest Date": "?",
         "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Credits"
     },
     "Composers": "Danny Brown",
-    "Earliest Date": "2006/06/06",
-    "HQ Source(s)": "Other + Sample",
-    "Link": "https://www.youtube.com/watch?v=rV0rjUWGysA",
-    "Medias": "Club Penguin",
-    "Name": "Maximum Wave",
-    "Name_official": 1,
-    "Order": 15,
-    "Source Links": "https://sounddogs.com/Search?keywords=maximum%20wave",
-    "stock": {
-        "info": {
-            "link": "https://sounddogs.com/Search?keywords=maximum%20wave",
-            "origin": "SoundDogs"
+    "Alternate Names": "Cart Surfer Theme",
+	"stock": {
+		"info" : {"origin": "SoundDogs", "link": "https://sounddogs.com/Search?keywords=maximum%20wave"},
+		"sale" : ["60-secs version", "90-secs version", "90-secs version no guitar", "90-secs version less percussion", "60-secs version no guitar", "30-secs version", "Loop version", "Underscore loop version"]
+	},
+	"versions": {
+		"1": {
+            "name" : "Cart Surfer HQ Version 48k 24bit.flac",
+            "info" : "60-secs version.",
+            "source" : "Other"
+		},
+		"2": {
+            "name" : "Cart Surfer HQ Version Extended 48k 24bit.flac",
+            "info" : "90-secs version.",
+            "source" : "Other"
         },
-        "sale": [
-            "60-secs version",
-            "90-secs version",
-            "90-secs version no guitar",
-            "90-secs version less percussion",
-            "60-secs version no guitar",
-            "30-secs version",
-            "Loop version",
-            "Underscore loop version"
-        ]
-    },
-    "versions": {
-        "1": {
-            "info": "60-secs version.",
-            "name": "Cart Surfer HQ Version 48k 24bit.flac",
-            "source": "Other"
+		"3": {
+            "name" : "Cart Surfer HQ Version Extended Guitarless 48k 24bit.flac",
+            "info" : "90-secs version no guitar.",
+            "source" : "Other"
         },
-        "2": {
-            "info": "90-secs version.",
-            "name": "Cart Surfer HQ Version Extended 48k 24bit.flac",
-            "source": "Other"
+		"4": {
+            "name" : "Cart Surfer HQ Version Extended Less Percussion 44k 16bit.flac",
+            "info" : "90-sec less percussion version.",
+            "source" : "Other"
         },
-        "3": {
-            "info": "90-secs version no guitar.",
-            "name": "Cart Surfer HQ Version Extended Guitarless 48k 24bit.flac",
-            "source": "Other"
+		"5": {
+            "name" : "Cart Surfer HQ Version Minus Guitar 48k 24bit.flac",
+            "info" : "60-sec version no guitar.",
+            "source" : "Other"
         },
-        "4": {
-            "info": "90-sec less percussion version.",
-            "name": "Cart Surfer HQ Version Extended Less Percussion 44k 16bit.flac",
-            "source": "Other"
+		"6": {
+            "name" : "Sounddogs-Preview-10376703.mp3",
+            "info" : "Loop version.",
+            "source" : "Sample"
         },
-        "5": {
-            "info": "60-sec version no guitar.",
-            "name": "Cart Surfer HQ Version Minus Guitar 48k 24bit.flac",
-            "source": "Other"
+		"7": {
+            "name" : "Sounddogs-Preview-10377230.mp3",
+            "info" : "Underscore loop version.",
+            "source" : "Sample"
         },
-        "6": {
-            "info": "Loop version.",
-            "name": "Sounddogs-Preview-10376703.mp3",
-            "source": "Sample"
-        },
-        "7": {
-            "info": "Underscore loop version.",
-            "name": "Sounddogs-Preview-10377230.mp3",
-            "source": "Sample"
-        },
-        "8": {
-            "info": "30-secs version.",
-            "name": "Sounddogs-Preview-10378096.mp3",
-            "source": "Sample"
+		"8": {
+            "name" : "Sounddogs-Preview-10378096.mp3",
+            "info" : "30-secs version.",
+            "source" : "Sample"
         }
     }
 }

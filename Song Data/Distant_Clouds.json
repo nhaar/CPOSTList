@@ -1,62 +1,62 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Rainbow Puffle Party, Cloud Forest",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rainbow Puffle Party"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Cloud Forest"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2013/03/23",
-        "Order": 189,
-        "Related To": "Cloud Forest",
-        "uses": [
-            {
-                "date": "2013/03/23",
-                "files": "",
-                "info": "",
-                "use": "Cloud Forest"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rainbow Migration 2018",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rainbow Migration 2018"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2013/03/23",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Distant Clouds",
     "Name_official": 1,
-    "Order": 189
+    "HQ Source(s)": "App",
+    "Order": 189,
+    "Link": "",
+    "Earliest Date": "2013/03/23",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 189,
+        "Earliest Date": "2013/03/23",
+        "Related To": "Cloud Forest",
+        "uses": {
+            "1": {
+                "date": "2013/03/23",
+                "use": "Cloud Forest",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Rainbow Puffle Party, Cloud Forest",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Rainbow Puffle Party",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "Cloud Forest",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Rainbow Migration 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rainbow Migration 2018",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

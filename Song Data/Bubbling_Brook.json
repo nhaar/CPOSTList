@@ -1,76 +1,76 @@
 {
-    "Alternate Names": "Underwater Expedition Theme, Maze Theme",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2012/01/26",
-        "Order": 166,
-        "Related To": "Underwater Expedition, Inside Out Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "?",
-                "info": "Part 1 only, was used on mysterious deep.",
-                "use": "Underwater Expedition"
-            },
-            {
-                "date": "?",
-                "files": "?",
-                "info": "Part 2 only, was used on the underwater maze.",
-                "use": "Underwater Expedition"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Inside Out Party"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rainbow Migration 2018",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rainbow Migration 2018"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2012/01/26",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Bubbling Brook",
     "Name_official": 1,
-    "Order": 166,
+    "HQ Source(s)": "Youtube",
     "Source Links": "https://youtu.be/wq9rGY5CBSo",
-    "notes": "This song has two parts.",
+    "Order": 166,
+    "Link": "",
+    "Earliest Date": "2012/01/26",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 166,
+        "Earliest Date": "2012/01/26",
+        "Related To": "Underwater Expedition, Inside Out Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Underwater Expedition",
+                "files": "?",
+                "info": "Part 1 only, was used on mysterious deep."
+            },
+            "2": {
+                "date": "?",
+                "use": "Underwater Expedition",
+                "files": "?",
+                "info": "Part 2 only, was used on the underwater maze."
+            },
+            "3": {
+                "date": "?",
+                "use": "Inside Out Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Rainbow Migration 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rainbow Migration 2018",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": "Underwater Expedition Theme, Maze Theme",
     "versions": {
         "1": {
-            "info": "Highest quality version of part 1.",
             "name": "BubblingBrook.mp3",
+            "info": "Highest quality version of part 1.",
             "source": "Other"
         },
         "2": {
-            "info": "Highest quality version of part 2.",
             "name": "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
+            "info": "Highest quality version of part 2.",
             "source": "Youtube"
         }
-    }
+    },
+    "notes": "This song has two parts."
 }

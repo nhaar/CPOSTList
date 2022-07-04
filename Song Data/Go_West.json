@@ -1,49 +1,49 @@
 {
-    "Alternate Names": "Best of the West",
-    "CP Flash Info": {
-        "Earliest Date": "2008/07/25",
-        "Order": 69,
-        "Related To": "Music Jam, Dance Contest, The Fair",
-        "uses": [
-            {
-                "date": "2008/07/25",
-                "files": "",
-                "info": "",
-                "use": "Music Jam 2008"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Dance Contest"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "The Fair (??)"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Beacon Boardwalk",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Beacon Boardwalk"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/07/25",
-    "HQ Source(s)": "Club Penguin Island",
-    "Link": "https://www.youtube.com/watch?v=MxdhaDi_azk",
-    "Medias": "Club Penguin",
     "Name": "Go West",
     "Name_official": 1,
-    "Order": 69
+    "HQ Source(s)": "Club Penguin Island",
+    "Order": 69,
+    "Link": "https://www.youtube.com/watch?v=MxdhaDi_azk",
+    "Earliest Date": "2008/07/25",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 69,
+        "Earliest Date": "2008/07/25",
+        "Related To": "Music Jam, Dance Contest, The Fair",
+        "uses": {
+            "1": {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            },
+            "3": {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Beacon Boardwalk",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Best of the West"
 }

@@ -1,51 +1,51 @@
 {
-    "Alternate Names": "Puffle Party (2010)",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2010/02/18",
-        "Order": 123.1,
-        "Related To": "Puffle Party",
-        "files": {
-            "1": {
-                "info": "",
-                "name": "282.swf"
-            }
-        },
-        "uses": [
-            {
-                "date": "2010/Feb/18-2010/Feb/25",
-                "files": "282.swf",
-                "info": "",
-                "use": "Puffle Party 2010"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest"
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Link": "https://youtu.be/N5wlD0vFzHk",
     "Name": "Puffle Party Remix",
     "Name_official": 0,
+    "Alternate Names" : "Puffle Party (2010)",
+    "Composers" : "Chris Hendricks",
+    "Link" : "https://youtu.be/N5wlD0vFzHk",
+    "HQ Source(s)": "App + Club Penguin Island",
     "Order": 1004,
+    "Earliest Date": "?",
+    "CP Flash Info": { 
+        "Order": 123.1, 
+        "Earliest Date": "2010/02/18",
+        "Related To": "Puffle Party", 
+        "files": { 
+            "1": { 
+                "name" : "282.swf",
+                "info" : ""
+            }
+        },
+        "uses": {
+            "1": {
+                "date" :"2010/Feb/18-2010/Feb/25",
+                "use": "Puffle Party 2010", 
+                "files": "282.swf",
+                "info" : ""
+            }
+        }
+    },
     "versions": {
         "1": {
-            "info": "",
-            "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
-            "source": "App"
+            "name" : "MUS_647_Igloo_2014_PuffleParty.mp3",
+            "info" : "",
+            "source" : "App"
         },
         "2": {
-            "info": "",
-            "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
-            "source": "Club Penguin Island"
+            "name" : "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
+            "info" : "",
+            "source" : "Club Penguin Island"
         }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Rookie Quest"
     }
 }

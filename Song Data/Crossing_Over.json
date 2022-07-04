@@ -1,76 +1,76 @@
 {
-    "Alternate Names": "Dance Club Theme, Dance Mix 2",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Dance Club",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Dance Club"
-            }
-        ]
-    },
+    "Name": "Crossing Over",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 3,
+    "Link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
+    "Earliest Date": "2005/10/24",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2005/10/24",
         "Order": 3,
+        "Earliest Date": "2005/10/24",
         "Related To": "Dance Club",
         "files": {
             "1": {
-                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random.",
-                "name": "5.swf"
+                "name": "5.swf",
+                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random."
             },
             "2": {
-                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random.",
-                "name": "6.swf"
+                "name": "6.swf",
+                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random."
             },
             "3": {
-                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D",
-                "name": "673.swf"
+                "name": "673.swf",
+                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D"
             }
         },
-        "uses": [
-            {
+        "uses": {
+            "1": {
                 "date": "2005/10/24",
+                "use": "Dance Club",
                 "files": "",
-                "info": "",
-                "use": "Dance Club"
+                "info": ""
             }
-        ]
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Dance Club",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Dance Club",
+                "files": "",
+                "info": ""
+            }
+        }
     },
     "CPI Info": {
-        "Earliest Date": "?",
         "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Beacon Boardwalk, Pirate Expedition",
-        "uses": [
-            {
+        "uses": {
+            "1": {
                 "date": "?",
+                "use": "Beacon Boardwalk",
                 "files": "",
-                "info": "",
-                "use": "Beacon Boardwalk"
+                "info": ""
             },
-            {
+            "2": {
                 "date": "?",
+                "use": "Pirate Expedition",
                 "files": "",
-                "info": "",
-                "use": "Pirate Expedition"
+                "info": ""
             }
-        ]
+        }
     },
     "Composers": "Bjorn Lynne",
-    "Earliest Date": "2005/10/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
-    "Medias": "Club Penguin",
-    "Name": "Crossing Over",
-    "Name_official": 1,
-    "Order": 3,
+    "Alternate Names": "Dance Club Theme, Dance Mix 2",
     "stock": {
         "info": {
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic",
-            "origin": "NEO Sounds"
+            "origin": "NEO Sounds",
+            "link": "https://www.neosounds.com/royalty-free-music/songs/2172/crossing-over-lynnemusic"
         },
         "sale": [
             "Full Track",

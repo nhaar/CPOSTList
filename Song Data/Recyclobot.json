@@ -1,26 +1,26 @@
 {
-    "Alternate Names": "Recycling Plant Theme, Recycle!",
+    "Name": "Recyclobot",
+    "Name_official": 1,
+    "HQ Source(s)": "Game Day",
+    "Order": 128,
+    "Link": "https://youtu.be/iM8ijGjn9Vo",
+    "Earliest Date": "2010/04/21",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "CP Flash Info": {
-        "Earliest Date": "2010/04/21",
         "Order": 128,
+        "Earliest Date": "2010/04/21",
         "Related To": "Recycling Plant"
     },
+    "Game Day Info": {
+        "Order": 30,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Jackhammer!"
+    },
     "CPI Info": {
-        "Earliest Date": "?",
         "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Rookie Quest"
     },
     "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/04/21",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 30,
-        "Related To": "Jackhammer!"
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://youtu.be/iM8ijGjn9Vo",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Recyclobot",
-    "Name_official": 1,
-    "Order": 128
+    "Alternate Names": "Recycling Plant Theme, Recycle!"
 }

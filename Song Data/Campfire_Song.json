@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "Camp Party 2, Mess Hall, Doodle Dimension",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2007/08/24",
-        "Order": 38,
-        "Related To": "Camp Penguin, April Fools Party",
-        "uses": [
-            {
-                "date": "2007/08/24",
-                "files": "",
-                "info": "",
-                "use": "Camp Penguin"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "April Fools (??)"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/08/24",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=_9OqwJPF2qg",
-    "Medias": "Club Penguin",
     "Name": "Campfire Song",
     "Name_official": 1,
-    "Order": 38
+    "HQ Source(s)": "App",
+    "Order": 38,
+    "Link": "https://www.youtube.com/watch?v=_9OqwJPF2qg",
+    "Earliest Date": "2007/08/24",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 38,
+        "Earliest Date": "2007/08/24",
+        "Related To": "Camp Penguin, April Fools Party",
+        "uses": {
+            "1": {
+                "date": "2007/08/24",
+                "use": "Camp Penguin",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "April Fools (??)",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Camp Party 2, Mess Hall, Doodle Dimension"
 }

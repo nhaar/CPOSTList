@@ -1,50 +1,50 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2007/10/26",
-        "Order": 43,
-        "Related To": "Halloween Party",
-        "uses": [
-            {
-                "date": "2007/10/26",
-                "files": "",
-                "info": "",
-                "use": "Halloween Party 2007"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Halloween Party 2018"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/10/26",
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
-    "Medias": "Club Penguin",
     "Name": "Haunted Disco",
     "Name_official": 1,
-    "Order": 43
+    "HQ Source(s)": "App + Club Penguin Island",
+    "Order": 43,
+    "Link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
+    "Earliest Date": "2007/10/26",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 43,
+        "Earliest Date": "2007/10/26",
+        "Related To": "Halloween Party",
+        "uses": {
+            "1": {
+                "date": "2007/10/26",
+                "use": "Halloween Party 2007",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": ""
 }

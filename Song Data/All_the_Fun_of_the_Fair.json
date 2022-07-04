@@ -1,56 +1,56 @@
 {
-    "Alternate Names": "Carnival Theme, Fall Fair, All the Fun of The Fair",
-    "CP Flash Info": {
-        "Earliest Date": "2007/09/21",
-        "Order": 40,
-        "Related To": "The Fair",
-        "uses": [
-            {
-                "date": "2007/09/21",
-                "files": "",
-                "info": "",
-                "use": "The Fair"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest, Credits",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rookie Quest"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Credits"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/09/21",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 41,
-        "Related To": "Blue Ski Hill Challenge",
-        "uses": [
-            {
-                "date": "2010/09/17",
-                "files": "",
-                "info": "",
-                "use": "Blue Ski Hill Challenge"
-            }
-        ]
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=pnfHyC1nfCs",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "All the Fun of the Fair",
     "Name_official": 1,
-    "Order": 40
+    "HQ Source(s)": "Game Day",
+    "Order": 40,
+    "Link": "https://www.youtube.com/watch?v=pnfHyC1nfCs",
+    "Earliest Date": "2007/09/21",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "CP Flash Info": {
+        "Order": 40,
+        "Earliest Date": "2007/09/21",
+        "Related To": "The Fair",
+        "uses": {
+            "1": {
+                "date": "2007/09/21",
+                "use": "The Fair",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Game Day Info": {
+        "Order": 41,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Blue Ski Hill Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Blue Ski Hill Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Rookie Quest, Credits",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Credits",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Carnival Theme, Fall Fair, All the Fun of The Fair"
 }

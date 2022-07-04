@@ -1,21 +1,21 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2015/01/22",
-        "Order": 310,
-        "Related To": "Star Wars Rebels Takeover"
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/01/22",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Tusken Battle",
     "Name_official": 1,
-    "Order": 310
+    "HQ Source(s)": "App",
+    "Order": 310,
+    "Link": "",
+    "Earliest Date": "2015/01/22",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 310,
+        "Earliest Date": "2015/01/22",
+        "Related To": "Star Wars Rebels Takeover"
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo"
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

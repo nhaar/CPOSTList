@@ -1,24 +1,24 @@
 {
-    "Alternate Names": "",
-    "CP Flash Info": {
-        "Earliest Date": "2011/06/16",
-        "Order": 160,
-        "Related To": "Music Jam",
-        "uses": [
-            {
-                "date": "2011/06/16",
-                "files": "",
-                "info": "",
-                "use": "Music Jam 2011"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/06/16",
-    "HQ Source(s)": "happy77 Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Better Days",
     "Name_official": 1,
-    "Order": 160
+    "HQ Source(s)": "happy77 Youtube Channel",
+    "Order": 160,
+    "Link": "",
+    "Earliest Date": "2011/06/16",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 160,
+        "Earliest Date": "2011/06/16",
+        "Related To": "Music Jam",
+        "uses": {
+            "1": {
+                "date": "2011/06/16",
+                "use": "Music Jam 2011",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": ""
 }

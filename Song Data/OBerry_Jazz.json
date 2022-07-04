@@ -1,17 +1,17 @@
 {
-    "Alternate Names": "",
+    "Name": "O'Berry Jazz",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 95,
+    "Link": "https://youtu.be/5dtMO-ML4_I",
+    "Earliest Date": "2009/02/20",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2009/02/20",
         "Order": 95,
+        "Earliest Date": "2009/02/20",
         "Related To": "Puffle Party, Anniversary Party"
     },
     "Composers": "Chris Hendricks",
-    "Earliest Date": "2009/02/20",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/5dtMO-ML4_I",
-    "Medias": "Club Penguin",
-    "Name": "O'Berry Jazz",
-    "Name_official": 1,
-    "Order": 95,
+    "Alternate Names": "",
     "notes": "It uses the puffle party motif."
 }

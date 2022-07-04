@@ -1,50 +1,50 @@
 {
-    "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2007/10/26",
-        "Order": 42,
-        "Related To": "Halloween Party",
-        "uses": [
-            {
-                "date": "2007/10/26",
-                "files": "",
-                "info": "",
-                "use": "Halloween Party"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Halloween Party 2018"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2007/10/26",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=r5gu4qG_JtE",
-    "Medias": "Club Penguin",
     "Name": "Discoween",
     "Name_official": 1,
-    "Order": 42
+    "HQ Source(s)": "App",
+    "Order": 42,
+    "Link": "https://www.youtube.com/watch?v=r5gu4qG_JtE",
+    "Earliest Date": "2007/10/26",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 42,
+        "Earliest Date": "2007/10/26",
+        "Related To": "Halloween Party",
+        "uses": {
+            "1": {
+                "date": "2007/10/26",
+                "use": "Halloween Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam"
 }

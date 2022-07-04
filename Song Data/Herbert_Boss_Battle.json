@@ -1,25 +1,25 @@
 {
-    "Alternate Names": "",
-    "CP Flash Info": {
-        "Earliest Date": "2011/05/31",
-        "Order": 158,
-        "Related To": "Battle of Doom",
-        "uses": [
-            {
-                "date": "2011/05/31",
-                "files": "",
-                "info": "",
-                "use": "Battle of Doom"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/05/31",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Herbert Boss Battle",
     "Name_official": 1,
+    "HQ Source(s)": "Youtube",
+    "Source Links": "https://youtu.be/OfdlpqO0LNo",
     "Order": 158,
-    "Source Links": "https://youtu.be/OfdlpqO0LNo"
+    "Link": "",
+    "Earliest Date": "2011/05/31",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 158,
+        "Earliest Date": "2011/05/31",
+        "Related To": "Battle of Doom",
+        "uses": {
+            "1": {
+                "date": "2011/05/31",
+                "use": "Battle of Doom",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": ""
 }

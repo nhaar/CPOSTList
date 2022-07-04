@@ -1,16 +1,16 @@
 {
-    "Alternate Names": "",
+    "Name": "Music Maker",
+    "Name_official": 0,
+    "HQ Source(s)": "SWF Music Maker",
+    "Order": 74,
+    "Link": "https://www.youtube.com/watch?v=SbiF4Uln0tA",
+    "Earliest Date": "2008/07/25",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2008/07/25",
         "Order": 74,
+        "Earliest Date": "2008/07/25",
         "Related To": "Music Jam 2008, Music Jam 2009, Music Jam 2010, Music Jam 2011"
     },
     "Composers": "?",
-    "Earliest Date": "2008/07/25",
-    "HQ Source(s)": "SWF Music Maker",
-    "Link": "https://www.youtube.com/watch?v=SbiF4Uln0tA",
-    "Medias": "Club Penguin",
-    "Name": "Music Maker",
-    "Name_official": 0,
-    "Order": 74
+    "Alternate Names": ""
 }

@@ -1,26 +1,26 @@
 {
-    "Alternate Names": "Team Power, Team Blue Rally, Team Power",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Mine Shack"
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2008/02/08",
-        "Order": 53,
-        "Related To": "Team Blue's Rally Debut, Puffle Party, Hollywood Party, Mine Shack"
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/02/08",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 15,
-        "Related To": "Blue team zone"
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=tSG-oSCoA1Y",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "Pep Rally",
     "Name_official": 1,
-    "Order": 53
+    "HQ Source(s)": "Game Day",
+    "Order": 53,
+    "Link": "https://www.youtube.com/watch?v=tSG-oSCoA1Y",
+    "Earliest Date": "2008/02/08",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "CP Flash Info": {
+        "Order": 53,
+        "Earliest Date": "2008/02/08",
+        "Related To": "Team Blue's Rally Debut, Puffle Party, Hollywood Party, Mine Shack"
+    },
+    "Game Day Info": {
+        "Order": 15,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Blue team zone"
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Mine Shack"
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Team Power, Team Blue Rally, Team Power"
 }

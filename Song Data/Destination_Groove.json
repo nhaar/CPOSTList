@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Zootopia Party, Zootopia Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Zootopia Party"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2016/05/18",
-        "Order": 360,
-        "Related To": "Zootopia Party",
-        "uses": [
-            {
-                "date": "2016/05/18",
-                "files": "",
-                "info": "",
-                "use": "Zootopia Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2016/05/18",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Destination Groove",
     "Name_official": 1,
-    "Order": 360
+    "HQ Source(s)": "App",
+    "Order": 360,
+    "Link": "",
+    "Earliest Date": "2016/05/18",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 360,
+        "Earliest Date": "2016/05/18",
+        "Related To": "Zootopia Party",
+        "uses": {
+            "1": {
+                "date": "2016/05/18",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Zootopia Party, Zootopia Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

@@ -1,16 +1,16 @@
 {
-    "Alternate Names": "Reef, Soda Seas Theme",
+    "Name": "Algae Reef",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 75,
+    "Link": "https://youtu.be/RoATGIR0GVc",
+    "Earliest Date": "2008/08/06",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2008/08/06",
         "Order": 75,
+        "Earliest Date": "2008/08/06",
         "Related To": "Aqua Grabber"
     },
     "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/08/06",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/RoATGIR0GVc",
-    "Medias": "Club Penguin",
-    "Name": "Algae Reef",
-    "Name_official": 1,
-    "Order": 75
+    "Alternate Names": "Reef, Soda Seas Theme"
 }

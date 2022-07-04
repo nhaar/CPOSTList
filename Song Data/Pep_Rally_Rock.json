@@ -1,21 +1,21 @@
 {
-    "Alternate Names": "Team Blue 2",
-    "CP Flash Info": {
-        "Earliest Date": "2008/08/08",
-        "Order": 76,
-        "Related To": "Team Blue's Rally 2"
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/08/08",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 14,
-        "Related To": "Red team zone"
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=PDp1hlvKxvc",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "Pep Rally Rock",
     "Name_official": 1,
-    "Order": 76
+    "HQ Source(s)": "Game Day",
+    "Order": 76,
+    "Link": "https://www.youtube.com/watch?v=PDp1hlvKxvc",
+    "Earliest Date": "2008/08/08",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "CP Flash Info": {
+        "Order": 76,
+        "Earliest Date": "2008/08/08",
+        "Related To": "Team Blue's Rally 2"
+    },
+    "Game Day Info": {
+        "Order": 14,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Red team zone"
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": "Team Blue 2"
 }

@@ -1,86 +1,77 @@
 {
-    "Alternate Names": "Ice Fishing Theme",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
+    "Name": "Paris St Germain",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 13,
+    "Link": "https://www.youtube.com/watch?v=dhKAcYPWonE",
+    "Earliest Date": "2006/03/10",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 13,
+        "Earliest Date": "2006/03/10",
         "Related To": "Ice Fishing"
     },
-    "CP Flash Info": {
-        "Earliest Date": "2006/03/10",
-        "Order": 13,
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Ice Fishing"
     },
     "CPI Info": {
-        "Earliest Date": "?",
         "Order": 1,
+        "Earliest Date": "?",
         "Related To": "Ice Fishing"
     },
     "Composers": "Milo Deering",
-    "Earliest Date": "2006/03/10",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=dhKAcYPWonE",
-    "Medias": "Club Penguin",
-    "Name": "Paris St Germain",
-    "Name_official": 1,
-    "Order": 13,
-    "stock": {
-        "info": {
-            "link": "https://www.shockwave-sound.com/stock-music-track/3566/paris-st-germain",
-            "origin": "Shockwave Sound"
+    "Alternate Names": "Ice Fishing Theme",
+	"stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/3566/paris-st-germain"},
+		"sale" : ["Full track", "60-secs version", "30-secs version", "Underscore version", "Set of 5 music loops"]
+	},
+	"versions": {
+		"1": {
+		"name" : "6_Paris_St._Germain.flac",
+		"info" : "Full version.",
+		"source" : "Other"
+		},
+		"2": {
+            "name" : "paris-st-germain-30secs-preview-no-voiceover.mp3",
+            "info" : "30-secs version.",
+            "source" : "Sample"
         },
-        "sale": [
-            "Full track",
-            "60-secs version",
-            "30-secs version",
-            "Underscore version",
-            "Set of 5 music loops"
-        ]
-    },
-    "versions": {
-        "1": {
-            "info": "Full version.",
-            "name": "6_Paris_St._Germain.flac",
-            "source": "Other"
+		"3": {
+		"name" : "paris-st-germain-60secs-preview-no-voiceover.mp3",
+		"info" : "60-secs version.",
+		"source" : "Sample"
+		},
+		"4": {
+            "name" : "paris-st-germain-no-voiceover-loop01.mp3",
+            "info" : "Loop 1 from the set of 5 loops.",
+            "source" : "Sample"
         },
-        "2": {
-            "info": "30-secs version.",
-            "name": "paris-st-germain-30secs-preview-no-voiceover.mp3",
-            "source": "Sample"
+		"5": {
+            "name" : "paris-st-germain-no-voiceover-loop02.mp3",
+            "info" : "Loop 2 from the set of 5 loops.",
+            "source" : "Sample"
+		},
+		"6": {
+            "name" : "paris-st-germain-no-voiceover-loop03.mp3",
+            "info" : "Loop 3 from the set of 5 loops.",
+            "source" : "Sample"
         },
-        "3": {
-            "info": "60-secs version.",
-            "name": "paris-st-germain-60secs-preview-no-voiceover.mp3",
-            "source": "Sample"
+		"7": {
+            "name" : "paris-st-germain-no-voiceover-loop04.mp3",
+            "info" : "Loop 4 from the set of 5 loops.",
+            "source" : "Sample"
+		},
+		"8": {
+            "name" : "paris-st-germain-no-voiceover-loop05.mp3",
+            "info" : "Loop 5 from the set of 5 loops.",
+            "source" : "Sample"
         },
-        "4": {
-            "info": "Loop 1 from the set of 5 loops.",
-            "name": "paris-st-germain-no-voiceover-loop01.mp3",
-            "source": "Sample"
-        },
-        "5": {
-            "info": "Loop 2 from the set of 5 loops.",
-            "name": "paris-st-germain-no-voiceover-loop02.mp3",
-            "source": "Sample"
-        },
-        "6": {
-            "info": "Loop 3 from the set of 5 loops.",
-            "name": "paris-st-germain-no-voiceover-loop03.mp3",
-            "source": "Sample"
-        },
-        "7": {
-            "info": "Loop 4 from the set of 5 loops.",
-            "name": "paris-st-germain-no-voiceover-loop04.mp3",
-            "source": "Sample"
-        },
-        "8": {
-            "info": "Loop 5 from the set of 5 loops.",
-            "name": "paris-st-germain-no-voiceover-loop05.mp3",
-            "source": "Sample"
-        },
-        "9": {
-            "info": "Underscore version.",
-            "name": "paris-st-germain-underscore-preview-no-voiceover.mp3",
-            "source": "Sample"
-        }
+		"9": {
+            "name" : "paris-st-germain-underscore-preview-no-voiceover.mp3",
+            "info" : "Underscore version.",
+            "source" : "Sample"
+		}
     }
 }

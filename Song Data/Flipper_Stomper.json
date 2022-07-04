@@ -1,37 +1,37 @@
 {
-    "Alternate Names": "",
-    "CP Flash Info": {
-        "Earliest Date": "2008/07/25",
-        "Order": 65,
-        "Related To": "Music Jam",
-        "uses": [
-            {
-                "date": "2008/07/25",
-                "files": "",
-                "info": "",
-                "use": "Music Jam 2008"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/07/25",
-    "Game Day Info": {
-        "Earliest Date": "2010/09/17",
-        "Order": 24,
-        "Related To": "Dock Challenge",
-        "uses": [
-            {
-                "date": "2010/09/17",
-                "files": "",
-                "info": "",
-                "use": "Dock Challenge"
-            }
-        ]
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=0iDwJa1paYc",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
     "Name": "Flipper Stomper",
     "Name_official": 1,
-    "Order": 65
+    "HQ Source(s)": "Game Day",
+    "Order": 65,
+    "Link": "https://www.youtube.com/watch?v=0iDwJa1paYc",
+    "Earliest Date": "2008/07/25",
+    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "CP Flash Info": {
+        "Order": 65,
+        "Earliest Date": "2008/07/25",
+        "Related To": "Music Jam",
+        "uses": {
+            "1": {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Game Day Info": {
+        "Order": 24,
+        "Earliest Date": "2010/09/17",
+        "Related To": "Dock Challenge",
+        "uses": {
+            "1": {
+                "date": "2010/09/17",
+                "use": "Dock Challenge",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Friction Music",
+    "Alternate Names": ""
 }

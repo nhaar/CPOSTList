@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Finding Dory Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Finding Dory Party"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2016/07/06",
-        "Order": 368,
-        "Related To": "Finding Dory Party",
-        "uses": [
-            {
-                "date": "2016/07/06",
-                "files": "",
-                "info": "",
-                "use": "Finding Dory Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2016/07/06",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Dancing Coral",
     "Name_official": 1,
-    "Order": 368
+    "HQ Source(s)": "App",
+    "Order": 368,
+    "Link": "",
+    "Earliest Date": "2016/07/06",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 368,
+        "Earliest Date": "2016/07/06",
+        "Related To": "Finding Dory Party",
+        "uses": {
+            "1": {
+                "date": "2016/07/06",
+                "use": "Finding Dory Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Finding Dory Party",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Finding Dory Party",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "?",
+    "Alternate Names": ""
 }

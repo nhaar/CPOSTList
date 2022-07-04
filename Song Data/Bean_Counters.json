@@ -1,39 +1,39 @@
 {
-    "Alternate Names": "New Bean Counters",
-    "CP Flash Info": {
-        "Earliest Date": "2010/11/14",
-        "Order": 143,
-        "Related To": "Bean Counters",
-        "uses": [
-            {
-                "date": "2010/11/14",
-                "files": "",
-                "info": "",
-                "use": "Bean Counters"
-            }
-        ]
-    },
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Bean Counters",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Bean Counters"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/11/14",
-    "HQ Source(s)": "Screenhog's Website",
-    "Link": "https://youtu.be/yuRBJCJDXns",
-    "Medias": "Club Penguin",
     "Name": "Bean Counters",
     "Name_official": 1,
-    "Order": 143,
+    "HQ Source(s)": "Screenhog's Website",
     "Source Links": "http://www.screenhog.com/music",
+    "Order": 143,
+    "Link": "https://youtu.be/yuRBJCJDXns",
+    "Earliest Date": "2010/11/14",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 143,
+        "Earliest Date": "2010/11/14",
+        "Related To": "Bean Counters",
+        "uses": {
+            "1": {
+                "date": "2010/11/14",
+                "use": "Bean Counters",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Bean Counters",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Bean Counters",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": "New Bean Counters",
     "notes": "It replaced Organic Journey as the Bean Counters theme."
 }

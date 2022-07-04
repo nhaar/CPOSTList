@@ -1,27 +1,27 @@
 {
-    "Alternate Names": "Rage",
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 0,
-        "Related To": "",
-        "files": {},
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Aunt Arctic Quest"
-            }
-        ]
-    },
-    "Composers": "Oswin Macintosh",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Sample",
-    "Link": "",
     "Name": "Rage Of Sin",
     "Name_official": 1,
-    "Order": 0,
+    "Alternate Names": "Rage",
+    "Composers": "Oswin Macintosh",
+    "HQ Source(s)": "Sample",
     "Source Links": "https://www.extrememusic.com/albums/1751",
-    "stock": {},
-    "versions": {}
+    "Order": 0,
+    "Link": "",
+    "Earliest Date": "?",
+    "CPI Info": {
+        "Order": 0,
+        "Earliest Date": "?",
+        "Related To": "",
+        "files": {},
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Aunt Arctic Quest",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "versions": {},
+    "stock": {}
 }

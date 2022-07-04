@@ -1,41 +1,41 @@
 {
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 0,
-        "Related To": "Mount Blizzard, Rookie Quest",
-        "files": {
-            "1": {
-                "info": "",
-                "name": "?"
-            }
-        },
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Mount Blizzard"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Rookie Quest"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "CPI SoundCloud",
     "Name": "CPSN",
     "Name_official": 1,
+    "HQ Source(s)": "CPI SoundCloud",
+    "Composers": "?",
+    "Source Links" : "https://soundcloud.com/user-764833925/cpsn",
     "Order": 1020,
-    "Source Links": "https://soundcloud.com/user-764833925/cpsn",
+    "Earliest Date": "?",
+    "CPI Info": { 
+        "Order": 0, 
+        "Earliest Date": "?",
+        "Related To": "Mount Blizzard, Rookie Quest", 
+        "files": { 
+            "1": { 
+                "name" : "?",
+                "info" : ""
+            }
+        },
+        "uses": {
+            "1": {
+                "date" :"?",
+                "use": "Mount Blizzard", 
+                "files": "",
+                "info" : ""
+            },
+            "2": {
+                "date" :"?",
+                "use": "Rookie Quest", 
+                "files": "",
+                "info" : ""
+            }
+        }
+    },
     "versions": {
         "1": {
-            "info": "",
-            "name": "CPSN [484983789].mp3",
-            "source": "CPI SoundCloud"
+            "name" : "CPSN [484983789].mp3",
+            "info" : "",
+            "source" : "CPI SoundCloud"
         }
     }
 }

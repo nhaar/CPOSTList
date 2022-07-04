@@ -1,105 +1,97 @@
 {
-    "Alternate Names": "Coffee Shop Theme",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Coffee Shop"
-    },
+    "Name": "King of Kingston",
+    "Name_official": 1,
+    "HQ Source(s)": "Other",
+    "Order": 1,
+    "Link": "https://www.youtube.com/watch?v=L-im4pRBVlc",
+    "Earliest Date": "2005/10/24",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2005/10/24",
         "Order": 1,
+        "Earliest Date": "2005/10/24",
         "Related To": "Coffee Shop, Book Room",
         "files": {
             "1": {
-                "info": "It used the four loops, played randomly in order",
-                "name": "1.swf"
+                "name" : "1.swf",
+                "info" : "It used the four loops, played randomly in order"
             },
             "2": {
-                "info": "All 4 loops played sequentially, with ambience noise",
-                "name": "429.swf"
+                "name" : "429.swf",
+                "info" : "All 4 loops played sequentially, with ambience noise"
             },
             "3": {
-                "info": "All 4 loops palyed sequentially, with ambience noises",
-                "name": "669.swf"
+                "name" : "669.swf",
+                "info" : "All 4 loops palyed sequentially, with ambience noises"
             }
         },
-        "uses": [
-            {
-                "date": "?",
+        "uses": {
+            "1": {
+                "date" :"?",
+                "use": "Coffee Shop",
                 "files": "1.swf",
-                "info": "",
-                "use": "Coffee Shop"
+                "info" : ""
             },
-            {
-                "date": "?",
+            "2": {
+                "date" : "?",
+                "use": "Coffee Shop",
                 "files": "429.swf",
-                "info": "",
-                "use": "Coffee Shop"
+                "info": ""
             },
-            {
-                "date": "?",
+            "3" : {
+                "date" : "?",
+                "use": "Coffee Shop",
                 "files": "669.swf",
-                "info": "",
-                "use": "Coffee Shop"
+                "info" : ""
             }
-        ]
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Coffee Shop"
     },
     "Composers": "Paul Sumpter",
-    "Earliest Date": "2005/10/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=L-im4pRBVlc",
-    "Medias": "Club Penguin",
-    "Name": "King of Kingston",
-    "Name_official": 1,
-    "Order": 1,
-    "stock": {
-        "info": {
-            "link": "https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston",
-            "origin": "Shockwave Sound"
-        },
-        "sale": [
-            "Full track",
-            "60-secs version",
-            "30-secs version",
-            "Set of 4 music loops"
-        ]
-    },
-    "type": 1,
+    "Alternate Names": "Coffee Shop Theme",
+	"type" : 1,
+	"stock": {
+		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston"},
+		"sale" : ["Full track", "60-secs version", "30-secs version", "Set of 4 music loops"]
+	},
     "versions": {
         "1": {
-            "info": "Loop 1 from the set of 4 loops.",
-            "name": "King of Kingston loop1.wav",
-            "source": "Other"
+            "name" : "King of Kingston loop1.wav",
+            "info" : "Loop 1 from the set of 4 loops.",
+            "source" : "Other"
         },
         "2": {
-            "info": "Loop 2 from the set of 4 loops.",
-            "name": "King of Kingston loop2.wav",
-            "source": "Other"
+            "name" : "King of Kingston loop2.wav",
+            "info" : "Loop 2 from the set of 4 loops.",
+            "source" : "Other"
         },
         "3": {
-            "info": "Loop 3 from the set of 4 loops.",
-            "name": "King of Kingston loop3.wav",
-            "source": "Other"
+            "name" : "King of Kingston loop3.wav",
+            "info" : "Loop 3 from the set of 4 loops.",
+            "source" : "Other"
         },
         "4": {
-            "info": "Loop 4 from the set of 4 loops.",
-            "name": "King of Kingston loop4.wav",
-            "source": "Other"
-        },
+            "name" : "King of Kingston loop4.wav",
+            "info" : "Loop 4 from the set of 4 loops.",
+            "source" : "Other"
+        },        
         "5": {
-            "info": "30 seconds version.",
-            "name": "king-of-kingston-30secs.wav",
-            "source": "Other"
-        },
+            "name" : "king-of-kingston-30secs.wav",
+            "info" : "30 seconds version.",
+            "source" : "Other"
+        },        
         "6": {
-            "info": "60 seconds version.",
-            "name": "king-of-kingston-60secs.wav",
-            "source": "Other"
-        },
+            "name" : "king-of-kingston-60secs.wav",
+            "info" : "60 seconds version.",
+            "source" : "Other"
+        },        
         "7": {
-            "info": "Full version.",
-            "name": "king-of-kingston-complete.wav",
-            "source": "Other"
+            "name" : "king-of-kingston-complete.wav",
+            "info" : "Full version.",
+            "source" : "Other"
         }
     }
 }

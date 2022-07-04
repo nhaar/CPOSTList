@@ -1,14 +1,14 @@
 {
-    "CPI Info": {
-        "Earliest Date": "?",
-        "Order": 1100,
-        "Related To": "?"
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "CPI SoundCloud",
-    "Link": "",
-    "Name": "Wild Folk",
-    "Name_official": 1,
-    "Order": 1100
+	"Name": "Wild Folk",
+	"Name_official": 1,
+	"Composers" : "?",
+	"HQ Source(s)": "CPI SoundCloud",
+	"Order": 1100,
+	"Link": "",
+	"Earliest Date": "?",
+	"CPI Info": { 
+		"Order": 1100, 
+		"Earliest Date": "?",
+		"Related To": "?"
+	}
 }

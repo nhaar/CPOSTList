@@ -1,24 +1,24 @@
 {
-    "Alternate Names": "",
-    "CP Flash Info": {
-        "Earliest Date": "2009/11/13",
-        "Order": 118,
-        "Related To": "Card-Jitsu Fire",
-        "uses": [
-            {
-                "date": "2009/11/13",
-                "files": "",
-                "info": "",
-                "use": "Card-Jitsu Fire"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2009/11/13",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/Gc9dJ_tN6TM",
-    "Medias": "Club Penguin",
     "Name": "Fire Path",
     "Name_official": 1,
-    "Order": 118
+    "HQ Source(s)": "Other",
+    "Order": 118,
+    "Link": "https://youtu.be/Gc9dJ_tN6TM",
+    "Earliest Date": "2009/11/13",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 118,
+        "Earliest Date": "2009/11/13",
+        "Related To": "Card-Jitsu Fire",
+        "uses": {
+            "1": {
+                "date": "2009/11/13",
+                "use": "Card-Jitsu Fire",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": ""
 }

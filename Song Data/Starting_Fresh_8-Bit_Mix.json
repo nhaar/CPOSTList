@@ -1,26 +1,26 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, School Party"
-    },
+    "Name": "Starting Fresh 8-Bit Mix",
+    "Name_official": 1,
+    "HQ Source(s)": "SoundCloud",
+    "Order": 282,
+    "Link": "",
+    "Earliest Date": "2014/09/18",
+    "Medias": "Club Penguin",
     "CP Flash Info": {
-        "Earliest Date": "2014/09/18",
         "Order": 282,
+        "Earliest Date": "2014/09/18",
         "Related To": "School & Skate Party"
     },
-    "CPI Info": {
-        "Earliest Date": "?",
+    "App Info": {
         "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, School Party"
+    },
+    "CPI Info": {
+        "Order": 1,
+        "Earliest Date" : "?",
         "Related To": "Arcade Menu"
     },
     "Composers": "?",
-    "Earliest Date": "2014/09/18",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Starting Fresh 8-Bit Mix",
-    "Name_official": 1,
-    "Order": 282
+    "Alternate Names": ""
 }

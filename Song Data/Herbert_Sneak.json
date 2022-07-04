@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Operation: Tri-umph",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Operation: Tri-umph"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2016/02/10",
-        "Order": 355,
-        "Related To": "Operation: Tri-umph",
-        "uses": [
-            {
-                "date": "2016/02/10",
-                "files": "",
-                "info": "",
-                "use": "Operation: Tri-umph"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2016/02/10",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Herbert Sneak",
     "Name_official": 1,
-    "Order": 355
+    "HQ Source(s)": "App",
+    "Order": 355,
+    "Link": "",
+    "Earliest Date": "2016/02/10",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 355,
+        "Earliest Date": "2016/02/10",
+        "Related To": "Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "2016/02/10",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Operation: Tri-umph",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "Chris Hendricks",
+    "Alternate Names": ""
 }

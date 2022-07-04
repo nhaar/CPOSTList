@@ -1,43 +1,43 @@
 {
-    "Alternate Names": "Puffle Gala",
-    "App Info": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
-    "CP Flash Info": {
-        "Earliest Date": "2014/04/17",
-        "Order": 251,
-        "Related To": "Puffle Party",
-        "uses": [
-            {
-                "date": "2014/04/17",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2014"
-            }
-        ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2014/04/17",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
     "Name": "Electric Ballet",
     "Name_official": 1,
-    "Order": 251
+    "HQ Source(s)": "App",
+    "Order": 251,
+    "Link": "",
+    "Earliest Date": "2014/04/17",
+    "Medias": "Club Penguin",
+    "CP Flash Info": {
+        "Order": 251,
+        "Earliest Date": "2014/04/17",
+        "Related To": "Puffle Party",
+        "uses": {
+            "1": {
+                "date": "2014/04/17",
+                "use": "Puffle Party 2014",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "App Info": {
+        "Order": 1,
+        "Earliest Date": "?",
+        "Related To": "Igloo, Puffle Party 2015",
+        "uses": {
+            "1": {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            "2": {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        }
+    },
+    "Composers": "David Fairfield",
+    "Alternate Names": "Puffle Gala"
 }
