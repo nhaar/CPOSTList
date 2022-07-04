@@ -26,7 +26,7 @@ The basic template that every song needs
 File Versions template
 
 ```
-"": {
+"1": {
 "name" : "",
 "info" : "",
 "source" : ""
@@ -46,7 +46,7 @@ Media Info template
 Files template (for Media Info)
 
 ```
-"": { 
+"1": { 
 "name" : "",
 "info" : ""
 }
@@ -55,7 +55,7 @@ Files template (for Media Info)
 Uses template (for Media Info)
 
 ```
-"": { 
+"1": { 
 "date" : "",
 "use" : "",
 "files" : "",
