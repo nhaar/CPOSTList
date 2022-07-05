@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Hydra Electric Damage",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2011/05/19",
         "Order": 157,
         "Related To": "Medieval Party",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rockhopper Quest",

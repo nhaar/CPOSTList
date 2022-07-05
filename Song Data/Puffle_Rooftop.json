@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/03/21",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 188,
         "Earliest Date": "2013/03/21",
         "Related To": "Rooftop Pool",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Rooftop Pool",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Town",

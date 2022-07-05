@@ -7,7 +7,7 @@
     "Link": "https://youtu.be/AnVLBhvk5As",
     "Earliest Date": "2010/03/15",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 124,
         "Earliest Date": "2010/03/15",
         "Related To": "Puffle Rescue",
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 6,
         "Earliest Date": "2010/09/17",
         "Related To": "Pre-minigame cutscene",
@@ -33,7 +33,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Puffle Rescue",

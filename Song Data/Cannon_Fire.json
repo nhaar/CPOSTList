@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Ship Battle Theme, Adventure Of A Lifetime",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/06/17",
         "Order": 137,
         "Related To": "Island Adventure Party",

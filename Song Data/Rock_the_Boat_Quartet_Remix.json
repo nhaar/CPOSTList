@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "?",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 343,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Fashion Party",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Town",

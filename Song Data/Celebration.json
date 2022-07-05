@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Anniversary Party",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Town",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/10/24",
         "Order": 81,
         "Related To": "Anniversary Party, Make Your Mark: Ultimate Jam, Town",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Town",
@@ -53,7 +53,7 @@
     },
     "Composers": "Friction Music",
     "Earliest Date": "2008/10/24",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 2,
         "Related To": "Menu",

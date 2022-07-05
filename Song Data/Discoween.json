@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/10/26",
         "Order": 42,
         "Related To": "Halloween Party",
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Halloween 2018",

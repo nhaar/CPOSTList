@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2015/02/19",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 313,
         "Earliest Date": "2015/02/19",
         "Related To": "SoundStudio Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Music Jam 2016",

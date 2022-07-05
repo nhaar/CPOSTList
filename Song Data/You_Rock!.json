@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=WLSaYpqagEY",
     "Earliest Date": "2010/07/08",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 140,
         "Earliest Date": "2010/07/08",
         "Related To": "Music Jam, Make Your Mark: Ultimate Jam",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

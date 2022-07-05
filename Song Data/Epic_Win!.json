@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Rave Wave, Penguin Games 2",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/08/22",
         "Order": 77,
         "Related To": "Penguin Games, Dance-A-Thon, Music Jam, Dance Contest, Puffle Party",
@@ -39,7 +39,7 @@
     },
     "Composers": "Friction Music",
     "Earliest Date": "2008/08/22",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 35,
         "Related To": "Red Ski Village Challenge",

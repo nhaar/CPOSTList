@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=Iq7eT82zRFw",
     "Earliest Date": "2009/03/13",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 96,
         "Earliest Date": "2009/03/13",
         "Related To": "St. Patrick's Day, Music Jam. Dance Contest, Waddle On Party",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 4,
         "Earliest Date": "2010/09/17",
         "Related To": "Opening cutscene",

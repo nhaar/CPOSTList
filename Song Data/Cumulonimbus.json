@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Baloon Ride Theme",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/08/14",
         "Order": 112,
         "Related To": "Festival Of Flight, Halloween Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Beacon Boardwalk",
@@ -34,7 +34,7 @@
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "2009/08/14",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 31,
         "Related To": "Jackhammer! results",

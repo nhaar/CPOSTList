@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Underwater Expedition Theme, Maze Theme",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2012/01/26",
         "Order": 166,
         "Related To": "Underwater Expedition, Inside Out Party",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rainbow Migration 2018",

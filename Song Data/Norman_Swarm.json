@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/GAvc3QQLB6U",
     "Earliest Date": "2009/11/13",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 116,
         "Earliest Date": "2009/11/13",
         "Related To": "Norman Swarm Has Been Transformed, Puffle Party, Wilderness Expedition",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2015",

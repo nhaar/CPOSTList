@@ -28,7 +28,7 @@ This is the data template to be used, comments written after the # symbol.
     "Order": 0, # Order in the series (more details below).
     "Link": "Youtube Link", # Youtube link. Apart from licensed music, uses the Club Penguin High Quality OST channel.
     "Earliest Date": "YYYY/MM/DD", # Earliest Date seen in the whole series. "?" if unknown.
-    "Media Info": { # For example, "Game Day Info". The list of media are written below.
+    "Media Info": { # For example, "gd". The list of media are written below.
         "Order": 0, # Order in this media (more details below)
         "Earliest Date": "YYYY/MM/DD", # Earliest date seen in this media. "?" if unknown.
         "Related To": "Coffee Shop, Book Room", # Places or ways it was used in this media.
@@ -70,7 +70,7 @@ There are a handful of medias you can use:
 - CPI
 - App
 
-Thus, if you want to create info for Penguin Chat, you'd create "Penguin Chat Info", and so on. Planned medias for the future:
+Thus, if you want to create info for Penguin Chat, you'd create "pc", and so on. Planned medias for the future:
 - CPYT
 - CPTV
 

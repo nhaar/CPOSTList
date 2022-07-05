@@ -1,5 +1,5 @@
 {
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -12,7 +12,7 @@
             }
         ]
     },
-    "CP Flash Unused Info": {
+    "cpu": {
         "Earliest Date": "?",
         "Order": 10,
         "Related To": "Igloo",

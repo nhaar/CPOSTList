@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2014/11/20",
         "Order": 295,
         "Related To": "Pirate Party",

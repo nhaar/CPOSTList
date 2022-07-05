@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/aahXSYOwIGQ",
     "Earliest Date": "2008/09/12",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 79,
         "Earliest Date": "2008/09/12",
         "Related To": "Ruby and the Ruby, Operation: Tri-umph",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Operation: Tri-umph",
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "?",

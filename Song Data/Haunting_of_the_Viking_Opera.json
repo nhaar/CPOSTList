@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Viking Opera",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/05/08",
         "Order": 102,
         "Related To": "Haunting of the Viking Opera, Island Adventure Party, Medieval Party, The Fair",
@@ -46,7 +46,7 @@
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "2009/05/08",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 25,
         "Related To": "Fast Freeze",

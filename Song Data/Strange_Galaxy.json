@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2014/05/22",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 254,
         "Earliest Date": "2014/05/22",
         "Related To": "Future Party, Star Wars Rebels Takeover, Operation: Crustacean",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Operation: Crustacean",

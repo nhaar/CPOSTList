@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=PDp1hlvKxvc",
     "Earliest Date": "2008/08/08",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 76,
         "Earliest Date": "2008/08/08",
         "Related To": "Team Blue's Rally 2",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 14,
         "Earliest Date": "2010/09/17",
         "Related To": "Red team zone",

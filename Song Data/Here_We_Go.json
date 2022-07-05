@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Holiday Party, Candy Cane March",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Holiday Party 2015",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/12/21",
         "Order": 49,
         "Related To": "Holiday Party",

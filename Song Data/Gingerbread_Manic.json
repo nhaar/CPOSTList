@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Bakery Room Theme, A Little Holiday Magic",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Holiday Party 2013",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2011/12/15",
         "Order": 165,
         "Related To": "Holiday Party, Merry Walrus Party",

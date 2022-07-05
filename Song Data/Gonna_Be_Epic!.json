@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2015/09/30",
         "Order": 347,
         "Related To": "10th Anniversary Party, Music Jam",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rookie Quest",

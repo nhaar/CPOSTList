@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Christmas Jam, Christmas Rock",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2006/12/22",
         "Order": 24.1,
         "Related To": "Holiday Party",

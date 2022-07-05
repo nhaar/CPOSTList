@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rookie Quest",
@@ -15,7 +15,7 @@
     },
     "Composers": "?",
     "Earliest Date": "2010/09/17",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 11,
         "Related To": "Java Jump",

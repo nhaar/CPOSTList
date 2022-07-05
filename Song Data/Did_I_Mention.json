@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Descendants Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2015/09/16",
         "Order": 345,
         "Related To": "Descendants Party",

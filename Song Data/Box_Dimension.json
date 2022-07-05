@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Into The Box Dimension, Box Dimension V6",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/04/01",
         "Order": 98,
         "Related To": "Box Dimension",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "April Fools 2018",
@@ -28,7 +28,7 @@
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "2009/04/01",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 38,
         "Related To": "Yellow Ski Village Challenge",

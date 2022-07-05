@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2014/01/23",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 231,
         "Earliest Date": "2014/01/23",
         "Related To": "Prehistoric Party, The Fair, Fashion Festival, Anniversary Party, Music Jam",
@@ -43,7 +43,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Prehistoric Party, Cove",
@@ -62,7 +62,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Credits",

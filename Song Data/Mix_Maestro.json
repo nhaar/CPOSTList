@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=W4z3l2BnMSQ",
     "Earliest Date": "2008/07/25",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 64,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 18,
         "Earliest Date": "2010/09/17",
         "Related To": "Enemy team zone",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

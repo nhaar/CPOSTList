@@ -1,11 +1,11 @@
 {
     "Alternate Names": "Underwater Adventure",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo"
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/02/15",
         "Order": 54,
         "Related To": "Sub-Marine Party, Underwater Adventure",

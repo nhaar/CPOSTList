@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=VgUvLEwmwYo",
     "Earliest Date": "2007/04/27",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 30.01,
         "Earliest Date": "2007/04/27",
         "Related To": "Pirate Party, Rockhopper's Arrival Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

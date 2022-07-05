@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=dwqHn5bsqvM",
     "Earliest Date": "2008/05/16",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 62,
         "Earliest Date": "2008/05/16",
         "Related To": "Medieval Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 33,
         "Earliest Date": "2010/09/17",
         "Related To": "Snowball Battle",

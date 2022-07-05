@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Club Penguin Island Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2017/01/31",
         "Order": 384,
         "Related To": "Waddle On Party",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",

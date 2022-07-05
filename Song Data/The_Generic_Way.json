@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=opcNfM8GeQo",
     "Earliest Date": "2008/07/25",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 72,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Dance Contest, Make Your Mark: Ultimate Jam",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

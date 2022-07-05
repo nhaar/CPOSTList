@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Undeground Adventure",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Cave Maze Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2015/04/15",
         "Order": 329,
         "Related To": "Cave Maze, Operation: Tri-umph",

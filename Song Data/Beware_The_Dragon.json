@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Knight's Challenge",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/05/07",
         "Order": 129,
         "Related To": "Medieval Party",
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Medieval Party 2018",

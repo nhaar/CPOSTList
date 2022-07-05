@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Fun Fair, Carnie",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/09/21",
         "Order": 41,
         "Related To": "The Fair",
@@ -28,7 +28,7 @@
     },
     "Composers": "Friction Music",
     "Earliest Date": "2007/09/21",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 12,
         "Related To": "Pufflle Paddle",

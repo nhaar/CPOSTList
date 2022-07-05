@@ -7,7 +7,7 @@
     "Link": "https://youtu.be/7TZfuZ97ZgQ",
     "Earliest Date": "2010/06/17",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 136,
         "Earliest Date": "2010/06/17",
         "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party, Wilderness Expedition",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -51,7 +51,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

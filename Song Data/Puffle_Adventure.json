@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2015/03/26",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 328,
         "Earliest Date": "2015/03/26",
         "Related To": "Puffle Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2015",

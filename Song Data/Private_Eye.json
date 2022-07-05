@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/Myamxywrf1k",
     "Earliest Date": "2010/06/10",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 52.2,
         "Earliest Date": "2008/01/21",
         "Related To": "PSA Missions",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

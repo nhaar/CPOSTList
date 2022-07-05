@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2015/03/26",
         "Order": 327,
         "Related To": "Puffle Party",

@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Cave Runner Theme, Egyptian Cart Surfer",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "?",
         "Order": 353,
         "Related To": "Igloo",

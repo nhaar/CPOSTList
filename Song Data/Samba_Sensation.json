@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2014/03/20",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 246,
         "Earliest Date": "2014/03/20",
         "Related To": "Muppet's World Tour",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

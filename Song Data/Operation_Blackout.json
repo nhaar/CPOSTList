@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2012/11/14",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 180,
         "Earliest Date": "2012/11/14",
         "Related To": "Operation: Blackout, Operation: Puffle, Waddle On Party",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

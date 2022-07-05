@@ -7,7 +7,7 @@
     "Link": "",
     "Earliest Date": "2014/01/23",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 230,
         "Earliest Date": "2014/01/23",
         "Related To": "Prehistoric Party",
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Prehistoric Party",

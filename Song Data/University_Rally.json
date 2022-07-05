@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/07/27",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 212,
         "Earliest Date": "2013/07/27",
         "Related To": "Monster University Takeover, School & Skate Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, School Party",

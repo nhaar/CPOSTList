@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2015/01/22",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 307,
         "Earliest Date": "2015/01/22",
         "Related To": "Star Wars Rebels Takeover",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

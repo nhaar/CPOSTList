@@ -1,6 +1,6 @@
 {
     "Alternate Names": "EPF Command Room Theme",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/05/27",
         "Order": 132,
         "Related To": "EPF",

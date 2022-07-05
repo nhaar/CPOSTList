@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=jpl35a6TCOA",
     "Earliest Date": "2009/06/12",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 105,
         "Earliest Date": "2009/06/12",
         "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 29,
         "Earliest Date": "2010/09/17",
         "Related To": "Sumo Smash",

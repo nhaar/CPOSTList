@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/EqBtVaph78w",
     "Earliest Date": "2009/08/14",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 113,
         "Earliest Date": "2009/08/14",
         "Related To": "Festival Of Flight",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 13,
         "Earliest Date": "2010/09/17",
         "Related To": "Minigame results",

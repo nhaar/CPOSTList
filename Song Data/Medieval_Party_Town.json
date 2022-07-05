@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=xuVxcGaeIdo",
     "Earliest Date": "2008/05/16",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 60,
         "Earliest Date": "2008/05/16",
         "Related To": "Medieval Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Medieval Party 2018",

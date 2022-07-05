@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2017/01/04",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 381,
         "Earliest Date": "2017/01/04",
         "Related To": "Club Penguin Island Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

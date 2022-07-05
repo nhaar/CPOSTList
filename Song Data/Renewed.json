@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Puffle Roundup Theme",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2005/12/14",
         "Order": 6,
         "Related To": "Puffle Roundup, The Fair 2014",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Puffle Roundup"

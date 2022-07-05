@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Carnival Theme, Fall Fair, All the Fun of The Fair",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/09/21",
         "Order": 40,
         "Related To": "The Fair",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rookie Quest, Credits",
@@ -34,7 +34,7 @@
     },
     "Composers": "Friction Music",
     "Earliest Date": "2007/09/21",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 41,
         "Related To": "Blue Ski Hill Challenge",

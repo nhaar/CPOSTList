@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Puffle Party",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Puffle Party 2014",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "?",
         "Order": 184,
         "Related To": "Igloo, Penguin Prom, Music Jam",
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Town",

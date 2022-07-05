@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=NtWI1aj6swE",
     "Earliest Date": "?",
     "Medias": "Penguin Chat, Penguin Chat 3, Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 386,
         "Earliest Date": "2017/01/31",
         "Related To": "Waddle On Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Penguin Chat Info": {
+    "pc": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "? (Penguin Chat, Penguin Chat 3)",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -45,7 +45,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Credits",

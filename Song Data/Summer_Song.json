@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=wxw8rsG7miY",
     "Earliest Date": "2007/06/08",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 34,
         "Earliest Date": "2007/06/08",
         "Related To": "Summer Kickoff Party, Puffle Party, Music Jam, Club Penguin Island Party",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 19,
         "Earliest Date": "2010/09/17",
         "Related To": "No team zone",
@@ -50,7 +50,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2015",
@@ -69,7 +69,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Beacon Boardwalk",

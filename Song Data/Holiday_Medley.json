@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Christmas Piano Medley, Deck The Halls",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Holiday Party 2014",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/11/19",
         "Order": 87,
         "Related To": "Holiday Party, Merry Walrus Party, Anniversary Party",
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Holiday 2017",

@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Camp Party 2, Mess Hall, Doodle Dimension",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/08/24",
         "Order": 38,
         "Related To": "Camp Penguin, April Fools Party",

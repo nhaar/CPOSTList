@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/03/21",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 187,
         "Earliest Date": "2013/03/21",
         "Related To": "Puffle Hotel Lobby",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Puffle Hotel Lobby",

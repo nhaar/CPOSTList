@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Candy Dimension",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/06/08",
         "Order": 35,
         "Related To": "Summer Kickoff Party, April Fools Party",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "?",

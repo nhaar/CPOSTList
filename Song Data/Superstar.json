@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2012/02/01",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 167,
         "Earliest Date": "2012/02/01",
         "Related To": "Fashion Show, Clothes Shop, Make Your Mark: Ultimate Jam",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Gift Shop",

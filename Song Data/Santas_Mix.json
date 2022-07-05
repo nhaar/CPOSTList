@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=JZCEPQWCVrM",
     "Earliest Date": "2008/11/19",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 88,
         "Earliest Date": "2008/11/19",
         "Related To": "Holiday Party, Merry Walrus Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

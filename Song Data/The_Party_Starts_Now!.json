@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2012/07/19",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 173,
         "Earliest Date": "2012/07/19",
         "Related To": "Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

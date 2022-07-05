@@ -1,11 +1,11 @@
 {
     "Alternate Names": "Puffle Party (2010)",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo"
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/02/18",
         "Order": 123.1,
         "Related To": "Puffle Party",
@@ -24,7 +24,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Rookie Quest",

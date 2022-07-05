@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
     "Earliest Date": "2009/04/24",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 99.1,
         "Earliest Date": "2009/04/24",
         "Related To": "Dance Contest",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 5,
         "Earliest Date": "2010/09/17",
         "Related To": "Minigame title screen",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Beacon Boardwalk",

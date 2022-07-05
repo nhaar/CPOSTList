@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=QCe46LtERWY",
     "Earliest Date": "2008/10/28",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 82,
         "Earliest Date": "2008/10/28",
         "Related To": "Halloween Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Halloween Party 2016",

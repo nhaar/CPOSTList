@@ -1,6 +1,6 @@
 {
     "Alternate Names": "New Bean Counters",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/11/14",
         "Order": 143,
         "Related To": "Bean Counters",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Bean Counters",

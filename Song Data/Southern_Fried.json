@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=D-s3-ntrAMI",
     "Earliest Date": "2006/07/14",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 17,
         "Earliest Date": "2006/07/14",
         "Related To": "Western Party, Surprise Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Puffle Roundup",

@@ -7,7 +7,7 @@
     "Link": "",
     "Earliest Date": "2013/12/19",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 229,
         "Earliest Date": "2013/12/19",
         "Related To": "Holiday Party",
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Holiday Party 2014",
@@ -39,7 +39,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Holiday 2017",

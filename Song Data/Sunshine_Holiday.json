@@ -7,7 +7,7 @@
     "Link": "https://www.youtube.com/watch?v=PTgR-bY-e4A",
     "Earliest Date": "2006/01/27",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 9,
         "Earliest Date": "2006/01/27",
         "Related To": "Winter Luau, Puffle Party 2014, Puffle Party 2015",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2015",

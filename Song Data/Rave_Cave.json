@@ -6,7 +6,7 @@
 	"Order": 1100,
 	"Link": "",
 	"Earliest Date": "?",
-	"CPI Info": {
+	"cpi": {
 		"Order": 1100,
 		"Earliest Date": "?",
 		"Related To": "?",

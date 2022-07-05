@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=r9eUD9N9gAk",
     "Earliest Date": "2008/07/25",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 71,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Penguin Games, Penguin Cup",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 8,
         "Earliest Date": "2010/09/17",
         "Related To": "Goal!",

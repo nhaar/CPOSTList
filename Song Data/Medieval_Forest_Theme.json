@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=KZxFEFe0v4M",
     "Earliest Date": "2008/05/16",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 61,
         "Earliest Date": "2008/05/16",
         "Related To": "Medieval Party, Anniversary Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

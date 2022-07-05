@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "?",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 219,
         "Earliest Date": "?",
         "Related To": "Igloo, Music Jam 2016",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Sea Caves",

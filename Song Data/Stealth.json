@@ -1,11 +1,11 @@
 {
     "Alternate Names": "PSA HQ Theme",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo"
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "?",
         "Order": 13.9,
         "Related To": "PSA HQ, Everyday Phoning Facility",

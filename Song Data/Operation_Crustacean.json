@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2015/11/18",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 350,
         "Earliest Date": "2015/11/18",
         "Related To": "Operation: Crustacean",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Operation: Crustacean",

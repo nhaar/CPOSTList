@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Float in the clouds, Festival of Flight Main Theme, The Shore",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/08/14",
         "Order": 111,
         "Related To": "Festival Of Flight, Wilderness Expedition",
@@ -21,7 +21,7 @@
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "2009/08/14",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 42,
         "Related To": "Single team island conquered cutscene",

@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=K6X4zxrBvYM",
     "Earliest Date": "2014/07/17",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 270,
         "Earliest Date": "2014/07/17",
         "Related To": "Music Jam",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

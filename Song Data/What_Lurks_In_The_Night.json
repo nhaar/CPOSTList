@@ -7,7 +7,7 @@
     "Link": "",
     "Earliest Date": "2013/10/17",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 222,
         "Earliest Date": "2013/10/17",
         "Related To": "Halloween Party",
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -33,7 +33,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Halloween 2018",

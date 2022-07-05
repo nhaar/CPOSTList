@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=kagPOkdEiM8",
     "Earliest Date": "2008/07/25",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 70,
         "Earliest Date": "2008/07/25",
         "Related To": "Music Jam, Funny Hat Week Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 40,
         "Earliest Date": "2010/09/17",
         "Related To": "Red Ski Hill Challenge",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Fashion Party",

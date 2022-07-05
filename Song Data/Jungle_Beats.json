@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=ELeGyGWYWGs",
     "Earliest Date": "2009/06/12",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 103,
         "Earliest Date": "2009/06/12",
         "Related To": "Adventure Party, Island Adventure Party, Anniversary Party, Waddle On Party",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 21,
         "Earliest Date": "2010/09/17",
         "Related To": "Town Challenge",
@@ -50,7 +50,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

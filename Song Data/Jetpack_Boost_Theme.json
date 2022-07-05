@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "?",
     "Medias": "Club Penguin App, Club Penguin Island",
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Jet Pack Boost",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Jet Pack Adventure",

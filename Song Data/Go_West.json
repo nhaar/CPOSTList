@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Best of the West",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/07/25",
         "Order": 69,
         "Related To": "Music Jam, Dance Contest, The Fair",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Beacon Boardwalk",

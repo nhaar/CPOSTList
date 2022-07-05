@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=ue6T-RALjig",
     "Earliest Date": "2009/07/17",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 109,
         "Earliest Date": "2009/07/17",
         "Related To": "Music Jam, Puffle Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 17,
         "Earliest Date": "2010/09/17",
         "Related To": "Yellow team zone",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

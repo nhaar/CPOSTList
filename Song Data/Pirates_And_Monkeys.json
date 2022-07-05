@@ -7,7 +7,7 @@
     "Link": "https://youtu.be/eCN-H4Cfnyg",
     "Earliest Date": "2010/06/17",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 135,
         "Earliest Date": "2010/06/17",
         "Related To": "Island Adventure Party, Puffle Party, Teen Beach Movie Summer Jam, Anniversary Party",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Puffle Gala",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Puffle Party 2015",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2014/04/17",
         "Order": 251,
         "Related To": "Puffle Party",

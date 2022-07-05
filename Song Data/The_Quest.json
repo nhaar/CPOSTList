@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=rlw8HofVLJo",
     "Earliest Date": "2009/05/08",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 100,
         "Earliest Date": "2009/05/08",
         "Related To": "Medieval Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

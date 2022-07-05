@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Camp Party",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2007/08/24",
         "Order": 39,
         "Related To": "Camp Penguin, Earth Day Party, Anniversary Party",
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "?",

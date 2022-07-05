@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2011/10/20",
         "Order": 162,
         "Related To": "Halloween Party",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Halloween 2018",

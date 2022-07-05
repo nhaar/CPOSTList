@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=nLOvObILV_U",
     "Earliest Date": "2008/01/18",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 52,
         "Earliest Date": "2008/01/18",
         "Related To": "Winter Fiesta, April Fools Party, Puffle Party, Anniversary Party",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

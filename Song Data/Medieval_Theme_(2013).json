@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/09/19",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 220,
         "Earliest Date": "2013/09/19",
         "Related To": "Medieval Party, Waddle On Party",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

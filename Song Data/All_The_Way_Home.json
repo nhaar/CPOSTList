@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Zootopia Party",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/10/27",
         "Order": 115,
         "Related To": "Halloween Party, Mustache Madness, Zootopia Party",
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Mount Blizzard",
@@ -59,7 +59,7 @@
     },
     "Composers": "Michael Campitelli",
     "Earliest Date": "2009/10/27",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 36,
         "Related To": "Blue Skii Village Challenge",

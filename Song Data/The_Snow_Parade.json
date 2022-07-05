@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2015/06/30",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 338,
         "Earliest Date": "2015/06/30",
         "Related To": "Festival of Snow",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

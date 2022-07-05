@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Attic Theme",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Attic",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2015/03/18",
         "Order": 323,
         "Related To": "Lodge Attic",

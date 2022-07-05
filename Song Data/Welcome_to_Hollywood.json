@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/02/14",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 185,
         "Earliest Date": "2013/02/14",
         "Related To": "Hollywood Party, The Fair",
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

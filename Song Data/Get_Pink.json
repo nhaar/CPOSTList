@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Go Pink, PNK House",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo, Puffle Party 2015",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2013/07/27",
         "Order": 207,
         "Related To": "Monster University Takeover, Puffle Party",

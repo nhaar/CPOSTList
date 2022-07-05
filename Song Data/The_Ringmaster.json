@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/YPDSYCloaNI",
     "Earliest Date": "2010/09/03",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 141,
         "Earliest Date": "2010/09/03",
         "Related To": "The Fair, Puffle Party, Pi Day, Operation: Tri-umph, Waddle On Party",
@@ -43,7 +43,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",

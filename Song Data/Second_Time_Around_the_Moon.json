@@ -7,7 +7,7 @@
     "Link": "https://youtu.be/qPM7ZRAsBcQ",
     "Earliest Date": "2010/03/18",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 127,
         "Earliest Date": "2010/03/18",
         "Related To": "Penguin Play Awards, Zootopia Party",
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Zootopia Party",
@@ -39,7 +39,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Town",

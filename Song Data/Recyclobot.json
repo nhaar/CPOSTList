@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/iM8ijGjn9Vo",
     "Earliest Date": "2010/04/21",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 128,
         "Earliest Date": "2010/04/21",
         "Related To": "Recycling Plant",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 30,
         "Earliest Date": "2010/09/17",
         "Related To": "Jackhammer!",
@@ -32,7 +32,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Rookie Quest",

@@ -6,7 +6,7 @@
     "Link": "",
     "Earliest Date": "2013/11/14",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 225,
         "Earliest Date": "2013/11/14",
         "Related To": "Pet Shop",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Puffle Party 2014, Pet Shop",

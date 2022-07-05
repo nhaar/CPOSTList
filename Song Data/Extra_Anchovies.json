@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2009/09/25",
         "Order": 119,
         "Related To": "Igloo",
@@ -15,7 +15,7 @@
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "2009/09/25",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 10,
         "Related To": "Bean Balance",

@@ -1,6 +1,6 @@
 {
     "Alternate Names": "",
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2008/07/25",
         "Order": 65,
         "Related To": "Music Jam",
@@ -15,7 +15,7 @@
     },
     "Composers": "Friction Music",
     "Earliest Date": "2008/07/25",
-    "Game Day Info": {
+    "gd": {
         "Earliest Date": "2010/09/17",
         "Order": 24,
         "Related To": "Dock Challenge",

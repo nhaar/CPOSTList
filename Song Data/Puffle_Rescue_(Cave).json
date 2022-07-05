@@ -6,7 +6,7 @@
     "Link": "https://youtu.be/Bp7sDPLBY8I",
     "Earliest Date": "2010/03/15",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 125,
         "Earliest Date": "2010/03/15",
         "Related To": "Puffle Rescue",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Puffle Rescue",

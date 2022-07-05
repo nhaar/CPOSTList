@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=cj06KsXr6lk",
     "Earliest Date": "2009/01/15",
     "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "CP Flash Info": {
+    "cp": {
         "Order": 92,
         "Earliest Date": "2009/01/15",
         "Related To": "Dance-A-Thon. Dance Contest, Puffle Party",
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "Game Day Info": {
+    "gd": {
         "Order": 16,
         "Earliest Date": "2010/09/17",
         "Related To": "Green team zone",
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo",

@@ -7,7 +7,7 @@
     "Link": "https://www.youtube.com/watch?v=rV0rjUWGysA",
     "Earliest Date": "2006/06/06",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 15,
         "Earliest Date": "2006/06/06",
         "Related To": "Cart Surfer",
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Credits",

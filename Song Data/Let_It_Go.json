@@ -6,7 +6,7 @@
     "Link": "https://www.youtube.com/watch?v=KmXKiJu_Q_g",
     "Earliest Date": "?",
     "Medias": "Club Penguin",
-    "CP Flash Info": {
+    "cp": {
         "Order": 278,
         "Earliest Date": "?",
         "Related To": "Igloo",
@@ -19,7 +19,7 @@
             }
         ]
     },
-    "App Info": {
+    "app": {
         "Order": 1,
         "Earliest Date": "?",
         "Related To": "Igloo, Frozen Party",

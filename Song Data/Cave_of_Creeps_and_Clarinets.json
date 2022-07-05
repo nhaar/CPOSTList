@@ -1,6 +1,6 @@
 {
     "Alternate Names": "Monster Masquerade, Cave of Creeps and Clarinets V2",
-    "App Info": {
+    "app": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Igloo",
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "CP Flash Info": {
+    "cp": {
         "Earliest Date": "2010/10/28",
         "Order": 142,
         "Related To": "Halloween Party",
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "CPI Info": {
+    "cpi": {
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Halloween 2018",
