@@ -1,21 +1,11 @@
 {
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "396",
+    "truename": 0,
+    "artists": "?",
+    "sources": "App",
+    "order": 192.5,
     "cpu": {
-        "Earliest Date": "?",
-        "Order": 10,
-        "Related To": "Igloo",
+        "order": 10,
         "uses": [
             {
                 "date": "?",
@@ -25,11 +15,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App",
-    "Medias": "Club Penguin Unused",
-    "Name": "396",
-    "Name_official": 0,
-    "Order": 192.5
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "On High Seas",
-    "Name_official": 1,
-    "HQ Source(s)": "CPI SoundCloud",
-    "Order": 168,
-    "Link": "",
-    "Earliest Date": "2012/02/24",
-    "Medias": "Club Penguin",
+    "name": "On High Seas",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Voyage of the Migrator",
+    "sources": "CPI SoundCloud",
+    "order": 168,
+    "link": "",
     "cp": {
-        "Order": 168,
-        "Earliest Date": "2012/02/24",
-        "Related To": "Rockhopper's Quest, Inside Out Party",
+        "order": 168,
         "uses": [
             {
                 "date": "2012/02/24",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -39,9 +35,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,8 +44,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Voyage of the Migrator",
-    "notes": "This is an orchestral arrangement of Ocean Voyage."
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Party Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "Game Day",
-    "Order": 93,
-    "Link": "https://youtu.be/gu4YbgQ7eXk",
-    "Earliest Date": "2009/02/20",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Puffle Party Theme",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 93,
+    "link": "https://youtu.be/gu4YbgQ7eXk",
     "cp": {
-        "Order": 93,
-        "Earliest Date": "2009/02/20",
-        "Related To": "Puffle Party, Anniversary Party",
+        "order": 93,
         "uses": [
             {
                 "date": "2009/02/20",
@@ -26,9 +24,7 @@
         ]
     },
     "gd": {
-        "Order": 7,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Feed A Puffle",
+        "order": 7,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

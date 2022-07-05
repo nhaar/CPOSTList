@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Dance Rock Mix",
-    "Name_official": 1,
-    "HQ Source(s)": "App + CPI SoundCloud",
-    "Order": 188,
-    "Link": "",
-    "Earliest Date": "2013/03/21",
-    "Medias": "Club Penguin",
+    "name": "Puffle Dance Rock Mix",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Puffle Hotel Rooftop",
+    "sources": "App + CPI SoundCloud",
+    "order": 188,
+    "link": "",
     "cp": {
-        "Order": 188,
-        "Earliest Date": "2013/03/21",
-        "Related To": "Rooftop Pool",
+        "order": 188,
         "uses": [
             {
                 "date": "2013/03/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Rooftop Pool",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Town",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "Puffle Hotel Rooftop"
+    }
 }

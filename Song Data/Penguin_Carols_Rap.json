@@ -1,15 +1,13 @@
 {
-    "Name": "Penguin Carols Rap",
-    "Name_official": 0,
-    "HQ Source(s)": "Club Penguin Youtube Channel + SWF 637",
-    "Order": 249,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
+    "name": "Penguin Carols Rap",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Youtube Channel + SWF 637",
+    "order": 249,
+    "link": "",
     "cp": {
-        "Order": 249,
-        "Earliest Date": "?",
-        "Related To": "Muppet's World Tour",
+        "order": 249,
         "uses": [
             {
                 "date": "?",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

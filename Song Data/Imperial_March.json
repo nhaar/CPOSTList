@@ -1,16 +1,14 @@
 {
-    "Name": "Imperial March",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=-bzWSJG93P8",
-    "Order": 202,
-    "Link": "https://www.youtube.com/watch?v=-bzWSJG93P8",
-    "Earliest Date": "2013/07/25",
-    "Medias": "Club Penguin",
+    "name": "Imperial March",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=-bzWSJG93P8",
+    "order": 202,
+    "link": "https://www.youtube.com/watch?v=-bzWSJG93P8",
     "cp": {
-        "Order": 202,
-        "Earliest Date": "2013/07/25",
-        "Related To": "Star Wars Takeover",
+        "order": 202,
         "uses": [
             {
                 "date": "2013/07/25",
@@ -19,7 +17,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Alternate Names": ""
+    }
 }

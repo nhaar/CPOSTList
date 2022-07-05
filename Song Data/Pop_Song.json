@@ -1,15 +1,13 @@
 {
-    "Name": "Pop Song",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 68,
-    "Link": "https://www.youtube.com/watch?v=LsI3_-78UEo",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Pop Song",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Pink Puffle Song, Pop Song, Bubble Pop",
+    "sources": "Game Day",
+    "order": 68,
+    "link": "https://www.youtube.com/watch?v=LsI3_-78UEo",
     "cp": {
-        "Order": 68,
-        "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, The Fair, Make Your Mark: Ultimate Jam",
+        "order": 68,
         "uses": [
             {
                 "date": "2008/07/25",
@@ -26,9 +24,7 @@
         ]
     },
     "gd": {
-        "Order": 3,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Wi-fi connect",
+        "order": 3,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -39,9 +35,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,7 +44,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Alternate Names": "Pink Puffle Song, Pop Song, Bubble Pop"
+    }
 }

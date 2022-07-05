@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "Undeground Adventure",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Cave Maze Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Cave Maze Party"
-            }
-        ]
-    },
+    "name": "Cave Maze",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Undeground Adventure",
+    "sources": "App",
+    "order": 329,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/04/15",
-        "Order": 329,
-        "Related To": "Cave Maze, Operation: Tri-umph",
+        "order": 329,
         "uses": [
             {
                 "date": "2015/04/15",
@@ -38,12 +23,21 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2015/04/15",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Cave Maze",
-    "Name_official": 1,
-    "Order": 329
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Cave Maze Party"
+            }
+        ]
+    }
 }

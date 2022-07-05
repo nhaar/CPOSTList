@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Binary Sunset",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Other",
+    "order": 200,
+    "link": "https://www.youtube.com/watch?v=r6Qbbyc1eLc",
     "cp": {
-        "Earliest Date": "2013/07/25",
-        "Order": 200,
-        "Related To": "Star Wars Takeover",
+        "order": 200,
         "uses": [
             {
                 "date": "2013/07/25",
@@ -12,13 +16,5 @@
                 "use": "Star Wars Takeover"
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Earliest Date": "2013/07/25",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=r6Qbbyc1eLc",
-    "Medias": "Club Penguin",
-    "Name": "Binary Sunset",
-    "Name_official": 1,
-    "Order": 200
+    }
 }

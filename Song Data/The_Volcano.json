@@ -1,15 +1,13 @@
 {
-    "Name": "The Volcano",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 117,
-    "Link": "https://youtu.be/-rtIntZyWmY",
-    "Earliest Date": "2009/11/13",
-    "Medias": "Club Penguin",
+    "name": "The Volcano",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Fire Dojo Theme",
+    "sources": "Other",
+    "order": 117,
+    "link": "https://youtu.be/-rtIntZyWmY",
     "cp": {
-        "Order": 117,
-        "Earliest Date": "2009/11/13",
-        "Related To": "Fire Dojo",
+        "order": 117,
         "uses": [
             {
                 "date": "2009/11/13",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Fire Dojo Theme"
+    }
 }

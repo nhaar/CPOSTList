@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "A Hero is Born, Ye Knight's Quest 2, Medieval Party Mine Shack Theme",
+    "name": "Dragon Battle",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "A Hero is Born, Ye Knight's Quest 2, Medieval Party Mine Shack Theme",
+    "sources": "Club Penguin Youtube Channel + SWF 288",
+    "order": 131,
+    "link": "https://youtu.be/7yHcCuBtNP4",
     "cp": {
-        "Earliest Date": "2010/05/07",
-        "Order": 131,
-        "Related To": "Medieval Party",
+        "order": 131,
         "uses": [
             {
                 "date": "2010/05/07",
@@ -12,13 +16,5 @@
                 "use": "Medieval Party 2010"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/05/07",
-    "HQ Source(s)": "Club Penguin Youtube Channel + SWF 288",
-    "Link": "https://youtu.be/7yHcCuBtNP4",
-    "Medias": "Club Penguin",
-    "Name": "Dragon Battle",
-    "Name_official": 1,
-    "Order": 131
+    }
 }

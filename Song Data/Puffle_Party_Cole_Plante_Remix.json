@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Party Cole Plante Remix",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 269,
-    "Link": "",
-    "Earliest Date": "2014/07/17",
-    "Medias": "Club Penguin",
+    "name": "Puffle Party Cole Plante Remix",
+    "truename": 1,
+    "artists": "Cole Plante",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 269,
+    "link": "",
     "cp": {
-        "Order": 269,
-        "Earliest Date": "2014/07/17",
-        "Related To": "Music Jam",
+        "order": 269,
         "uses": [
             {
                 "date": "2014/07/17",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Mount Blizzard",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Cole Plante",
-    "Alternate Names": ""
+    }
 }

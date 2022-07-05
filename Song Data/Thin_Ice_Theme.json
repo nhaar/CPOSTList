@@ -1,15 +1,13 @@
 {
-    "Name": "Thin Ice Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF Thin Ice",
-    "Order": 24,
-    "Link": "https://www.youtube.com/watch?v=WEMBNSvn_v0",
-    "Earliest Date": "2006/12/19",
-    "Medias": "Club Penguin",
+    "name": "Thin Ice Theme",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "SWF Thin Ice",
+    "order": 24,
+    "link": "https://www.youtube.com/watch?v=WEMBNSvn_v0",
     "cp": {
-        "Order": 24,
-        "Earliest Date": "2006/12/19",
-        "Related To": "Thin Ice",
+        "order": 24,
         "uses": [
             {
                 "date": "2006/12/19",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

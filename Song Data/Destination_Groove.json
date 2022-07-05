@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Destination Groove",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 360,
+    "link": "",
+    "cp": {
+        "order": 360,
+        "uses": [
+            {
+                "date": "2016/05/18",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Zootopia Party, Zootopia Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Zootopia Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2016/05/18",
-        "Order": 360,
-        "Related To": "Zootopia Party",
-        "uses": [
-            {
-                "date": "2016/05/18",
-                "files": "",
-                "info": "",
-                "use": "Zootopia Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2016/05/18",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Destination Groove",
-    "Name_official": 1,
-    "Order": 360
+    }
 }

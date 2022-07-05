@@ -1,9 +1,14 @@
 {
-    "Alternate Names": "",
+    "name": "Bits And Bolts",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 153,
+    "link": "",
     "cp": {
-        "Earliest Date": "2011/03/28",
-        "Order": 153,
-        "Related To": "Bits And Bolts",
+        "order": 153,
         "uses": [
             {
                 "date": "2011/03/28",
@@ -12,14 +17,5 @@
                 "use": "Bits And Bolts"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/03/28",
-    "HQ Source(s)": "Screenhog's Website",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Bits And Bolts",
-    "Name_official": 1,
-    "Order": 153,
-    "Source Links": "http://www.screenhog.com/music"
+    }
 }

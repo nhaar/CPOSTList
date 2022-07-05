@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "8-Bit Dance",
+    "name": "8bit",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "8-Bit Dance",
+    "sources": "Other",
+    "order": 58,
+    "link": "https://youtu.be/1Xm8ec-qmrg",
     "cp": {
-        "Earliest Date": "2008/03/28",
-        "Order": 58,
-        "Related To": "April Fools Party, The Fair",
+        "order": 58,
         "uses": [
             {
                 "date": "2008/03/28",
@@ -18,13 +22,5 @@
                 "use": "The Fair 2014"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/03/28",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/1Xm8ec-qmrg",
-    "Medias": "Club Penguin",
-    "Name": "8bit",
-    "Name_official": 1,
-    "Order": 58
+    }
 }

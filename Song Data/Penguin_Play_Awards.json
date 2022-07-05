@@ -1,15 +1,13 @@
 {
-    "Name": "Penguin Play Awards",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 97,
-    "Link": "https://www.youtube.com/watch?v=4J2efFi21hQ",
-    "Earliest Date": "2009/03/20",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Penguin Play Awards",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Award Goes To...",
+    "sources": "Game Day",
+    "order": 97,
+    "link": "https://www.youtube.com/watch?v=4J2efFi21hQ",
     "cp": {
-        "Order": 97,
-        "Earliest Date": "2009/03/20",
-        "Related To": "Penguin Play Awards, Hollywood Party",
+        "order": 97,
         "uses": [
             {
                 "date": "2009/03/20",
@@ -26,9 +24,7 @@
         ]
     },
     "gd": {
-        "Order": 43,
-        "Earliest Date": "2010/09/17",
-        "Related To": "All teams island conquered cutscene",
+        "order": 43,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "The Award Goes To..."
+    }
 }

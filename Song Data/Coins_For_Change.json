@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Coins For Change",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 165.1,
+    "link": "https://www.youtube.com/watch?v=PMyEA8zMmMc",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 165.1,
-        "Related To": "Holiday Party",
+        "order": 165.1,
         "files": [
             {
                 "info": "",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=PMyEA8zMmMc",
-    "Medias": "Club Penguin",
-    "Name": "Coins For Change",
-    "Name_official": 1,
-    "Order": 165.1
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

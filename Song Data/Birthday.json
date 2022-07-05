@@ -1,17 +1,13 @@
 {
-    "Alternate Names": "",
-    "Composers": "TAS 1000",
-    "Earliest Date": "?",
-    "HQ Source(s)": "A Message For Marta CD",
-    "Link": "https://www.youtube.com/watch?v=gD50lq1Ni34",
-    "Medias": "Penguin Chat 3",
-    "Name": "Birthday",
-    "Name_official": 1,
-    "Order": 0.15,
+    "name": "Birthday",
+    "truename": 1,
+    "artists": "TAS 1000",
+    "altnames": "",
+    "sources": "A Message For Marta CD",
+    "order": 0.15,
+    "link": "https://www.youtube.com/watch?v=gD50lq1Ni34",
     "pc": {
-        "Earliest Date": "?",
-        "Order": 3,
-        "Related To": "Night Club (Penguin Chat 3)",
+        "order": 3,
         "uses": [
             {
                 "date": "?",

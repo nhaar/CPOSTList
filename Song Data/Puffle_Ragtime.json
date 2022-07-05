@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Ragtime",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 94,
-    "Link": "https://www.youtube.com/watch?v=raUa1wwb3FQ",
-    "Earliest Date": "2009/02/20",
-    "Medias": "Club Penguin",
+    "name": "Puffle Ragtime",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App",
+    "order": 94,
+    "link": "https://www.youtube.com/watch?v=raUa1wwb3FQ",
     "cp": {
-        "Order": 94,
-        "Earliest Date": "2009/02/20",
-        "Related To": "Puffle Party, Anniversary Party",
+        "order": 94,
         "uses": [
             {
                 "date": "2009/02/20",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

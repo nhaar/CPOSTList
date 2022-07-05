@@ -1,70 +1,11 @@
 {
-    "Alternate Names": "Coffee Shop Theme",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Coffee Shop"
-    },
-    "cp": {
-        "Earliest Date": "2005/10/24",
-        "Order": 1,
-        "Related To": "Coffee Shop, Book Room",
-        "files": [
-            {
-                "info": "It used the four loops, played randomly in order",
-                "name": "1.swf"
-            },
-            {
-                "info": "All 4 loops played sequentially, with ambience noise",
-                "name": "429.swf"
-            },
-            {
-                "info": "All 4 loops palyed sequentially, with ambience noises",
-                "name": "669.swf"
-            }
-        ],
-        "uses": [
-            {
-                "date": "?",
-                "files": "1.swf",
-                "info": "",
-                "use": "Coffee Shop"
-            },
-            {
-                "date": "?",
-                "files": "429.swf",
-                "info": "",
-                "use": "Coffee Shop"
-            },
-            {
-                "date": "?",
-                "files": "669.swf",
-                "info": "",
-                "use": "Coffee Shop"
-            }
-        ]
-    },
-    "Composers": "Paul Sumpter",
-    "Earliest Date": "2005/10/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=L-im4pRBVlc",
-    "Medias": "Club Penguin",
-    "Name": "King of Kingston",
-    "Name_official": 1,
-    "Order": 1,
-    "stock": {
-        "info": {
-            "link": "https://www.shockwave-sound.com/stock-music-track/2907/king-of-kingston",
-            "origin": "Shockwave Sound"
-        },
-        "sale": [
-            "Full track",
-            "60-secs version",
-            "30-secs version",
-            "Set of 4 music loops"
-        ]
-    },
-    "type": 1,
+    "name": "King of Kingston",
+    "truename": 1,
+    "artists": "Paul Sumpter",
+    "altnames": "Coffee Shop Theme",
+    "sources": "Other",
+    "order": 1,
+    "link": "https://www.youtube.com/watch?v=L-im4pRBVlc",
     "versions": [
         {
             "info": "Loop 1 from the set of 4 loops.",
@@ -101,5 +42,45 @@
             "name": "king-of-kingston-complete.wav",
             "source": "Other"
         }
-    ]
+    ],
+    "cp": {
+        "order": 1,
+        "files": [
+            {
+                "info": "It used the four loops, played randomly in order",
+                "name": "1.swf"
+            },
+            {
+                "info": "All 4 loops played sequentially, with ambience noise",
+                "name": "429.swf"
+            },
+            {
+                "info": "All 4 loops palyed sequentially, with ambience noises",
+                "name": "669.swf"
+            }
+        ],
+        "uses": [
+            {
+                "date": "?",
+                "files": "1.swf",
+                "info": "",
+                "use": "Coffee Shop"
+            },
+            {
+                "date": "?",
+                "files": "429.swf",
+                "info": "",
+                "use": "Coffee Shop"
+            },
+            {
+                "date": "?",
+                "files": "669.swf",
+                "info": "",
+                "use": "Coffee Shop"
+            }
+        ]
+    },
+    "app": {
+        "order": 1
+    }
 }

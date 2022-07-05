@@ -1,15 +1,25 @@
 {
-    "Name": "Santa's Mix",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + App",
-    "Order": 88,
-    "Link": "https://www.youtube.com/watch?v=JZCEPQWCVrM",
-    "Earliest Date": "2008/11/19",
-    "Medias": "Club Penguin",
+    "name": "Santa's Mix",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Christmas Theme, Holiday Happiness",
+    "sources": "SoundCloud + App",
+    "order": 88,
+    "link": "https://www.youtube.com/watch?v=JZCEPQWCVrM",
+    "versions": [
+        {
+            "name": "Santa's Mix-182017540.mp3",
+            "info": "Highest quality version, but incomplete, with a fadeout in the end.",
+            "source": "SoundCloud"
+        },
+        {
+            "name": "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    ],
     "cp": {
-        "Order": 88,
-        "Earliest Date": "2008/11/19",
-        "Related To": "Holiday Party, Merry Walrus Party",
+        "order": 88,
         "uses": [
             {
                 "date": "2008/11/19",
@@ -26,9 +36,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,19 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Christmas Theme, Holiday Happiness",
-    "versions": [
-        {
-            "name": "Santa's Mix-182017540.mp3",
-            "info": "Highest quality version, but incomplete, with a fadeout in the end.",
-            "source": "SoundCloud"
-        },
-        {
-            "name": "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
-            "info": "Highest quality version that is complete.",
-            "source": "App"
-        }
-    ]
+    }
 }

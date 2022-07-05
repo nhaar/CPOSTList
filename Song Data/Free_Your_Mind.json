@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Free Your Mind",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 339,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/07/22",
-        "Order": 339,
-        "Related To": "Inside Out Party",
+        "order": 339,
         "uses": [
             {
                 "date": "2015/07/22",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2015/07/22",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Free Your Mind",
-    "Name_official": 1,
-    "Order": 339
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

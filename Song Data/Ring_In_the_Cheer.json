@@ -1,15 +1,13 @@
 {
-    "Name": "Ring In the Cheer",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 301,
-    "Link": "",
-    "Earliest Date": "2014/12/18",
-    "Medias": "Club Penguin",
+    "name": "Ring In the Cheer",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 301,
+    "link": "",
     "cp": {
-        "Order": 301,
-        "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party",
+        "order": 301,
         "uses": [
             {
                 "date": "2014/12/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

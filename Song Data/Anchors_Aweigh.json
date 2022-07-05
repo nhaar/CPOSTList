@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Anchors Aweigh",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "",
+    "sources": "Other + App",
+    "order": 266,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/06/12",
-        "Order": 259.1,
-        "Related To": "Penguin Prom, The Fair, Music Jam",
+        "order": 259.1,
         "uses": [
             {
                 "date": "2014/06/12",
@@ -38,12 +29,15 @@
             }
         ]
     },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Earliest Date": "2014/06/12",
-    "HQ Source(s)": "Other + App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Anchors Aweigh",
-    "Name_official": 1,
-    "Order": 266
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

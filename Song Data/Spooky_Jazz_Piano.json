@@ -1,15 +1,13 @@
 {
-    "Name": "Spooky Jazz Piano",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 289,
-    "Link": "",
-    "Earliest Date": "2014/10/23",
-    "Medias": "Club Penguin",
+    "name": "Spooky Jazz Piano",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 289,
+    "link": "",
     "cp": {
-        "Order": 289,
-        "Earliest Date": "2014/10/23",
-        "Related To": "Halloween Party",
+        "order": 289,
         "uses": [
             {
                 "date": "2014/10/23",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

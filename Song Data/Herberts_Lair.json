@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Herbert's Lair",
+    "truename": 0,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SWF 384",
+    "order": 190,
+    "link": "",
     "cp": {
-        "Earliest Date": "2013/04/05",
-        "Order": 190,
-        "Related To": "Operation: Hot Sauce",
+        "order": 190,
         "uses": [
             {
                 "date": "2013/04/05",
@@ -12,13 +16,5 @@
                 "use": "Operation: Hot Sauce"
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2013/04/05",
-    "HQ Source(s)": "SWF 384",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Herbert's Lair",
-    "Name_official": 0,
-    "Order": 190
+    }
 }

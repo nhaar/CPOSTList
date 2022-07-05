@@ -1,14 +1,25 @@
 {
-    "Alternate Names": "Puffle Party (2010)",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
+    "name": "Puffle Party Remix",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Puffle Party (2010)",
+    "sources": "App + Club Penguin Island",
+    "order": 1004,
+    "link": "https://youtu.be/N5wlD0vFzHk",
+    "versions": [
+        {
+            "info": "",
+            "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
+            "source": "App"
+        },
+        {
+            "info": "",
+            "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
+            "source": "Club Penguin Island"
+        }
+    ],
     "cp": {
-        "Earliest Date": "2010/02/18",
-        "Order": 123.1,
-        "Related To": "Puffle Party",
+        "order": 123.1,
         "files": [
             {
                 "info": "",
@@ -24,10 +35,11 @@
             }
         ]
     },
+    "app": {
+        "order": 1
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -36,24 +48,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Link": "https://youtu.be/N5wlD0vFzHk",
-    "Name": "Puffle Party Remix",
-    "Name_official": 0,
-    "Order": 1004,
-    "versions": [
-        {
-            "info": "",
-            "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
-            "source": "App"
-        },
-        {
-            "info": "",
-            "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
-            "source": "Club Penguin Island"
-        }
-    ]
+    }
 }

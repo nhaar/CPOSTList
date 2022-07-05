@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Castle Chaos",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 337,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/05/20",
-        "Order": 337,
-        "Related To": "The Fair",
+        "order": 337,
         "uses": [
             {
                 "date": "2015/05/20",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2015/05/20",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Castle Chaos",
-    "Name_official": 1,
-    "Order": 337
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "We're All Ok",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 213,
-    "Link": "",
-    "Earliest Date": "2013/07/27",
-    "Medias": "Club Penguin",
+    "name": "We're All Ok",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 213,
+    "link": "",
     "cp": {
-        "Order": 213,
-        "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover",
+        "order": 213,
         "uses": [
             {
                 "date": "2013/07/27",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "David Fairfield",
-    "Alternate Names": ""
+    }
 }

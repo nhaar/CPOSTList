@@ -1,15 +1,13 @@
 {
-    "Name": "Jungle Beats",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 103,
-    "Link": "https://www.youtube.com/watch?v=ELeGyGWYWGs",
-    "Earliest Date": "2009/06/12",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Jungle Beats",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Jungle Jangles",
+    "sources": "Game Day",
+    "order": 103,
+    "link": "https://www.youtube.com/watch?v=ELeGyGWYWGs",
     "cp": {
-        "Order": 103,
-        "Earliest Date": "2009/06/12",
-        "Related To": "Adventure Party, Island Adventure Party, Anniversary Party, Waddle On Party",
+        "order": 103,
         "uses": [
             {
                 "date": "2009/06/12",
@@ -38,9 +36,7 @@
         ]
     },
     "gd": {
-        "Order": 21,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Town Challenge",
+        "order": 21,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -51,9 +47,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -62,7 +56,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Jungle Jangles"
+    }
 }

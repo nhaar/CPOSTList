@@ -1,15 +1,13 @@
 {
-    "Name": "Music Jamming",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 313,
-    "Link": "",
-    "Earliest Date": "2015/02/19",
-    "Medias": "Club Penguin",
+    "name": "Music Jamming",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 313,
+    "link": "",
     "cp": {
-        "Order": 313,
-        "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party",
+        "order": 313,
         "uses": [
             {
                 "date": "2015/02/19",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Music Jam 2016",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

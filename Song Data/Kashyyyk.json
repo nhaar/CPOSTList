@@ -1,16 +1,14 @@
 {
-    "Name": "Kashyyyk",
-    "Name_official": 1,
-    "HQ Source(s)": "SC Other",
-    "Source Links": "https://soundcloud.com/sergiohorse/kashyyyk",
-    "Order": 309,
-    "Link": "",
-    "Earliest Date": "2015/01/22",
-    "Medias": "Club Penguin",
+    "name": "Kashyyyk",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SC Other",
+    "sourcelinks": "https://soundcloud.com/sergiohorse/kashyyyk",
+    "order": 309,
+    "link": "",
     "cp": {
-        "Order": 309,
-        "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover",
+        "order": 309,
         "uses": [
             {
                 "date": "2015/01/22",
@@ -19,7 +17,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

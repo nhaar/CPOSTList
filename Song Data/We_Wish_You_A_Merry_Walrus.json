@@ -1,15 +1,13 @@
 {
-    "Name": "We Wish You A Merry Walrus",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 297,
-    "Link": "",
-    "Earliest Date": "2014/12/18",
-    "Medias": "Club Penguin",
+    "name": "We Wish You A Merry Walrus",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 297,
+    "link": "",
     "cp": {
-        "Order": 297,
-        "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party",
+        "order": 297,
         "uses": [
             {
                 "date": "2014/12/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014, Holiday Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

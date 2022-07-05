@@ -1,33 +1,12 @@
 {
-    "Alternate Names": "",
-    "cp": {
-        "Earliest Date": "2007/11/16",
-        "Order": 45,
-        "Related To": "Space Adventure",
-        "uses": [
-            {
-                "date": "2007/11/16",
-                "files": "30.swf",
-                "info": "",
-                "use": ""
-            },
-            {
-                "date": "2008/03/14",
-                "files": "?",
-                "info": "This version has been lost, alongside all its exclusive segments, and only survives in Youtube videos.",
-                "use": "Space Adventure"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2007/11/16",
-    "HQ Source(s)": "SWF 30 + Youtube + Youtube + Club Penguin Youtube Channel",
-    "Link": "https://www.youtube.com/watch?v=2VUkmPANEDQ",
-    "Medias": "Club Penguin",
-    "Name": "Space Adventure",
-    "Name_official": 1,
-    "Order": 45,
-    "Source Links": "https://www.youtube.com/watch?v=XxoEDiwd6bU,https://www.youtube.com/watch?v=atcWcTDrWVI",
+    "name": "Space Adventure",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 30 + Youtube + Youtube + Club Penguin Youtube Channel",
+    "sourcelinks": "https://www.youtube.com/watch?v=XxoEDiwd6bU,https://www.youtube.com/watch?v=atcWcTDrWVI",
+    "order": 45,
+    "link": "https://www.youtube.com/watch?v=2VUkmPANEDQ",
     "versions": [
         {
             "info": "",
@@ -49,5 +28,22 @@
             "name": "ClubPenguin -Space Adventure(Stage Play) [atcWcTDrWVI].opus",
             "source": ""
         }
-    ]
+    ],
+    "cp": {
+        "order": 45,
+        "uses": [
+            {
+                "date": "2007/11/16",
+                "files": "30.swf",
+                "info": "",
+                "use": ""
+            },
+            {
+                "date": "2008/03/14",
+                "files": "?",
+                "info": "This version has been lost, alongside all its exclusive segments, and only survives in Youtube videos.",
+                "use": "Space Adventure"
+            }
+        ]
+    }
 }

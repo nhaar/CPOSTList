@@ -1,15 +1,13 @@
 {
-    "Name": "Steer the Funk",
-    "Name_official": 1,
-    "HQ Source(s)": "CPI SoundCloud",
-    "Order": 211,
-    "Link": "",
-    "Earliest Date": "2013/07/27",
-    "Medias": "Club Penguin",
+    "name": "Steer the Funk",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "order": 211,
+    "link": "",
     "cp": {
-        "Order": 211,
-        "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover",
+        "order": 211,
         "uses": [
             {
                 "date": "2013/07/27",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "David Fairfield",
-    "Alternate Names": ""
+    }
 }

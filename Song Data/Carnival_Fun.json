@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Fun Fair, Carnie",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Carnival Fun",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Fun Fair, Carnie",
+    "sources": "Game Day + SoundCloud",
+    "order": 41,
+    "link": "https://www.youtube.com/watch?v=vDMf5gQxsA8",
     "cp": {
-        "Earliest Date": "2007/09/21",
-        "Order": 41,
-        "Related To": "The Fair",
+        "order": 41,
         "uses": [
             {
                 "date": "2007/09/21",
@@ -26,12 +17,8 @@
             }
         ]
     },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/09/21",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 12,
-        "Related To": "Pufflle Paddle",
+        "order": 12,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -41,10 +28,15 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day + SoundCloud",
-    "Link": "https://www.youtube.com/watch?v=vDMf5gQxsA8",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Carnival Fun",
-    "Name_official": 1,
-    "Order": 41
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

@@ -1,8 +1,19 @@
 {
+    "name": "Clothing Designer",
+    "truename": 1,
+    "artists": "?",
+    "sources": "CPI SoundCloud",
+    "sourcelinks": "https://soundcloud.com/user-764833925/clothing-designer",
+    "order": 1011,
+    "versions": [
+        {
+            "info": "",
+            "name": "Clothing Designer [440725173].mp3",
+            "source": "CPI SoundCloud"
+        }
+    ],
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 0,
-        "Related To": "Clothing Customizer",
+        "order": 0,
         "files": [
             {
                 "info": "",
@@ -17,19 +28,5 @@
                 "use": "Clothing Customizer"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "CPI SoundCloud",
-    "Name": "Clothing Designer",
-    "Name_official": 1,
-    "Order": 1011,
-    "Source Links": "https://soundcloud.com/user-764833925/clothing-designer",
-    "versions": [
-        {
-            "info": "",
-            "name": "Clothing Designer [440725173].mp3",
-            "source": "CPI SoundCloud"
-        }
-    ]
+    }
 }

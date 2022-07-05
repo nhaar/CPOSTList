@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "For Great Justice",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic",
+    "sources": "Game Day",
+    "order": 51,
+    "link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
     "cp": {
-        "Earliest Date": "2008/01/11",
-        "Order": 51,
-        "Related To": "Squidzoid vs Shadow Guy and Gamma Gal, The Fair",
+        "order": 51,
         "uses": [
             {
                 "date": "2008/01/11",
@@ -32,12 +23,8 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/01/11",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 34,
-        "Related To": "Snow Forts Challenge",
+        "order": 34,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -47,10 +34,15 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "For Great Justice",
-    "Name_official": 1,
-    "Order": 51
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

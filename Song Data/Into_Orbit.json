@@ -1,15 +1,13 @@
 {
-    "Name": "Into Orbit",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 236,
-    "Link": "",
-    "Earliest Date": "2014/02/20",
-    "Medias": "Club Penguin",
+    "name": "Into Orbit",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 236,
+    "link": "",
     "cp": {
-        "Order": 236,
-        "Earliest Date": "2014/02/20",
-        "Related To": "The Fair",
+        "order": 236,
         "uses": [
             {
                 "date": "2014/02/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

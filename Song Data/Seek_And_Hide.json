@@ -1,15 +1,13 @@
 {
-    "Name": "Seek And Hide",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 20,
-    "Link": "https://www.youtube.com/watch?v=eAn2LohCj5w",
-    "Earliest Date": "2006/10/27",
-    "Medias": "Club Penguin",
+    "name": "Seek And Hide",
+    "truename": 1,
+    "artists": "Nicolas Mallia",
+    "altnames": "",
+    "sources": "Other",
+    "order": 20,
+    "link": "https://www.youtube.com/watch?v=eAn2LohCj5w",
     "cp": {
-        "Order": 20,
-        "Earliest Date": "2006/10/27",
-        "Related To": "Halloween Party 2006, Halloween Party 2007, Halloween Party 2013, Halloween Party 2014, Halloween Party 2015, Halloween Party 2016",
+        "order": 20,
         "uses": [
             {
                 "date": "2006/10/27",
@@ -50,9 +48,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -67,14 +63,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Nicolas Mallia",
-    "Alternate Names": "",
-    "stock": {
-        "info": {
-            "origin": "BMG Production",
-            "link": "https://bmgmusic.sourceaudio.com/#!explorer?b=6779386"
-        }
-    },
-    "notes": "This song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R)."
+    }
 }

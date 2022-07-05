@@ -1,9 +1,25 @@
 {
-    "Alternate Names": "Float in the clouds, Festival of Flight Main Theme, The Shore",
+    "name": "Cumulus",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Float in the clouds, Festival of Flight Main Theme, The Shore",
+    "sources": "Game Day + SWF 306",
+    "order": 111,
+    "link": "https://youtu.be/G0r3_kuGdMg",
+    "versions": [
+        {
+            "info": "Highest quality version.",
+            "name": "mn_demo_00.brstm",
+            "source": "Game Day"
+        },
+        {
+            "info": "Highest quality version of the harpless version.",
+            "name": "Music306.swf",
+            "source": "SWF 306"
+        }
+    ],
     "cp": {
-        "Earliest Date": "2009/08/14",
-        "Order": 111,
-        "Related To": "Festival Of Flight, Wilderness Expedition",
+        "order": 111,
         "uses": [
             {
                 "date": "",
@@ -19,12 +35,8 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2009/08/14",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 42,
-        "Related To": "Single team island conquered cutscene",
+        "order": 42,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -33,23 +45,5 @@
                 "use": "Single team island conquered cutscene"
             }
         ]
-    },
-    "HQ Source(s)": "Game Day + SWF 306",
-    "Link": "https://youtu.be/G0r3_kuGdMg",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Cumulus",
-    "Name_official": 1,
-    "Order": 111,
-    "versions": [
-        {
-            "info": "Highest quality version.",
-            "name": "mn_demo_00.brstm",
-            "source": "Game Day"
-        },
-        {
-            "info": "Highest quality version of the harpless version.",
-            "name": "Music306.swf",
-            "source": "SWF 306"
-        }
-    ]
+    }
 }

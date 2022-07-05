@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Candy Dimension",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Coconut",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Candy Dimension",
+    "sources": "App",
+    "order": 35,
+    "link": "https://youtu.be/ZNrLDmo7hTU",
     "cp": {
-        "Earliest Date": "2007/06/08",
-        "Order": 35,
-        "Related To": "Summer Kickoff Party, April Fools Party",
+        "order": 35,
         "uses": [
             {
                 "date": "2007/06/08",
@@ -32,10 +23,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "?",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,13 +44,5 @@
                 "use": "?"
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/06/08",
-    "HQ Source(s)": "App",
-    "Link": "https://youtu.be/ZNrLDmo7hTU",
-    "Medias": "Club Penguin",
-    "Name": "Coconut",
-    "Name_official": 1,
-    "Order": 35
+    }
 }

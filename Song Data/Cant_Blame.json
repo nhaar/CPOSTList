@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Can't Blame",
+    "truename": 1,
+    "artists": "Sabrina",
+    "altnames": "",
+    "sources": "Other",
+    "order": 272,
+    "link": "https://www.youtube.com/watch?v=HibDj27DHMI",
     "cp": {
-        "Earliest Date": "2014/07/17",
-        "Order": 272,
-        "Related To": "Music Jam",
+        "order": 272,
         "uses": [
             {
                 "date": "2014/07/17",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "Sabrina",
-    "Earliest Date": "2014/07/17",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=HibDj27DHMI",
-    "Medias": "Club Penguin",
-    "Name": "Can't Blame",
-    "Name_official": 1,
-    "Order": 272
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

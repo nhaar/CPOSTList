@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "CP Music Mashup 2016",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App + Club Penguin Youtube Channel",
+    "order": 378,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 378,
-        "Related To": "Igloo",
+        "order": 378,
         "uses": [
             {
                 "date": "?",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App + Club Penguin Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "CP Music Mashup 2016",
-    "Name_official": 1,
-    "Order": 378
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

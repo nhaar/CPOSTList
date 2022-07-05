@@ -1,16 +1,14 @@
 {
-    "Name": "Sunshine Holiday",
-    "Name_official": 1,
-    "HQ Source(s)": "Sample",
-    "Source Links": "https://www.shockwave-sound.com/stock-music-track/2542/sunshine-holiday",
-    "Order": 9,
-    "Link": "https://www.youtube.com/watch?v=PTgR-bY-e4A",
-    "Earliest Date": "2006/01/27",
-    "Medias": "Club Penguin",
+    "name": "Sunshine Holiday",
+    "truename": 1,
+    "artists": "Gayle Ellet",
+    "altnames": "",
+    "sources": "Sample",
+    "sourcelinks": "https://www.shockwave-sound.com/stock-music-track/2542/sunshine-holiday",
+    "order": 9,
+    "link": "https://www.youtube.com/watch?v=PTgR-bY-e4A",
     "cp": {
-        "Order": 9,
-        "Earliest Date": "2006/01/27",
-        "Related To": "Winter Luau, Puffle Party 2014, Puffle Party 2015",
+        "order": 9,
         "uses": [
             {
                 "date": "2006/01/27",
@@ -33,9 +31,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,7 +46,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Gayle Ellet",
-    "Alternate Names": ""
+    }
 }

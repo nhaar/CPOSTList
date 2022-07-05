@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Elite Penguin Force Resistance, Herbert's Fortress, Cove Aftermath",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Gear Up",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Elite Penguin Force Resistance, Herbert's Fortress, Cove Aftermath",
+    "sources": "App",
+    "order": 179,
+    "link": "",
     "cp": {
-        "Earliest Date": "2012/11/14",
-        "Order": 179,
-        "Related To": "Operation: Blackout, Operation:Puffle, Halloween Party",
+        "order": 179,
         "uses": [
             {
                 "date": "2012/11/14",
@@ -38,12 +29,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2012/11/14",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Gear Up",
-    "Name_official": 1,
-    "Order": 179
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

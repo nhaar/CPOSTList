@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Altarnn Battle",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 312,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 312,
-        "Related To": "Igloo",
+        "order": 312,
         "uses": [
             {
                 "date": "2015/01/14",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Altarnn Battle",
-    "Name_official": 1,
-    "Order": 312
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

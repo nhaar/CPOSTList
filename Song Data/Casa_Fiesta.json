@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Casa Fiesta Exterior",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 292 + Other",
+    "order": 138,
+    "link": "https://youtu.be/-ARoqLtF57g",
     "cp": {
-        "Earliest Date": "2010/07/08",
-        "Order": 138,
-        "Related To": "Music Jam, Anniversary Party",
+        "order": 138,
         "uses": [
             {
                 "date": "2010/07/08",
@@ -18,13 +22,5 @@
                 "use": "Anniversary Party (??)"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2010/07/08",
-    "HQ Source(s)": "SWF 292 + Other",
-    "Link": "https://youtu.be/-ARoqLtF57g",
-    "Medias": "Club Penguin",
-    "Name": "Casa Fiesta Exterior",
-    "Name_official": 1,
-    "Order": 138
+    }
 }

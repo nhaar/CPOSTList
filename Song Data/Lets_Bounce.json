@@ -1,15 +1,13 @@
 {
-    "Name": "Let's Bounce",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 91,
-    "Link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
-    "Earliest Date": "2009/04/24",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Let's Bounce",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 91,
+    "link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
     "cp": {
-        "Order": 99.1,
-        "Earliest Date": "2009/04/24",
-        "Related To": "Dance Contest",
+        "order": 99.1,
         "uses": [
             {
                 "date": "2009/04/24",
@@ -20,9 +18,7 @@
         ]
     },
     "gd": {
-        "Order": 5,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Minigame title screen",
+        "order": 5,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

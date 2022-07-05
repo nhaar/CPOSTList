@@ -1,15 +1,13 @@
 {
-    "Name": "Maze Exit",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 900",
-    "Order": 330,
-    "Link": "",
-    "Earliest Date": "2015/04/15",
-    "Medias": "Club Penguin",
+    "name": "Maze Exit",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 900",
+    "order": 330,
+    "link": "",
     "cp": {
-        "Order": 330,
-        "Earliest Date": "2015/04/15",
-        "Related To": "Cave Maze",
+        "order": 330,
         "uses": [
             {
                 "date": "2015/04/15",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

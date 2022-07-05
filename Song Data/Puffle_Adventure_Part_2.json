@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Adventure Part 2",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 358,
-    "Link": "",
-    "Earliest Date": "2016/04/20",
-    "Medias": "Club Penguin",
+    "name": "Puffle Adventure Part 2",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Forest Adventure Part 2",
+    "sources": "App",
+    "order": 358,
+    "link": "",
     "cp": {
-        "Order": 358,
-        "Earliest Date": "2016/04/20",
-        "Related To": "Wilderness Expedition",
+        "order": 358,
         "uses": [
             {
                 "date": "2016/04/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "Forest Adventure Part 2"
+    }
 }

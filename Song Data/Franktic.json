@@ -1,8 +1,12 @@
 {
+    "name": "Franktic",
+    "truename": 1,
+    "artists": "?",
+    "sources": "CPI SoundCloud",
+    "order": 1100,
+    "link": "",
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1100,
-        "Related To": "?",
+        "order": 1100,
         "uses": [
             {
                 "date": "?",
@@ -11,12 +15,5 @@
                 "use": "Rookie Quest"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "CPI SoundCloud",
-    "Link": "",
-    "Name": "Franktic",
-    "Name_official": 1,
-    "Order": 1100
+    }
 }

@@ -1,14 +1,11 @@
 {
-    "Name": "WaterNinja",
-    "Name_official": 0,
-    "HQ Source(s)": "Other",
-    "Order": 146.5,
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "WaterNinja",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Other",
+    "order": 146.5,
     "cpu": {
-        "Order": 0.8,
-        "Earliest Date": "2010/07/20",
-        "Related To": "Card-Jitsu Water",
+        "order": 0.8,
         "uses": [
             {
                 "date": "2010/07/20",
@@ -17,6 +14,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

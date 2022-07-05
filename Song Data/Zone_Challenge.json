@@ -1,15 +1,13 @@
 {
-    "Name": "Zone Challenge",
-    "Name_official": 0,
-    "HQ Source(s)": "Game Day",
-    "Order": 154.15,
-    "Link": "",
-    "Earliest Date": "2010/09/17",
-    "Medias": "Club Penguin: Game Day!",
+    "name": "Zone Challenge",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 154.15,
+    "link": "",
     "gd": {
-        "Order": 20,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Zone Challenge Title",
+        "order": 20,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

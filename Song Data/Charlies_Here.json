@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "Pizza Parlor Theme",
+    "name": "Charlie's Here",
+    "truename": 1,
+    "artists": "Doug Frantz",
+    "altnames": "Pizza Parlor Theme",
+    "sources": "Other",
+    "order": 12,
+    "link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
+    "cp": {
+        "order": 12,
+        "uses": [
+            {
+                "date": "2006/02/24",
+                "files": "",
+                "info": "",
+                "use": "Pizza Parlor"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Operation: Tri-umph",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -19,23 +34,8 @@
             }
         ]
     },
-    "cp": {
-        "Earliest Date": "2006/02/24",
-        "Order": 12,
-        "Related To": "Pizza Parlor",
-        "uses": [
-            {
-                "date": "2006/02/24",
-                "files": "",
-                "info": "",
-                "use": "Pizza Parlor"
-            }
-        ]
-    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Town",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,14 +44,5 @@
                 "use": "Town"
             }
         ]
-    },
-    "Composers": "Doug Frantz",
-    "Earliest Date": "2006/02/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
-    "Medias": "Club Penguin",
-    "Name": "Charlie's Here",
-    "Name_official": 1,
-    "Order": 12,
-    "notes": "This song was originally on SmartSound, then moved to Getty Images. Now, it is not available anywhere."
+    }
 }

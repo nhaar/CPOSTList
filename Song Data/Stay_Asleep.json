@@ -1,15 +1,13 @@
 {
-    "Name": "Stay Asleep",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 363,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
+    "name": "Stay Asleep",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 363,
+    "link": "",
     "cp": {
-        "Order": 363,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 363,
         "uses": [
             {
                 "date": "?",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

@@ -1,8 +1,14 @@
 {
+    "name": "Spazz For Jazz",
+    "truename": 1,
+    "artists": "Brian Dougans, Garry Cobain, William Edward, Somerset White",
+    "sources": "Sample",
+    "sourcelinks": "https://www.extrememusic.com/albums/2789",
+    "order": 0,
+    "link": "",
+    "versions": [],
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 0,
-        "Related To": "?",
+        "order": 0,
         "files": [],
         "uses": [
             {
@@ -12,14 +18,5 @@
                 "use": "Rookie QUest"
             }
         ]
-    },
-    "Composers": "Brian Dougans, Garry Cobain, William Edward, Somerset White",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Sample",
-    "Link": "",
-    "Name": "Spazz For Jazz",
-    "Name_official": 1,
-    "Order": 0,
-    "Source Links": "https://www.extrememusic.com/albums/2789",
-    "versions": []
+    }
 }

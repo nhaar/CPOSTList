@@ -1,15 +1,13 @@
 {
-    "Name": "The Ringmaster",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 141,
-    "Link": "https://youtu.be/YPDSYCloaNI",
-    "Earliest Date": "2010/09/03",
-    "Medias": "Club Penguin",
+    "name": "The Ringmaster",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Fair Theme",
+    "sources": "App",
+    "order": 141,
+    "link": "https://youtu.be/YPDSYCloaNI",
     "cp": {
-        "Order": 141,
-        "Earliest Date": "2010/09/03",
-        "Related To": "The Fair, Puffle Party, Pi Day, Operation: Tri-umph, Waddle On Party",
+        "order": 141,
         "uses": [
             {
                 "date": "2010/09/03",
@@ -44,9 +42,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -67,7 +63,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "The Fair Theme"
+    }
 }

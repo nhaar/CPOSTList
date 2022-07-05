@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Carnival Theme, Fall Fair, All the Fun of The Fair",
+    "name": "All the Fun of the Fair",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Carnival Theme, Fall Fair, All the Fun of The Fair",
+    "sources": "Game Day",
+    "order": 40,
+    "link": "https://www.youtube.com/watch?v=pnfHyC1nfCs",
     "cp": {
-        "Earliest Date": "2007/09/21",
-        "Order": 40,
-        "Related To": "The Fair",
+        "order": 40,
         "uses": [
             {
                 "date": "2007/09/21",
@@ -13,10 +17,19 @@
             }
         ]
     },
+    "gd": {
+        "order": 41,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Blue Ski Hill Challenge"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest, Credits",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,26 +44,5 @@
                 "use": "Credits"
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/09/21",
-    "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 41,
-        "Related To": "Blue Ski Hill Challenge",
-        "uses": [
-            {
-                "date": "2010/09/17",
-                "files": "",
-                "info": "",
-                "use": "Blue Ski Hill Challenge"
-            }
-        ]
-    },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=pnfHyC1nfCs",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "All the Fun of the Fair",
-    "Name_official": 1,
-    "Order": 40
+    }
 }

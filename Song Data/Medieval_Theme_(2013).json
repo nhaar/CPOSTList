@@ -1,15 +1,13 @@
 {
-    "Name": "Medieval Theme (2013)",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 220,
-    "Link": "",
-    "Earliest Date": "2013/09/19",
-    "Medias": "Club Penguin",
+    "name": "Medieval Theme (2013)",
+    "truename": 1,
+    "artists": "David Fairfield, Chris Hendricks",
+    "altnames": "",
+    "sources": "App",
+    "order": 220,
+    "link": "",
     "cp": {
-        "Order": 220,
-        "Earliest Date": "2013/09/19",
-        "Related To": "Medieval Party, Waddle On Party",
+        "order": 220,
         "uses": [
             {
                 "date": "2013/09/19",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "David Fairfield, Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

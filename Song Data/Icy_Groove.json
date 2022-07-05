@@ -1,15 +1,13 @@
 {
-    "Name": "Icy Groove",
-    "Name_official": 0,
-    "HQ Source(s)": "Game Day + Game Day (Sequenced)",
-    "Order": 154.35,
-    "Link": "",
-    "Earliest Date": "2010/09/17",
-    "Medias": "Club Penguin: Game Day!",
+    "name": "Icy Groove",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day + Game Day (Sequenced)",
+    "order": 154.35,
+    "link": "",
     "gd": {
-        "Order": 27,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Dance Off! Normal, Green Ski Hill Challenge",
+        "order": 27,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -24,7 +22,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

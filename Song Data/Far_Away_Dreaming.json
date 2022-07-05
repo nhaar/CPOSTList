@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Far Away Dreaming",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 340,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/07/22",
-        "Order": 340,
-        "Related To": "Inside Out Party",
+        "order": 340,
         "uses": [
             {
                 "date": "2015/07/22",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2015/07/22",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Far Away Dreaming",
-    "Name_official": 1,
-    "Order": 340
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

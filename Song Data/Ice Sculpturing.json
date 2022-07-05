@@ -1,15 +1,13 @@
 {
-    "Name": "Ice Sculpturing",
-    "Name_official": 0,
-    "HQ Source(s)": "Game Day",
-    "Order": 154.45,
-    "Link": "",
-    "Earliest Date": "2010/09/17",
-    "Medias": "Club Penguin: Game Day!",
+    "name": "Ice Sculpturing",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 154.45,
+    "link": "",
     "gd": {
-        "Order": 32,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Beach Challenge",
+        "order": 32,
         "uses": [
             {
                 "date": "20100817",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "Holiday Party, Candy Cane March",
+    "name": "Here We Go",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Holiday Party, Candy Cane March",
+    "sources": "App",
+    "order": 49,
+    "link": "https://www.youtube.com/watch?v=qOOxCPbCRBg",
+    "cp": {
+        "order": 49,
+        "uses": [
+            {
+                "date": "2007/12/21",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2007"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Holiday Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Holiday Party 2015"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2007/12/21",
-        "Order": 49,
-        "Related To": "Holiday Party",
-        "uses": [
-            {
-                "date": "2007/12/21",
-                "files": "",
-                "info": "",
-                "use": "Holiday Party 2007"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/12/21",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=qOOxCPbCRBg",
-    "Medias": "Club Penguin",
-    "Name": "Here We Go",
-    "Name_official": 1,
-    "Order": 49
+    }
 }

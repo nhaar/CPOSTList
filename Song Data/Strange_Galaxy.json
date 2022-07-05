@@ -1,15 +1,13 @@
 {
-    "Name": "Strange Galaxy",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 254,
-    "Link": "",
-    "Earliest Date": "2014/05/22",
-    "Medias": "Club Penguin",
+    "name": "Strange Galaxy",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 254,
+    "link": "",
     "cp": {
-        "Order": 254,
-        "Earliest Date": "2014/05/22",
-        "Related To": "Future Party, Star Wars Rebels Takeover, Operation: Crustacean",
+        "order": 254,
         "uses": [
             {
                 "date": "2014/05/22",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Rainy Day Ska",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 26,
-    "Link": "https://youtu.be/cUnj7DkhSx4",
-    "Earliest Date": "2007/02/09",
-    "Medias": "Club Penguin",
+    "name": "Rainy Day Ska",
+    "truename": 1,
+    "artists": "Jeremy Sherman",
+    "altnames": "",
+    "sources": "Other",
+    "order": 26,
+    "link": "https://youtu.be/cUnj7DkhSx4",
     "cp": {
-        "Order": 26,
-        "Earliest Date": "2007/02/09",
-        "Related To": "Festival of Snow",
+        "order": 26,
         "uses": [
             {
                 "date": "2007/02/09",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Jeremy Sherman",
-    "Alternate Names": ""
+    }
 }

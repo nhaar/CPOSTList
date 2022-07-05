@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "Puffle Gala",
+    "name": "Electric Ballet",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "Puffle Gala",
+    "sources": "App",
+    "order": 251,
+    "link": "",
+    "cp": {
+        "order": 251,
+        "uses": [
+            {
+                "date": "2014/04/17",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2014"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Puffle Party 2015"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2014/04/17",
-        "Order": 251,
-        "Related To": "Puffle Party",
-        "uses": [
-            {
-                "date": "2014/04/17",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2014"
-            }
-        ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2014/04/17",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Electric Ballet",
-    "Name_official": 1,
-    "Order": 251
+    }
 }

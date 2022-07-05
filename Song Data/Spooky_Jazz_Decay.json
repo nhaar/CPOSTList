@@ -1,15 +1,13 @@
 {
-    "Name": "Spooky Jazz Decay",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 288,
-    "Link": "",
-    "Earliest Date": "2014/10/23",
-    "Medias": "Club Penguin",
+    "name": "Spooky Jazz Decay",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 288,
+    "link": "",
     "cp": {
-        "Order": 288,
-        "Earliest Date": "2014/10/23",
-        "Related To": "Halloween Party",
+        "order": 288,
         "uses": [
             {
                 "date": "2014/10/23",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

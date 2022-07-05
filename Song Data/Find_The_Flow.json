@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Find The Flow",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 316,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/02/19",
-        "Order": 316,
-        "Related To": "SoundStudio Party, Music Jam",
+        "order": 316,
         "uses": [
             {
                 "date": "2015/02/19",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2015/02/19",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Find The Flow",
-    "Name_official": 1,
-    "Order": 316
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

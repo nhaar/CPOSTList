@@ -1,15 +1,13 @@
 {
-    "Name": "Operation: Blackout",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Order": 180,
-    "Link": "",
-    "Earliest Date": "2012/11/14",
-    "Medias": "Club Penguin",
+    "name": "Operation: Blackout",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "EPF Resistance",
+    "sources": "SoundCloud (NL)",
+    "order": 180,
+    "link": "",
     "cp": {
-        "Order": 180,
-        "Earliest Date": "2012/11/14",
-        "Related To": "Operation: Blackout, Operation: Puffle, Waddle On Party",
+        "order": 180,
         "uses": [
             {
                 "date": "2012/11/14",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "EPF Resistance"
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "PSA Mission Intro Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF intromusic + GarageBand",
-    "Order": 55.1,
-    "Link": "https://youtu.be/fqyXO01oL_k",
-    "Earliest Date": "2010/06/10",
-    "Medias": "Club Penguin",
+    "name": "PSA Mission Intro Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF intromusic + GarageBand",
+    "order": 55.1,
+    "link": "https://youtu.be/fqyXO01oL_k",
     "cp": {
-        "Order": 52.1,
-        "Earliest Date": "2008/01/21",
-        "Related To": "PSA Missions",
+        "order": 52.1,
         "uses": [
             {
                 "date": "2008/01/21",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

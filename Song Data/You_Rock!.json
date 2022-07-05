@@ -1,15 +1,13 @@
 {
-    "Name": "You Rock!",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 140,
-    "Link": "https://www.youtube.com/watch?v=WLSaYpqagEY",
-    "Earliest Date": "2010/07/08",
-    "Medias": "Club Penguin",
+    "name": "You Rock!",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "Quieter You Rock!, Oh No You Didn't",
+    "sources": "App",
+    "order": 140,
+    "link": "https://www.youtube.com/watch?v=WLSaYpqagEY",
     "cp": {
-        "Order": 140,
-        "Earliest Date": "2010/07/08",
-        "Related To": "Music Jam, Make Your Mark: Ultimate Jam",
+        "order": 140,
         "uses": [
             {
                 "date": "2010/07/08",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Michael Campitelli",
-    "Alternate Names": "Quieter You Rock!, Oh No You Didn't"
+    }
 }

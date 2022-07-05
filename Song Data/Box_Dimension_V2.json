@@ -1,8 +1,13 @@
 {
+    "name": "Box Dimension V2",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/eoq6Z0IEbeQ?t=171",
+    "order": 98.6,
+    "link": "https://youtu.be/4WJYa8L1rjc",
     "cpu": {
-        "Earliest Date": "?",
-        "Order": 0.25,
-        "Related To": "Box Dimension",
+        "order": 0.25,
         "uses": [
             {
                 "date": "?",
@@ -11,14 +16,5 @@
                 "use": "Box Dimension"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Youtube",
-    "Link": "https://youtu.be/4WJYa8L1rjc",
-    "Medias": "Club Penguin Unused",
-    "Name": "Box Dimension V2",
-    "Name_official": 0,
-    "Order": 98.6,
-    "Source Links": "https://youtu.be/eoq6Z0IEbeQ?t=171"
+    }
 }

@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "Attic Theme",
+    "name": "Adventure Seekers",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Attic Theme",
+    "sources": "SoundCloud",
+    "order": 323,
+    "link": "",
+    "cp": {
+        "order": 323,
+        "uses": [
+            {
+                "date": "2015/03/18",
+                "files": "",
+                "info": "",
+                "use": "Lodge Attic"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Attic",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Attic"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/03/18",
-        "Order": 323,
-        "Related To": "Lodge Attic",
-        "uses": [
-            {
-                "date": "2015/03/18",
-                "files": "",
-                "info": "",
-                "use": "Lodge Attic"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/03/18",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Adventure Seekers",
-    "Name_official": 1,
-    "Order": 323
+    }
 }

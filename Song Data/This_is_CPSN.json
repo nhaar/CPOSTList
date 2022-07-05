@@ -1,15 +1,13 @@
 {
-    "Name": "This is CPSN",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 265,
-    "Link": "",
-    "Earliest Date": "2014/06/19",
-    "Medias": "Club Penguin",
+    "name": "This is CPSN",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 265,
+    "link": "",
     "cp": {
-        "Order": 265,
-        "Earliest Date": "2014/06/19",
-        "Related To": "Penguin Cup",
+        "order": 265,
         "uses": [
             {
                 "date": "2014/06/19",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

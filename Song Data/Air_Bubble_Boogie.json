@@ -1,14 +1,13 @@
 {
-    "Alternate Names": "Underwater Adventure",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
+    "name": "Air Bubble Boogie",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Underwater Adventure",
+    "sources": "App",
+    "order": 54,
+    "link": "https://www.youtube.com/watch?v=vi2lh0CnBCI",
     "cp": {
-        "Earliest Date": "2008/02/15",
-        "Order": 54,
-        "Related To": "Sub-Marine Party, Underwater Adventure",
+        "order": 54,
         "uses": [
             {
                 "date": "2008/02/15",
@@ -24,12 +23,7 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/02/15",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=vi2lh0CnBCI",
-    "Medias": "Club Penguin",
-    "Name": "Air Bubble Boogie",
-    "Name_official": 1,
-    "Order": 54
+    "app": {
+        "order": 1
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Jungle Dance",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 105,
-    "Link": "https://www.youtube.com/watch?v=jpl35a6TCOA",
-    "Earliest Date": "2009/06/12",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Jungle Dance",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Island Adventure Dance Club Theme",
+    "sources": "Game Day",
+    "order": 105,
+    "link": "https://www.youtube.com/watch?v=jpl35a6TCOA",
     "cp": {
-        "Order": 105,
-        "Earliest Date": "2009/06/12",
-        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party",
+        "order": 105,
         "uses": [
             {
                 "date": "2009/06/12",
@@ -32,9 +30,7 @@
         ]
     },
     "gd": {
-        "Order": 29,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Sumo Smash",
+        "order": 29,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Island Adventure Dance Club Theme"
+    }
 }

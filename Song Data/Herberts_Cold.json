@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Herbert/Klutzy Theme, Secret of the Fur Horror Theme",
+    "name": "Herbert's Cold",
+    "truename": 0,
+    "artists": "Friction Music",
+    "altnames": "Herbert/Klutzy Theme, Secret of the Fur Horror Theme",
+    "sources": "SWF Behind Lodge 3",
+    "order": 44,
+    "link": "https://www.youtube.com/watch?v=zV461EAqgxk",
     "cp": {
-        "Earliest Date": "2007/11/05",
-        "Order": 44,
-        "Related To": "PSA Missions",
+        "order": 44,
         "uses": [
             {
                 "date": "?",
@@ -12,13 +16,5 @@
                 "use": "PSA Missions"
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/11/05",
-    "HQ Source(s)": "SWF Behind Lodge 3",
-    "Link": "https://www.youtube.com/watch?v=zV461EAqgxk",
-    "Medias": "Club Penguin",
-    "Name": "Herbert's Cold",
-    "Name_official": 0,
-    "Order": 44
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Southern Fried",
-    "Name_official": 1,
-    "HQ Source(s)": "App + Sample",
-    "Order": 17,
-    "Link": "https://www.youtube.com/watch?v=D-s3-ntrAMI",
-    "Earliest Date": "2006/07/14",
-    "Medias": "Club Penguin",
+    "name": "Southern Fried",
+    "truename": 1,
+    "artists": "Milo Deering, Kevin Bailey",
+    "altnames": "Surprise Party Music",
+    "sources": "App + Sample",
+    "order": 17,
+    "link": "https://www.youtube.com/watch?v=D-s3-ntrAMI",
     "cp": {
-        "Order": 17,
-        "Earliest Date": "2006/07/14",
-        "Related To": "Western Party, Surprise Party",
+        "order": 17,
         "uses": [
             {
                 "date": "2006/07/14",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Puffle Roundup",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,8 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Milo Deering, Kevin Bailey",
-    "Alternate Names": "Surprise Party Music",
-    "notes": "It used to be for sale on SoundDogs."
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Designer Look",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 382,
+    "link": "",
     "cp": {
-        "Earliest Date": "2017/01/04",
-        "Order": 382,
-        "Related To": "Club Penguin Island Party",
+        "order": 382,
         "uses": [
             {
                 "date": "2017/01/04",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2017/01/04",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Designer Look",
-    "Name_official": 1,
-    "Order": 382
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

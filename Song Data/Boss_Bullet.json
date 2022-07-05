@@ -1,8 +1,12 @@
 {
+    "name": "Boss Bullet",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=257",
+    "order": 151.7,
     "cpu": {
-        "Earliest Date": "?",
-        "Order": 3,
-        "Related To": "Puffle Launch",
+        "order": 3,
         "uses": [
             {
                 "date": "?",
@@ -11,13 +15,5 @@
                 "use": "Puffle Launch"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Youtube",
-    "Medias": "Club Penguin Unused",
-    "Name": "Boss Bullet",
-    "Name_official": 1,
-    "Order": 151.7,
-    "Source Links": "https://youtu.be/R8so7BYd9ZI?t=257"
+    }
 }

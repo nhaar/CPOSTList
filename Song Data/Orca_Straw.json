@@ -1,15 +1,13 @@
 {
-    "Name": "Orca Straw",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 67,
-    "Link": "https://youtu.be/ijbtsK8zx_Q",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "name": "Orca Straw",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Orca",
+    "sources": "Other",
+    "order": 67,
+    "link": "https://youtu.be/ijbtsK8zx_Q",
     "cp": {
-        "Order": 67,
-        "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam",
+        "order": 67,
         "uses": [
             {
                 "date": "2008/07/25",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Orca"
+    }
 }

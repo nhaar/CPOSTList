@@ -1,16 +1,14 @@
 {
-    "Name": "Into The Jungle",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube + CPI SoundCloud",
-    "Source Links": "https://youtu.be/e1ufA7zt5BU?t=447",
-    "Order": 136,
-    "Link": "https://youtu.be/7TZfuZ97ZgQ",
-    "Earliest Date": "2010/06/17",
-    "Medias": "Club Penguin",
+    "name": "Into The Jungle",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Pirates And Monkeys 2, Island Adventure 2010 Forest Theme",
+    "sources": "Youtube + CPI SoundCloud",
+    "sourcelinks": "https://youtu.be/e1ufA7zt5BU?t=447",
+    "order": 136,
+    "link": "https://youtu.be/7TZfuZ97ZgQ",
     "cp": {
-        "Order": 136,
-        "Earliest Date": "2010/06/17",
-        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party, Wilderness Expedition",
+        "order": 136,
         "uses": [
             {
                 "date": "2010/06/17",
@@ -39,9 +37,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -52,9 +48,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -63,7 +57,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Pirates And Monkeys 2, Island Adventure 2010 Forest Theme"
+    }
 }

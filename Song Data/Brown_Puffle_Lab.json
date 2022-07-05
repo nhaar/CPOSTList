@@ -1,34 +1,14 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015, School Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "School Party"
-            }
-        ]
-    },
+    "name": "Brown Puffle Lab",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/VZezeEwBakA",
+    "order": 148,
+    "link": "https://youtu.be/8g1e1DFudgM",
     "cp": {
-        "Earliest Date": "2011/01/17",
-        "Order": 148,
-        "Related To": "Wilderness Expedition, Puffle Party, School & Skate Party, Anniversary Party",
+        "order": 148,
         "uses": [
             {
                 "date": "2011/01/17",
@@ -56,10 +36,31 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "School Party"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -68,14 +69,5 @@
                 "use": "Igloo"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/01/17",
-    "HQ Source(s)": "Youtube",
-    "Link": "https://youtu.be/8g1e1DFudgM",
-    "Medias": "Club Penguin",
-    "Name": "Brown Puffle Lab",
-    "Name_official": 1,
-    "Order": 148,
-    "Source Links": "https://youtu.be/VZezeEwBakA"
+    }
 }

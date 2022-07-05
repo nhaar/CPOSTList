@@ -1,15 +1,13 @@
 {
-    "Name": "Snowy Holidays",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 47,
-    "Link": "https://www.youtube.com/watch?v=PZc7inb2TjY",
-    "Earliest Date": "2007/12/21",
-    "Medias": "Club Penguin",
+    "name": "Snowy Holidays",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Christmas Calm, Xmas, Holiday Jingle",
+    "sources": "App",
+    "order": 47,
+    "link": "https://www.youtube.com/watch?v=PZc7inb2TjY",
     "cp": {
-        "Order": 47,
-        "Earliest Date": "2007/12/21",
-        "Related To": "Holiday Party, Merry Walrus Party",
+        "order": 47,
         "uses": [
             {
                 "date": "2007/12/21",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2016",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Alternate Names": "Christmas Calm, Xmas, Holiday Jingle"
+    }
 }

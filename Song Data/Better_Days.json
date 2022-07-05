@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Better Days",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "happy77 Youtube Channel",
+    "order": 160,
+    "link": "",
     "cp": {
-        "Earliest Date": "2011/06/16",
-        "Order": 160,
-        "Related To": "Music Jam",
+        "order": 160,
         "uses": [
             {
                 "date": "2011/06/16",
@@ -12,13 +16,5 @@
                 "use": "Music Jam 2011"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/06/16",
-    "HQ Source(s)": "happy77 Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Better Days",
-    "Name_official": 1,
-    "Order": 160
+    }
 }

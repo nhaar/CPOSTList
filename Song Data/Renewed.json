@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Puffle Roundup Theme",
+    "name": "Renewed",
+    "truename": 1,
+    "artists": "Milo Deering, Kevin Bailey",
+    "altnames": "Puffle Roundup Theme",
+    "sources": "Other",
+    "order": 6,
+    "link": "https://www.youtube.com/watch?v=OVAK5NE5mNo",
     "cp": {
-        "Earliest Date": "2005/12/14",
-        "Order": 6,
-        "Related To": "Puffle Roundup, The Fair 2014",
+        "order": 6,
         "uses": [
             {
                 "date": "?",
@@ -20,22 +24,6 @@
         ]
     },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Puffle Roundup"
-    },
-    "Composers": "Milo Deering, Kevin Bailey",
-    "Earliest Date": "2005/12/14",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=OVAK5NE5mNo",
-    "Medias": "Club Penguin",
-    "Name": "Renewed",
-    "Name_official": 1,
-    "Order": 6,
-    "stock": {
-        "info": {
-            "link": "https://www.smartsound.com/royalty-free-music/Grass+Roots/Renewed/",
-            "origin": "SmartSound"
-        }
+        "order": 1
     }
 }

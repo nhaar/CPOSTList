@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "English Anthem",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 244,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/03/20",
-        "Order": 244,
-        "Related To": "Muppet's World Tour",
+        "order": 244,
         "uses": [
             {
                 "date": "2014/03/20",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/03/20",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "English Anthem",
-    "Name_official": 1,
-    "Order": 244
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

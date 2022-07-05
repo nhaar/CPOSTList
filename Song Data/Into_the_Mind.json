@@ -1,15 +1,13 @@
 {
-    "Name": "Into the Mind",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 193,
-    "Link": "",
-    "Earliest Date": "2013/05/09",
-    "Medias": "Club Penguin",
+    "name": "Into the Mind",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Spy Drills Theme",
+    "sources": "App",
+    "order": 193,
+    "link": "",
     "cp": {
-        "Order": 193,
-        "Earliest Date": "2013/05/09",
-        "Related To": "Spy Drills",
+        "order": 193,
         "uses": [
             {
                 "date": "2013/05/09",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "Spy Drills Theme"
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Time Travellers",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 21,
-    "Link": "https://www.youtube.com/watch?v=YeXjL2_zq3w",
-    "Earliest Date": "2006/11/06",
-    "Medias": "Club Penguin",
+    "name": "Time Travellers",
+    "truename": 1,
+    "artists": "Tomasz Stobierski",
+    "altnames": "Jet Pack Adventure Theme",
+    "sources": "Other",
+    "order": 21,
+    "link": "https://www.youtube.com/watch?v=YeXjL2_zq3w",
     "cp": {
-        "Order": 21,
-        "Earliest Date": "2006/11/06",
-        "Related To": "Jet Pack Adventure",
+        "order": 21,
         "uses": [
             {
                 "date": "2006/11/06",
@@ -17,22 +15,6 @@
                 "files": "",
                 "info": ""
             }
-        ]
-    },
-    "Composers": "Tomasz Stobierski",
-    "Alternate Names": "Jet Pack Adventure Theme",
-    "stock": {
-        "info": {
-            "origin": "Shockwave Sound",
-            "link": "https://www.shockwave-sound.com/stock-music-track/3796/time-travellers-t-stobierski"
-        },
-        "sale": [
-            "Full track",
-            "60-secs version 1",
-            "60-secs version 2",
-            "30-secs version 1",
-            "30-secs version 2",
-            "Set of 2 music loops"
         ]
     }
 }

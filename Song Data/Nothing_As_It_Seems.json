@@ -1,15 +1,13 @@
 {
-    "Name": "Nothing As It Seems",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 285,
-    "Link": "",
-    "Earliest Date": "2014/10/23",
-    "Medias": "Club Penguin",
+    "name": "Nothing As It Seems",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 285,
+    "link": "",
     "cp": {
-        "Order": 285,
-        "Earliest Date": "2014/10/23",
-        "Related To": "Halloween Party",
+        "order": 285,
         "uses": [
             {
                 "date": "2014/10/23",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

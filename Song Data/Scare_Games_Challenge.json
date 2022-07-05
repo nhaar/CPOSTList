@@ -1,15 +1,13 @@
 {
-    "Name": "Scare Games Challenge",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF sneak",
-    "Order": 210,
-    "Link": "",
-    "Earliest Date": "2013/07/27",
-    "Medias": "Club Penguin",
+    "name": "Scare Games Challenge",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF sneak",
+    "order": 210,
+    "link": "",
     "cp": {
-        "Order": 210,
-        "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover",
+        "order": 210,
         "uses": [
             {
                 "date": "2013/07/27",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

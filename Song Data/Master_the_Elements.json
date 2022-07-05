@@ -1,15 +1,13 @@
 {
-    "Name": "Master the Elements",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 144,
-    "Link": "https://youtu.be/0ACp6h74n08",
-    "Earliest Date": "2010/11/24",
-    "Medias": "Club Penguin",
+    "name": "Master the Elements",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Zen Falls, Master of the Elements",
+    "sources": "Other",
+    "order": 144,
+    "link": "https://youtu.be/0ACp6h74n08",
     "cp": {
-        "Order": 142.9,
-        "Earliest Date": "2010/11/11",
-        "Related To": "Igloo",
+        "order": 142.9,
         "uses": [
             {
                 "date": "2010/11/11",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Zen Falls, Master of the Elements"
+    }
 }

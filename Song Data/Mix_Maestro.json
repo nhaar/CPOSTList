@@ -1,15 +1,13 @@
 {
-    "Name": "Mix Maestro",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 64,
-    "Link": "https://www.youtube.com/watch?v=W4z3l2BnMSQ",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Mix Maestro",
+    "truename": 1,
+    "artists": "Rory O'Neill",
+    "altnames": "DJ3K Mix, DJ3K, Mix",
+    "sources": "Game Day",
+    "order": 64,
+    "link": "https://www.youtube.com/watch?v=W4z3l2BnMSQ",
     "cp": {
-        "Order": 64,
-        "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam",
+        "order": 64,
         "uses": [
             {
                 "date": "2008/07/25",
@@ -20,9 +18,7 @@
         ]
     },
     "gd": {
-        "Order": 18,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Enemy team zone",
+        "order": 18,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -33,9 +29,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,8 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Rory O'Neill",
-    "Alternate Names": "DJ3K Mix, DJ3K, Mix",
-    "notes": "It is a mix from the DJ3K minigame samples."
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Organ You Play",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 224,
-    "Link": "https://youtu.be/BhasalyfETk",
-    "Earliest Date": "2013/10/17",
-    "Medias": "Club Penguin",
+    "name": "Organ You Play",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Other",
+    "order": 224,
+    "link": "https://youtu.be/BhasalyfETk",
     "cp": {
-        "Order": 141.9,
-        "Earliest Date": "2010/10/28",
-        "Related To": "Halloween Party",
+        "order": 141.9,
         "uses": [
             {
                 "date": "2010/10/28",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Halloween Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Viking Opera",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Haunting of the Viking Opera",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Viking Opera",
+    "sources": "Game Day",
+    "order": 102,
+    "link": "https://www.youtube.com/watch?v=XfcceKzuHHw",
     "cp": {
-        "Earliest Date": "2009/05/08",
-        "Order": 102,
-        "Related To": "Haunting of the Viking Opera, Island Adventure Party, Medieval Party, The Fair",
+        "order": 102,
         "uses": [
             {
                 "date": "2009/05/08",
@@ -44,12 +35,8 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2009/05/08",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 25,
-        "Related To": "Fast Freeze",
+        "order": 25,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -59,10 +46,15 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=XfcceKzuHHw",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Haunting of the Viking Opera",
-    "Name_official": 1,
-    "Order": 102
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

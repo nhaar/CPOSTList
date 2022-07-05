@@ -1,16 +1,14 @@
 {
-    "Name": "Stair Dimension",
-    "Name_official": 0,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=eoq6Z0IEbeQ&t=281s",
-    "Order": 152,
-    "Link": "",
-    "Earliest Date": "2011/03/24",
-    "Medias": "Club Penguin",
+    "name": "Stair Dimension",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Box Dimension V5",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=eoq6Z0IEbeQ&t=281s",
+    "order": 152,
+    "link": "",
     "cp": {
-        "Order": 152,
-        "Earliest Date": "2011/03/24",
-        "Related To": "April Fools Party, Waddle On Party",
+        "order": 152,
         "uses": [
             {
                 "date": "2011/03/24",
@@ -25,7 +23,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Box Dimension V5"
+    }
 }

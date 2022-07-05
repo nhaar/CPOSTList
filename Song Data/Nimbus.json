@@ -1,16 +1,13 @@
 {
-    "Name": "Nimbus",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Link": "https://youtu.be/xGnrTS3HM2U",
-    "Source Links": "https://youtu.be/-iNjNBZhMHo?t=227",
-    "Order": 112.5,
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "Nimbus",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/-iNjNBZhMHo?t=227",
+    "order": 112.5,
+    "link": "https://youtu.be/xGnrTS3HM2U",
     "cpu": {
-        "Order": 0.4,
-        "Earliest Date": "?",
-        "Related To": "Festival of Flight",
+        "order": 0.4,
         "uses": [
             {
                 "date": "?",
@@ -19,6 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

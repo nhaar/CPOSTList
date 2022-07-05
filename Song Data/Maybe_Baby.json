@@ -1,16 +1,14 @@
 {
-    "Name": "Maybe Baby",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Source Links": "https://www.youtube.com/watch?v=1NYuIK284e4",
-    "Order": 66,
-    "Link": "https://www.youtube.com/watch?v=pWiOer4zMIs",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "name": "Maybe Baby",
+    "truename": 1,
+    "artists": "Doug Frantz",
+    "altnames": "Jazz Piano, Maybe Lazy, Jazz",
+    "sources": "Other",
+    "sourcelinks": "https://www.youtube.com/watch?v=1NYuIK284e4",
+    "order": 66,
+    "link": "https://www.youtube.com/watch?v=pWiOer4zMIs",
     "cp": {
-        "Order": 30,
-        "Earliest Date": "2007/03/16",
-        "Related To": "Igloo, Music Jam, Holiday Party",
+        "order": 30,
         "uses": [
             {
                 "date": "2007/03/16",
@@ -33,9 +31,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +40,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Doug Frantz",
-    "Alternate Names": "Jazz Piano, Maybe Lazy, Jazz"
+    }
 }

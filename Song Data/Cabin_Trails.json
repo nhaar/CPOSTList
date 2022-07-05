@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Cabin Trails",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 322,
+    "link": "",
+    "cp": {
+        "order": 322,
+        "uses": [
+            {
+                "date": "2015/03/18",
+                "files": "",
+                "info": "",
+                "use": "Ski Lodge"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Ski Lodge",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Ski Lodge"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/03/18",
-        "Order": 322,
-        "Related To": "Ski Lodge",
-        "uses": [
-            {
-                "date": "2015/03/18",
-                "files": "",
-                "info": "",
-                "use": "Ski Lodge"
-            }
-        ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2015/03/18",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Cabin Trails",
-    "Name_official": 1,
-    "Order": 322
+    }
 }

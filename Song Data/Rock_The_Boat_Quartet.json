@@ -1,15 +1,13 @@
 {
-    "Name": "Rock The Boat Quartet",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 268,
-    "Link": "",
-    "Earliest Date": "2014/07/17",
-    "Medias": "Club Penguin",
+    "name": "Rock The Boat Quartet",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 268,
+    "link": "",
     "cp": {
-        "Order": 268,
-        "Earliest Date": "2014/07/17",
-        "Related To": "Music Jam",
+        "order": 268,
         "uses": [
             {
                 "date": "2014/07/17",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

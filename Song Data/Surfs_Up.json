@@ -1,16 +1,14 @@
 {
-    "Name": "Surf's Up",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=EGmAj3Te93w",
-    "Order": 215,
-    "Link": "https://www.youtube.com/watch?v=EGmAj3Te93w",
-    "Earliest Date": "2013/08/22",
-    "Medias": "Club Penguin",
+    "name": "Surf's Up",
+    "truename": 1,
+    "artists": "Ross Lynch, Maia Mitchell, Teen Beach Movie Cast",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=EGmAj3Te93w",
+    "order": 215,
+    "link": "https://www.youtube.com/watch?v=EGmAj3Te93w",
     "cp": {
-        "Order": 215,
-        "Earliest Date": "2013/08/22",
-        "Related To": "Teen Beach Movie Summer Jam",
+        "order": 215,
         "uses": [
             {
                 "date": "2013/08/22",
@@ -21,9 +19,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -32,7 +28,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Ross Lynch, Maia Mitchell, Teen Beach Movie Cast",
-    "Alternate Names": ""
+    }
 }

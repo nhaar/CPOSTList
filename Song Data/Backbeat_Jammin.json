@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Easy Island Music, Rocksteady",
+    "name": "Backbeat Jammin'",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "Easy Island Music, Rocksteady",
+    "sources": "Game Day",
+    "order": 108,
+    "link": "https://www.youtube.com/watch?v=bcgjyP29z14",
     "cp": {
-        "Earliest Date": "2009/07/17",
-        "Order": 108,
-        "Related To": "Music Jam",
+        "order": 108,
         "uses": [
             {
                 "date": "2009/07/17",
@@ -14,9 +18,7 @@
         ]
     },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Beacon Boardwalk",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -25,13 +27,5 @@
                 "use": "Beacon Boardwalk"
             }
         ]
-    },
-    "Composers": "Michael Campitelli",
-    "Earliest Date": "2009/07/17",
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=bcgjyP29z14",
-    "Medias": "Club Penguin",
-    "Name": "Backbeat Jammin'",
-    "Name_official": 1,
-    "Order": 108
+    }
 }

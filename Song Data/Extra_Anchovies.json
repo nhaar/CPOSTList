@@ -1,9 +1,14 @@
 {
-    "Alternate Names": "",
+    "name": "Extra Anchovies",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Game Day + Screenhog's Website",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 119,
+    "link": "https://youtu.be/7Fj6UDpugIY",
     "cp": {
-        "Earliest Date": "2009/09/25",
-        "Order": 119,
-        "Related To": "Igloo",
+        "order": 119,
         "uses": [
             {
                 "date": "?",
@@ -13,12 +18,8 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2009/09/25",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 10,
-        "Related To": "Bean Balance",
+        "order": 10,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -27,13 +28,5 @@
                 "use": "Bean Balance"
             }
         ]
-    },
-    "HQ Source(s)": "Game Day + Screenhog's Website",
-    "Link": "https://youtu.be/7Fj6UDpugIY",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Extra Anchovies",
-    "Name_official": 1,
-    "Order": 119,
-    "Source Links": "http://www.screenhog.com/music",
-    "notes": "It is an orchestral arrangement of Pizzatron 3000."
+    }
 }

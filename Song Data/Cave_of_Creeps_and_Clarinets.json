@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "Monster Masquerade, Cave of Creeps and Clarinets V2",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Cave of Creeps and Clarinets",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Monster Masquerade, Cave of Creeps and Clarinets V2",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/N_fX8t63uJ4",
+    "order": 142,
+    "link": "https://youtu.be/bjsBEMj9Glg",
     "cp": {
-        "Earliest Date": "2010/10/28",
-        "Order": 142,
-        "Related To": "Halloween Party",
+        "order": 142,
         "uses": [
             {
                 "date": "2010/10/28",
@@ -26,10 +18,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -38,14 +39,5 @@
                 "use": "Halloween Party 2018"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/10/28",
-    "HQ Source(s)": "Youtube",
-    "Link": "https://youtu.be/bjsBEMj9Glg",
-    "Medias": "Club Penguin",
-    "Name": "Cave of Creeps and Clarinets",
-    "Name_official": 1,
-    "Order": 142,
-    "Source Links": "https://youtu.be/N_fX8t63uJ4"
+    }
 }

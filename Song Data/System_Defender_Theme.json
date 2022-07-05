@@ -1,26 +1,11 @@
 {
-    "Name": "System Defender Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF System Defender + Youtube",
-    "Order": 147,
-    "Link": "https://youtu.be/QVWYOcSHty4",
-    "Earliest Date": "2011/01/14",
-    "Medias": "Club Penguin",
-    "cp": {
-        "Order": 147,
-        "Earliest Date": "2011/01/14",
-        "Related To": "System Defender",
-        "uses": [
-            {
-                "date": "2011/01/14",
-                "use": "System Defender",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "",
+    "name": "System Defender Theme",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "SWF System Defender + Youtube",
+    "order": 147,
+    "link": "https://youtu.be/QVWYOcSHty4",
     "versions": [
         {
             "name": "main.swf",
@@ -32,5 +17,16 @@
             "info": "The video contains a few of the loop used in the flash version in the highest quality available.",
             "source": "Youtube."
         }
-    ]
+    ],
+    "cp": {
+        "order": 147,
+        "uses": [
+            {
+                "date": "2011/01/14",
+                "use": "System Defender",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Orchestral Awards",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 314,
-    "Link": "",
-    "Earliest Date": "2015/02/19",
-    "Medias": "Club Penguin",
+    "name": "Orchestral Awards",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 314,
+    "link": "",
     "cp": {
-        "Order": 314,
-        "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party",
+        "order": 314,
         "uses": [
             {
                 "date": "2015/02/19",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

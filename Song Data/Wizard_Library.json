@@ -1,15 +1,13 @@
 {
-    "Name": "Wizard Waltz",
-    "Name_official": 1,
-    "HQ Source(s)": "SWF 494",
-    "Order": 221,
-    "Link": "",
-    "Earliest Date": "2013/09/19",
-    "Medias": "Club Penguin",
+    "name": "Wizard Waltz",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "Wizard Library, Wizard School Observatory",
+    "sources": "SWF 494",
+    "order": 221,
+    "link": "",
     "cp": {
-        "Order": 221,
-        "Earliest Date": "2013/09/19",
-        "Related To": "Medieval Party, Anniversary Party",
+        "order": 221,
         "uses": [
             {
                 "date": "2013/09/19",
@@ -24,7 +22,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "David Fairfield",
-    "Alternate Names": "Wizard Library, Wizard School Observatory"
+    }
 }

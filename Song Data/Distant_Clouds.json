@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Distant Clouds",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 189,
+    "link": "",
+    "cp": {
+        "order": 189,
+        "uses": [
+            {
+                "date": "2013/03/23",
+                "files": "",
+                "info": "",
+                "use": "Cloud Forest"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Rainbow Puffle Party, Cloud Forest",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -25,23 +40,8 @@
             }
         ]
     },
-    "cp": {
-        "Earliest Date": "2013/03/23",
-        "Order": 189,
-        "Related To": "Cloud Forest",
-        "uses": [
-            {
-                "date": "2013/03/23",
-                "files": "",
-                "info": "",
-                "use": "Cloud Forest"
-            }
-        ]
-    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rainbow Migration 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,13 +50,5 @@
                 "use": "Rainbow Migration 2018"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2013/03/23",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Distant Clouds",
-    "Name_official": 1,
-    "Order": 189
+    }
 }

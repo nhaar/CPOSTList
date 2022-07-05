@@ -1,15 +1,13 @@
 {
-    "Name": "Street Rock",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 333 + Club Penguin Youtube Channel",
-    "Order": 174,
-    "Link": "",
-    "Earliest Date": "2012/07/19",
-    "Medias": "Club Penguin",
+    "name": "Street Rock",
+    "truename": 0,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SWF 333 + Club Penguin Youtube Channel",
+    "order": 174,
+    "link": "",
     "cp": {
-        "Order": 174,
-        "Earliest Date": "2012/07/19",
-        "Related To": "Make Your Mark: Ultimate Jam",
+        "order": 174,
         "uses": [
             {
                 "date": "2012/07/19",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

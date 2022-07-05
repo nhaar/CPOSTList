@@ -1,16 +1,13 @@
 {
-    "Name": "Puffle Bullet",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/R8so7BYd9ZI?t=112",
-    "Order": 151.6,
-    "Link": "https://youtu.be/NGaz1aJki7Y",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "Puffle Bullet",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=112",
+    "order": 151.6,
+    "link": "https://youtu.be/NGaz1aJki7Y",
     "cpu": {
-        "Order": 2,
-        "Earliest Date": "?",
-        "Related To": "Puffle Launch",
+        "order": 2,
         "uses": [
             {
                 "date": "?",
@@ -19,6 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

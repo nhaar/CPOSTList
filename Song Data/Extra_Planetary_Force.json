@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Extra Planetary Force",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 252,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/05/22",
-        "Order": 252,
-        "Related To": "Future Party, Star Wars Rebels Takeover",
+        "order": 252,
         "uses": [
             {
                 "date": "2014/05/22",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/05/22",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Extra Planetary Force",
-    "Name_official": 1,
-    "Order": 252
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

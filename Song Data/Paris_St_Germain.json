@@ -1,65 +1,11 @@
 {
-    "Name": "Paris St Germain",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 13,
-    "Link": "https://www.youtube.com/watch?v=dhKAcYPWonE",
-    "Earliest Date": "2006/03/10",
-    "Medias": "Club Penguin",
-    "cp": {
-        "Order": 13,
-        "Earliest Date": "2006/03/10",
-        "Related To": "Ice Fishing",
-        "uses": [
-            {
-                "date": "2006/03/10",
-                "use": "Ice Fishing",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
-    "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Ice Fishing",
-        "uses": [
-            {
-                "date": "?",
-                "use": "Ice Fishing",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
-    "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Ice Fishing",
-        "uses": [
-            {
-                "date": "?",
-                "use": "Ice Fishing",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
-    "Composers": "Milo Deering",
-    "Alternate Names": "Ice Fishing Theme",
-    "stock": {
-        "info": {
-            "origin": "Shockwave Sound",
-            "link": "https://www.shockwave-sound.com/stock-music-track/3566/paris-st-germain"
-        },
-        "sale": [
-            "Full track",
-            "60-secs version",
-            "30-secs version",
-            "Underscore version",
-            "Set of 5 music loops"
-        ]
-    },
+    "name": "Paris St Germain",
+    "truename": 1,
+    "artists": "Milo Deering",
+    "altnames": "Ice Fishing Theme",
+    "sources": "Other",
+    "order": 13,
+    "link": "https://www.youtube.com/watch?v=dhKAcYPWonE",
     "versions": [
         {
             "name": "6_Paris_St._Germain.flac",
@@ -106,5 +52,38 @@
             "info": "Underscore version.",
             "source": "Sample"
         }
-    ]
+    ],
+    "cp": {
+        "order": 13,
+        "uses": [
+            {
+                "date": "2006/03/10",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }

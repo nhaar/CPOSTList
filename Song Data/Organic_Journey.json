@@ -1,14 +1,13 @@
 {
-    "Alternate Names": "Melodie du Crouton, Old Bean Counters",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
+    "name": "Organic Journey",
+    "truename": 1,
+    "artists": "Milo Deering",
+    "altnames": "Melodie du Crouton, Old Bean Counters",
+    "sources": "Other",
+    "order": 2,
+    "link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
     "cp": {
-        "Earliest Date": "2005/10/24",
-        "Order": 2,
-        "Related To": "Bean Counters",
+        "order": 2,
         "files": [
             {
                 "info": "It contains the first 67 seconds of the full version.",
@@ -25,25 +24,7 @@
             }
         ]
     },
-    "Composers": "Milo Deering",
-    "Earliest Date": "2005/10/24",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
-    "Medias": "Club Penguin",
-    "Name": "Organic Journey",
-    "Name_official": 1,
-    "Order": 2,
-    "stock": {
-        "info": {
-            "link": "https://www.smartsound.com/royalty-free-music/Comical%2C+Fun+%26+Novelty/Organic+Journey/",
-            "origin": "SmartSound"
-        },
-        "sale": [
-            "Full version",
-            "60 seconds",
-            "30 seconds",
-            "15 seconds",
-            "Top hat, The shuffle, Doc, Stephane, Dawg and Swangy variations for all of the above"
-        ]
+    "app": {
+        "order": 1
     }
 }

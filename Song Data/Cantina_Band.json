@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Cantina Band",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Other",
+    "order": 204,
+    "link": "https://www.youtube.com/watch?v=EsvfptdFXf4",
     "cp": {
-        "Earliest Date": "2013/07/25",
-        "Order": 204,
-        "Related To": "Star Wars Takeover",
+        "order": 204,
         "uses": [
             {
                 "date": "2013/07/25",
@@ -12,13 +16,5 @@
                 "use": "Star Wars Takeover"
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Earliest Date": "2013/07/25",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=EsvfptdFXf4",
-    "Medias": "Club Penguin",
-    "Name": "Cantina Band",
-    "Name_official": 1,
-    "Order": 204
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Starting Fresh",
-    "Name_official": 1,
-    "HQ Source(s)": "CPI SoundCloud",
-    "Order": 280,
-    "Link": "",
-    "Earliest Date": "2014/09/18",
-    "Medias": "Club Penguin",
+    "name": "Starting Fresh",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "order": 280,
+    "link": "",
     "cp": {
-        "Order": 280,
-        "Earliest Date": "2014/09/18",
-        "Related To": "School & Skate Park",
+        "order": 280,
         "uses": [
             {
                 "date": "2014/09/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, School Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -39,9 +35,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,7 +44,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

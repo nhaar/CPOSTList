@@ -1,15 +1,13 @@
 {
-    "Name": "Pirates of Club Penguin",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 291,
-    "Link": "",
-    "Earliest Date": "2014/11/20",
-    "Medias": "Club Penguin",
+    "name": "Pirates of Club Penguin",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Crab Battle",
+    "sources": "SoundCloud",
+    "order": 291,
+    "link": "",
     "cp": {
-        "Order": 291,
-        "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party",
+        "order": 291,
         "uses": [
             {
                 "date": "2014/11/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Rockhopper Quest",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "Crab Battle"
+    }
 }

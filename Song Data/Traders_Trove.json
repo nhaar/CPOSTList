@@ -1,15 +1,13 @@
 {
-    "Name": "Trader's Trove",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 335,
-    "Link": "",
-    "Earliest Date": "2015/04/22",
-    "Medias": "Club Penguin",
+    "name": "Trader's Trove",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 335,
+    "link": "",
     "cp": {
-        "Order": 335,
-        "Earliest Date": "2015/04/22",
-        "Related To": "Frozen Fever Party",
+        "order": 335,
         "uses": [
             {
                 "date": "2015/04/22",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Frozen Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

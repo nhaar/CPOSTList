@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "CP Music Mashup 2013",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 375,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 375,
-        "Related To": "Igloo",
+        "order": 375,
         "uses": [
             {
                 "date": "?",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "?",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "CP Music Mashup 2013",
-    "Name_official": 1,
-    "Order": 375
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

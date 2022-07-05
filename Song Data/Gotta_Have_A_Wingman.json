@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "Puffle Party",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2014",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2014"
-            }
-        ]
-    },
+    "name": "Gotta Have A Wingman",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "Puffle Party",
+    "sources": "Other + App + Club Penguin Island",
+    "order": 184,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 184,
-        "Related To": "Igloo, Penguin Prom, Music Jam",
+        "order": 184,
         "uses": [
             {
                 "date": "?",
@@ -44,10 +29,25 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2014"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Town",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -56,13 +56,5 @@
                 "use": "Town"
             }
         ]
-    },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Other + App + Club Penguin Island",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Gotta Have A Wingman",
-    "Name_official": 1,
-    "Order": 184
+    }
 }

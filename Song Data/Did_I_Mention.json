@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Did I Mention",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 345,
+    "link": "",
+    "cp": {
+        "order": 345,
+        "uses": [
+            {
+                "date": "2015/09/16",
+                "files": "",
+                "info": "",
+                "use": "Descendants Party"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Descendants Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Descendants Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/09/16",
-        "Order": 345,
-        "Related To": "Descendants Party",
-        "uses": [
-            {
-                "date": "2015/09/16",
-                "files": "",
-                "info": "",
-                "use": "Descendants Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/09/16",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Did I Mention",
-    "Name_official": 1,
-    "Order": 345
+    }
 }

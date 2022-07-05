@@ -1,15 +1,13 @@
 {
-    "Name": "Special Prize",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 821",
-    "Order": 300,
-    "Link": "",
-    "Earliest Date": "2014/12/18",
-    "Medias": "Club Penguin",
+    "name": "Special Prize",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 821",
+    "order": 300,
+    "link": "",
     "cp": {
-        "Order": 300,
-        "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party",
+        "order": 300,
         "uses": [
             {
                 "date": "2014/12/18",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

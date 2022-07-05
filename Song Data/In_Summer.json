@@ -1,15 +1,13 @@
 {
-    "Name": "In Summer",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 277,
-    "Link": "https://www.youtube.com/watch?v=UfEm49olvaQ",
-    "Earliest Date": "2014/08/21",
-    "Medias": "Club Penguin",
+    "name": "In Summer",
+    "truename": 1,
+    "artists": "Kristen Anderson-Lopez, Robert Lopez",
+    "altnames": "",
+    "sources": "Other",
+    "order": 277,
+    "link": "https://www.youtube.com/watch?v=UfEm49olvaQ",
     "cp": {
-        "Order": 277,
-        "Earliest Date": "2014/08/21",
-        "Related To": "Frozen Party",
+        "order": 277,
         "uses": [
             {
                 "date": "2014/08/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Kristen Anderson-Lopez, Robert Lopez",
-    "Alternate Names": ""
+    }
 }

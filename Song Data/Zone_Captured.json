@@ -1,15 +1,13 @@
 {
-    "Name": "Zone Captured",
-    "Name_official": 0,
-    "HQ Source(s)": "Game Day",
-    "Order": 154.3,
-    "Link": "",
-    "Earliest Date": "2010/09/17",
-    "Medias": "Club Penguin: Game Day!",
+    "name": "Zone Captured",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 154.3,
+    "link": "",
     "gd": {
-        "Order": 23,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Zone Captured",
+        "order": 23,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

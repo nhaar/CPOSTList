@@ -1,15 +1,12 @@
 {
-	"Name": "Scorn Awakened",
-	"Name_official": 1,
-	"Composers" : "?",
-	"HQ Source(s)": "SC Other",
-	"Source Links": "https://soundcloud.com/davidfairfield/scorn-awakened",
-	"Order": 1100,
-	"Link": "",
-	"Earliest Date": "?",
-	"cpi": { 
-		"Order": 1100, 
-		"Earliest Date": "?",
-		"Related To": "?"
-	}
+    "name": "Scorn Awakened",
+    "truename": 1,
+    "artists": "?",
+    "sources": "SC Other",
+    "sourcelinks": "https://soundcloud.com/davidfairfield/scorn-awakened",
+    "order": 1100,
+    "link": "",
+    "cpi": {
+        "order": 1100
+    }
 }

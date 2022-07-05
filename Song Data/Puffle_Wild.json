@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Wild",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 324,
-    "Link": "",
-    "Earliest Date": "2015/03/25",
-    "Medias": "Club Penguin",
+    "name": "Puffle Wild",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 324,
+    "link": "",
     "cp": {
-        "Order": 324,
-        "Earliest Date": "2015/03/25",
-        "Related To": "Puffle Wild",
+        "order": 324,
         "uses": [
             {
                 "date": "2015/03/25",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Wild",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

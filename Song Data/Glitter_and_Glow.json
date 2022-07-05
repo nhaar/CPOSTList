@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Glitter and Glow",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 317,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/02/19",
-        "Order": 317,
-        "Related To": "SoundStudio Party, Music Jam",
+        "order": 317,
         "uses": [
             {
                 "date": "2015/02/19",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2015/02/19",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Glitter and Glow",
-    "Name_official": 1,
-    "Order": 317
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

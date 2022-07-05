@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Ye Knight's Quest 2",
+    "name": "Dragon Ahead",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "Ye Knight's Quest 2",
+    "sources": "SWF 287",
+    "order": 130,
+    "link": "https://youtu.be/KwLXuQ4abnw",
     "cp": {
-        "Earliest Date": "2010/05/07",
-        "Order": 130,
-        "Related To": "Medieval Party",
+        "order": 130,
         "uses": [
             {
                 "date": "2010/05/07",
@@ -12,13 +16,5 @@
                 "use": "Medieval Party 2010"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2010/05/07",
-    "HQ Source(s)": "SWF 287",
-    "Link": "https://youtu.be/KwLXuQ4abnw",
-    "Medias": "Club Penguin",
-    "Name": "Dragon Ahead",
-    "Name_official": 0,
-    "Order": 130
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Making Today a Perfect Day",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 334,
-    "Link": "https://www.youtube.com/watch?v=kyUzERsA2Eo",
-    "Earliest Date": "2015/04/22",
-    "Medias": "Club Penguin",
+    "name": "Making Today a Perfect Day",
+    "truename": 1,
+    "artists": "Kristen Anderson-Lopez, Robert Lopez",
+    "altnames": "",
+    "sources": "Other",
+    "order": 334,
+    "link": "https://www.youtube.com/watch?v=kyUzERsA2Eo",
     "cp": {
-        "Order": 334,
-        "Earliest Date": "2015/04/22",
-        "Related To": "Frozen Fever Party",
+        "order": 334,
         "uses": [
             {
                 "date": "2015/04/22",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Kristen Anderson-Lopez, Robert Lopez",
-    "Alternate Names": ""
+    }
 }

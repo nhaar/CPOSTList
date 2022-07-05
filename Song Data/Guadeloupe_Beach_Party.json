@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Guadeloupe Beach Party",
+    "truename": 1,
+    "artists": "Slim Pezinj",
+    "altnames": "",
+    "sources": "Other",
+    "order": 16,
+    "link": "https://www.youtube.com/watch?v=RtInHTTFcaM",
     "cp": {
-        "Earliest Date": "2006/06/16",
-        "Order": 16,
-        "Related To": "Summer Party, Anniversary Party 2015",
+        "order": 16,
         "uses": [
             {
                 "date": "?",
@@ -32,18 +23,15 @@
             }
         ]
     },
-    "Composers": "Slim Pezinj",
-    "Earliest Date": "2006/06/16",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=RtInHTTFcaM",
-    "Medias": "Club Penguin",
-    "Name": "Guadeloupe Beach Party",
-    "Name_official": 1,
-    "Order": 16,
-    "stock": {
-        "info": {
-            "link": "https://bmgmusic.sourceaudio.com/#!explorer?s=Guadeloupe%20Beach%20Party",
-            "origin": "BMG Production Music"
-        }
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
     }
 }

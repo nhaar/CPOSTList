@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
+    "name": "French Avenue",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "SoundCloud + App",
+    "order": 243,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/03/20",
-        "Order": 243,
-        "Related To": "Muppet's World Tour, Puffle Party",
+        "order": 243,
         "uses": [
             {
                 "date": "2014/03/20",
@@ -38,10 +23,25 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Summer Splash 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,13 +50,5 @@
                 "use": "Summer Splash 2018"
             }
         ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2014/03/20",
-    "HQ Source(s)": "SoundCloud + App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "French Avenue",
-    "Name_official": 1,
-    "Order": 243
+    }
 }

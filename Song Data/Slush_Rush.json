@@ -1,22 +1,19 @@
 {
-	"Name": "Slush Rush",
-	"Name_official": 1,
-	"Composers": "?",
-	"HQ Source(s)": "CPI SoundCloud",
-	"Order": 1100,
-	"Link": "",
-	"Earliest Date": "?",
-	"cpi": {
-		"Order": 1100,
-		"Earliest Date": "?",
-		"Related To": "?",
-		"uses": [
-			{
-				"date": "?",
-				"use": "?",
-				"files": "",
-				"info": ""
-			}
-		]
-	}
+    "name": "Slush Rush",
+    "truename": 1,
+    "artists": "?",
+    "sources": "CPI SoundCloud",
+    "order": 1100,
+    "link": "",
+    "cpi": {
+        "order": 1100,
+        "uses": [
+            {
+                "date": "?",
+                "use": "?",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }

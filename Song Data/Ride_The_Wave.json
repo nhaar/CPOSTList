@@ -1,15 +1,13 @@
 {
-    "Name": "Ride The Wave",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 214,
-    "Link": "",
-    "Earliest Date": "2013/08/22",
-    "Medias": "Club Penguin",
+    "name": "Ride The Wave",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 214,
+    "link": "",
     "cp": {
-        "Order": 214,
-        "Earliest Date": "2013/08/22",
-        "Related To": "Teen Beach Movie Summer Jam",
+        "order": 214,
         "uses": [
             {
                 "date": "2013/08/22",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

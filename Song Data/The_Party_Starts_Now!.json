@@ -1,15 +1,13 @@
 {
-    "Name": "The Party Starts Now!",
-    "Name_official": 1,
-    "HQ Source(s)": "Other + Media Server",
-    "Order": 173,
-    "Link": "",
-    "Earliest Date": "2012/07/19",
-    "Medias": "Club Penguin",
+    "name": "The Party Starts Now!",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "Ultimate Jam, Party Starts Now",
+    "sources": "Other + Media Server",
+    "order": 173,
+    "link": "",
     "cp": {
-        "Order": 173,
-        "Earliest Date": "2012/07/19",
-        "Related To": "Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016",
+        "order": 173,
         "uses": [
             {
                 "date": "2012/07/19",
@@ -38,9 +36,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Alternate Names": "Ultimate Jam, Party Starts Now"
+    }
 }

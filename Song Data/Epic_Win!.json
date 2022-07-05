@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Rave Wave, Penguin Games 2",
+    "name": "Epic Win!",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Rave Wave, Penguin Games 2",
+    "sources": "SoundCloud + Game Day",
+    "order": 77,
+    "link": "https://www.youtube.com/watch?v=IlkNXQ7mHSQ",
     "cp": {
-        "Earliest Date": "2008/08/22",
-        "Order": 77,
-        "Related To": "Penguin Games, Dance-A-Thon, Music Jam, Dance Contest, Puffle Party",
+        "order": 77,
         "uses": [
             {
                 "date": "2008/08/22",
@@ -37,12 +41,8 @@
             }
         ]
     },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/08/22",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 35,
-        "Related To": "Red Ski Village Challenge",
+        "order": 35,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -51,11 +51,5 @@
                 "use": "Red Ski Village Challenge"
             }
         ]
-    },
-    "HQ Source(s)": "SoundCloud + Game Day",
-    "Link": "https://www.youtube.com/watch?v=IlkNXQ7mHSQ",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Epic Win!",
-    "Name_official": 1,
-    "Order": 77
+    }
 }

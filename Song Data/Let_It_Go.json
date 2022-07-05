@@ -1,15 +1,13 @@
 {
-    "Name": "Let It Go",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 278,
-    "Link": "https://www.youtube.com/watch?v=KmXKiJu_Q_g",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
+    "name": "Let It Go",
+    "truename": 1,
+    "artists": "Kristen Anderson-Lopez, Robert Lopez",
+    "altnames": "",
+    "sources": "Other",
+    "order": 278,
+    "link": "https://www.youtube.com/watch?v=KmXKiJu_Q_g",
     "cp": {
-        "Order": 278,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 278,
         "uses": [
             {
                 "date": "?",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Frozen Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Kristen Anderson-Lopez, Robert Lopez",
-    "Alternate Names": ""
+    }
 }

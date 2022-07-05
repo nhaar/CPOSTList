@@ -1,33 +1,11 @@
 {
-    "Alternate Names": "Night Club Rooftop",
-    "cp": {
-        "Earliest Date": "2011/06/16",
-        "Order": 159,
-        "Related To": "Music Jam",
-        "files": [
-            {
-                "info": "Party SWF from Music Jam 2011.",
-                "name": "party2.swf"
-            }
-        ],
-        "uses": [
-            {
-                "date": "2011/Jun/16",
-                "files": "party2.swf",
-                "info": "The song was interactive, and played depending on the penguins dancing on each pad. Each pad played one of the parts (A, B, C and D), and the number of penguins would progress to the next part (for a max of 3 penguins).",
-                "use": "Music Jam 2011"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/06/16",
-    "HQ Source(s)": "Other + SWF Night Club Rooftop",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Rooftop Beatz",
-    "Name_official": 0,
-    "Order": 159,
-    "notes": "The song is composed of 4 parts, A, B, C, D, which are further divided in 3 parts each, for example, A1, A2 and A3, summing to a total of 12. Althought there were 12 different stems, the different parts weren't a stem. Parts ending in 1 have one solo stem, parts in 2 have the solo stem from 1 and an extra stem, and so on. The parts can be divided as:\n- A: Percussion, disk scratch, brass\n- Bass, organ, keyboard\n- Percussion, brass, higher brass\n- Three percussion tracks",
+    "name": "Rooftop Beatz",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Night Club Rooftop",
+    "sources": "Other + SWF Night Club Rooftop",
+    "order": 159,
+    "link": "",
     "versions": [
         {
             "info": "Highest quality version of A1.",
@@ -79,5 +57,22 @@
             "name": "Rooftop Beatz... With A Zed 2, D3, Mix (24).wav",
             "source": ""
         }
-    ]
+    ],
+    "cp": {
+        "order": 159,
+        "files": [
+            {
+                "info": "Party SWF from Music Jam 2011.",
+                "name": "party2.swf"
+            }
+        ],
+        "uses": [
+            {
+                "date": "2011/Jun/16",
+                "files": "party2.swf",
+                "info": "The song was interactive, and played depending on the penguins dancing on each pad. Each pad played one of the parts (A, B, C and D), and the number of penguins would progress to the next part (for a max of 3 penguins).",
+                "use": "Music Jam 2011"
+            }
+        ]
+    }
 }

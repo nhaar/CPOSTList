@@ -1,15 +1,13 @@
 {
-    "Name": "Treetop Treasures",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 293,
-    "Link": "",
-    "Earliest Date": "2014/11/20",
-    "Medias": "Club Penguin",
+    "name": "Treetop Treasures",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 293,
+    "link": "",
     "cp": {
-        "Order": 293,
-        "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party, Fashion Festival, Anniversary Party",
+        "order": 293,
         "uses": [
             {
                 "date": "2014/11/20",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "We Are The Elite",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 227,
-    "Link": "",
-    "Earliest Date": "2013/11/21",
-    "Medias": "Club Penguin",
+    "name": "We Are The Elite",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 227,
+    "link": "",
     "cp": {
-        "Order": 227,
-        "Earliest Date": "2013/11/21",
-        "Related To": "Operation: Puffle",
+        "order": 227,
         "uses": [
             {
                 "date": "2013/11/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

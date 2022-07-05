@@ -1,17 +1,13 @@
 {
-    "Alternate Names": "",
-    "Composers": "TAS 1000",
-    "Earliest Date": "?",
-    "HQ Source(s)": "A Message For Marta CD",
-    "Link": "https://www.youtube.com/watch?v=YiKbF2GPpmI",
-    "Medias": "Penguin Chat 3",
-    "Name": "Before You Leave",
-    "Name_official": 1,
-    "Order": 0.3,
+    "name": "Before You Leave",
+    "truename": 1,
+    "artists": "TAS 1000",
+    "altnames": "",
+    "sources": "A Message For Marta CD",
+    "order": 0.3,
+    "link": "https://www.youtube.com/watch?v=YiKbF2GPpmI",
     "pc": {
-        "Earliest Date": "?",
-        "Order": 6,
-        "Related To": "Night Club (Penguin Chat 3)",
+        "order": 6,
         "uses": [
             {
                 "date": "?",

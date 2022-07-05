@@ -1,14 +1,11 @@
 {
-    "Name": "Jungle Snake",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 137.5,
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "Jungle Snake",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Other",
+    "order": 137.5,
     "cpu": {
-        "Order": 0.45,
-        "Earliest Date": "?",
-        "Related To": "Island Adventure Party",
+        "order": 0.45,
         "uses": [
             {
                 "date": "?",
@@ -17,6 +14,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

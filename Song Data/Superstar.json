@@ -1,15 +1,13 @@
 {
-    "Name": "Superstar",
-    "Name_official": 1,
-    "HQ Source(s)": "App + SoundCloud (NL)",
-    "Order": 167,
-    "Link": "",
-    "Earliest Date": "2012/02/01",
-    "Medias": "Club Penguin",
+    "name": "Superstar",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Fashion Show",
+    "sources": "App + SoundCloud (NL)",
+    "order": 167,
+    "link": "",
     "cp": {
-        "Order": 167,
-        "Earliest Date": "2012/02/01",
-        "Related To": "Fashion Show, Clothes Shop, Make Your Mark: Ultimate Jam",
+        "order": 167,
         "uses": [
             {
                 "date": "2012/02/01",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Gift Shop",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "Fashion Show"
+    }
 }

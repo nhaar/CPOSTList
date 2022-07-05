@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Forest Frogs",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF Forest Earth Day 2011",
+    "order": 154,
+    "link": "",
     "cp": {
-        "Earliest Date": "2011/04/21",
-        "Order": 154,
-        "Related To": "?",
+        "order": 154,
         "uses": [
             {
                 "date": "2011/04/21",
@@ -12,13 +16,5 @@
                 "use": "Earth Day 2011"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2011/04/21",
-    "HQ Source(s)": "SWF Forest Earth Day 2011",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Forest Frogs",
-    "Name_official": 0,
-    "Order": 154
+    }
 }

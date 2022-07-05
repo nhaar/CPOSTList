@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Cruisin' For A Bruisin'",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Other",
+    "order": 217,
+    "link": "https://www.youtube.com/watch?v=4u-kDVbhBzs",
     "cp": {
-        "Earliest Date": "2013/08/22",
-        "Order": 217,
-        "Related To": "Teen Beach Movie Summer Jam",
+        "order": 217,
         "uses": [
             {
                 "date": "2013/08/22",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2013/08/22",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=4u-kDVbhBzs",
-    "Medias": "Club Penguin",
-    "Name": "Cruisin' For A Bruisin'",
-    "Name_official": 1,
-    "Order": 217
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

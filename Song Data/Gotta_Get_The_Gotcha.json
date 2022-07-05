@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Gotta Get The Gotcha",
+    "truename": 1,
+    "artists": "Dan Petty",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=sv2e3W2ebPc",
+    "order": 348,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/10/21",
-        "Order": 348,
-        "Related To": "Halloween Party",
+        "order": 348,
         "uses": [
             {
                 "date": "2015/10/21",
@@ -26,13 +18,15 @@
             }
         ]
     },
-    "Composers": "Dan Petty",
-    "Earliest Date": "2015/10/21",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Gotta Get The Gotcha",
-    "Name_official": 1,
-    "Order": 348,
-    "Source Links": "https://www.youtube.com/watch?v=sv2e3W2ebPc"
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

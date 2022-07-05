@@ -1,15 +1,13 @@
 {
-    "Name": "Ocean Voyage",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 32,
-    "Link": "https://www.youtube.com/watch?v=VgUvLEwmwYo",
-    "Earliest Date": "2007/04/27",
-    "Medias": "Club Penguin",
+    "name": "Ocean Voyage",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Water Jig",
+    "sources": "App",
+    "order": 32,
+    "link": "https://www.youtube.com/watch?v=VgUvLEwmwYo",
     "cp": {
-        "Order": 30.01,
-        "Earliest Date": "2007/04/27",
-        "Related To": "Pirate Party, Rockhopper's Arrival Party",
+        "order": 30.01,
         "uses": [
             {
                 "date": "2007/04/27",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Water Jig"
+    }
 }

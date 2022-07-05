@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Dubstep Puffle",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "Other",
+    "order": 175,
+    "link": "",
     "cp": {
-        "Earliest Date": "2012/07/19",
-        "Order": 175,
-        "Related To": "Make Your Mark: Ultimate Jam, SoundStudio Party, Music Jam",
+        "order": 175,
         "uses": [
             {
                 "date": "2012/07/19",
@@ -38,12 +29,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2012/07/19",
-    "HQ Source(s)": "Other",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Dubstep Puffle",
-    "Name_official": 1,
-    "Order": 175
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

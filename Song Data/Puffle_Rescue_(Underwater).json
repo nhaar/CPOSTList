@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Rescue: Underwater",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 126,
-    "Link": "https://youtu.be/wPNIASd5udk",
-    "Earliest Date": "2010/03/15",
-    "Medias": "Club Penguin",
+    "name": "Puffle Rescue: Underwater",
+    "truename": 0,
+    "artists": "Rory O'Neill",
+    "altnames": "",
+    "sources": "App",
+    "order": 126,
+    "link": "https://youtu.be/wPNIASd5udk",
     "cp": {
-        "Order": 126,
-        "Earliest Date": "2010/03/15",
-        "Related To": "Puffle Rescue",
+        "order": 126,
         "uses": [
             {
                 "date": "2010/03/15",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Puffle Rescue",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Rory O'Neill",
-    "Alternate Names": ""
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Welcome to Hollywood",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Order": 185,
-    "Link": "",
-    "Earliest Date": "2013/02/14",
-    "Medias": "Club Penguin",
+    "name": "Welcome to Hollywood",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Hollywood Theme",
+    "sources": "SoundCloud (NL)",
+    "order": 185,
+    "link": "",
     "cp": {
-        "Order": 185,
-        "Earliest Date": "2013/02/14",
-        "Related To": "Hollywood Party, The Fair",
+        "order": 185,
         "uses": [
             {
                 "date": "2013/02/14",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "Hollywood Theme"
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Ghosts Just Wanna Dance",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "",
+    "sources": "Other + App",
+    "order": 223,
+    "link": "",
     "cp": {
-        "Earliest Date": "2013/10/17",
-        "Order": 223,
-        "Related To": "Halloween Party, Penguin Prom",
+        "order": 223,
         "uses": [
             {
                 "date": "2013/10/17",
@@ -32,10 +23,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,13 +44,5 @@
                 "use": "Halloween Party 2018"
             }
         ]
-    },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Earliest Date": "2013/10/17",
-    "HQ Source(s)": "Other + App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Ghosts Just Wanna Dance",
-    "Name_official": 1,
-    "Order": 223
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Rollerscape Faster",
-    "Name_official": 0,
-    "HQ Source(s)": "Other",
-    "Order": 163.3,
-    "Link": "",
-    "Earliest Date": "2011/11/03",
-    "Medias": "Club Penguin",
+    "name": "Rollerscape Faster",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Other",
+    "order": 163.3,
+    "link": "",
     "cp": {
-        "Order": 163.3,
-        "Earliest Date": "2011/11/03",
-        "Related To": "Pufflescape",
+        "order": 163.3,
         "uses": [
             {
                 "date": "2011/11/03",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

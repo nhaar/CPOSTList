@@ -1,15 +1,13 @@
 {
-    "Name": "School Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "App + SoundCloud (NL)",
-    "Order": 198,
-    "Link": "",
-    "Earliest Date": "2013/07/11",
-    "Medias": "Club Penguin",
+    "name": "School Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App + SoundCloud (NL)",
+    "order": 198,
+    "link": "",
     "cp": {
-        "Order": 198,
-        "Earliest Date": "2013/07/11",
-        "Related To": "School",
+        "order": 198,
         "uses": [
             {
                 "date": "2013/07/11",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "School Party, School",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

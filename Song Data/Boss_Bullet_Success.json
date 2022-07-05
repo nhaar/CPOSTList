@@ -1,9 +1,14 @@
 {
-    "Alternate Names": "",
+    "name": "Boss Bullet Success",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=390",
+    "order": 151,
+    "link": "https://youtu.be/zCc0K_FXMYM",
     "cp": {
-        "Earliest Date": "2011/03/24",
-        "Order": 151,
-        "Related To": "Puffle Launch",
+        "order": 151,
         "uses": [
             {
                 "date": "2011/03/24",
@@ -12,14 +17,5 @@
                 "use": "Puffle Launch"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/03/14",
-    "HQ Source(s)": "Youtube",
-    "Link": "https://youtu.be/zCc0K_FXMYM",
-    "Medias": "Club Penguin",
-    "Name": "Boss Bullet Success",
-    "Name_official": 1,
-    "Order": 151,
-    "Source Links": "https://youtu.be/R8so7BYd9ZI?t=390"
+    }
 }

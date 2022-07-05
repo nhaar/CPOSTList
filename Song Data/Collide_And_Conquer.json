@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Collide And Conquer",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud (NL)",
+    "order": 192,
+    "link": "",
     "cp": {
-        "Earliest Date": "2013/04/25",
-        "Order": 192,
-        "Related To": "Marvel Super Hero Takeover",
+        "order": 192,
         "uses": [
             {
                 "date": "2013/04/25",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2013/04/25",
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Collide And Conquer",
-    "Name_official": 1,
-    "Order": 192
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

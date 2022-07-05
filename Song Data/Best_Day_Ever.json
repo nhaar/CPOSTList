@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Best Day Ever",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud + App",
+    "order": 274,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/07/17",
-        "Order": 274,
-        "Related To": "Music Jam, SoundStudio Party",
+        "order": 274,
         "uses": [
             {
                 "date": "2014/07/17",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2014/07/17",
-    "HQ Source(s)": "SoundCloud + App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Best Day Ever",
-    "Name_official": 1,
-    "Order": 274
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

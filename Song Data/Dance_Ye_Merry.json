@@ -1,9 +1,14 @@
 {
-    "Alternate Names": "St. Patrick's Day Theme",
+    "name": "Dance Ye Merry",
+    "truename": 1,
+    "artists": "Milo Deering",
+    "altnames": "St. Patrick's Day Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/RpjBUgLs614",
+    "order": 30,
+    "link": "https://www.youtube.com/watch?v=cMPpQxW6l2k",
     "cp": {
-        "Earliest Date": "2007/03/17",
-        "Order": 30.001,
-        "Related To": "St. Patrick's Day, April Fools Party",
+        "order": 30.001,
         "uses": [
             {
                 "date": "2007/03/17",
@@ -17,29 +22,6 @@
                 "info": "",
                 "use": "April Fools (??)"
             }
-        ]
-    },
-    "Composers": "Milo Deering",
-    "Earliest Date": "2007/03/17",
-    "HQ Source(s)": "Youtube",
-    "Link": "https://www.youtube.com/watch?v=cMPpQxW6l2k",
-    "Medias": "Club Penguin",
-    "Name": "Dance Ye Merry",
-    "Name_official": 1,
-    "Order": 30,
-    "Source Links": "https://youtu.be/RpjBUgLs614",
-    "stock": {
-        "info": {
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2808/dance-ye-merry-lynnemusic",
-            "origin": "NEO Sounds"
-        },
-        "sale": [
-            "Full Track",
-            "60sec",
-            "30sec",
-            "Loop A",
-            "Loop B",
-            "Loop C"
         ]
     }
 }

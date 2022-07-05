@@ -1,15 +1,13 @@
 {
-    "Name": "Mr Ray",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 367,
-    "Link": "",
-    "Earliest Date": "2016/07/06",
-    "Medias": "Club Penguin",
+    "name": "Mr Ray",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 367,
+    "link": "",
     "cp": {
-        "Order": 367,
-        "Earliest Date": "2016/07/06",
-        "Related To": "Finding Dory Party",
+        "order": 367,
         "uses": [
             {
                 "date": "2016/07/06",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Finding Dory Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

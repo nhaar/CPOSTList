@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Hello Yellow!",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 263,
+    "link": "",
+    "cp": {
+        "order": 263,
+        "uses": [
+            {
+                "date": "2014/06/19",
+                "files": "",
+                "info": "",
+                "use": "Penguin Cup"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Fashion Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Fashion Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2014/06/19",
-        "Order": 263,
-        "Related To": "Penguin Cup",
-        "uses": [
-            {
-                "date": "2014/06/19",
-                "files": "",
-                "info": "",
-                "use": "Penguin Cup"
-            }
-        ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/06/19",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Hello Yellow!",
-    "Name_official": 1,
-    "Order": 263
+    }
 }

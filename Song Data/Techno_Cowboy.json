@@ -1,15 +1,13 @@
 {
-    "Name": "Techno Cowboy",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 22,
-    "Link": "https://www.youtube.com/watch?v=lkfFe36Jzy4",
-    "Earliest Date": "2006/12/08",
-    "Medias": "Club Penguin",
+    "name": "Techno Cowboy",
+    "truename": 1,
+    "artists": "Marc Pattison",
+    "altnames": "Hard Rock",
+    "sources": "Other",
+    "order": 22,
+    "link": "https://www.youtube.com/watch?v=lkfFe36Jzy4",
     "cp": {
-        "Order": 22,
-        "Earliest Date": "2006/12/08",
-        "Related To": "Igloo",
+        "order": 22,
         "uses": [
             {
                 "date": "2006/12/08",
@@ -18,8 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Marc Pattison",
-    "Alternate Names": "Hard Rock",
-    "notes": "This song is available for download in [Deezer](https://www.deezer.com/en/track/114801216)\nCanonically, this song is played and performed by the Penguin Band."
+    }
 }

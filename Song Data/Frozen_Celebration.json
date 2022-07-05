@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Frozen Celebration",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 373,
+    "link": "",
+    "cp": {
+        "order": 373,
+        "uses": [
+            {
+                "date": "2016/08/17",
+                "files": "",
+                "info": "",
+                "use": "Frozen Fever Party"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Frozen Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Frozen Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2016/08/17",
-        "Order": 373,
-        "Related To": "Frozen Fever Party",
-        "uses": [
-            {
-                "date": "2016/08/17",
-                "files": "",
-                "info": "",
-                "use": "Frozen Fever Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2016/08/17",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Frozen Celebration",
-    "Name_official": 1,
-    "Order": 373
+    }
 }

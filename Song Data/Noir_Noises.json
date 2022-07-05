@@ -1,15 +1,13 @@
 {
-    "Name": "Noir Noises",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 79,
-    "Link": "https://youtu.be/aahXSYOwIGQ",
-    "Earliest Date": "2008/09/12",
-    "Medias": "Club Penguin",
+    "name": "Noir Noises",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Ruby's Theme, Ruby and The Ruby",
+    "sources": "App",
+    "order": 79,
+    "link": "https://youtu.be/aahXSYOwIGQ",
     "cp": {
-        "Order": 79,
-        "Earliest Date": "2008/09/12",
-        "Related To": "Ruby and the Ruby, Operation: Tri-umph",
+        "order": 79,
         "uses": [
             {
                 "date": "2008/09/12",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Tri-umph",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -45,9 +41,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "?",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -56,7 +50,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Ruby's Theme, Ruby and The Ruby"
+    }
 }

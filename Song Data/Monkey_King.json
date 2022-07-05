@@ -1,16 +1,14 @@
 {
-    "Name": "Monkey King",
-    "Name_official": 1,
-    "HQ Source(s)": "Screenhog's Website",
-    "Source Links": "http://www.screenhog.com/music",
-    "Order": 123,
-    "Link": "https://youtu.be/ytZI_o8UZyE",
-    "Earliest Date": "2010/02/12",
-    "Medias": "Club Penguin",
+    "name": "Monkey King",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Bamboo Forest",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 123,
+    "link": "https://youtu.be/ytZI_o8UZyE",
     "cp": {
-        "Order": 123,
-        "Earliest Date": "2010/02/12",
-        "Related To": "Secrets of The Bamboo Forest",
+        "order": 123,
         "uses": [
             {
                 "date": "2010/02/12",
@@ -19,7 +17,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "The Bamboo Forest"
+    }
 }

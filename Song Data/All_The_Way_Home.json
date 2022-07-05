@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Zootopia Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Zootopia Party"
-            }
-        ]
-    },
+    "name": "All The Way Home",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 115,
+    "link": "https://youtu.be/w0D_nBnPQFM",
     "cp": {
-        "Earliest Date": "2009/10/27",
-        "Order": 115,
-        "Related To": "Halloween Party, Mustache Madness, Zootopia Party",
+        "order": 115,
         "uses": [
             {
                 "date": "2009/10/27",
@@ -44,25 +29,8 @@
             }
         ]
     },
-    "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Mount Blizzard",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Mount Blizzard"
-            }
-        ]
-    },
-    "Composers": "Michael Campitelli",
-    "Earliest Date": "2009/10/27",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 36,
-        "Related To": "Blue Skii Village Challenge",
+        "order": 36,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -72,10 +40,32 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://youtu.be/w0D_nBnPQFM",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "All The Way Home",
-    "Name_official": 1,
-    "Order": 115
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Mount Blizzard"
+            }
+        ]
+    }
 }

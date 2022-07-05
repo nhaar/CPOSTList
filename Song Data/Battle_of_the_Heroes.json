@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Battle of the Heroes",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Other",
+    "order": 203,
+    "link": "https://www.youtube.com/watch?v=FHuD5y-PZM0",
     "cp": {
-        "Earliest Date": "2013/07/25",
-        "Order": 203,
-        "Related To": "Star Wars Takeover",
+        "order": 203,
         "uses": [
             {
                 "date": "2013/07/25",
@@ -12,13 +16,5 @@
                 "use": "Star Wars Takeover"
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Earliest Date": "2013/07/25",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=FHuD5y-PZM0",
-    "Medias": "Club Penguin",
-    "Name": "Battle of the Heroes",
-    "Name_official": 1,
-    "Order": 203
+    }
 }

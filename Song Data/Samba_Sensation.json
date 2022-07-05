@@ -1,15 +1,13 @@
 {
-    "Name": "Samba Sensation",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 246,
-    "Link": "",
-    "Earliest Date": "2014/03/20",
-    "Medias": "Club Penguin",
+    "name": "Samba Sensation",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 246,
+    "link": "",
     "cp": {
-        "Order": 246,
-        "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour",
+        "order": 246,
         "uses": [
             {
                 "date": "2014/03/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Gonna Be Epic!",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Website + CPI SoundCloud",
+    "sourcelinks": "https://web.archive.org/web/20151007195940/http:/www.clubpenguin.com/download/audio/ClubPenguin_GonnaBeEpic.mp3",
+    "order": 347,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/09/30",
-        "Order": 347,
-        "Related To": "10th Anniversary Party, Music Jam",
+        "order": 347,
         "uses": [
             {
                 "date": "2015/09/30",
@@ -32,10 +24,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rookie Quest",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,14 +45,5 @@
                 "use": "Rookie Quest"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/09/30",
-    "HQ Source(s)": "Club Penguin Website + CPI SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Gonna Be Epic!",
-    "Name_official": 1,
-    "Order": 347,
-    "Source Links": "https://web.archive.org/web/20151007195940/http:/www.clubpenguin.com/download/audio/ClubPenguin_GonnaBeEpic.mp3"
+    }
 }

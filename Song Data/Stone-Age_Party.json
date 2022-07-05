@@ -1,15 +1,13 @@
 {
-    "Name": "Stone-Age Party",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 231,
-    "Link": "",
-    "Earliest Date": "2014/01/23",
-    "Medias": "Club Penguin",
+    "name": "Stone-Age Party",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 231,
+    "link": "",
     "cp": {
-        "Order": 231,
-        "Earliest Date": "2014/01/23",
-        "Related To": "Prehistoric Party, The Fair, Fashion Festival, Anniversary Party, Music Jam",
+        "order": 231,
         "uses": [
             {
                 "date": "2014/01/23",
@@ -44,9 +42,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Prehistoric Party, Cove",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -63,9 +59,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Credits",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -74,7 +68,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

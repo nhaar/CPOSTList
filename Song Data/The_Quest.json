@@ -1,15 +1,13 @@
 {
-    "Name": "The Quest",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 100,
-    "Link": "https://www.youtube.com/watch?v=rlw8HofVLJo",
-    "Earliest Date": "2009/05/08",
-    "Medias": "Club Penguin",
+    "name": "The Quest",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Ye Knight's Quest Theme",
+    "sources": "App",
+    "order": 100,
+    "link": "https://www.youtube.com/watch?v=rlw8HofVLJo",
     "cp": {
-        "Order": 100,
-        "Earliest Date": "2009/05/08",
-        "Related To": "Medieval Party",
+        "order": 100,
         "uses": [
             {
                 "date": "2009/05/08",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Ye Knight's Quest Theme"
+    }
 }

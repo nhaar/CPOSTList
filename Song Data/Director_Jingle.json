@@ -1,8 +1,12 @@
 {
+    "name": "Director Jingle",
+    "truename": 0,
+    "artists": "?",
+    "sources": "SWF Director Closeup",
+    "order": 190.5,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 190.5,
-        "Related To": "Operation: Hot Sauce",
+        "order": 190.5,
         "uses": [
             {
                 "date": "?",
@@ -11,13 +15,5 @@
                 "use": "Operation: Hot Sauce"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "SWF Director Closeup",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Director Jingle",
-    "Name_official": 0,
-    "Order": 190.5
+    }
 }

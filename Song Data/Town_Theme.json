@@ -1,15 +1,13 @@
 {
-    "Name": "Town Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 581 + Other",
-    "Order": 232,
-    "Link": "",
-    "Earliest Date": "2014/02/13",
-    "Medias": "Club Penguin",
+    "name": "Town Theme",
+    "truename": 0,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SWF 581 + Other",
+    "order": 232,
+    "link": "",
     "cp": {
-        "Order": 232,
-        "Earliest Date": "2014/02/13",
-        "Related To": "Town",
+        "order": 232,
         "uses": [
             {
                 "date": "2014/02/13",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

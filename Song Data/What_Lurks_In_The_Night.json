@@ -1,16 +1,14 @@
 {
-    "Name": "What Lurks In The Night",
-    "Name_official": 1,
-    "HQ Source(s)": "Norrie Henderson Portfolio",
-    "Source Links": "https://www.norriehenderson.com/portfolio",
-    "Order": 222,
-    "Link": "",
-    "Earliest Date": "2013/10/17",
-    "Medias": "Club Penguin",
+    "name": "What Lurks In The Night",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "What Lurks at Night",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 222,
+    "link": "",
     "cp": {
-        "Order": 222,
-        "Earliest Date": "2013/10/17",
-        "Related To": "Halloween Party",
+        "order": 222,
         "uses": [
             {
                 "date": "2013/10/17",
@@ -21,9 +19,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -34,9 +30,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -45,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "What Lurks at Night"
+    }
 }

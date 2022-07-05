@@ -1,14 +1,61 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
+    "name": "Honolulu Honey",
+    "truename": 1,
+    "artists": "Jeremy Sherman",
+    "altnames": "",
+    "sources": "Other + App + Sample",
+    "sourcelinks": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
+    "order": 10,
+    "link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
+    "versions": [
+        {
+            "info": "Full track.",
+            "name": "09 - Honolulu Honey.flac",
+            "source": "Other"
+        },
+        {
+            "info": "Highest quality available for the edit used in Club Penguin.",
+            "name": "MUS_11_Igloo_HonoluluHoney.mp3",
+            "source": "App"
+        },
+        {
+            "info": "Variation A.",
+            "name": "9586.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Variation B.",
+            "name": "9587.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "60sec version.",
+            "name": "9588.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "30sec version.",
+            "name": "9589.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop A.",
+            "name": "9590.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop B.",
+            "name": "9591.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop C.",
+            "name": "9592.mp3",
+            "source": "Sample"
+        }
+    ],
     "cp": {
-        "Earliest Date": "2006/01/27",
-        "Order": 10,
-        "Related To": "Winter Luau, April Fools Party 2011, April Fools Party 2012, Operation: Blackout, Teen Beach Movie Summer Jam, Music Jam 2014, Finding Dory Party",
+        "order": 10,
         "files": [
             {
                 "info": "This consists of Loop A, followed by Loop C played twice, then Loop A and finally Loop C again.",
@@ -60,76 +107,7 @@
             }
         ]
     },
-    "Composers": "Jeremy Sherman",
-    "Earliest Date": "2006/01/27",
-    "HQ Source(s)": "Other + App + Sample",
-    "Link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
-    "Medias": "Club Penguin",
-    "Name": "Honolulu Honey",
-    "Name_official": 1,
-    "Order": 10,
-    "Source Links": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
-    "stock": {
-        "info": {
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
-            "origin": "NEO Sounds"
-        },
-        "sale": [
-            "Full Track",
-            "Variation A",
-            "Variation B",
-            "60sec",
-            "30sec",
-            "Loop A",
-            "Loop B",
-            "Loop C"
-        ]
-    },
-    "versions": [
-        {
-            "info": "Full track.",
-            "name": "09 - Honolulu Honey.flac",
-            "source": "Other"
-        },
-        {
-            "info": "Highest quality available for the edit used in Club Penguin.",
-            "name": "MUS_11_Igloo_HonoluluHoney.mp3",
-            "source": "App"
-        },
-        {
-            "info": "Variation A.",
-            "name": "9586.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "Variation B.",
-            "name": "9587.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "60sec version.",
-            "name": "9588.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "30sec version.",
-            "name": "9589.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "Loop A.",
-            "name": "9590.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "Loop B.",
-            "name": "9591.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "Loop C.",
-            "name": "9592.mp3",
-            "source": "Sample"
-        }
-    ]
+    "app": {
+        "order": 1
+    }
 }

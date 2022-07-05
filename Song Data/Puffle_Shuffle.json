@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Shuffle",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 296,
-    "Link": "",
-    "Earliest Date": "2014/12/18",
-    "Medias": "Club Penguin",
+    "name": "Puffle Shuffle",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 296,
+    "link": "",
     "cp": {
-        "Order": 296,
-        "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party, Music Jam 2016",
+        "order": 296,
         "uses": [
             {
                 "date": "2014/12/18",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Alternate Names": ""
+    }
 }

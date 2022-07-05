@@ -1,15 +1,13 @@
 {
-    "Name": "The Desert and the Robot Auction",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 201,
-    "Link": "https://www.youtube.com/watch?v=vC_mMRgesA8",
-    "Earliest Date": "2013/07/25",
-    "Medias": "Club Penguin",
+    "name": "The Desert and the Robot Auction",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Other",
+    "order": 201,
+    "link": "https://www.youtube.com/watch?v=vC_mMRgesA8",
     "cp": {
-        "Order": 201,
-        "Earliest Date": "2013/07/25",
-        "Related To": "Star Wars Takeover",
+        "order": 201,
         "uses": [
             {
                 "date": "2013/07/26",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Alternate Names": ""
+    }
 }

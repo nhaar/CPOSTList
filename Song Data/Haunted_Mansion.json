@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Haunted Mansion",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Island",
+    "order": 162,
+    "link": "",
     "cp": {
-        "Earliest Date": "2011/10/20",
-        "Order": 162,
-        "Related To": "Halloween Party",
+        "order": 162,
         "uses": [
             {
                 "date": "2011/10/20",
@@ -14,9 +18,7 @@
         ]
     },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -25,13 +27,5 @@
                 "use": "Halloween Party 2018"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2011/10/20",
-    "HQ Source(s)": "Club Penguin Island",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Haunted Mansion",
-    "Name_official": 1,
-    "Order": 162
+    }
 }

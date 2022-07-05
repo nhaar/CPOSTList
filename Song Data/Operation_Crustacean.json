@@ -1,15 +1,13 @@
 {
-    "Name": "Red Alert Ultimate Battle",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 350,
-    "Link": "",
-    "Earliest Date": "2015/11/18",
-    "Medias": "Club Penguin",
+    "name": "Red Alert Ultimate Battle",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 350,
+    "link": "",
     "cp": {
-        "Order": 350,
-        "Earliest Date": "2015/11/18",
-        "Related To": "Operation: Crustacean",
+        "order": 350,
         "uses": [
             {
                 "date": "2015/11/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Operation: Crustacean",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

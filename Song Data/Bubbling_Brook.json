@@ -1,22 +1,26 @@
 {
-    "Alternate Names": "Underwater Expedition Theme, Maze Theme",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Bubbling Brook",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Underwater Expedition Theme, Maze Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/wq9rGY5CBSo",
+    "order": 166,
+    "link": "",
+    "versions": [
+        {
+            "info": "Highest quality version of part 1.",
+            "name": "BubblingBrook.mp3",
+            "source": "Other"
+        },
+        {
+            "info": "Highest quality version of part 2.",
+            "name": "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
+            "source": "Youtube"
+        }
+    ],
     "cp": {
-        "Earliest Date": "2012/01/26",
-        "Order": 166,
-        "Related To": "Underwater Expedition, Inside Out Party",
+        "order": 166,
         "uses": [
             {
                 "date": "?",
@@ -38,10 +42,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Rainbow Migration 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,27 +63,5 @@
                 "use": "Rainbow Migration 2018"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2012/01/26",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Bubbling Brook",
-    "Name_official": 1,
-    "Order": 166,
-    "Source Links": "https://youtu.be/wq9rGY5CBSo",
-    "notes": "This song has two parts.",
-    "versions": [
-        {
-            "info": "Highest quality version of part 1.",
-            "name": "BubblingBrook.mp3",
-            "source": "Other"
-        },
-        {
-            "info": "Highest quality version of part 2.",
-            "name": "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
-            "source": "Youtube"
-        }
-    ]
+    }
 }

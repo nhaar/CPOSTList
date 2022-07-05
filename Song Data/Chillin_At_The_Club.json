@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Chillin' At The Club",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=TXBmbVPoFUU",
+    "order": 379,
+    "link": "",
     "cp": {
-        "Earliest Date": "2017/01/04",
-        "Order": 379,
-        "Related To": "Club Penguin Island Party",
+        "order": 379,
         "uses": [
             {
                 "date": "2017/01/04",
@@ -26,13 +18,15 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2017/01/04",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Chillin' At The Club",
-    "Name_official": 1,
-    "Order": 379,
-    "Source Links": "https://www.youtube.com/watch?v=TXBmbVPoFUU"
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

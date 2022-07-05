@@ -1,15 +1,13 @@
 {
-    "Name": "Treasure And Glory",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 292,
-    "Link": "",
-    "Earliest Date": "2014/11/20",
-    "Medias": "Club Penguin",
+    "name": "Treasure And Glory",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 292,
+    "link": "",
     "cp": {
-        "Order": 292,
-        "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party",
+        "order": 292,
         "uses": [
             {
                 "date": "2014/11/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

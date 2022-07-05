@@ -1,15 +1,13 @@
 {
-    "Name": "Santa's Sleigh",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 121,
-    "Link": "https://youtu.be/HZqtExpEzcE",
-    "Earliest Date": "2009/12/18",
-    "Medias": "Club Penguin",
+    "name": "Santa's Sleigh",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Santa's Sled",
+    "sources": "Other",
+    "order": 121,
+    "link": "https://youtu.be/HZqtExpEzcE",
     "cp": {
-        "Order": 121,
-        "Earliest Date": "2009/12/18",
-        "Related To": "Holiday Party, Anniversary Party",
+        "order": 121,
         "uses": [
             {
                 "date": "2009/12/18",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Santa's Sled"
+    }
 }

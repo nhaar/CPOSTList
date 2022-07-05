@@ -1,15 +1,13 @@
 {
-    "Name": "It's Behind You!",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 83,
-    "Link": "https://www.youtube.com/watch?v=c0oVEXk6nH4",
-    "Earliest Date": "2008/10/28",
-    "Medias": "Club Penguin",
+    "name": "It's Behind You!",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Halloween Party 2, Halloween Inside Theme",
+    "sources": "SoundCloud",
+    "order": 83,
+    "link": "https://www.youtube.com/watch?v=c0oVEXk6nH4",
     "cp": {
-        "Order": 83,
-        "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party",
+        "order": 83,
         "uses": [
             {
                 "date": "2008/10/28",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -39,9 +35,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -50,7 +44,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Halloween Party 2, Halloween Inside Theme"
+    }
 }

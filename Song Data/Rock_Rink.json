@@ -1,15 +1,25 @@
 {
-    "Name": "Rock Rink",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud + Game Day",
-    "Order": 71,
-    "Link": "https://www.youtube.com/watch?v=r9eUD9N9gAk",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Rock Rink",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Rock Rink, Let The Game Begin, Rock N Roll",
+    "sources": "SoundCloud + Game Day",
+    "order": 71,
+    "link": "https://www.youtube.com/watch?v=r9eUD9N9gAk",
+    "versions": [
+        {
+            "name": "ig_IH_00.brstm",
+            "info": "Highest quality version, but incomplete, missing the ending.",
+            "source": "Game Day"
+        },
+        {
+            "name": "MUS_271_Igloo_AmbientRiffing.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    ],
     "cp": {
-        "Order": 71,
-        "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, Penguin Games, Penguin Cup",
+        "order": 71,
         "uses": [
             {
                 "date": "2008/07/25",
@@ -32,9 +42,7 @@
         ]
     },
     "gd": {
-        "Order": 8,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Goal!",
+        "order": 8,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -43,19 +51,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Alternate Names": "Rock Rink, Let The Game Begin, Rock N Roll",
-    "versions": [
-        {
-            "name": "ig_IH_00.brstm",
-            "info": "Highest quality version, but incomplete, missing the ending.",
-            "source": "Game Day"
-        },
-        {
-            "name": "MUS_271_Igloo_AmbientRiffing.mp3",
-            "info": "Highest quality version that is complete.",
-            "source": "App"
-        }
-    ]
+    }
 }

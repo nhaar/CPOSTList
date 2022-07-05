@@ -1,8 +1,19 @@
 {
+    "name": "Chillin' At The Club (Edit)",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "CPI SoundCloud",
+    "sourcelinks": "https://soundcloud.com/user-764833925/chillin-at-the-club",
+    "order": 1010,
+    "versions": [
+        {
+            "info": "",
+            "name": "Chillin' At The Club [440725104].mp3",
+            "source": "CPI SoundCloud"
+        }
+    ],
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Login Screen",
+        "order": 1,
         "files": [
             {
                 "info": "",
@@ -17,19 +28,5 @@
                 "use": "Login Screen"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "CPI SoundCloud",
-    "Name": "Chillin' At The Club (Edit)",
-    "Name_official": 1,
-    "Order": 1010,
-    "Source Links": "https://soundcloud.com/user-764833925/chillin-at-the-club",
-    "versions": [
-        {
-            "info": "",
-            "name": "Chillin' At The Club [440725104].mp3",
-            "source": "CPI SoundCloud"
-        }
-    ]
+    }
 }

@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Alien Lounge",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 352,
+    "link": "",
+    "cp": {
+        "order": 352,
+        "uses": [
+            {
+                "date": "2015/11/18",
+                "files": "",
+                "info": "",
+                "use": "Operation: Crustacean"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Operation: Crustacean",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Operation: Crustacean"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/11/18",
-        "Order": 352,
-        "Related To": "Operation: Crustacean",
-        "uses": [
-            {
-                "date": "2015/11/18",
-                "files": "",
-                "info": "",
-                "use": "Operation: Crustacean"
-            }
-        ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2015/11/18",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Alien Lounge",
-    "Name_official": 1,
-    "Order": 352
+    }
 }

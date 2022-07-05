@@ -1,16 +1,14 @@
 {
-    "Name": "Puffle Rescue: Ice Flow",
-    "Name_official": 1,
-    "HQ Source(s)": "Screenhog's Website",
-    "Source Links": "https://www.screenhog.com/music",
-    "Order": 124,
-    "Link": "https://youtu.be/AnVLBhvk5As",
-    "Earliest Date": "2010/03/15",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Puffle Rescue: Ice Flow",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "https://www.screenhog.com/music",
+    "order": 124,
+    "link": "https://youtu.be/AnVLBhvk5As",
     "cp": {
-        "Order": 124,
-        "Earliest Date": "2010/03/15",
-        "Related To": "Puffle Rescue",
+        "order": 124,
         "uses": [
             {
                 "date": "2010/03/15",
@@ -21,9 +19,7 @@
         ]
     },
     "gd": {
-        "Order": 6,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Pre-minigame cutscene",
+        "order": 6,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -34,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Puffle Rescue",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -45,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

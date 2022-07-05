@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Haunted Disco",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "",
+    "sources": "App + Club Penguin Island",
+    "order": 43,
+    "link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
     "cp": {
-        "Earliest Date": "2007/10/26",
-        "Order": 43,
-        "Related To": "Halloween Party",
+        "order": 43,
         "uses": [
             {
                 "date": "2007/10/26",
@@ -26,10 +17,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -38,13 +38,5 @@
                 "use": "Halloween Party 2018"
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/10/26",
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
-    "Medias": "Club Penguin",
-    "Name": "Haunted Disco",
-    "Name_official": 1,
-    "Order": 43
+    }
 }

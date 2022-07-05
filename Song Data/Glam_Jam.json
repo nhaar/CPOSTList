@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Glam Jam",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 342,
+    "link": "",
+    "cp": {
+        "order": 342,
+        "uses": [
+            {
+                "date": "2015/08/26",
+                "files": "",
+                "info": "",
+                "use": "Fashion Festival"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Fashion Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Fashion Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/08/26",
-        "Order": 342,
-        "Related To": "Fashion Festival",
-        "uses": [
-            {
-                "date": "2015/08/26",
-                "files": "",
-                "info": "",
-                "use": "Fashion Festival"
-            }
-        ]
-    },
-    "Composers": "David Fairfield",
-    "Earliest Date": "2015/08/26",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Glam Jam",
-    "Name_official": 1,
-    "Order": 342
+    }
 }

@@ -1,9 +1,25 @@
 {
-    "Alternate Names": "Haunted Mansion, Turn Back Now",
+    "name": "Dare To Enter The Mansion",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Haunted Mansion, Turn Back Now",
+    "sources": "SoundCloud + Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 177,
+    "link": "",
+    "cp": {
+        "order": 177,
+        "uses": [
+            {
+                "date": "2012/10/18",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2012"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Halloween Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -19,23 +35,8 @@
             }
         ]
     },
-    "cp": {
-        "Earliest Date": "2012/10/18",
-        "Order": 177,
-        "Related To": "Halloween Party",
-        "uses": [
-            {
-                "date": "2012/10/18",
-                "files": "",
-                "info": "",
-                "use": "Halloween Party 2012"
-            }
-        ]
-    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,14 +45,5 @@
                 "use": "Halloween Party 2018"
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2012/10/18",
-    "HQ Source(s)": "SoundCloud + Norrie Henderson Portfolio",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Dare To Enter The Mansion",
-    "Name_official": 1,
-    "Order": 177,
-    "Source Links": "https://www.norriehenderson.com/portfolio"
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Mariachi Medley",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 247,
-    "Link": "",
-    "Earliest Date": "2014/03/20",
-    "Medias": "Club Penguin",
+    "name": "Mariachi Medley",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Mariachi Melody",
+    "sources": "SoundCloud",
+    "order": 247,
+    "link": "",
     "cp": {
-        "Order": 247,
-        "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour",
+        "order": 247,
         "uses": [
             {
                 "date": "2014/03/20",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "Mariachi Melody"
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Cream Soda Shanty",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 295,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/11/20",
-        "Order": 295,
-        "Related To": "Pirate Party",
+        "order": 295,
         "uses": [
             {
                 "date": "2014/11/20",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2014/11/20",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Cream Soda Shanty",
-    "Name_official": 1,
-    "Order": 295
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

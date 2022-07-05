@@ -1,8 +1,18 @@
 {
+    "name": "Smoothie Smash Menu",
+    "truename": 0,
+    "artists": "?",
+    "sources": "App",
+    "order": 0,
+    "versions": [
+        {
+            "info": "",
+            "name": "MUS_MG_SmoothieSmash_MenuAmb.aac",
+            "source": "App"
+        }
+    ],
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Smoothie Smash",
+        "order": 1,
         "files": [
             {
                 "info": "",
@@ -17,18 +27,5 @@
                 "use": "Smoothie Smash"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App",
-    "Name": "Smoothie Smash Menu",
-    "Name_official": 0,
-    "Order": 0,
-    "versions": [
-        {
-            "info": "",
-            "name": "MUS_MG_SmoothieSmash_MenuAmb.aac",
-            "source": "App"
-        }
-    ]
+    }
 }

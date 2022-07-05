@@ -1,15 +1,13 @@
 {
-    "Name": "Zero Gravity Disco",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 258,
-    "Link": "",
-    "Earliest Date": "2014/05/22",
-    "Medias": "Club Penguin",
+    "name": "Zero Gravity Disco",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 258,
+    "link": "",
     "cp": {
-        "Order": 258,
-        "Earliest Date": "2014/05/22",
-        "Related To": "Future Party, Star Wars Rebels Takeover, Music Jam",
+        "order": 258,
         "uses": [
             {
                 "date": "2014/05/22",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

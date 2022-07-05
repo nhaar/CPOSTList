@@ -1,9 +1,14 @@
 {
-    "Alternate Names": "EPF Command Room Modern Theme",
+    "name": "Command Room Revisited",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "EPF Command Room Modern Theme",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 238,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/03/06",
-        "Order": 238,
-        "Related To": "EPF Command Room",
+        "order": 238,
         "uses": [
             {
                 "date": "2014/03/06",
@@ -12,14 +17,5 @@
                 "use": "EPF Command Room"
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/03/06",
-    "HQ Source(s)": "Norrie Henderson Portfolio",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Command Room Revisited",
-    "Name_official": 1,
-    "Order": 238,
-    "Source Links": "https://www.norriehenderson.com/portfolio"
+    }
 }

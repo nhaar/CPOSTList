@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Captain Aaaar",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App + CPI SoundCloud",
+    "order": 380,
+    "link": "",
     "cp": {
-        "Earliest Date": "2017/01/04",
-        "Order": 380,
-        "Related To": "Club Penguin Island Party",
+        "order": 380,
         "uses": [
             {
                 "date": "2017/01/04",
@@ -26,10 +17,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "//",
-        "Order": 0,
-        "Related To": "",
+        "order": 0,
         "files": [],
         "uses": [
             {
@@ -45,13 +45,5 @@
                 "use": "Rockhopper Quest"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2017/01/04",
-    "HQ Source(s)": "App + CPI SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Captain Aaaar",
-    "Name_official": 1,
-    "Order": 380
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "I'm At 9933",
-    "Name_official": 1,
-    "HQ Source(s)": "A Message For Marta CD",
-    "Order": 0.35,
-    "Link": "https://www.youtube.com/watch?v=yuEZfRnnPr8",
-    "Earliest Date": "?",
-    "Medias": "Penguin Chat 3",
+    "name": "I'm At 9933",
+    "truename": 1,
+    "artists": "TAS 1000",
+    "altnames": "",
+    "sources": "A Message For Marta CD",
+    "order": 0.35,
+    "link": "https://www.youtube.com/watch?v=yuEZfRnnPr8",
     "pc": {
-        "Order": 7,
-        "Earliest Date": "?",
-        "Related To": "Night Club (Penguin Chat 3)",
+        "order": 7,
         "uses": [
             {
                 "date": "?",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "TAS 1000",
-    "Alternate Names": ""
+    }
 }

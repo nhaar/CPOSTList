@@ -1,15 +1,13 @@
 {
-    "Name": "Spicy Salsa",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 52,
-    "Link": "https://www.youtube.com/watch?v=nLOvObILV_U",
-    "Earliest Date": "2008/01/18",
-    "Medias": "Club Penguin",
+    "name": "Spicy Salsa",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Fiestcha, Fiesta Party",
+    "sources": "App",
+    "order": 52,
+    "link": "https://www.youtube.com/watch?v=nLOvObILV_U",
     "cp": {
-        "Order": 52,
-        "Earliest Date": "2008/01/18",
-        "Related To": "Winter Fiesta, April Fools Party, Puffle Party, Anniversary Party",
+        "order": 52,
         "uses": [
             {
                 "date": "2008/01/18",
@@ -38,9 +36,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Alternate Names": "Fiestcha, Fiesta Party"
+    }
 }

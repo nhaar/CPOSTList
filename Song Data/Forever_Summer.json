@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Forever Summer",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "order": 216,
+    "link": "",
     "cp": {
-        "Earliest Date": "2013/08/22",
-        "Order": 216,
-        "Related To": "Teen Beach Movie Summer Jam",
+        "order": 216,
         "uses": [
             {
                 "date": "2013/08/22",
@@ -26,10 +17,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Beacon Boardwalk",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -38,13 +38,5 @@
                 "use": "Beacon Boardwalk"
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2013/08/22",
-    "HQ Source(s)": "CPI SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Forever Summer",
-    "Name_official": 1,
-    "Order": 216
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "April Fools",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 56,
+    "link": "https://www.youtube.com/watch?v=cEVX2fVmmRk",
     "cp": {
-        "Earliest Date": "2008/03/28",
-        "Order": 56,
-        "Related To": "April Fools Party, Anniversary Party",
+        "order": 56,
         "uses": [
             {
                 "date": "2008/03/28",
@@ -32,25 +23,8 @@
             }
         ]
     },
-    "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Sea Caves",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Sea Caves"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/03/28",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 1,
-        "Related To": "Title screen, Credits",
+        "order": 1,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -66,10 +40,26 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day",
-    "Link": "https://www.youtube.com/watch?v=cEVX2fVmmRk",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "April Fools",
-    "Name_official": 1,
-    "Order": 56
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Sea Caves"
+            }
+        ]
+    }
 }

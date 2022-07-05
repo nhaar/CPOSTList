@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Bumper Car Rink, Stadium",
+    "name": "Bumper Cars",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Bumper Car Rink, Stadium",
+    "sources": "Other",
+    "order": 161,
+    "link": "https://youtu.be/lawkPECXVq8",
     "cp": {
-        "Earliest Date": "2011/09/22",
-        "Order": 161,
-        "Related To": "The Fair",
+        "order": 161,
         "uses": [
             {
                 "date": "2011/09/22",
@@ -12,13 +16,5 @@
                 "use": "The Fair 2011"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2011/09/22",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/lawkPECXVq8",
-    "Medias": "Club Penguin",
-    "Name": "Bumper Cars",
-    "Name_official": 0,
-    "Order": 161
+    }
 }

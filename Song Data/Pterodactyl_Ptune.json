@@ -1,15 +1,13 @@
 {
-    "Name": "Pterodactyl Ptune",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 63,
-    "Link": "https://www.youtube.com/watch?v=aYRe9SlFRV0",
-    "Earliest Date": "2008/06/13",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Pterodactyl Ptune",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Pre-Historick Rock, Penguins That Time Forgot Theme",
+    "sources": "Game Day",
+    "order": 63,
+    "link": "https://www.youtube.com/watch?v=aYRe9SlFRV0",
     "cp": {
-        "Order": 63,
-        "Earliest Date": "2008/06/13",
-        "Related To": "Penguins That Time Forgot",
+        "order": 63,
         "uses": [
             {
                 "date": "2008/06/13",
@@ -20,9 +18,7 @@
         ]
     },
     "gd": {
-        "Order": 37,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Green Ski Village Challenge",
+        "order": 37,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Pre-Historick Rock, Penguins That Time Forgot Theme"
+    }
 }

@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "Aqua Grabber Theme, Clam Waters Theme",
+    "name": "Deep Reef",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Aqua Grabber Theme, Clam Waters Theme",
+    "sources": "Other",
+    "order": 55,
+    "link": "https://www.youtube.com/watch?v=E1e-LWP2FXg",
     "cp": {
-        "Earliest Date": "2008/02/19",
-        "Order": 55,
-        "Related To": "Aqua Grabber",
+        "order": 55,
         "uses": [
             {
                 "date": "2008/02/19",
@@ -12,13 +16,5 @@
                 "use": "Aqua Grabber"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/02/19",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=E1e-LWP2FXg",
-    "Medias": "Club Penguin",
-    "Name": "Deep Reef",
-    "Name_official": 1,
-    "Order": 55
+    }
 }

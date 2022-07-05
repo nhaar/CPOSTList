@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Go Time Remix",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 327,
+    "link": "",
+    "cp": {
+        "order": 327,
+        "uses": [
+            {
+                "date": "2015/03/26",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -24,26 +39,5 @@
                 "use": "Operation: Tri-umph"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2015/03/26",
-        "Order": 327,
-        "Related To": "Puffle Party",
-        "uses": [
-            {
-                "date": "2015/03/26",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/03/26",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Go Time Remix",
-    "Name_official": 1,
-    "Order": 327
+    }
 }

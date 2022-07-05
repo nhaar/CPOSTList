@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Banjo Bonanza",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 362,
+    "link": "",
+    "cp": {
+        "order": 362,
+        "uses": [
+            {
+                "date": "2016/05/18",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Puffle Roundup, Igloo, Zootopia Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -24,26 +39,5 @@
                 "use": "Zootopia Party"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2016/05/18",
-        "Order": 362,
-        "Related To": "Zootopia Party",
-        "uses": [
-            {
-                "date": "2016/05/18",
-                "files": "",
-                "info": "",
-                "use": "Zootopia Party"
-            }
-        ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2016/05/18",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Banjo Bonanza",
-    "Name_official": 1,
-    "Order": 362
+    }
 }

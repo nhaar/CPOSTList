@@ -1,27 +1,12 @@
 {
-    "Name": "Space Adventure: Planet Y",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube + Club Penguin Youtube Channel",
-    "Source Links": "https://www.youtube.com/watch?v=ORplNX1yUig",
-    "Order": 80,
-    "Link": "https://www.youtube.com/watch?v=G4vqTvU9hvs",
-    "Earliest Date": "2008/10/10",
-    "Medias": "Club Penguin",
-    "cp": {
-        "Order": 80,
-        "Earliest Date": "2008/10/10",
-        "Related To": "Space Adventure: Planet Y",
-        "uses": [
-            {
-                "date": "2008/10/10",
-                "use": "Space Adventure: Planet Y",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
-    "Composers": "Rory O'Neill",
-    "Alternate Names": "Lunar Launch",
+    "name": "Space Adventure: Planet Y",
+    "truename": 1,
+    "artists": "Rory O'Neill",
+    "altnames": "Lunar Launch",
+    "sources": "Youtube + Club Penguin Youtube Channel",
+    "sourcelinks": "https://www.youtube.com/watch?v=ORplNX1yUig",
+    "order": 80,
+    "link": "https://www.youtube.com/watch?v=G4vqTvU9hvs",
     "versions": [
         {
             "name": "Club Penguin Music OST - Space Adventure Planet 'Y' Theme Music 2014 [ORplNX1yUig].opus",
@@ -33,5 +18,16 @@
             "info": "This video contains segments of the song in the highest quality available with background noise.",
             "source": "Club Penguin Youtube Channel"
         }
-    ]
+    ],
+    "cp": {
+        "order": 80,
+        "uses": [
+            {
+                "date": "2008/10/10",
+                "use": "Space Adventure: Planet Y",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }

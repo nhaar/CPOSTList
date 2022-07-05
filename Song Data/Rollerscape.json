@@ -1,15 +1,13 @@
 {
-    "Name": "Rollerscape",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 163,
-    "Link": "",
-    "Earliest Date": "2011/11/03",
-    "Medias": "Club Penguin",
+    "name": "Rollerscape",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Pufflescape Theme",
+    "sources": "Other",
+    "order": 163,
+    "link": "",
     "cp": {
-        "Order": 163,
-        "Earliest Date": "2011/11/03",
-        "Related To": "Pufflescape",
+        "order": 163,
         "uses": [
             {
                 "date": "2011/11/03",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Pufflescape",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Pufflescape Theme"
+    }
 }

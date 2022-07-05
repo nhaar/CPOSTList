@@ -1,15 +1,13 @@
 {
-    "Name": "Welcome Home",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 385,
-    "Link": "",
-    "Earliest Date": "2017/01/31",
-    "Medias": "Club Penguin",
+    "name": "Welcome Home",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 385,
+    "link": "",
     "cp": {
-        "Order": 385,
-        "Earliest Date": "2017/01/31",
-        "Related To": "Waddle On Party",
+        "order": 385,
         "uses": [
             {
                 "date": "2017/01/31",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "David Fairfield",
-    "Alternate Names": ""
+    }
 }

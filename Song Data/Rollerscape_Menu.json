@@ -1,15 +1,13 @@
 {
-    "Name": "Rollerscape Menu",
-    "Name_official": 0,
-    "HQ Source(s)": "Other",
-    "Order": 163.6,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
+    "name": "Rollerscape Menu",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Other",
+    "order": 163.6,
+    "link": "",
     "cpu": {
-        "Order": 9,
-        "Earliest Date": "?",
-        "Related To": "Pufflescape",
+        "order": 9,
         "uses": [
             {
                 "date": "?",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": ""
+    }
 }

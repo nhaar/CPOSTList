@@ -1,14 +1,13 @@
 {
-    "Alternate Names": "PSA HQ Theme",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo"
-    },
+    "name": "Stealth",
+    "truename": 1,
+    "artists": "David Ingall",
+    "altnames": "PSA HQ Theme",
+    "sources": "Other",
+    "order": 5,
+    "link": "https://www.youtube.com/watch?v=eKZj-tyRg78",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 13.9,
-        "Related To": "PSA HQ, Everyday Phoning Facility",
+        "order": 13.9,
         "files": [
             {
                 "info": "It consisted of 3 clips, loops A to C, played progressively at random.",
@@ -30,27 +29,7 @@
             }
         ]
     },
-    "Composers": "David Ingall",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Other",
-    "Link": "https://www.youtube.com/watch?v=eKZj-tyRg78",
-    "Medias": "Club Penguin",
-    "Name": "Stealth",
-    "Name_official": 1,
-    "Order": 5,
-    "stock": {
-        "info": {
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2988/stealth-lynnemusic",
-            "origin": "NEO Sounds"
-        },
-        "sale": [
-            "Full Track",
-            "60sec",
-            "30sec",
-            "Loop A",
-            "Loop B",
-            "Loop C",
-            "Loop D"
-        ]
+    "app": {
+        "order": 1
     }
 }

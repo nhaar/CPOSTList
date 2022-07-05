@@ -1,15 +1,13 @@
 {
-    "Name": "Lighthouse Band (New)",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF Lighthouse (2015)",
-    "Order": 273,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
+    "name": "Lighthouse Band (New)",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF Lighthouse (2015)",
+    "order": 273,
+    "link": "",
     "cp": {
-        "Order": 273,
-        "Earliest Date": "?",
-        "Related To": "Lighthouse",
+        "order": 273,
         "uses": [
             {
                 "date": "?",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Puffle Dance",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Order": 186,
-    "Link": "",
-    "Earliest Date": "2013/03/21",
-    "Medias": "Club Penguin",
+    "name": "Puffle Dance",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Puffle Hotel Spa",
+    "sources": "SoundCloud (NL)",
+    "order": 186,
+    "link": "",
     "cp": {
-        "Order": 186,
-        "Earliest Date": "2013/03/21",
-        "Related To": "Puffle Spa",
+        "order": 186,
         "uses": [
             {
                 "date": "2013/03/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Spa",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": "Puffle Hotel Spa"
+    }
 }

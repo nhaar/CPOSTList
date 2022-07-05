@@ -1,15 +1,13 @@
 {
-    "Name": "Zero Gravity",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 113,
-    "Link": "https://youtu.be/EqBtVaph78w",
-    "Earliest Date": "2009/08/14",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Zero Gravity",
+    "truename": 1,
+    "artists": "Rory O'Neill",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 113,
+    "link": "https://youtu.be/EqBtVaph78w",
     "cp": {
-        "Order": 113,
-        "Earliest Date": "2009/08/14",
-        "Related To": "Festival Of Flight",
+        "order": 113,
         "uses": [
             {
                 "date": "2009/08/14",
@@ -20,9 +18,7 @@
         ]
     },
     "gd": {
-        "Order": 13,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Minigame results",
+        "order": 13,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Rory O'Neill",
-    "Alternate Names": ""
+    }
 }

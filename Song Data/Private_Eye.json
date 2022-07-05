@@ -1,15 +1,13 @@
 {
-    "Name": "Private Eye",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 52.2,
-    "Link": "https://youtu.be/Myamxywrf1k",
-    "Earliest Date": "2010/06/10",
-    "Medias": "Club Penguin",
+    "name": "Private Eye",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "PSA Award Screen",
+    "sources": "App",
+    "order": 52.2,
+    "link": "https://youtu.be/Myamxywrf1k",
     "cp": {
-        "Order": 52.2,
-        "Earliest Date": "2008/01/21",
-        "Related To": "PSA Missions",
+        "order": 52.2,
         "uses": [
             {
                 "date": "2008/01/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "PSA Award Screen"
+    }
 }

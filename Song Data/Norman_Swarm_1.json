@@ -1,16 +1,13 @@
 {
-    "Name": "Norman Swarm V1",
-    "Name_official": 0,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://youtu.be/9O0YDG5FW0U?t=234",
-    "Link": "https://youtu.be/gM5gNZkVqe0",
-    "Order": 116.5,
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "Norman Swarm V1",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/9O0YDG5FW0U?t=234",
+    "order": 116.5,
+    "link": "https://youtu.be/gM5gNZkVqe0",
     "cpu": {
-        "Order": 0.43,
-        "Earliest Date": "?",
-        "Related To": "Norman Swarm Has Been Transformed",
+        "order": 0.43,
         "uses": [
             {
                 "date": "?",
@@ -19,6 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

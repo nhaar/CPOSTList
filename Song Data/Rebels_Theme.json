@@ -1,15 +1,13 @@
 {
-    "Name": "Rebels Theme",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 303,
-    "Link": "https://www.youtube.com/watch?v=_kzU06rrIws",
-    "Earliest Date": "2015/01/22",
-    "Medias": "Club Penguin",
+    "name": "Rebels Theme",
+    "truename": 1,
+    "artists": "Kevin Kiner",
+    "altnames": "",
+    "sources": "Other",
+    "order": 303,
+    "link": "https://www.youtube.com/watch?v=_kzU06rrIws",
     "cp": {
-        "Order": 303,
-        "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover",
+        "order": 303,
         "uses": [
             {
                 "date": "2015/01/22",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Kevin Kiner",
-    "Alternate Names": ""
+    }
 }

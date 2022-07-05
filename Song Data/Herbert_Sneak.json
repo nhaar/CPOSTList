@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Herbert Sneak",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App",
+    "order": 355,
+    "link": "",
+    "cp": {
+        "order": 355,
+        "uses": [
+            {
+                "date": "2016/02/10",
+                "files": "",
+                "info": "",
+                "use": "Operation: Tri-umph"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Operation: Tri-umph",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Operation: Tri-umph"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2016/02/10",
-        "Order": 355,
-        "Related To": "Operation: Tri-umph",
-        "uses": [
-            {
-                "date": "2016/02/10",
-                "files": "",
-                "info": "",
-                "use": "Operation: Tri-umph"
-            }
-        ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2016/02/10",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Herbert Sneak",
-    "Name_official": 1,
-    "Order": 355
+    }
 }

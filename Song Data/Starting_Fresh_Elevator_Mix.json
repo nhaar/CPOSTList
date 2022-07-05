@@ -1,15 +1,13 @@
 {
-    "Name": "Starting Fresh Elevator Mix",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 281,
-    "Link": "",
-    "Earliest Date": "2014/09/18",
-    "Medias": "Club Penguin",
+    "name": "Starting Fresh Elevator Mix",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 281,
+    "link": "",
     "cp": {
-        "Order": 281,
-        "Earliest Date": "2014/09/18",
-        "Related To": "Mall",
+        "order": 281,
         "uses": [
             {
                 "date": "2014/09/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, School Party, Puffle Mall",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

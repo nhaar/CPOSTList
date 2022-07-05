@@ -1,16 +1,14 @@
 {
-    "Name": "Second Time Around the Moon",
-    "Name_official": 1,
-    "HQ Source(s)": "Screenhog's Website + CPI SoundCloud   ",
-    "Source Links": "http://www.screenhog.com/music",
-    "Order": 127,
-    "Link": "https://youtu.be/qPM7ZRAsBcQ",
-    "Earliest Date": "2010/03/18",
-    "Medias": "Club Penguin",
+    "name": "Second Time Around the Moon",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Anchovy Jazz",
+    "sources": "Screenhog's Website + CPI SoundCloud   ",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 127,
+    "link": "https://youtu.be/qPM7ZRAsBcQ",
     "cp": {
-        "Order": 127,
-        "Earliest Date": "2010/03/18",
-        "Related To": "Penguin Play Awards, Zootopia Party",
+        "order": 127,
         "uses": [
             {
                 "date": "2010/03/18",
@@ -27,9 +25,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Zootopia Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -40,9 +36,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Town",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -51,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Anchovy Jazz"
+    }
 }

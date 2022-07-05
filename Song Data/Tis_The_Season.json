@@ -1,16 +1,14 @@
 {
-    "Name": "Tis The Season",
-    "Name_official": 1,
-    "HQ Source(s)": "Norrie Henderson Portfolio",
-    "Source Links": "https://www.norriehenderson.com/portfolio",
-    "Order": 229,
-    "Link": "",
-    "Earliest Date": "2013/12/19",
-    "Medias": "Club Penguin",
+    "name": "Tis The Season",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 229,
+    "link": "",
     "cp": {
-        "Order": 229,
-        "Earliest Date": "2013/12/19",
-        "Related To": "Holiday Party",
+        "order": 229,
         "uses": [
             {
                 "date": "2013/12/19",
@@ -21,9 +19,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -40,9 +36,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Holiday 2017",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -51,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

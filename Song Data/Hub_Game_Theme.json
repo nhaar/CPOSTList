@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "use": "Igloo",
-                "files": "",
-                "info": ""
-            }
-        ]
-    },
+    "name": "Hub Game Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 325,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 325,
-        "Related To": "Igloo",
+        "order": 325,
         "uses": [
             {
                 "date": "?",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "?",
-    "HQ Source(s)": "App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Hub Game Theme",
-    "Name_official": 0,
-    "Order": 325
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }

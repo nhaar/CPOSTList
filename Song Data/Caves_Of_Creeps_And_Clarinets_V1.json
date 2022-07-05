@@ -1,8 +1,12 @@
 {
+    "name": "Caves Of Creeps And Clarinets V1",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/N_fX8t63uJ4?t=83",
+    "order": 142.5,
     "cpu": {
-        "Earliest Date": "?",
-        "Order": 0.5,
-        "Related To": "Halloween Party",
+        "order": 0.5,
         "uses": [
             {
                 "date": "?",
@@ -11,13 +15,5 @@
                 "use": "Halloween Party"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Youtube",
-    "Medias": "Club Penguin Unused",
-    "Name": "Caves Of Creeps And Clarinets V1",
-    "Name_official": 0,
-    "Order": 142.5,
-    "Source Links": "https://youtu.be/N_fX8t63uJ4?t=83"
+    }
 }

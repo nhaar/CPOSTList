@@ -1,15 +1,13 @@
 {
-    "Name": "Medieval Party Battle",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 62,
-    "Link": "https://www.youtube.com/watch?v=dwqHn5bsqvM",
-    "Earliest Date": "2008/05/16",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Medieval Party Battle",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Medieval Battle Theme, Medieval 4, Epic Battle, To Battle!",
+    "sources": "Other",
+    "order": 62,
+    "link": "https://www.youtube.com/watch?v=dwqHn5bsqvM",
     "cp": {
-        "Order": 62,
-        "Earliest Date": "2008/05/16",
-        "Related To": "Medieval Party",
+        "order": 62,
         "uses": [
             {
                 "date": "2008/05/16",
@@ -20,9 +18,7 @@
         ]
     },
     "gd": {
-        "Order": 33,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Snowball Battle",
+        "order": 33,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Medieval Battle Theme, Medieval 4, Epic Battle, To Battle!"
+    }
 }

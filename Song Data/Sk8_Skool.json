@@ -1,15 +1,13 @@
 {
-    "Name": "Sk8 Skool",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 279,
-    "Link": "",
-    "Earliest Date": "2014/09/18",
-    "Medias": "Club Penguin",
+    "name": "Sk8 Skool",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 279,
+    "link": "",
     "cp": {
-        "Order": 279,
-        "Earliest Date": "2014/09/18",
-        "Related To": "Skatepark",
+        "order": 279,
         "uses": [
             {
                 "date": "2014/09/18",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Skate Park",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

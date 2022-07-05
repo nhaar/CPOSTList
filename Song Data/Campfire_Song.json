@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Camp Party 2, Mess Hall, Doodle Dimension",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Campfire Song",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Camp Party 2, Mess Hall, Doodle Dimension",
+    "sources": "App",
+    "order": 38,
+    "link": "https://www.youtube.com/watch?v=_9OqwJPF2qg",
     "cp": {
-        "Earliest Date": "2007/08/24",
-        "Order": 38,
-        "Related To": "Camp Penguin, April Fools Party",
+        "order": 38,
         "uses": [
             {
                 "date": "2007/08/24",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "Friction Music",
-    "Earliest Date": "2007/08/24",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=_9OqwJPF2qg",
-    "Medias": "Club Penguin",
-    "Name": "Campfire Song",
-    "Name_official": 1,
-    "Order": 38
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

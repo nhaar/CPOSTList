@@ -1,9 +1,21 @@
 {
-    "Alternate Names": "Computer of the Future",
+    "name": "Busy Laboratory",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Computer of the Future",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/TXBmbVPoFUU?t=619",
+    "order": 0,
+    "link": "",
+    "versions": [
+        {
+            "info": "",
+            "name": "Screenhog Studios - Fun and Quirky Music [TXBmbVPoFUU].wav",
+            "source": "[Youtube](https://youtu.be/TXBmbVPoFUU?t=619)"
+        }
+    ],
     "cpu": {
-        "Earliest Date": "",
-        "Order": 0.95,
-        "Related To": "Brown Puffle Lab",
+        "order": 0.95,
         "files": [],
         "uses": [
             {
@@ -13,20 +25,5 @@
                 "use": "Brown Puffle Lab"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "//",
-    "HQ Source(s)": "Youtube",
-    "Link": "",
-    "Name": "Busy Laboratory",
-    "Name_official": 1,
-    "Order": 0,
-    "Source Links": "https://youtu.be/TXBmbVPoFUU?t=619",
-    "versions": [
-        {
-            "info": "",
-            "name": "Screenhog Studios - Fun and Quirky Music [TXBmbVPoFUU].wav",
-            "source": "[Youtube](https://youtu.be/TXBmbVPoFUU?t=619)"
-        }
-    ]
+    }
 }

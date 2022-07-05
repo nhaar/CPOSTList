@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Cool In The Cold",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "",
+    "sources": "Other + App",
+    "order": 259,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/06/12",
-        "Order": 259,
-        "Related To": "Penguin Prom, Merry Walrus Party, Holiday Party, Music Jam 2016",
+        "order": 259,
         "uses": [
             {
                 "date": "2014/06/12",
@@ -44,12 +35,15 @@
             }
         ]
     },
-    "Composers": "Michelle Lewis, Dan Petty",
-    "Earliest Date": "2014/06/12",
-    "HQ Source(s)": "Other + App",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Cool In The Cold",
-    "Name_official": 1,
-    "Order": 259
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

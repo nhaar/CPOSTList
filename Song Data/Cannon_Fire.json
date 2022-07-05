@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "Ship Battle Theme, Adventure Of A Lifetime",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Cannon Fire",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Ship Battle Theme, Adventure Of A Lifetime",
+    "sources": "Youtube + SoundCloud",
+    "sourcelinks": "https://youtu.be/e1ufA7zt5BU?t=548",
+    "order": 137,
+    "link": "https://youtu.be/scxn3O2OVAw",
     "cp": {
-        "Earliest Date": "2010/06/17",
-        "Order": 137,
-        "Related To": "Island Adventure Party",
+        "order": 137,
         "uses": [
             {
                 "date": "2010/06/17",
@@ -26,13 +18,15 @@
             }
         ]
     },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/06/17",
-    "HQ Source(s)": "Youtube + SoundCloud",
-    "Link": "https://youtu.be/scxn3O2OVAw",
-    "Medias": "Club Penguin",
-    "Name": "Cannon Fire",
-    "Name_official": 1,
-    "Order": 137,
-    "Source Links": "https://youtu.be/e1ufA7zt5BU?t=548"
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

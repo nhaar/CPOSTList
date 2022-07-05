@@ -1,28 +1,14 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Fashion Party",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Fashion Party"
-            }
-        ]
-    },
+    "name": "Event Prep",
+    "truename": 1,
+    "artists": "Curt Macdonald",
+    "altnames": "",
+    "sources": "Other",
+    "sourcelinks": "https://web.archive.org/web/20210928075227oe_/https://s3.amazonaws.com/preview.freshmusic.com/2123/2123_06.m4a",
+    "order": 18,
+    "link": "https://youtu.be/clyysAx8yGc",
     "cp": {
-        "Earliest Date": "2006/08/11",
-        "Order": 18,
-        "Related To": "Sports Party, Penguin Games, Puffle Party 2011, Puffle Party 2012",
+        "order": 18,
         "uses": [
             {
                 "date": "2006/08/11",
@@ -50,19 +36,21 @@
             }
         ]
     },
-    "Composers": "Curt Macdonald",
-    "Earliest Date": "2006/08/11",
-    "HQ Source(s)": "Other",
-    "Link": "https://youtu.be/clyysAx8yGc",
-    "Medias": "Club Penguin",
-    "Name": "Event Prep",
-    "Name_official": 1,
-    "Order": 18,
-    "Source Links": "https://web.archive.org/web/20210928075227oe_/https://s3.amazonaws.com/preview.freshmusic.com/2123/2123_06.m4a",
-    "stock": {
-        "info": {
-            "link": "https://www.sounddogs.com//search?library=Fresh%20Music&keywords=Event%20Prep",
-            "origin": "SoundDogs"
-        }
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Fashion Party"
+            }
+        ]
     }
 }

@@ -1,8 +1,14 @@
 {
+    "name": "It's A Beautiful Life",
+    "truename": 1,
+    "artists": "Nineoneone, Tony Lee Stafford, Michael Dennis Smith",
+    "sources": "Sample",
+    "sourcelinks": "https://www.extrememusic.com/albums/2769",
+    "order": 0,
+    "link": "",
+    "versions": [],
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 0,
-        "Related To": "",
+        "order": 0,
         "files": [],
         "uses": [
             {
@@ -12,14 +18,5 @@
                 "use": "?"
             }
         ]
-    },
-    "Composers": "Nineoneone, Tony Lee Stafford, Michael Dennis Smith",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Sample",
-    "Link": "",
-    "Name": "It's A Beautiful Life",
-    "Name_official": 1,
-    "Order": 0,
-    "Source Links": "https://www.extrememusic.com/albums/2769",
-    "versions": []
+    }
 }

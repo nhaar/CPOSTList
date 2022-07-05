@@ -1,22 +1,14 @@
 {
-    "Alternate Names": "Knight's Challenge",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Beware The Dragon",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Knight's Challenge",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 129,
+    "link": "https://youtu.be/jVoiMYEL2Go",
     "cp": {
-        "Earliest Date": "2010/05/07",
-        "Order": 129,
-        "Related To": "Medieval Party",
+        "order": 129,
         "uses": [
             {
                 "date": "2010/05/07",
@@ -26,10 +18,19 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Medieval Party 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,14 +45,5 @@
                 "use": "Medieval Party 2018"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2010/05/07",
-    "HQ Source(s)": "Screenhog's Website",
-    "Link": "https://youtu.be/jVoiMYEL2Go",
-    "Medias": "Club Penguin",
-    "Name": "Beware The Dragon",
-    "Name_official": 1,
-    "Order": 129,
-    "Source Links": "http://www.screenhog.com/music"
+    }
 }

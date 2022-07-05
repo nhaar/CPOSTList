@@ -1,15 +1,13 @@
 {
-    "Name": "Ultimate Battle",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 256,
-    "Link": "",
-    "Earliest Date": "2014/05/22",
-    "Medias": "Club Penguin",
+    "name": "Ultimate Battle",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 256,
+    "link": "",
     "cp": {
-        "Order": 256,
-        "Earliest Date": "2014/05/22",
-        "Related To": "Future Party",
+        "order": 256,
         "uses": [
             {
                 "date": "2014/05/22",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

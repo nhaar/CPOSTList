@@ -1,15 +1,13 @@
 {
-    "Name": "Scorn Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF ScornBattle",
-    "Order": 170,
-    "Link": "",
-    "Earliest Date": "2012/05/17",
-    "Medias": "Club Penguin",
+    "name": "Scorn Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "Mountain of Misery",
+    "sources": "SWF ScornBattle",
+    "order": 170,
+    "link": "",
     "cp": {
-        "Order": 170,
-        "Earliest Date": "2012/05/17",
-        "Related To": "Medieval Party",
+        "order": 170,
         "uses": [
             {
                 "date": "2012/05/17",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "Mountain of Misery"
+    }
 }

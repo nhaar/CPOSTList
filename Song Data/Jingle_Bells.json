@@ -1,49 +1,12 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Halloween Party 2015"
-    },
-    "cp": {
-        "Earliest Date": "2005/12/22",
-        "Order": 8,
-        "Related To": "Christmas Party 2005, Christmas Party 2007, Anniversary Party 2015",
-        "uses": [
-            {
-                "date": "?",
-                "files": "?",
-                "info": "",
-                "use": "Holiday Party 2005"
-            },
-            {
-                "date": "?",
-                "files": "?",
-                "info": "",
-                "use": "10th Anniversary Party"
-            }
-        ]
-    },
-    "Composers": "Joe",
-    "Earliest Date": "2005/12/22",
-    "HQ Source(s)": "SoundCloud + Other",
-    "Link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
-    "Medias": "Club Penguin",
-    "Name": "Jingle Bells",
-    "Name_official": 1,
-    "Order": 8,
-    "Source Links": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
-    "stock": {
-        "info": {
-            "link": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
-            "origin": "Shockwave Sound"
-        },
-        "sale": [
-            "Full track",
-            "30-secs version",
-            "Set of 3 music loops"
-        ]
-    },
+    "name": "Jingle Bells",
+    "truename": 1,
+    "artists": "Joe",
+    "altnames": "",
+    "sources": "SoundCloud + Other",
+    "sourcelinks": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
+    "order": 8,
+    "link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
     "versions": [
         {
             "info": "Highest quality available, but incomplete.",
@@ -75,5 +38,25 @@
             "name": "jingle-bells-complete-preview-no-voiceover.mp3",
             "source": "Sample"
         }
-    ]
+    ],
+    "cp": {
+        "order": 8,
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Holiday Party 2005"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "10th Anniversary Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "CP Music Mashup 2014",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "Club Penguin Youtube Channel",
+    "order": 376,
+    "link": "",
     "cp": {
-        "Earliest Date": "?",
-        "Order": 376,
-        "Related To": "Igloo",
+        "order": 376,
         "uses": [
             {
                 "date": "?",
@@ -26,12 +17,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "?",
-    "HQ Source(s)": "Club Penguin Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "CP Music Mashup 2014",
-    "Name_official": 1,
-    "Order": 376
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

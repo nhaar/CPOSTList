@@ -1,9 +1,13 @@
 {
-    "Alternate Names": "",
+    "name": "Atollon",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 839",
+    "order": 311,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/01/22",
-        "Order": 311,
-        "Related To": "Star Wars Rebels Takeover",
+        "order": 311,
         "uses": [
             {
                 "date": "2015/01/22",
@@ -12,13 +16,5 @@
                 "use": "Star Wars Rebels Takeover"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/01/22",
-    "HQ Source(s)": "SWF 839",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Atollon",
-    "Name_official": 0,
-    "Order": 311
+    }
 }

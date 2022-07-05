@@ -1,15 +1,13 @@
 {
-    "Name": "Musical Icicles",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 73,
-    "Link": "https://youtu.be/Iamr2qg9bs8",
-    "Earliest Date": "2008/07/25",
-    "Medias": "Club Penguin",
+    "name": "Musical Icicles",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Xylo",
+    "sources": "Other",
+    "order": 73,
+    "link": "https://youtu.be/Iamr2qg9bs8",
     "cp": {
-        "Order": 73,
-        "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam",
+        "order": 73,
         "uses": [
             {
                 "date": "2008/07/25",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Xylo"
+    }
 }

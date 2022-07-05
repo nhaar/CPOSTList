@@ -1,15 +1,13 @@
 {
-    "Name": "Penguin Panic",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 349,
-    "Link": "",
-    "Earliest Date": "2015/10/21",
-    "Medias": "Club Penguin",
+    "name": "Penguin Panic",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 349,
+    "link": "",
     "cp": {
-        "Order": 349,
-        "Earliest Date": "2015/10/21",
-        "Related To": "Halloween Party",
+        "order": 349,
         "uses": [
             {
                 "date": "2015/10/21",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

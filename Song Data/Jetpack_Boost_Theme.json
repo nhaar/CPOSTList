@@ -1,15 +1,13 @@
 {
-    "Name": "Jet Pack Boost Theme",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 1003,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin App, Club Penguin Island",
+    "name": "Jet Pack Boost Theme",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 1003,
+    "link": "",
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Jet Pack Boost",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -20,9 +18,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Jet Pack Adventure",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

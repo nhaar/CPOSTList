@@ -1,15 +1,13 @@
 {
-    "Name": "Lurking in the Shadows",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud",
-    "Order": 82,
-    "Link": "https://www.youtube.com/watch?v=QCe46LtERWY",
-    "Earliest Date": "2008/10/28",
-    "Medias": "Club Penguin",
+    "name": "Lurking in the Shadows",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Halloween Outdoors Theme",
+    "sources": "SoundCloud",
+    "order": 82,
+    "link": "https://www.youtube.com/watch?v=QCe46LtERWY",
     "cp": {
-        "Order": 82,
-        "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party",
+        "order": 82,
         "uses": [
             {
                 "date": "2008/10/28",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Halloween Party 2016",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -31,7 +27,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Halloween Outdoors Theme"
+    }
 }

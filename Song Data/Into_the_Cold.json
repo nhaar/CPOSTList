@@ -1,15 +1,13 @@
 {
-    "Name": "Into the Cold",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 369,
-    "Link": "",
-    "Earliest Date": "2016/08/17",
-    "Medias": "Club Penguin",
+    "name": "Into the Cold",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 369,
+    "link": "",
     "cp": {
-        "Order": 369,
-        "Earliest Date": "2016/08/17",
-        "Related To": "Frozen Fever Party",
+        "order": 369,
         "uses": [
             {
                 "date": "2016/08/17",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Frozen Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Ska Mad",
-    "Name_official": 1,
-    "HQ Source(s)": "Other",
-    "Order": 36,
-    "Link": "https://www.youtube.com/watch?v=1n-cyxBYy_I",
-    "Earliest Date": "2007/07/13",
-    "Medias": "Club Penguin",
+    "name": "Ska Mad",
+    "truename": 1,
+    "artists": "Jeremy Sherman",
+    "altnames": "Water Party Main Theme",
+    "sources": "Other",
+    "order": 36,
+    "link": "https://www.youtube.com/watch?v=1n-cyxBYy_I",
     "cp": {
-        "Order": 36,
-        "Earliest Date": "2007/07/13",
-        "Related To": "Water Party, Anniversary Party",
+        "order": 36,
         "uses": [
             {
                 "date": "2007/07/13",
@@ -23,22 +21,6 @@
                 "files": "",
                 "info": ""
             }
-        ]
-    },
-    "Composers": "Jeremy Sherman",
-    "Alternate Names": "Water Party Main Theme",
-    "stock": {
-        "info": {
-            "origin": "NEO Sounds",
-            "link": "https://www.neosounds.com/royalty-free-music/songs/2549/ska-mad-lynnemusic"
-        },
-        "sale": [
-            "60sec A",
-            "60sec B",
-            "30sec",
-            "Loop A",
-            "Loop B",
-            "Loop C"
         ]
     }
 }

@@ -1,15 +1,13 @@
 {
-    "Name": "Patrick's Jig",
-    "Name_official": 1,
-    "HQ Source(s)": "Game Day",
-    "Order": 96,
-    "Link": "https://www.youtube.com/watch?v=Iq7eT82zRFw",
-    "Earliest Date": "2009/03/13",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
+    "name": "Patrick's Jig",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Flipper Jig",
+    "sources": "Game Day",
+    "order": 96,
+    "link": "https://www.youtube.com/watch?v=Iq7eT82zRFw",
     "cp": {
-        "Order": 96,
-        "Earliest Date": "2009/03/13",
-        "Related To": "St. Patrick's Day, Music Jam. Dance Contest, Waddle On Party",
+        "order": 96,
         "uses": [
             {
                 "date": "2009/03/13",
@@ -38,9 +36,7 @@
         ]
     },
     "gd": {
-        "Order": 4,
-        "Earliest Date": "2010/09/17",
-        "Related To": "Opening cutscene",
+        "order": 4,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Friction Music",
-    "Alternate Names": "Flipper Jig"
+    }
 }

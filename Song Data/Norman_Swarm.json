@@ -1,15 +1,13 @@
 {
-    "Name": "Norman Swarm",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 116,
-    "Link": "https://youtu.be/GAvc3QQLB6U",
-    "Earliest Date": "2009/11/13",
-    "Medias": "Club Penguin",
+    "name": "Norman Swarm",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Norman Swarm #2",
+    "sources": "App",
+    "order": 116,
+    "link": "https://youtu.be/GAvc3QQLB6U",
     "cp": {
-        "Order": 116,
-        "Earliest Date": "2009/11/13",
-        "Related To": "Norman Swarm Has Been Transformed, Puffle Party, Wilderness Expedition",
+        "order": 116,
         "uses": [
             {
                 "date": "2009/11/13",
@@ -32,9 +30,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -49,7 +45,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Alternate Names": "Norman Swarm #2"
+    }
 }

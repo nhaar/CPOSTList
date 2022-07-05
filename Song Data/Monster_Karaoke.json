@@ -1,15 +1,13 @@
 {
-    "Name": "Monster Karaoke",
-    "Name_official": 0,
-    "HQ Source(s)": "SWF 428",
-    "Order": 208,
-    "Link": "",
-    "Earliest Date": "2013/07/27",
-    "Medias": "Club Penguin",
+    "name": "Monster Karaoke",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 428",
+    "order": 208,
+    "link": "",
     "cp": {
-        "Order": 208,
-        "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover",
+        "order": 208,
         "uses": [
             {
                 "date": "2013/07/27",
@@ -18,7 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

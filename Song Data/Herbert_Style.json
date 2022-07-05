@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "Herbert Style",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App + Club Penguin Youtube Channel",
+    "order": 331,
+    "link": "",
     "cp": {
-        "Earliest Date": "2015/04/15",
-        "Order": 331,
-        "Related To": "Cave Maze, Operation: Tri-umph",
+        "order": 331,
         "uses": [
             {
                 "date": "2015/04/15",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2015/04/15",
-    "HQ Source(s)": "App + Club Penguin Youtube Channel",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Herbert Style",
-    "Name_official": 1,
-    "Order": 331
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

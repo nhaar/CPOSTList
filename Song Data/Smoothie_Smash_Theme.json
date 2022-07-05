@@ -1,15 +1,13 @@
 {
-    "Name": "Smoothie Smash Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 176,
-    "Link": "",
-    "Earliest Date": "2012/08/30",
-    "Medias": "Club Penguin",
+    "name": "Smoothie Smash Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 176,
+    "link": "",
     "cp": {
-        "Order": 176,
-        "Earliest Date": "2012/08/30",
-        "Related To": "Smoothie Smash",
+        "order": 176,
         "uses": [
             {
                 "date": "?",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Smoothie Smash",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -33,9 +29,7 @@
         ]
     },
     "cpi": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Smoothie Smash",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,7 +38,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

@@ -1,16 +1,13 @@
 {
-    "Name": "Puffle Howitzer",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=R8so7BYd9ZI&t=37s",
-    "Order": 151.5,
-    "Link": "https://youtu.be/fKRSabWRoPg",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin Unused",
+    "name": "Puffle Howitzer",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=R8so7BYd9ZI&t=37s",
+    "order": 151.5,
+    "link": "https://youtu.be/fKRSabWRoPg",
     "cpu": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Puffle Launch",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -19,6 +16,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Chris Hendricks"
+    }
 }

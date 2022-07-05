@@ -1,34 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Holiday Party 2014, Holiday Party 2015",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Holiday Party 2014"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Holiday Party 2015"
-            }
-        ]
-    },
+    "name": "Cool In The Lounge",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 299,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/12/18",
-        "Order": 299,
-        "Related To": "Merry Walrus Party, Anniversary Party, Holiday Party",
+        "order": 299,
         "uses": [
             {
                 "date": "2014/12/18",
@@ -50,12 +29,27 @@
             }
         ]
     },
-    "Composers": "?",
-    "Earliest Date": "2014/12/18",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Cool In The Lounge",
-    "Name_official": 1,
-    "Order": 299
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2014"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2015"
+            }
+        ]
+    }
 }

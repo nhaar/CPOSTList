@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
+    "name": "Bretzel Bash",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 240,
+    "link": "",
     "cp": {
-        "Earliest Date": "2014/03/20",
-        "Order": 240,
-        "Related To": "Muppet's World Tour, Puffle Party",
+        "order": 240,
         "uses": [
             {
                 "date": "2014/03/20",
@@ -38,12 +23,21 @@
             }
         ]
     },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/03/20",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Bretzel Bash",
-    "Name_official": 1,
-    "Order": 240
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
+    }
 }

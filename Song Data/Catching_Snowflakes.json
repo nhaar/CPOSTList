@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Catching Snowflakes",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 298,
+    "link": "",
+    "cp": {
+        "order": 298,
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Holiday Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -18,26 +33,5 @@
                 "use": "Holiday Party 2015"
             }
         ]
-    },
-    "cp": {
-        "Earliest Date": "2014/12/18",
-        "Order": 298,
-        "Related To": "Merry Walrus Party",
-        "uses": [
-            {
-                "date": "2014/12/18",
-                "files": "",
-                "info": "",
-                "use": "Merry Walrus Party"
-            }
-        ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2014/12/18",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Catching Snowflakes",
-    "Name_official": 1,
-    "Order": 298
+    }
 }

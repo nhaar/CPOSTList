@@ -1,16 +1,14 @@
 {
-    "Name": "Replay",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=1JiKNkXFMB0",
-    "Order": 271,
-    "Link": "https://www.youtube.com/watch?v=1JiKNkXFMB0",
-    "Earliest Date": "2014/07/17",
-    "Medias": "Club Penguin",
+    "name": "Replay",
+    "truename": 1,
+    "artists": "Zendaya",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=1JiKNkXFMB0",
+    "order": 271,
+    "link": "https://www.youtube.com/watch?v=1JiKNkXFMB0",
     "cp": {
-        "Order": 271,
-        "Earliest Date": "2014/07/17",
-        "Related To": "Music Jam",
+        "order": 271,
         "uses": [
             {
                 "date": "2014/07/17",
@@ -21,9 +19,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -32,7 +28,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Zendaya",
-    "Alternate Names": ""
+    }
 }

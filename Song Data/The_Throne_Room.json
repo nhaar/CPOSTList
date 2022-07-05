@@ -1,16 +1,14 @@
 {
-    "Name": "The Throne Room",
-    "Name_official": 1,
-    "HQ Source(s)": "Youtube",
-    "Source Links": "https://www.youtube.com/watch?v=BjDaPOWdx6s",
-    "Order": 205,
-    "Link": "https://www.youtube.com/watch?v=BjDaPOWdx6s",
-    "Earliest Date": "2013/07/25",
-    "Medias": "Club Penguin",
+    "name": "The Throne Room",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=BjDaPOWdx6s",
+    "order": 205,
+    "link": "https://www.youtube.com/watch?v=BjDaPOWdx6s",
     "cp": {
-        "Order": 205,
-        "Earliest Date": "2013/07/25",
-        "Related To": "Star Wars Takeover",
+        "order": 205,
         "uses": [
             {
                 "date": "2013/07/25",
@@ -19,7 +17,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "John Williams",
-    "Alternate Names": ""
+    }
 }

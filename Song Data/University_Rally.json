@@ -1,15 +1,13 @@
 {
-    "Name": "University Rally",
-    "Name_official": 1,
-    "HQ Source(s)": "SoundCloud (NL)",
-    "Order": 212,
-    "Link": "",
-    "Earliest Date": "2013/07/27",
-    "Medias": "Club Penguin",
+    "name": "University Rally",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Monsters University Takeover Main Theme",
+    "sources": "SoundCloud (NL)",
+    "order": 212,
+    "link": "",
     "cp": {
-        "Order": 212,
-        "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover, School & Skate Party",
+        "order": 212,
         "uses": [
             {
                 "date": "2013/07/27",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, School Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -43,7 +39,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": "Monsters University Takeover Main Theme"
+    }
 }

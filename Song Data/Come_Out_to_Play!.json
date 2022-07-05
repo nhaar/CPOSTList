@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Come Out to Play!",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App + Club Penguin Island",
+    "order": 250,
+    "link": "",
+    "cp": {
+        "order": 250,
+        "uses": [
+            {
+                "date": "2014/04/17",
+                "files": "",
+                "info": "",
+                "use": "Puffle Park"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Park",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -19,23 +34,8 @@
             }
         ]
     },
-    "cp": {
-        "Earliest Date": "2014/04/17",
-        "Order": 250,
-        "Related To": "Puffle Park",
-        "uses": [
-            {
-                "date": "2014/04/17",
-                "files": "",
-                "info": "",
-                "use": "Puffle Park"
-            }
-        ]
-    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Summer Splash 2018",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,13 +44,5 @@
                 "use": "Summer Splash 2018"
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Earliest Date": "2014/04/17",
-    "HQ Source(s)": "App + Club Penguin Island",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Come Out to Play!",
-    "Name_official": 1,
-    "Order": 250
+    }
 }

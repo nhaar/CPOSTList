@@ -1,16 +1,14 @@
 {
-    "Name": "Journey to the Prehistoric",
-    "Name_official": 1,
-    "HQ Source(s)": "Norrie Henderson Portfolio",
-    "Source Links": "https://www.norriehenderson.com/portfolio",
-    "Order": 230,
-    "Link": "",
-    "Earliest Date": "2014/01/23",
-    "Medias": "Club Penguin",
+    "name": "Journey to the Prehistoric",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 230,
+    "link": "",
     "cp": {
-        "Order": 230,
-        "Earliest Date": "2014/01/23",
-        "Related To": "Prehistoric Party",
+        "order": 230,
         "uses": [
             {
                 "date": "2014/01/23",
@@ -21,9 +19,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Prehistoric Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -38,7 +34,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

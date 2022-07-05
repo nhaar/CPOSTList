@@ -1,15 +1,13 @@
 {
-    "Name": "Set It Off",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 346,
-    "Link": "",
-    "Earliest Date": "2015/09/16",
-    "Medias": "Club Penguin",
+    "name": "Set It Off",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 346,
+    "link": "",
     "cp": {
-        "Order": 346,
-        "Earliest Date": "2015/09/16",
-        "Related To": "Descendants Party",
+        "order": 346,
         "uses": [
             {
                 "date": "2015/09/16",
@@ -20,9 +18,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo, Descendants Party",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "?",
-    "Alternate Names": ""
+    }
 }

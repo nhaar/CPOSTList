@@ -1,28 +1,13 @@
 {
-    "Alternate Names": "Christmas Piano Medley, Deck The Halls",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Holiday Party 2014",
-        "uses": [
-            {
-                "date": "Igloo",
-                "files": "",
-                "info": "",
-                "use": "?"
-            },
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Holiday Party 2014"
-            }
-        ]
-    },
+    "name": "Holiday Medley",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Christmas Piano Medley, Deck The Halls",
+    "sources": "App",
+    "order": 87,
+    "link": "https://www.youtube.com/watch?v=aXylnDK_4w8",
     "cp": {
-        "Earliest Date": "2008/11/19",
-        "Order": 87,
-        "Related To": "Holiday Party, Merry Walrus Party, Anniversary Party",
+        "order": 87,
         "uses": [
             {
                 "date": "2008/11/19",
@@ -44,10 +29,25 @@
             }
         ]
     },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "Igloo",
+                "files": "",
+                "info": "",
+                "use": "?"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2014"
+            }
+        ]
+    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Holiday 2017",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -56,13 +56,5 @@
                 "use": "Holiday Party 2017"
             }
         ]
-    },
-    "Composers": "Chris Hendricks",
-    "Earliest Date": "2008/11/19",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=aXylnDK_4w8",
-    "Medias": "Club Penguin",
-    "Name": "Holiday Medley",
-    "Name_official": 1,
-    "Order": 87
+    }
 }

@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "VIP Pass",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Igloo"
-            }
-        ]
-    },
+    "name": "All-Access Pass",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "VIP Pass",
+    "sources": "App",
+    "order": 107,
+    "link": "https://www.youtube.com/watch?v=8BMLcROkgLc",
     "cp": {
-        "Earliest Date": "2009/07/17",
-        "Order": 107,
-        "Related To": "Music Jam, Puffle Party",
+        "order": 107,
         "uses": [
             {
                 "date": "2009/07/17",
@@ -32,12 +23,15 @@
             }
         ]
     },
-    "Composers": "Michael Campitelli",
-    "Earliest Date": "2009/07/17",
-    "HQ Source(s)": "App",
-    "Link": "https://www.youtube.com/watch?v=8BMLcROkgLc",
-    "Medias": "Club Penguin",
-    "Name": "All-Access Pass",
-    "Name_official": 1,
-    "Order": 107
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
 }

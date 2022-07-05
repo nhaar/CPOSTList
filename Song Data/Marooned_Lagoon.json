@@ -1,15 +1,13 @@
 {
-    "Name": "Marooned Lagoon",
-    "Name_official": 1,
-    "HQ Source(s)": "App",
-    "Order": 235,
-    "Link": "",
-    "Earliest Date": "2014/02/20",
-    "Medias": "Club Penguin",
+    "name": "Marooned Lagoon",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 235,
+    "link": "",
     "cp": {
-        "Order": 235,
-        "Earliest Date": "2014/02/20",
-        "Related To": "The Fair, Pirate Party",
+        "order": 235,
         "uses": [
             {
                 "date": "2014/02/20",
@@ -26,9 +24,7 @@
         ]
     },
     "app": {
-        "Order": 1,
-        "Earliest Date": "?",
-        "Related To": "Igloo",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -37,7 +33,5 @@
                 "info": ""
             }
         ]
-    },
-    "Composers": "Norrie Henderson",
-    "Alternate Names": ""
+    }
 }

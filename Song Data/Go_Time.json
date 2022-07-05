@@ -1,9 +1,24 @@
 {
-    "Alternate Names": "",
+    "name": "Go Time",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 326,
+    "link": "",
+    "cp": {
+        "order": 326,
+        "uses": [
+            {
+                "date": "20150326",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            }
+        ]
+    },
     "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Igloo, Puffle Party 2015",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -19,23 +34,8 @@
             }
         ]
     },
-    "cp": {
-        "Earliest Date": "2015/03/26",
-        "Order": 326,
-        "Related To": "Puffle Party",
-        "uses": [
-            {
-                "date": "20150326",
-                "files": "",
-                "info": "",
-                "use": "Puffle Party 2015"
-            }
-        ]
-    },
     "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Mount Blizzard",
+        "order": 1,
         "uses": [
             {
                 "date": "?",
@@ -44,13 +44,5 @@
                 "use": "Mount Blizzard"
             }
         ]
-    },
-    "Composers": "?",
-    "Earliest Date": "2015/03/26",
-    "HQ Source(s)": "SoundCloud",
-    "Link": "",
-    "Medias": "Club Penguin",
-    "Name": "Go Time",
-    "Name_official": 1,
-    "Order": 326
+    }
 }

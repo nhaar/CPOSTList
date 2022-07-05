@@ -1,22 +1,13 @@
 {
-    "Alternate Names": "Anniversary Party",
-    "app": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Town",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Town"
-            }
-        ]
-    },
+    "name": "Celebration",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Anniversary Party",
+    "sources": "Game Day + CPI SoundCloud",
+    "order": 81,
+    "link": "https://www.youtube.com/watch?v=8YvLk7x5Buw",
     "cp": {
-        "Earliest Date": "2008/10/24",
-        "Order": 81,
-        "Related To": "Anniversary Party, Make Your Mark: Ultimate Jam, Town",
+        "order": 81,
         "uses": [
             {
                 "date": "2008/10/24",
@@ -38,25 +29,8 @@
             }
         ]
     },
-    "cpi": {
-        "Earliest Date": "?",
-        "Order": 1,
-        "Related To": "Town",
-        "uses": [
-            {
-                "date": "?",
-                "files": "",
-                "info": "",
-                "use": "Town"
-            }
-        ]
-    },
-    "Composers": "Friction Music",
-    "Earliest Date": "2008/10/24",
     "gd": {
-        "Earliest Date": "2010/09/17",
-        "Order": 2,
-        "Related To": "Menu",
+        "order": 2,
         "uses": [
             {
                 "date": "2010/09/17",
@@ -66,10 +40,26 @@
             }
         ]
     },
-    "HQ Source(s)": "Game Day + CPI SoundCloud",
-    "Link": "https://www.youtube.com/watch?v=8YvLk7x5Buw",
-    "Medias": "Club Penguin, Club Penguin: Game Day!",
-    "Name": "Celebration",
-    "Name_official": 1,
-    "Order": 81
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Town"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Town"
+            }
+        ]
+    }
 }
