@@ -11,12 +11,12 @@
         "Order": 33,
         "Earliest Date": "2007/06/04",
         "Related To": "Catchin' Waves",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "name": "113.swf",
                 "info": "The song consists of 8 clips, that are played in the order 1, 2, 2, 3, 4, 5, 6, 6, 7, 6, 8, and then loops."
             },
-            "uses": {
+            {
                 "1": {
                     "date": "2007/06/04",
                     "use": "Catchin' Waves",
@@ -24,7 +24,7 @@
                     "info": ""
                 }
             }
-        }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "",

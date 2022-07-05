@@ -4,12 +4,12 @@
         "Earliest Date": "?",
         "Order": 13.8,
         "Related To": "Website Tutorial",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "",
                 "name": "500.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

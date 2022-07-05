@@ -4,12 +4,12 @@
         "Earliest Date": "2011/06/16",
         "Order": 159,
         "Related To": "Music Jam",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "Party SWF from Music Jam 2011.",
                 "name": "party2.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "2011/Jun/16",

@@ -17,20 +17,20 @@
         "Earliest Date": "2005/10/24",
         "Order": 3,
         "Related To": "Dance Club",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random.",
                 "name": "5.swf"
             },
-            "2": {
+            {
                 "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random.",
                 "name": "6.swf"
             },
-            "3": {
+            {
                 "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D",
                 "name": "673.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "2005/10/24",

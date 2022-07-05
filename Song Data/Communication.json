@@ -4,12 +4,12 @@
         "Earliest Date": "2006/02/14",
         "Order": 11,
         "Related To": "Valentine's Day Celebration, Underground Opening Party",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "The song is split in 6 clips, with clip 1 being loop 7 and clips 2 to 6 being loops 2 to 6. The clips played progressively at random.",
                 "name": "2.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

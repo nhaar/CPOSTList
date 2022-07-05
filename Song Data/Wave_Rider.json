@@ -10,12 +10,12 @@
         "Order": 31,
         "Earliest Date": "2007/05/25",
         "Related To": "Cove Opening Party",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "name": "214.swf",
                 "info": "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped."
             }
-        },
+        ],
         "uses": [
             {
                 "date": "2007/05/25",

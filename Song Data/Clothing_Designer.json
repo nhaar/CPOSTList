@@ -3,12 +3,12 @@
         "Earliest Date": "?",
         "Order": 0,
         "Related To": "Clothing Customizer",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "",
                 "name": "?"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

@@ -9,12 +9,12 @@
         "Earliest Date": "2010/02/18",
         "Order": 123.1,
         "Related To": "Puffle Party",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "",
                 "name": "282.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "2010/Feb/18-2010/Feb/25",

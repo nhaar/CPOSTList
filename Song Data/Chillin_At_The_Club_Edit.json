@@ -3,12 +3,12 @@
         "Earliest Date": "?",
         "Order": 1,
         "Related To": "Login Screen",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "",
                 "name": "?"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

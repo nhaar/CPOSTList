@@ -9,12 +9,12 @@
         "Earliest Date": "?",
         "Order": 13.9,
         "Related To": "PSA HQ, Everyday Phoning Facility",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "It consisted of 3 clips, loops A to C, played progressively at random.",
                 "name": "7.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

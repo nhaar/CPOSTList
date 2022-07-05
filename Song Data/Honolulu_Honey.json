@@ -9,12 +9,12 @@
         "Earliest Date": "2006/01/27",
         "Order": 10,
         "Related To": "Winter Luau, April Fools Party 2011, April Fools Party 2012, Operation: Blackout, Teen Beach Movie Summer Jam, Music Jam 2014, Finding Dory Party",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "This consists of Loop A, followed by Loop C played twice, then Loop A and finally Loop C again.",
                 "name": "11.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

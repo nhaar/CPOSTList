@@ -17,12 +17,12 @@
         "Earliest Date": "?",
         "Order": 165.1,
         "Related To": "Holiday Party",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "",
                 "name": "4.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",

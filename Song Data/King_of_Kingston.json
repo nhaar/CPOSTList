@@ -9,20 +9,20 @@
         "Earliest Date": "2005/10/24",
         "Order": 1,
         "Related To": "Coffee Shop, Book Room",
-        "files": {
-            "1": {
+        "files": [
+            {
                 "info": "It used the four loops, played randomly in order",
                 "name": "1.swf"
             },
-            "2": {
+            {
                 "info": "All 4 loops played sequentially, with ambience noise",
                 "name": "429.swf"
             },
-            "3": {
+            {
                 "info": "All 4 loops palyed sequentially, with ambience noises",
                 "name": "669.swf"
             }
-        },
+        ],
         "uses": [
             {
                 "date": "?",
