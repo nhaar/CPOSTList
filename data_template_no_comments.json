@@ -1,41 +1,34 @@
 {
-	"Name": "",
-	"Name_official": 0,
-	"Alternate Names" : "",
-	"Composers" : "",
-	"HQ Source(s)": "",
-	"Source Links" : "",
-	"Order": 0,
-	"Link": "",
-	"Earliest Date": "//",
-	"Media Info": { 
-		"Order": 0, 
-		"Earliest Date": "//",
-		"Related To": "", 
-		"files": { 
-			"1": { 
-			"name" : "",
-			"info" : ""
-			}
-		},
-		"uses": {
-			"1": {
-			"date" :"",
-			"use": "", 
-			"files": "",
-			"info" : ""
-			}
-		}
-	},
-	"stock": {
-		"info" : {"origin": "", "link": ""},
-		"sale" : [""]
-	},
-	"versions": {
-		"1": {
-		"name" : "",
-		"info" : "",
-		"source" : ""
-		}
-	}
+    "name": "",
+    "truename": 0,
+    "artists": "",
+    "altnames": "",
+    "sources": "",
+    "sourcelinks": "",
+    "order": 0,
+    "link": "",
+    "versions": [
+        {
+            "name": "",
+            "info": "",
+            "source": ""
+        }
+    ],
+    "media": {
+        "order": 0,
+        "files": [
+            {
+                "name": "",
+                "info": ""
+            }
+        ],
+        "uses": [
+            {
+                "date": "",
+                "use": "",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
 }
