@@ -2,31 +2,22 @@ The basic template that every song needs
 
 ```
 {
-	"Name": "",
-	"Name_official": 0,
-	"Alternate Names" : "",
-	"Composers" : "",
-	"HQ Source(s)": "",
-	"Source Links" : "",
-	"Order": 0,
-	"Link": "",
-	"Earliest Date": "//",
-        "Media Info": {
-        "Order": 0, 
-        "Earliest Date": "//",
-        "Related To": "", 
-        "files": {},
-        "uses": {}
-    },
-    "versions": {},
-    "stock": {}
+    "name": "",
+    "truename": 0,
+    "artists": "",
+    "altnames": "",
+    "sources": "",
+    "sourcelinks": "",
+    "order": 0,
+    "link": "",
+    "versions": [],
 }
 ```
 
 File Versions template
 
 ```
-"1": {
+{
 "name" : "",
 "info" : "",
 "source" : ""
@@ -36,17 +27,20 @@ File Versions template
 Media Info template
 
 ```
-"Order": 0, 
-"Earliest Date": "//",
-"Related To": "", 
-"files": {},
-"uses": {}
+"order": 0,
+"files": [],
+"uses": [{ 
+"date" : "",
+"use" : "",
+"files" : "",
+"info" : ""
+}]
 ```
 
 Files template (for Media Info)
 
 ```
-"1": { 
+{ 
 "name" : "",
 "info" : ""
 }
@@ -55,17 +49,10 @@ Files template (for Media Info)
 Uses template (for Media Info)
 
 ```
-"1": { 
+{ 
 "date" : "",
 "use" : "",
 "files" : "",
 "info" : ""
 }
-```
-
-Stock template
-
-```
-"info" : {"origin": "", "link": ""},
-"sale" : [""]
 ```
