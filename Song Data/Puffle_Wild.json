@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 324,
         "Earliest Date": "2015/03/25",
-        "Related To": "Puffle Wild"
+        "Related To": "Puffle Wild",
+        "uses": [
+            {
+                "date": "2015/03/25",
+                "use": "Puffle Wild",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Wild"
+        "Related To": "Igloo, Puffle Wild",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Wild",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

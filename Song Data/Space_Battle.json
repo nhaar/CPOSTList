@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 255,
         "Earliest Date": "2014/05/22",
-        "Related To": "Future Party"
+        "Related To": "Future Party",
+        "uses": [
+            {
+                "date": "2014/05/22",
+                "use": "Future Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean"
+        "Related To": "Igloo, Operation: Crustacean",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Igloo"
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 60,
         "Earliest Date": "2008/05/16",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": [
+            {
+                "date": "2008/05/16",
+                "use": "Medieval Party 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Medieval Party 2018"
+        "Earliest Date": "?",
+        "Related To": "Medieval Party 2018",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Medieval Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Medieval Party Theme, Medieval Town Outside, Medieval Town, The Royal Court",

@@ -9,12 +9,64 @@
     "CP Flash Info": {
         "Order": 141,
         "Earliest Date": "2010/09/03",
-        "Related To": "The Fair, Puffle Party, Pi Day, Operation: Tri-umph, Waddle On Party"
+        "Related To": "The Fair, Puffle Party, Pi Day, Operation: Tri-umph, Waddle On Party",
+        "uses": [
+            {
+                "date": "2010/09/03",
+                "use": "The Fair 2010",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Pi Day",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph"
+        "Related To": "Igloo, Puffle Party 2015, Operation: Tri-umph",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "The Fair Theme"

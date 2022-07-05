@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 297,
         "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party"
+        "Related To": "Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2014, Holiday Party 2015"
+        "Related To": "Igloo, Holiday Party 2014, Holiday Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Holiday Party 2014",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Holiday Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

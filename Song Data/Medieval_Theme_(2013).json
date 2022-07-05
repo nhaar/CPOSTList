@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 220,
         "Earliest Date": "2013/09/19",
-        "Related To": "Medieval Party, Waddle On Party"
+        "Related To": "Medieval Party, Waddle On Party",
+        "uses": [
+            {
+                "date": "2013/09/19",
+                "use": "Medieval Party 2013",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "David Fairfield, Chris Hendricks",
     "Alternate Names": ""

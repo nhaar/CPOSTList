@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 163,
         "Earliest Date": "2011/11/03",
-        "Related To": "Pufflescape"
+        "Related To": "Pufflescape",
+        "uses": [
+            {
+                "date": "2011/11/03",
+                "use": "Pufflescape",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Pufflescape"
+        "Related To": "Pufflescape",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Pufflescape",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Pufflescape Theme"

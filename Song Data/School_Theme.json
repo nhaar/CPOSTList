@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 198,
         "Earliest Date": "2013/07/11",
-        "Related To": "School"
+        "Related To": "School",
+        "uses": [
+            {
+                "date": "2013/07/11",
+                "use": "School",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "School Party, School"
+        "Related To": "School Party, School",
+        "uses": [
+            {
+                "date": "?",
+                "use": "School Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

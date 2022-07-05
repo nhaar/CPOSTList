@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 146,
         "Earliest Date": "2010/11/24",
-        "Related To": "Card-Jitsu Water"
+        "Related To": "Card-Jitsu Water",
+        "uses": [
+            {
+                "date": "2010/11/24",
+                "use": "Card-Jitsu Water",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Water Dojo"

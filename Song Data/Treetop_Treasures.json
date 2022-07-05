@@ -9,17 +9,46 @@
     "CP Flash Info": {
         "Order": 293,
         "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party, Fashion Festival, Anniversary Party"
+        "Related To": "Pirate Party, Fashion Festival, Anniversary Party",
+        "uses": [
+            {
+                "date": "2014/11/20",
+                "use": "Pirate Party 2014",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Fashion Festival",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party"
-    },
-    "CPI Info": {
-        "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Aunt Arctic Quest"
+        "Related To": "Igloo, Fashion Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

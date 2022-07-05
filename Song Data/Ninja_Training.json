@@ -9,20 +9,28 @@
     "CP Flash Info": {
         "Order": 86,
         "Earliest Date": "2008/11/17",
-        "Related To": "Card-Jitsu"
+        "Related To": "Card-Jitsu",
+        "uses": [
+            {
+                "date": "2008/11/17",
+                "use": "Card-Jitsu",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "",
-	"versions": {
-		"1": {
-            "name" : "Card-Jitsu.mp3",
-            "info" : "Highest quality available with ambience.",
-            "source" : "Other"
-		},
-		"2": {
-            "name" : "116.swf",
-            "info" : "Highest quality available with no ambience.",
-            "source" : "SWF 116"
+    "versions": {
+        "1": {
+            "name": "Card-Jitsu.mp3",
+            "info": "Highest quality available with ambience.",
+            "source": "Other"
+        },
+        "2": {
+            "name": "116.swf",
+            "info": "Highest quality available with no ambience.",
+            "source": "SWF 116"
         }
-	}
+    }
 }

@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 68,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, The Fair, Make Your Mark: Ultimate Jam"
+        "Related To": "Music Jam, The Fair, Make Your Mark: Ultimate Jam",
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 3,
         "Earliest Date": "2010/09/17",
-        "Related To": "Wi-fi connect"
+        "Related To": "Wi-fi connect",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Wi-fi connect",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Pink Puffle Song, Pop Song, Bubble Pop"

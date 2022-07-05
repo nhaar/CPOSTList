@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 318,
         "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party"
+        "Related To": "SoundStudio Party",
+        "uses": [
+            {
+                "date": "2015/02/19",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Fashion Party"
+        "Related To": "Igloo, Fashion Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Fashin Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

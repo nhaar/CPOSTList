@@ -9,12 +9,30 @@
     "CP Flash Info": {
         "Order": 21,
         "Earliest Date": "2006/11/06",
-        "Related To": "Jet Pack Adventure"
+        "Related To": "Jet Pack Adventure",
+        "uses": [
+            {
+                "date": "2006/11/06",
+                "use": "Jet Pack Adventure",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Tomasz Stobierski",
     "Alternate Names": "Jet Pack Adventure Theme",
-	"stock": {
-		"info" : {"origin": "Shockwave Sound", "link": "https://www.shockwave-sound.com/stock-music-track/3796/time-travellers-t-stobierski"},
-		"sale" : ["Full track", "60-secs version 1", "60-secs version 2", "30-secs version 1", "30-secs version 2", "Set of 2 music loops"]
-	}
+    "stock": {
+        "info": {
+            "origin": "Shockwave Sound",
+            "link": "https://www.shockwave-sound.com/stock-music-track/3796/time-travellers-t-stobierski"
+        },
+        "sale": [
+            "Full track",
+            "60-secs version 1",
+            "60-secs version 2",
+            "30-secs version 1",
+            "30-secs version 2",
+            "Set of 2 music loops"
+        ]
+    }
 }

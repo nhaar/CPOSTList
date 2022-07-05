@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 361,
         "Earliest Date": "2016/05/18",
-        "Related To": "Zootopia Party"
+        "Related To": "Zootopia Party",
+        "uses": [
+            {
+                "date": "2016/05/18",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Zootopia Party"
+        "Related To": "Igloo, Zootopia Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 25,
         "Earliest Date": "2007/01/19",
-        "Related To": "Winter Fiesta 2007, Winter Fiesta 2009"
+        "Related To": "Winter Fiesta 2007, Winter Fiesta 2009",
+        "uses": [
+            {
+                "date": "2007/01/19",
+                "use": "Winter Fiesta 2007",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Winter Fiesta 2009",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Milo Deering, Danny Brown",
     "Alternate Names": "Winter Fiesta Main Theme"

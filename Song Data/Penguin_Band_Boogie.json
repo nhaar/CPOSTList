@@ -9,17 +9,53 @@
     "CP Flash Info": {
         "Order": 92,
         "Earliest Date": "2009/01/15",
-        "Related To": "Dance-A-Thon. Dance Contest, Puffle Party"
+        "Related To": "Dance-A-Thon. Dance Contest, Puffle Party",
+        "uses": [
+            {
+                "date": "2009/01/15",
+                "use": "Dance-A-Thon",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 16,
         "Earliest Date": "2010/09/17",
-        "Related To": "Green team zone"
+        "Related To": "Green team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Green team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Club Penguin Team",
     "Alternate Names": "Waddle On Dance-A-Thon, Silly To Funky"

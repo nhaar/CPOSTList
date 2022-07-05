@@ -9,19 +9,49 @@
     "CP Flash Info": {
         "Order": 168,
         "Earliest Date": "2012/02/24",
-        "Related To": "Rockhopper's Quest, Inside Out Party"
+        "Related To": "Rockhopper's Quest, Inside Out Party",
+        "uses": [
+            {
+                "date": "2012/02/24",
+                "use": "Rockhopper's Quest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Inside Out Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Igloo"
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Voyage of the Migrator",
-    "notes" : "This is an orchestral arrangement of Ocean Voyage."
+    "notes": "This is an orchestral arrangement of Ocean Voyage."
 }

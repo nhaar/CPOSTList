@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 187,
         "Earliest Date": "2013/03/21",
-        "Related To": "Puffle Hotel Lobby"
+        "Related To": "Puffle Hotel Lobby",
+        "uses": [
+            {
+                "date": "2013/03/21",
+                "use": "Puffle Hotel Lobby",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Puffle Hotel Lobby"
+        "Related To": "Puffle Hotel Lobby",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Puffle Hotel Lobby",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Puffle Hotel 1"

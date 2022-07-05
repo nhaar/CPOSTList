@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 145,
         "Earliest Date": "2010/11/16",
-        "Related To": "Water Dojo"
+        "Related To": "Water Dojo",
+        "uses": [
+            {
+                "date": "2010/11/16",
+                "use": "Water Dojo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Water Dojo Theme"

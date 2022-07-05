@@ -9,7 +9,21 @@
     "Game Day Info": {
         "Order": 28,
         "Earliest Date": "2010/09/17",
-        "Related To": "Dance Off! Hard, Yellow Ski Hill Challenge"
+        "Related To": "Dance Off! Hard, Yellow Ski Hill Challenge",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Dance Off! Hard",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "2010/09/17",
+                "use": "Yellow Ski Hill Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

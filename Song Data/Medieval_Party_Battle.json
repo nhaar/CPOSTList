@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 62,
         "Earliest Date": "2008/05/16",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": [
+            {
+                "date": "2008/05/16",
+                "use": "Medieval Party 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 33,
         "Earliest Date": "2010/09/17",
-        "Related To": "Snowball Battle"
+        "Related To": "Snowball Battle",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Snowball Battle",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Medieval Battle Theme, Medieval 4, Epic Battle, To Battle!"

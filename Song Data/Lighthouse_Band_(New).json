@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 273,
         "Earliest Date": "?",
-        "Related To": "Lighthouse"
+        "Related To": "Lighthouse",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Lighthouse",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

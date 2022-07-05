@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 63,
         "Earliest Date": "2008/06/13",
-        "Related To": "Penguins That Time Forgot"
+        "Related To": "Penguins That Time Forgot",
+        "uses": [
+            {
+                "date": "2008/06/13",
+                "use": "Penguins That Time Forgot",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 37,
         "Earliest Date": "2010/09/17",
-        "Related To": "Green Ski Village Challenge"
+        "Related To": "Green Ski Village Challenge",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Green Ski Village Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Pre-Historick Rock, Penguins That Time Forgot Theme"

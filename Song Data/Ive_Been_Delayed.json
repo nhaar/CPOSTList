@@ -9,22 +9,54 @@
     "CP Flash Info": {
         "Order": 386,
         "Earliest Date": "2017/01/31",
-        "Related To": "Waddle On Party"
+        "Related To": "Waddle On Party",
+        "uses": [
+            {
+                "date": "2017/01/31",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Penguin Chat Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "? (Penguin Chat, Penguin Chat 3)"
+        "Related To": "? (Penguin Chat, Penguin Chat 3)",
+        "uses": [
+            {
+                "date": "?",
+                "use": "? (Penguin Chat, PEnguin Chat 3)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Credits"
+        "Related To": "Credits",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Credits",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "TAS 1000",
     "Alternate Names": ""

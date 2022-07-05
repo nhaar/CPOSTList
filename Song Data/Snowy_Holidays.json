@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 47,
         "Earliest Date": "2007/12/21",
-        "Related To": "Holiday Party, Merry Walrus Party"
+        "Related To": "Holiday Party, Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2007/12/21",
+                "use": "Holiday Party 2007",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "Merry Walrus Party",
+                "use": "",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2016"
+        "Related To": "Igloo, Holiday Party 2016",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Holiday Party 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Christmas Calm, Xmas, Holiday Jingle"

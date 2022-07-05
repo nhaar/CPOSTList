@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 334,
         "Earliest Date": "2015/04/22",
-        "Related To": "Frozen Fever Party"
+        "Related To": "Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2015/04/22",
+                "use": "Frozen Fever Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Kristen Anderson-Lopez, Robert Lopez",
     "Alternate Names": ""

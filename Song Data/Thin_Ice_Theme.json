@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 24,
         "Earliest Date": "2006/12/19",
-        "Related To": "Thin Ice"
+        "Related To": "Thin Ice",
+        "uses": [
+            {
+                "date": "2006/12/19",
+                "use": "Thin Ice",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 76,
         "Earliest Date": "2008/08/08",
-        "Related To": "Team Blue's Rally 2"
+        "Related To": "Team Blue's Rally 2",
+        "uses": [
+            {
+                "date": "2008/08/08",
+                "use": "Team Blue's Rally 2",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 14,
         "Earliest Date": "2010/09/17",
-        "Related To": "Red team zone"
+        "Related To": "Red team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Red team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Team Blue 2"

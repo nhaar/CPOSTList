@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 123,
         "Earliest Date": "2010/02/12",
-        "Related To": "Secrets of The Bamboo Forest"
+        "Related To": "Secrets of The Bamboo Forest",
+        "uses": [
+            {
+                "date": "2010/02/12",
+                "use": "Secrets of The Bamboo Forest",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "The Bamboo Forest"

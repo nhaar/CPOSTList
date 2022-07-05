@@ -9,17 +9,59 @@
     "CP Flash Info": {
         "Order": 103,
         "Earliest Date": "2009/06/12",
-        "Related To": "Adventure Party, Island Adventure Party, Anniversary Party, Waddle On Party"
+        "Related To": "Adventure Party, Island Adventure Party, Anniversary Party, Waddle On Party",
+        "uses": [
+            {
+                "date": "2009/06/12",
+                "use": "Adventure Party 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversarty Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 21,
         "Earliest Date": "2010/09/17",
-        "Related To": "Town Challenge"
+        "Related To": "Town Challenge",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Town Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Jungle Jangles"

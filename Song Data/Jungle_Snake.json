@@ -8,7 +8,15 @@
     "CP Flash Unused Info": {
         "Order": 0.45,
         "Earliest Date": "?",
-        "Related To": "Island Adventure Party"
+        "Related To": "Island Adventure Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks"
 }

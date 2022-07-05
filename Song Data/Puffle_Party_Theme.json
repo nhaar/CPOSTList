@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 93,
         "Earliest Date": "2009/02/20",
-        "Related To": "Puffle Party, Anniversary Party"
+        "Related To": "Puffle Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2009/02/20",
+                "use": "Puffle party 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 7,
         "Earliest Date": "2010/09/17",
-        "Related To": "Feed A Puffle"
+        "Related To": "Feed A Puffle",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Feed A Puffle",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

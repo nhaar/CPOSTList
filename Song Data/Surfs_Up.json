@@ -10,12 +10,28 @@
     "CP Flash Info": {
         "Order": 215,
         "Earliest Date": "2013/08/22",
-        "Related To": "Teen Beach Movie Summer Jam"
+        "Related To": "Teen Beach Movie Summer Jam",
+        "uses": [
+            {
+                "date": "2013/08/22",
+                "use": "Teen Beach Movie Summer Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Ross Lynch, Maia Mitchell, Teen Beach Movie Cast",
     "Alternate Names": ""

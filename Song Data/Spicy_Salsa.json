@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 52,
         "Earliest Date": "2008/01/18",
-        "Related To": "Winter Fiesta, April Fools Party, Puffle Party, Anniversary Party"
+        "Related To": "Winter Fiesta, April Fools Party, Puffle Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2008/01/18",
+                "use": "Winter Fiesta 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "April Fools (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Fiestcha, Fiesta Party"

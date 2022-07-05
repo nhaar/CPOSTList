@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 75,
         "Earliest Date": "2008/08/06",
-        "Related To": "Aqua Grabber"
+        "Related To": "Aqua Grabber",
+        "uses": [
+            {
+                "date": "2008/08/06",
+                "use": "Aqua Grabber",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Reef, Soda Seas Theme"

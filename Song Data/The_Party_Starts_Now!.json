@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 173,
         "Earliest Date": "2012/07/19",
-        "Related To": "Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016"
+        "Related To": "Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016",
+        "uses": [
+            {
+                "date": "2012/07/19",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Penguin Prom",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": "Ultimate Jam, Party Starts Now"

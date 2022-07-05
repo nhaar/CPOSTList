@@ -9,25 +9,53 @@
     "CP Flash Info": {
         "Order": 71,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, Penguin Games, Penguin Cup"
+        "Related To": "Music Jam, Penguin Games, Penguin Cup",
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Penguin Games",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Penguin Cup",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 8,
         "Earliest Date": "2010/09/17",
-        "Related To": "Goal!"
+        "Related To": "Goal!",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Goal!",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Rock Rink, Let The Game Begin, Rock N Roll",
-	"versions": {
-		"1": {
-            "name" : "ig_IH_00.brstm",
-            "info" : "Highest quality version, but incomplete, missing the ending.",
-            "source" : "Game Day"
-		},
-		"2": {
-            "name" : "MUS_271_Igloo_AmbientRiffing.mp3",
-            "info" : "Highest quality version that is complete.",
-            "source" : "App"
-		}
-	}
+    "versions": {
+        "1": {
+            "name": "ig_IH_00.brstm",
+            "info": "Highest quality version, but incomplete, missing the ending.",
+            "source": "Game Day"
+        },
+        "2": {
+            "name": "MUS_271_Igloo_AmbientRiffing.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    }
 }

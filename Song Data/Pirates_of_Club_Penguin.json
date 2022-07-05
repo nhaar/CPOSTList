@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 291,
         "Earliest Date": "2014/11/20",
-        "Related To": "Pirate Party"
+        "Related To": "Pirate Party",
+        "uses": [
+            {
+                "date": "2014/11/20",
+                "use": "Pirate Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Rockhopper Quest"
+        "Earliest Date": "?",
+        "Related To": "Rockhopper Quest",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Rockhopper Quest",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "Crab Battle"

@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 225,
         "Earliest Date": "2013/11/14",
-        "Related To": "Pet Shop"
+        "Related To": "Pet Shop",
+        "uses": [
+            {
+                "date": "2013/11/14",
+                "use": "Pet Shop",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2014, Pet Shop"
+        "Related To": "Igloo, Puffle Party 2014, Pet Shop",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party 2014",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Pet Shop",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Pet Shop Theme"

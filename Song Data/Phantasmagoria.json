@@ -9,19 +9,43 @@
     "CP Flash Info": {
         "Order": 84,
         "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2008/10/28",
+                "use": "Halloween Party 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Halloween 2018"
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks, Johann Sebastian Bach",
     "Alternate Names": "",
-    "notes" : "It is an arrangement of Toccata in D Minor by Johann Sebastian Bach."
+    "notes": "It is an arrangement of Toccata in D Minor by Johann Sebastian Bach."
 }

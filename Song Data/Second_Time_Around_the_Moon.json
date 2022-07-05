@@ -10,17 +10,47 @@
     "CP Flash Info": {
         "Order": 127,
         "Earliest Date": "2010/03/18",
-        "Related To": "Penguin Play Awards, Zootopia Party"
+        "Related To": "Penguin Play Awards, Zootopia Party",
+        "uses": [
+            {
+                "date": "2010/03/18",
+                "use": "Penguin Play Awards",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Zootopia Party"
+        "Related To": "Zootopia Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Town"
+        "Related To": "Town",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Anchovy Jazz"

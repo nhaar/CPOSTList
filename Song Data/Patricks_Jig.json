@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 96,
         "Earliest Date": "2009/03/13",
-        "Related To": "St. Patrick's Day, Music Jam. Dance Contest, Waddle On Party"
+        "Related To": "St. Patrick's Day, Music Jam. Dance Contest, Waddle On Party",
+        "uses": [
+            {
+                "date": "2009/03/13",
+                "use": "St. Patrick's Day",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 4,
         "Earliest Date": "2010/09/17",
-        "Related To": "Opening cutscene"
+        "Related To": "Opening cutscene",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Opening cutscene",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Flipper Jig"

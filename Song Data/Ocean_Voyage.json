@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 30.01,
         "Earliest Date": "2007/04/27",
-        "Related To": "Pirate Party, Rockhopper's Arrival Party"
+        "Related To": "Pirate Party, Rockhopper's Arrival Party",
+        "uses": [
+            {
+                "date": "2007/04/27",
+                "use": "Pirate Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Rockhopper's Arrival Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Water Jig"

@@ -9,17 +9,59 @@
     "CP Flash Info": {
         "Order": 106,
         "Earliest Date": "2009/07/17",
-        "Related To": "Music Jam, Make Your Mark: Ultimate Jam, Zootopia Party"
+        "Related To": "Music Jam, Make Your Mark: Ultimate Jam, Zootopia Party",
+        "uses": [
+            {
+                "date": "2009/07/17",
+                "use": "Music Jam 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 9,
         "Earliest Date": "2010/09/17",
-        "Related To": "Rollin' Riot"
+        "Related To": "Rollin' Riot",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Rollin' Riot",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Zootopia Party"
+        "Related To": "Igloo, Zootopia Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Zootopia Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Michael Campitelli",
     "Alternate Names": "Ambient Riffing"

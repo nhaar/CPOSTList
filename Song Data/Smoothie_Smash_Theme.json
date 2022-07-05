@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 176,
         "Earliest Date": "2012/08/30",
-        "Related To": "Smoothie Smash"
+        "Related To": "Smoothie Smash",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Smoothie Smash",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Smoothie Smash"
+        "Related To": "Smoothie Smash",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Smoothie Smash",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Smoothie Smash"
+        "Related To": "Smoothie Smash",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Smoothie Smash",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

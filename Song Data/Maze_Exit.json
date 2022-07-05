@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 330,
         "Earliest Date": "2015/04/15",
-        "Related To": "Cave Maze"
+        "Related To": "Cave Maze",
+        "uses": [
+            {
+                "date": "2015/04/15",
+                "use": "Cave Maze",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

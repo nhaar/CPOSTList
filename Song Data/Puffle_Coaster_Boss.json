@@ -10,7 +10,15 @@
     "CP Flash Info": {
         "Order": 150,
         "Earliest Date": "2011/03/24",
-        "Related To": "Puffle Launch"
+        "Related To": "Puffle Launch",
+        "uses": [
+            {
+                "date": "2011/03/24",
+                "use": "Puffle Launch",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 303,
         "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover"
+        "Related To": "Star Wars Rebels Takeover",
+        "uses": [
+            {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Kevin Kiner",
     "Alternate Names": ""

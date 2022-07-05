@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 17,
         "Earliest Date": "2006/07/14",
-        "Related To": "Western Party, Surprise Party"
+        "Related To": "Western Party, Surprise Party",
+        "uses": [
+            {
+                "date": "2006/07/14",
+                "use": "Western Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Surprise Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Puffle Roundup"
+        "Related To": "Puffle Roundup",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Puffle Roundup",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Milo Deering, Kevin Bailey",
     "Alternate Names": "Surprise Party Music",

@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 279,
         "Earliest Date": "2014/09/18",
-        "Related To": "Skatepark"
+        "Related To": "Skatepark",
+        "uses": [
+            {
+                "date": "2014/09/18",
+                "use": "Skatepark",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Skate Park"
+        "Related To": "Igloo, Skate Park",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Skate Park",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

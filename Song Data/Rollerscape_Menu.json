@@ -9,7 +9,15 @@
     "CP Flash Unused Info": {
         "Order": 9,
         "Earliest Date": "?",
-        "Related To": "Pufflescape"
+        "Related To": "Pufflescape",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Pufflescape",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

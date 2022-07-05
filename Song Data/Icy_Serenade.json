@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 89,
         "Earliest Date": "2008/11/19",
-        "Related To": "Holiday Party, Mountain Expedition"
+        "Related To": "Holiday Party, Mountain Expedition",
+        "uses": [
+            {
+                "date": "2008/11/19",
+                "use": "Holiday Party 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Mountain Expedition",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

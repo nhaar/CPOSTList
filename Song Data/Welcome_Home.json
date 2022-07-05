@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 385,
         "Earliest Date": "2017/01/31",
-        "Related To": "Waddle On Party"
+        "Related To": "Waddle On Party",
+        "uses": [
+            {
+                "date": "2017/01/31",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "David Fairfield",
     "Alternate Names": ""

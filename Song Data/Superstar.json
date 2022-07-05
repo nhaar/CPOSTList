@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 167,
         "Earliest Date": "2012/02/01",
-        "Related To": "Fashion Show, Clothes Shop, Make Your Mark: Ultimate Jam"
+        "Related To": "Fashion Show, Clothes Shop, Make Your Mark: Ultimate Jam",
+        "uses": [
+            {
+                "date": "2012/02/01",
+                "use": "Fashion Show",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Clothes Shop",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Gift Shop"
+        "Related To": "Gift Shop",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Gift Shop",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Fashion Show"

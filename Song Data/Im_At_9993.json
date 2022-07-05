@@ -9,7 +9,15 @@
     "Penguin Chat Info": {
         "Order": 7,
         "Earliest Date": "?",
-        "Related To": "Night Club (Penguin Chat 3)"
+        "Related To": "Night Club (Penguin Chat 3)",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Night Club (Penguin Chat 3)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "TAS 1000",
     "Alternate Names": ""

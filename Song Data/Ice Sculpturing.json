@@ -9,7 +9,15 @@
     "Game Day Info": {
         "Order": 32,
         "Earliest Date": "2010/09/17",
-        "Related To": "Beach Challenge"
+        "Related To": "Beach Challenge",
+        "uses": [
+            {
+                "date": "20100817",
+                "use": "Beach Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

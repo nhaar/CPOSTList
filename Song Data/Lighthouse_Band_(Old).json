@@ -9,14 +9,36 @@
     "CP Flash Info": {
         "Order": 110,
         "Earliest Date": "2009/07/17",
-        "Related To": "Music Jam, Lighthouse"
+        "Related To": "Music Jam, Lighthouse",
+        "uses": [
+            {
+                "date": "2009/07/17",
+                "use": "Music Jam 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Lighthouse",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Lighthouse"
+        "Related To": "Lighthouse",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Lighthouse",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "",
-    "notes" : "This song consists of six different tracks:\n- Acoustic Guitar\n- Bass Guitar\n- Electric Guitar\n- Drums\n- Trombone\n- Tube"
+    "notes": "This song consists of six different tracks:\n- Acoustic Guitar\n- Bass Guitar\n- Electric Guitar\n- Drums\n- Trombone\n- Tube"
 }

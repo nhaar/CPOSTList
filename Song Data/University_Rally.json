@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 212,
         "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover, School & Skate Party"
+        "Related To": "Monster University Takeover, School & Skate Party",
+        "uses": [
+            {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School & Skate Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, School Party"
+        "Related To": "Igloo, School Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "Monsters University Takeover Main Theme"

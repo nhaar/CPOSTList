@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 186,
         "Earliest Date": "2013/03/21",
-        "Related To": "Puffle Spa"
+        "Related To": "Puffle Spa",
+        "uses": [
+            {
+                "date": "2013/03/21",
+                "use": "Puffle Spa",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Spa"
+        "Related To": "Igloo, Puffle Spa",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Spa",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Puffle Hotel Spa"

@@ -10,17 +10,59 @@
     "CP Flash Info": {
         "Order": 136,
         "Earliest Date": "2010/06/17",
-        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party, Wilderness Expedition"
+        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party, Wilderness Expedition",
+        "uses": [
+            {
+                "date": "2010/06/17",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Rockhopper's Quest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Wilderness Expedition",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Igloo"
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Pirates And Monkeys 2, Island Adventure 2010 Forest Theme"

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 142.9,
         "Earliest Date": "2010/11/11",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "2010/11/11",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Zen Falls, Master of the Elements"

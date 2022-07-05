@@ -9,25 +9,47 @@
     "CP Flash Info": {
         "Order": 88,
         "Earliest Date": "2008/11/19",
-        "Related To": "Holiday Party, Merry Walrus Party"
+        "Related To": "Holiday Party, Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2008/11/19",
+                "use": "Holiday Party 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Christmas Theme, Holiday Happiness",
-	"versions": {
-		"1": {
-            "name" : "Santa's Mix-182017540.mp3",
-            "info" : "Highest quality version, but incomplete, with a fadeout in the end.",
-            "source" : "SoundCloud"
-		},
-		"2": {
-            "name" : "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
-            "info" : "Highest quality version that is complete.",
-            "source" : "App"
-		}
-	}
+    "versions": {
+        "1": {
+            "name": "Santa's Mix-182017540.mp3",
+            "info": "Highest quality version, but incomplete, with a fadeout in the end.",
+            "source": "SoundCloud"
+        },
+        "2": {
+            "name": "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    }
 }

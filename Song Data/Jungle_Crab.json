@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 104,
         "Earliest Date": "2009/06/12",
-        "Related To": "Adventure Party, Island Adventure Party"
+        "Related To": "Adventure Party, Island Adventure Party",
+        "uses": [
+            {
+                "date": "2009/06/12",
+                "use": "Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Island Adventure Undeground Theme"

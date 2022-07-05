@@ -9,7 +9,15 @@
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Jet Pack Boost"
+        "Related To": "Jet Pack Boost",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Jet Pack Boost",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

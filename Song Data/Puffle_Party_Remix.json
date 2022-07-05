@@ -27,7 +27,15 @@
     "CPI Info": {
         "Earliest Date": "?",
         "Order": 1,
-        "Related To": "Rookie Quest"
+        "Related To": "Rookie Quest",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Earliest Date": "?",

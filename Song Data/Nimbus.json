@@ -10,7 +10,15 @@
     "CP Flash Unused Info": {
         "Order": 0.4,
         "Earliest Date": "?",
-        "Related To": "Festival of Flight"
+        "Related To": "Festival of Flight",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Festival of Flight",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks"
 }

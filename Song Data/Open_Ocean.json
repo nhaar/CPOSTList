@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 364,
         "Earliest Date": "2016/07/06",
-        "Related To": "Finding Dory Party"
+        "Related To": "Finding Dory Party",
+        "uses": [
+            {
+                "date": "2016/07/06",
+                "use": "Finding Dory Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Finding Dory Party"
+        "Related To": "Igloo, Finding Dory Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Finding Dory Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

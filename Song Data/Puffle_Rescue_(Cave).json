@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 125,
         "Earliest Date": "2010/03/15",
-        "Related To": "Puffle Rescue"
+        "Related To": "Puffle Rescue",
+        "uses": [
+            {
+                "date": "2010/03/15",
+                "use": "Puffle Rescue",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Puffle Rescue"
+        "Related To": "Puffle Rescue",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Puffle Rescue",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 281,
         "Earliest Date": "2014/09/18",
-        "Related To": "Mall"
+        "Related To": "Mall",
+        "uses": [
+            {
+                "date": "2014/09/18",
+                "use": "Mall",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, School Party, Puffle Mall"
+        "Related To": "Igloo, School Party, Puffle Mall",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Mall",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

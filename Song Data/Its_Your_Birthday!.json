@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 284,
         "Earliest Date": "2014/10/23",
-        "Related To": "Anniversary Party"
+        "Related To": "Anniversary Party",
+        "uses": [
+            {
+                "date": "2014/10/23",
+                "use": "9th Anniversary Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014"
+        "Related To": "Igloo, Halloween Party 2014",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "1st Anniversary Party"
+        "Related To": "1st Anniversary Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "1st Anniversary Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

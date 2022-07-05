@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 78,
         "Earliest Date": "2008/08/22",
-        "Related To": "Penguin Games"
+        "Related To": "Penguin Games",
+        "uses": [
+            {
+                "date": "2008/08/22",
+                "use": "Penguin Games",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Girl Pop"

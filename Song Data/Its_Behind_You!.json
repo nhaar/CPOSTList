@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 83,
         "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2008/10/28",
+                "use": "Halloween Party 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014"
+        "Related To": "Igloo, Halloween Party 2014",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Halloween 2018"
+        "Earliest Date": "?",
+        "Related To": "Halloween 2018",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Halloween Party 2, Halloween Inside Theme"

@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 94,
         "Earliest Date": "2009/02/20",
-        "Related To": "Puffle Party, Anniversary Party"
+        "Related To": "Puffle Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2009/02/20",
+                "use": "Puffle Party 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

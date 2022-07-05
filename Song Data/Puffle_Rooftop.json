@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 188,
         "Earliest Date": "2013/03/21",
-        "Related To": "Rooftop Pool"
+        "Related To": "Rooftop Pool",
+        "uses": [
+            {
+                "date": "2013/03/21",
+                "use": "Rooftop Pool",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rooftop Pool"
+        "Related To": "Rooftop Pool",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Rooftop Pool",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Town"
+        "Earliest Date": "?",
+        "Related To": "Town",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Puffle Hotel Rooftop"

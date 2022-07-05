@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 117,
         "Earliest Date": "2009/11/13",
-        "Related To": "Fire Dojo"
+        "Related To": "Fire Dojo",
+        "uses": [
+            {
+                "date": "2009/11/13",
+                "use": "Fire Dojo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Fire Dojo Theme"

@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 285,
         "Earliest Date": "2014/10/23",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2014/10/23",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Halloween 2018"
+        "Related To": "Halloween 2018",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

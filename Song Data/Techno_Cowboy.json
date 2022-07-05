@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 22,
         "Earliest Date": "2006/12/08",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "2006/12/08",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Marc Pattison",
     "Alternate Names": "Hard Rock",

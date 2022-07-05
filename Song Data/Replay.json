@@ -10,12 +10,28 @@
     "CP Flash Info": {
         "Order": 271,
         "Earliest Date": "2014/07/17",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": [
+            {
+                "date": "2014/07/17",
+                "use": "Music Jam 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Zendaya",
     "Alternate Names": ""

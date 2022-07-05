@@ -9,12 +9,36 @@
     "CP Flash Info": {
         "Order": 36,
         "Earliest Date": "2007/07/13",
-        "Related To": "Water Party, Anniversary Party"
+        "Related To": "Water Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2007/07/13",
+                "use": "Water Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Jeremy Sherman",
     "Alternate Names": "Water Party Main Theme",
-	"stock": {
-		"info" : {"origin": "NEO Sounds", "link": "https://www.neosounds.com/royalty-free-music/songs/2549/ska-mad-lynnemusic"},
-		"sale" : ["60sec A", "60sec B", "30sec", "Loop A", "Loop B", "Loop C"]
-	}
+    "stock": {
+        "info": {
+            "origin": "NEO Sounds",
+            "link": "https://www.neosounds.com/royalty-free-music/songs/2549/ska-mad-lynnemusic"
+        },
+        "sale": [
+            "60sec A",
+            "60sec B",
+            "30sec",
+            "Loop A",
+            "Loop B",
+            "Loop C"
+        ]
+    }
 }

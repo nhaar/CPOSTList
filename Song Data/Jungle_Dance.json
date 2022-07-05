@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 105,
         "Earliest Date": "2009/06/12",
-        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party"
+        "Related To": "Island Adventure Party, Rockhopper's Quest, Anniversary Party",
+        "uses": [
+            {
+                "date": "2009/06/12",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Rockhopper's Quest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversarty Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 29,
         "Earliest Date": "2010/09/17",
-        "Related To": "Sumo Smash"
+        "Related To": "Sumo Smash",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Sumo Smash",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Island Adventure Dance Club Theme"

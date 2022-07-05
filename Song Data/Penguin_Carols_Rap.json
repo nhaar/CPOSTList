@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 249,
         "Earliest Date": "?",
-        "Related To": "Muppet's World Tour"
+        "Related To": "Muppet's World Tour",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Muppet's World Tour",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

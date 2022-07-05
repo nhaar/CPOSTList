@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 383,
         "Earliest Date": "2017/01/04",
-        "Related To": "Club Penguin Island Party"
+        "Related To": "Club Penguin Island Party",
+        "uses": [
+            {
+                "date": "2017/01/04",
+                "use": "Club Penguin Island Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

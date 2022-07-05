@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 211,
         "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover"
+        "Related To": "Monster University Takeover",
+        "uses": [
+            {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "David Fairfield",
     "Alternate Names": ""

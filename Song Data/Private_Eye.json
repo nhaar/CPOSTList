@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 52.2,
         "Earliest Date": "2008/01/21",
-        "Related To": "PSA Missions"
+        "Related To": "PSA Missions",
+        "uses": [
+            {
+                "date": "2008/01/21",
+                "use": "PSA Missions",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "PSA Award Screen"

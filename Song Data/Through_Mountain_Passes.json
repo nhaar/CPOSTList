@@ -10,12 +10,40 @@
     "CP Flash Info": {
         "Order": 195,
         "Earliest Date": "2013/05/23",
-        "Related To": "Card-Jitsu Party, Snow Dojo"
+        "Related To": "Card-Jitsu Party, Snow Dojo",
+        "uses": [
+            {
+                "date": "2013/05/23",
+                "use": "Card-Jitsu Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Snow Dojo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Card-Jitsu Snow, Igloo"
+        "Related To": "Card-Jitsu Snow, Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Card-Jitsu Snow",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Through the Mountain Passes"

@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 116,
         "Earliest Date": "2009/11/13",
-        "Related To": "Norman Swarm Has Been Transformed, Puffle Party, Wilderness Expedition"
+        "Related To": "Norman Swarm Has Been Transformed, Puffle Party, Wilderness Expedition",
+        "uses": [
+            {
+                "date": "2009/11/13",
+                "use": "Norman Swarm Has Been Transformed",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Wilderness Expedition",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015"
+        "Related To": "Igloo, Puffle Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Norman Swarm #2"

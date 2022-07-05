@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 333,
         "Earliest Date": "2015/04/22",
-        "Related To": "Frozen Fever Party"
+        "Related To": "Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2015/04/22",
+                "use": "Frozen Fever Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Frozen Party"
+        "Related To": "Igloo, Frozen Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Frozen Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

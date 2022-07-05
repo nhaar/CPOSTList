@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 296,
         "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party, Music Jam 2016"
+        "Related To": "Merry Walrus Party, Music Jam 2016",
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Holiday Party 2015"
+        "Related To": "Igloo, Holiday Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Holiday Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Michelle Lewis, Dan Petty",
     "Alternate Names": ""

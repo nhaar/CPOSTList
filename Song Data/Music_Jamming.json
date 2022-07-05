@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 313,
         "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party"
+        "Related To": "SoundStudio Party",
+        "uses": [
+            {
+                "date": "2015/02/19",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Music Jam 2016"
+        "Related To": "Igloo, Music Jam 2016",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

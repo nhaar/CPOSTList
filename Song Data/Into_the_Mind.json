@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 193,
         "Earliest Date": "2013/05/09",
-        "Related To": "Spy Drills"
+        "Related To": "Spy Drills",
+        "uses": [
+            {
+                "date": "2013/05/09",
+                "use": "Spy Drills",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Spy Drills Theme"

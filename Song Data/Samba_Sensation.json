@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 246,
         "Earliest Date": "2014/03/20",
-        "Related To": "Muppet's World Tour"
+        "Related To": "Muppet's World Tour",
+        "uses": [
+            {
+                "date": "2014/03/20",
+                "use": "Muppet's World Tour",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

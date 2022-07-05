@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 90,
         "Earliest Date": "2008/11/21",
-        "Related To": "Fairy Fables, Medieval Party"
+        "Related To": "Fairy Fables, Medieval Party",
+        "uses": [
+            {
+                "date": "2008/11/21",
+                "use": "Fairy Fables",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Medieval Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Medieval Party 2018"
+        "Related To": "Medieval Party 2018",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Medieval Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Fairy Fables Theme"

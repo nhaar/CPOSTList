@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 121,
         "Earliest Date": "2009/12/18",
-        "Related To": "Holiday Party, Anniversary Party"
+        "Related To": "Holiday Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2009/12/18",
+                "use": "Holiday Party 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Santa's Sled"

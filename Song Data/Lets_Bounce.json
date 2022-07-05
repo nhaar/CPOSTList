@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 99.1,
         "Earliest Date": "2009/04/24",
-        "Related To": "Dance Contest"
+        "Related To": "Dance Contest",
+        "uses": [
+            {
+                "date": "2009/04/24",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 5,
         "Earliest Date": "2010/09/17",
-        "Related To": "Minigame title screen"
+        "Related To": "Minigame title screen",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Minigame title screen",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

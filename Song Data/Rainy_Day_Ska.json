@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 26,
         "Earliest Date": "2007/02/09",
-        "Related To": "Festival of Snow"
+        "Related To": "Festival of Snow",
+        "uses": [
+            {
+                "date": "2007/02/09",
+                "use": "Festival of Snow",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Jeremy Sherman",
     "Alternate Names": ""

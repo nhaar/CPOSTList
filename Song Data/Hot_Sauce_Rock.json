@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 262,
         "Earliest Date": "2014/06/19",
-        "Related To": "Penguin Cup"
+        "Related To": "Penguin Cup",
+        "uses": [
+            {
+                "date": "2014/06/19",
+                "use": "Penguin Cup",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

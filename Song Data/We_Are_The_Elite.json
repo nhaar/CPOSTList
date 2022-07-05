@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 227,
         "Earliest Date": "2013/11/21",
-        "Related To": "Operation: Puffle"
+        "Related To": "Operation: Puffle",
+        "uses": [
+            {
+                "date": "2013/11/21",
+                "use": "Operation: Puffle",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean"
+        "Related To": "Igloo, Operation: Crustacean",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

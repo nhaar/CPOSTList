@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 170,
         "Earliest Date": "2012/05/17",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": [
+            {
+                "date": "2012/05/17",
+                "use": "Medieval Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "Mountain of Misery"

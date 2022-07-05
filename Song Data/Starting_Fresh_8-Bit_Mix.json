@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 282,
         "Earliest Date": "2014/09/18",
-        "Related To": "School & Skate Party"
+        "Related To": "School & Skate Party",
+        "uses": [
+            {
+                "date": "2014/09/18",
+                "use": "School & Skate Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, School Party"
+        "Related To": "Igloo, School Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Arcade Menu"
+        "Earliest Date": "?",
+        "Related To": "Arcade Menu",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Arcade Menu",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

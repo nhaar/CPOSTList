@@ -9,22 +9,78 @@
     "CP Flash Info": {
         "Order": 34,
         "Earliest Date": "2007/06/08",
-        "Related To": "Summer Kickoff Party, Puffle Party, Music Jam, Club Penguin Island Party"
+        "Related To": "Summer Kickoff Party, Puffle Party, Music Jam, Club Penguin Island Party",
+        "uses": [
+            {
+                "date": "2007/06/08",
+                "use": "Summer Kickoff Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Club Penguin Island Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 19,
         "Earliest Date": "2010/09/17",
-        "Related To": "No team zone"
+        "Related To": "No team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "No team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Puffle Party 2015"
+        "Related To": "Igloo, Puffle Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Beacon Boardwalk"
+        "Related To": "Beacon Boardwalk",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": ""

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 174,
         "Earliest Date": "2012/07/19",
-        "Related To": "Make Your Mark: Ultimate Jam"
+        "Related To": "Make Your Mark: Ultimate Jam",
+        "uses": [
+            {
+                "date": "2012/07/19",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

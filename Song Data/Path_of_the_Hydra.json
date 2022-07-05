@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 155,
         "Earliest Date": "2011/05/19",
-        "Related To": "Medieval Party"
+        "Related To": "Medieval Party",
+        "uses": [
+            {
+                "date": "2011/05/19",
+                "use": "Medieval Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "The Path to Battle and Victory, Knight Quest Hydra Battle, Chamber of Gems & Place of Puzzles"

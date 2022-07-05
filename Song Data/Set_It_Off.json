@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 346,
         "Earliest Date": "2015/09/16",
-        "Related To": "Descendants Party"
+        "Related To": "Descendants Party",
+        "uses": [
+            {
+                "date": "2015/09/16",
+                "use": "Descendants Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Descendants Party"
+        "Related To": "Igloo, Descendants Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Descendants Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

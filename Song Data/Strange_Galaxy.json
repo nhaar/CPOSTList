@@ -9,12 +9,46 @@
     "CP Flash Info": {
         "Order": 254,
         "Earliest Date": "2014/05/22",
-        "Related To": "Future Party, Star Wars Rebels Takeover, Operation: Crustacean"
+        "Related To": "Future Party, Star Wars Rebels Takeover, Operation: Crustacean",
+        "uses": [
+            {
+                "date": "2014/05/22",
+                "use": "Future Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Operation: Crustacean"
+        "Related To": "Igloo, Operation: Crustacean",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Crustacean",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

@@ -9,17 +9,71 @@
     "CP Flash Info": {
         "Order": 231,
         "Earliest Date": "2014/01/23",
-        "Related To": "Prehistoric Party, The Fair, Fashion Festival, Anniversary Party, Music Jam"
+        "Related To": "Prehistoric Party, The Fair, Fashion Festival, Anniversary Party, Music Jam",
+        "uses": [
+            {
+                "date": "2014/01/23",
+                "use": "Prehistoric Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Fashion Festival",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Prehistoric Party, Cove"
+        "Related To": "Prehistoric Party, Cove",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Prehistoric Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Cove",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Credits"
+        "Related To": "Credits",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Credits",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": ""

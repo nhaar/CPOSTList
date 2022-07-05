@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 99,
         "Earliest Date": "2009/04/24",
-        "Related To": "Sled Racing"
+        "Related To": "Sled Racing",
+        "uses": [
+            {
+                "date": "2009/04/24",
+                "use": "Sled Racing",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 39,
         "Earliest Date": "2010/09/17",
-        "Related To": "Sled & Slide"
+        "Related To": "Sled & Slide",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Sled & Slide",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

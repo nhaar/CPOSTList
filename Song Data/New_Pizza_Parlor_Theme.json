@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 178,
         "Earliest Date": "2012/11/01",
-        "Related To": "Pizza Parlor"
+        "Related To": "Pizza Parlor",
+        "uses": [
+            {
+                "date": "2012/11/01",
+                "use": "Pizza Parlor",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "New Pizza Parlor Theme"

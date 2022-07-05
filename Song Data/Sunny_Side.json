@@ -1,14 +1,22 @@
 {
 	"Name": "Sunny Side",
 	"Name_official": 1,
-	"Composers" : "?",
+	"Composers": "?",
 	"HQ Source(s)": "CPI SoundCloud",
 	"Order": 1100,
 	"Link": "",
 	"Earliest Date": "?",
-	"CPI Info": { 
-		"Order": 1100, 
+	"CPI Info": {
+		"Order": 1100,
 		"Earliest Date": "?",
-		"Related To": "?"
+		"Related To": "?",
+		"uses": [
+			{
+				"date": "?",
+				"use": "?",
+				"files": "",
+				"info": ""
+			}
+		]
 	}
 }

@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 82,
         "Earliest Date": "2008/10/28",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2008/10/28",
+                "use": "Halloween Party 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Halloween Party 2016"
+        "Related To": "Halloween Party 2016",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Halloween Outdoors Theme"

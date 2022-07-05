@@ -1,21 +1,37 @@
 {
-    "Name": "Hub Game Theme",
-    "Name_official": 0,
-    "HQ Source(s)": "App",
-    "Order": 325,
-    "Link": "",
-    "Earliest Date": "?",
-    "Medias": "Club Penguin",
-    "CP Flash Info": {
-        "Order": 325,
-        "Earliest Date": "?",
-        "Related To": "Igloo"
-    },
+    "Alternate Names": "",
     "App Info": {
-        "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Order": 1,
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "CP Flash Info": {
+        "Earliest Date": "?",
+        "Order": 325,
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
-    "Alternate Names": ""
+    "Earliest Date": "?",
+    "HQ Source(s)": "App",
+    "Link": "",
+    "Medias": "Club Penguin",
+    "Name": "Hub Game Theme",
+    "Name_official": 0,
+    "Order": 325
 }

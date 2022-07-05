@@ -9,17 +9,72 @@
     "CP Flash Info": {
         "Order": 20,
         "Earliest Date": "2006/10/27",
-        "Related To": "Halloween Party 2006, Halloween Party 2007, Halloween Party 2013, Halloween Party 2014, Halloween Party 2015, Halloween Party 2016"
+        "Related To": "Halloween Party 2006, Halloween Party 2007, Halloween Party 2013, Halloween Party 2014, Halloween Party 2015, Halloween Party 2016",
+        "uses": [
+            {
+                "date": "2006/10/27",
+                "use": "Halloween Party 2006",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2007",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2013",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2015",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2016",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2014"
+        "Related To": "Igloo, Halloween Party 2014",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Nicolas Mallia",
     "Alternate Names": "",
-	"stock": {
-		"info" : {"origin": "BMG Production", "link": "https://bmgmusic.sourceaudio.com/#!explorer?b=6779386"}
-	},
-    "notes" : "This song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R)."
+    "stock": {
+        "info": {
+            "origin": "BMG Production",
+            "link": "https://bmgmusic.sourceaudio.com/#!explorer?b=6779386"
+        }
+    },
+    "notes": "This song is for sale on [Amazon](https://www.amazon.com/Seek-And-Hide/dp/B087HBGX2R)."
 }

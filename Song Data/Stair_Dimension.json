@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 152,
         "Earliest Date": "2011/03/24",
-        "Related To": "April Fools Party, Waddle On Party"
+        "Related To": "April Fools Party, Waddle On Party",
+        "uses": [
+            {
+                "date": "2011/03/24",
+                "use": "April Fools 2011",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Box Dimension V5"

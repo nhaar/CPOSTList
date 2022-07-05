@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 374,
         "Earliest Date": "2016/08/17",
-        "Related To": "Frozen Fever Party"
+        "Related To": "Frozen Fever Party",
+        "uses": [
+            {
+                "date": "2016/08/17",
+                "use": "Frozen Fever Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Frozen Party"
+        "Related To": "Igloo, Frozen Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Frozen Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "David Fairfield",
     "Alternate Names": ""

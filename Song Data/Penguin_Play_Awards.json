@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 97,
         "Earliest Date": "2009/03/20",
-        "Related To": "Penguin Play Awards, Hollywood Party"
+        "Related To": "Penguin Play Awards, Hollywood Party",
+        "uses": [
+            {
+                "date": "2009/03/20",
+                "use": "Penguin Play Awards",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Hollywood Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 43,
         "Earliest Date": "2010/09/17",
-        "Related To": "All teams island conquered cutscene"
+        "Related To": "All teams island conquered cutscene",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "All temas island conquered cutscene",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "The Award Goes To..."

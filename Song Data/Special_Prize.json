@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 300,
         "Earliest Date": "2014/12/18",
-        "Related To": "Merry Walrus Party"
+        "Related To": "Merry Walrus Party",
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

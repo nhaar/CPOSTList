@@ -9,17 +9,59 @@
     "CP Flash Info": {
         "Order": 53,
         "Earliest Date": "2008/02/08",
-        "Related To": "Team Blue's Rally Debut, Puffle Party, Hollywood Party, Mine Shack"
+        "Related To": "Team Blue's Rally Debut, Puffle Party, Hollywood Party, Mine Shack",
+        "uses": [
+            {
+                "date": "2008/02/08",
+                "use": "Team Blue's Rally Debut",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Hollywood Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Mine Shacke",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 15,
         "Earliest Date": "2010/09/17",
-        "Related To": "Blue team zone"
+        "Related To": "Blue team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Blue team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Mine Shack"
+        "Related To": "Mine Shack",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Mine Shack",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Team Power, Team Blue Rally, Team Power"

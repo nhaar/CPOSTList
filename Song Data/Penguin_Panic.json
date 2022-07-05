@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 349,
         "Earliest Date": "2015/10/21",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2015/10/21",
+                "use": "Halloween Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo, Halloween Party 2015"
+        "Related To": "Igloo, Halloween Party 2015",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

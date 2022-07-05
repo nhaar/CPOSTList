@@ -10,20 +10,28 @@
     "CP Flash Info": {
         "Order": 80,
         "Earliest Date": "2008/10/10",
-        "Related To": "Space Adventure: Planet Y"
+        "Related To": "Space Adventure: Planet Y",
+        "uses": [
+            {
+                "date": "2008/10/10",
+                "use": "Space Adventure: Planet Y",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Rory O'Neill",
     "Alternate Names": "Lunar Launch",
-	"versions": {
-		"1": {
-		"name" : "Club Penguin Music OST - Space Adventure Planet 'Y' Theme Music 2014 [ORplNX1yUig].opus",
-		"info" : "Highest quality available without ambience. This played in the flash version, though the file's whereabouts are still unknown, but has been uploaded to Youtube.",
-		"source" : "Youtube"
-		},
+    "versions": {
+        "1": {
+            "name": "Club Penguin Music OST - Space Adventure Planet 'Y' Theme Music 2014 [ORplNX1yUig].opus",
+            "info": "Highest quality available without ambience. This played in the flash version, though the file's whereabouts are still unknown, but has been uploaded to Youtube.",
+            "source": "Youtube"
+        },
         "2": {
-            "name" : "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
-            "info" : "This video contains segments of the song in the highest quality available with background noise.",
-            "source" : "Club Penguin Youtube Channel"
+            "name": "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
+            "info": "This video contains segments of the song in the highest quality available with background noise.",
+            "source": "Club Penguin Youtube Channel"
         }
-	}
+    }
 }

@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 275,
         "Earliest Date": "2014/07/31",
-        "Related To": "Turbo Race 3000, SoundStudio Party"
+        "Related To": "Turbo Race 3000, SoundStudio Party",
+        "uses": [
+            {
+                "date": "2014/07/31",
+                "use": "Turbo Race 3000",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
-        "Earliest Date" : "?",
-        "Related To": "Igloo"
+        "Earliest Date": "?",
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "Turbo Race 3000 Theme"

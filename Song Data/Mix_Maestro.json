@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 64,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 18,
         "Earliest Date": "2010/09/17",
-        "Related To": "Enemy team zone"
+        "Related To": "Enemy team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Enemy team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Rory O'Neill",
     "Alternate Names": "DJ3K Mix, DJ3K, Mix",

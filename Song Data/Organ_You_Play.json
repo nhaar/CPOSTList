@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 141.9,
         "Earliest Date": "2010/10/28",
-        "Related To": "Halloween Party"
+        "Related To": "Halloween Party",
+        "uses": [
+            {
+                "date": "2010/10/28",
+                "use": "Halloween Party 2010",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Halloween Party 2014"
+        "Related To": "Halloween Party 2014",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": ""

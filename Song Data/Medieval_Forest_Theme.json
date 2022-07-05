@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 61,
         "Earliest Date": "2008/05/16",
-        "Related To": "Medieval Party, Anniversary Party"
+        "Related To": "Medieval Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2008/05/16",
+                "use": "Medieval Party 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Medieval 3, In the Tower",

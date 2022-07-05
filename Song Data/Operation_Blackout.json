@@ -9,12 +9,40 @@
     "CP Flash Info": {
         "Order": 180,
         "Earliest Date": "2012/11/14",
-        "Related To": "Operation: Blackout, Operation: Puffle, Waddle On Party"
+        "Related To": "Operation: Blackout, Operation: Puffle, Waddle On Party",
+        "uses": [
+            {
+                "date": "2012/11/14",
+                "use": "Operation: Blackout",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Puffle",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "EPF Resistance"

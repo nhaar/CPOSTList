@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 52.1,
         "Earliest Date": "2008/01/21",
-        "Related To": "PSA Missions"
+        "Related To": "PSA Missions",
+        "uses": [
+            {
+                "date": "2008/01/21",
+                "use": "PSA Missions",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 206,
         "Earliest Date": "2013/07/25",
-        "Related To": "Star Wars Takeover"
+        "Related To": "Star Wars Takeover",
+        "uses": [
+            {
+                "date": "2013/07/25",
+                "use": "Star Wars Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Cole Plante, John Williams",
     "Alternate Names": ""

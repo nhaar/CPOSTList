@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 319,
         "Earliest Date": "2015/02/19",
-        "Related To": "SoundStudio Party"
+        "Related To": "SoundStudio Party",
+        "uses": [
+            {
+                "date": "2015/02/19",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Sea Caves"
+        "Related To": "Sea Caves",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Sea Caves",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

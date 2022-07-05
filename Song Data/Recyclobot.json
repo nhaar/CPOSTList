@@ -9,17 +9,41 @@
     "CP Flash Info": {
         "Order": 128,
         "Earliest Date": "2010/04/21",
-        "Related To": "Recycling Plant"
+        "Related To": "Recycling Plant",
+        "uses": [
+            {
+                "date": "2010/04/21",
+                "use": "Recycling Plant",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 30,
         "Earliest Date": "2010/09/17",
-        "Related To": "Jackhammer!"
+        "Related To": "Jackhammer!",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Jackhammer!",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Rookie Quest"
+        "Related To": "Rookie Quest",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Rookie Quest",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Recycling Plant Theme, Recycle!"

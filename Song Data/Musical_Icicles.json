@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 73,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam"
+        "Related To": "Music Jam",
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks",
     "Alternate Names": "Xylo"

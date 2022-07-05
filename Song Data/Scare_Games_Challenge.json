@@ -9,7 +9,15 @@
     "CP Flash Info": {
         "Order": 210,
         "Earliest Date": "2013/07/27",
-        "Related To": "Monster University Takeover"
+        "Related To": "Monster University Takeover",
+        "uses": [
+            {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

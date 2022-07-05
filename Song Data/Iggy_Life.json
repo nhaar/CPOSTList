@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 248,
         "Earliest Date": "?",
-        "Related To": "Muppet's World Tour"
+        "Related To": "Muppet's World Tour",
+        "uses": [
+            {
+                "date": ":",
+                "use": "Muppet's World Tour",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

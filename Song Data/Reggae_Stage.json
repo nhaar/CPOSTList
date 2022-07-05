@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 70,
         "Earliest Date": "2008/07/25",
-        "Related To": "Music Jam, Funny Hat Week Party"
+        "Related To": "Music Jam, Funny Hat Week Party",
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Funny Hat Week Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 40,
         "Earliest Date": "2010/09/17",
-        "Related To": "Red Ski Hill Challenge"
+        "Related To": "Red Ski Hill Challenge",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Red Ski Hill Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Fashion Party"
+        "Related To": "Fashion Party",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Friction Music",
     "Alternate Names": "Caribbean Jam, Music Jam Cove Theme"

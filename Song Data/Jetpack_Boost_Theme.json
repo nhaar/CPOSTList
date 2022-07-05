@@ -9,12 +9,28 @@
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Jet Pack Boost"
+        "Related To": "Jet Pack Boost",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Jet Pack Boost",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "CPI Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Jet Pack Adventure"
+        "Related To": "Jet Pack Adventure",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Jet Pack Adventure",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

@@ -10,7 +10,21 @@
     "CP Flash Info": {
         "Order": 308,
         "Earliest Date": "2015/01/22",
-        "Related To": "Star Wars Rebels Takeover, Halloween Party"
+        "Related To": "Star Wars Rebels Takeover, Halloween Party",
+        "uses": [
+            {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": "Inquisitor Battle Theme"

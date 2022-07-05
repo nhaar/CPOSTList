@@ -9,17 +9,47 @@
     "CP Flash Info": {
         "Order": 109,
         "Earliest Date": "2009/07/17",
-        "Related To": "Music Jam, Puffle Party"
+        "Related To": "Music Jam, Puffle Party",
+        "uses": [
+            {
+                "date": "2009/07/17",
+                "use": "Music Jam 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 17,
         "Earliest Date": "2010/09/17",
-        "Related To": "Yellow team zone"
+        "Related To": "Yellow team zone",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Yellow team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Michael Campitelli",
     "Alternate Names": "Bonus Level, Keytar Jam"

@@ -8,7 +8,15 @@
     "CP Flash Unused Info": {
         "Order": 0.9,
         "Earliest Date": "2010/09/03",
-        "Related To": "Card-Jitsu Water"
+        "Related To": "Card-Jitsu Water",
+        "uses": [
+            {
+                "date": "2010/09/03",
+                "use": "Card-Jitsu Water",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Chris Hendricks"
 }
