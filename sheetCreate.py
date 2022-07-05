@@ -111,7 +111,6 @@ for song in all_data: #all_data is form dataBuild.py
         except:
             try:
                 dummy = song[media]
-                print(song['name'] + '       ' + media)
             except:
                 pass
     for media in present_medias:
@@ -155,9 +154,13 @@ for song in all_data: #all_data is form dataBuild.py
             tabs['series'][x].append(None)
         for y in medias:
             try:
-                tabs[y][x].append(song[x])
+                dummy = song[y]
+                try:
+                    tabs[y][x].append(song[x])
+                except:
+                    tabs[y][x].append(None)
             except:
-                tabs[y][x].append(None)
+                pass
 
 
 # Fix the non intenger orders
