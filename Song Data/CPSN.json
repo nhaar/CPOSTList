@@ -31,11 +31,11 @@
     "Name_official": 1,
     "Order": 1020,
     "Source Links": "https://soundcloud.com/user-764833925/cpsn",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "CPSN [484983789].mp3",
             "source": "CPI SoundCloud"
         }
-    }
+    ]
 }

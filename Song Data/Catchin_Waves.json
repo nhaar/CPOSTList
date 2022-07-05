@@ -28,21 +28,21 @@
     },
     "Composers": "Friction Music",
     "Alternate Names": "",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "name": "113.swf",
             "info": "Contains all the segments of the song, in the highest quality available without background noise.",
             "source": "SWF 113"
         },
-        "2": {
+        {
             "name": "Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv",
             "info": "A video on which segment is included in the highest quality available with heavy background noises.",
             "source": "Club Penguin Youtube Channel"
         },
-        "3": {
+        {
             "name": "Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus",
             "info": "A video on which segment is included in the highest quality available with heavy background noises starting at 4:32.",
             "source": "Youtube"
         }
-    }
+    ]
 }

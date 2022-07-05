@@ -35,11 +35,11 @@
     "Name_official": 1,
     "Order": 157,
     "Source Links": "https://youtu.be/18zKccjmwLw",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "A Time for Heroes-478947087.mp3",
             "source": "CPI SoundCloud"
         }
-    }
+    ]
 }

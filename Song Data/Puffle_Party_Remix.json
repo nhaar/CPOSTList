@@ -44,16 +44,16 @@
     "Name": "Puffle Party Remix",
     "Name_official": 0,
     "Order": 1004,
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
             "source": "App"
         },
-        "2": {
+        {
             "info": "",
             "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
             "source": "Club Penguin Island"
         }
-    }
+    ]
 }

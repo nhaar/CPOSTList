@@ -65,41 +65,41 @@
         ]
     },
     "type": 1,
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Loop 1 from the set of 4 loops.",
             "name": "King of Kingston loop1.wav",
             "source": "Other"
         },
-        "2": {
+        {
             "info": "Loop 2 from the set of 4 loops.",
             "name": "King of Kingston loop2.wav",
             "source": "Other"
         },
-        "3": {
+        {
             "info": "Loop 3 from the set of 4 loops.",
             "name": "King of Kingston loop3.wav",
             "source": "Other"
         },
-        "4": {
+        {
             "info": "Loop 4 from the set of 4 loops.",
             "name": "King of Kingston loop4.wav",
             "source": "Other"
         },
-        "5": {
+        {
             "info": "30 seconds version.",
             "name": "king-of-kingston-30secs.wav",
             "source": "Other"
         },
-        "6": {
+        {
             "info": "60 seconds version.",
             "name": "king-of-kingston-60secs.wav",
             "source": "Other"
         },
-        "7": {
+        {
             "info": "Full version.",
             "name": "king-of-kingston-complete.wav",
             "source": "Other"
         }
-    }
+    ]
 }

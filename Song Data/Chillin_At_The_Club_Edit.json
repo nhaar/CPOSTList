@@ -25,11 +25,11 @@
     "Name_official": 1,
     "Order": 1010,
     "Source Links": "https://soundcloud.com/user-764833925/chillin-at-the-club",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "Chillin' At The Club [440725104].mp3",
             "source": "CPI SoundCloud"
         }
-    }
+    ]
 }

@@ -61,16 +61,16 @@
     "Order": 166,
     "Source Links": "https://youtu.be/wq9rGY5CBSo",
     "notes": "This song has two parts.",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Highest quality version of part 1.",
             "name": "BubblingBrook.mp3",
             "source": "Other"
         },
-        "2": {
+        {
             "info": "Highest quality version of part 2.",
             "name": "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
             "source": "Youtube"
         }
-    }
+    ]
 }

@@ -22,11 +22,11 @@
     "Name_official": 1,
     "Order": 0,
     "Source Links": "https://youtu.be/TXBmbVPoFUU?t=619",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "Screenhog Studios - Fun and Quirky Music [TXBmbVPoFUU].wav",
             "source": "[Youtube](https://youtu.be/TXBmbVPoFUU?t=619)"
         }
-    }
+    ]
 }

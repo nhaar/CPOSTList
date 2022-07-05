@@ -29,21 +29,21 @@
     "Order": 164,
     "Source Links": "http://www.screenhog.com/music",
     "notes": "This song has two parts.",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Part 1 of November in Okinawa.",
             "name": "November+in+Okinawa+2_02.mp3",
             "source": "Screenhog's Website"
         },
-        "2": {
+        {
             "info": "Highest quality version of part 2 without ambience",
             "name": "Music409.swf",
             "source": "SWF 409"
         },
-        "3": {
+        {
             "info": "Highest quality version of part 2, but has ambience",
             "name": "Music1021.swf",
             "source": "SWF 409"
         }
-    }
+    ]
 }

@@ -24,11 +24,11 @@
     "Name": "Smoothie Smash Menu",
     "Name_official": 0,
     "Order": 0,
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "",
             "name": "MUS_MG_SmoothieSmash_MenuAmb.aac",
             "source": "App"
         }
-    }
+    ]
 }

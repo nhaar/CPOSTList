@@ -28,56 +28,56 @@
     "Name_official": 0,
     "Order": 159,
     "notes": "The song is composed of 4 parts, A, B, C, D, which are further divided in 3 parts each, for example, A1, A2 and A3, summing to a total of 12. Althought there were 12 different stems, the different parts weren't a stem. Parts ending in 1 have one solo stem, parts in 2 have the solo stem from 1 and an extra stem, and so on. The parts can be divided as:\n- A: Percussion, disk scratch, brass\n- Bass, organ, keyboard\n- Percussion, brass, higher brass\n- Three percussion tracks",
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Highest quality version of A1.",
             "name": "Rooftop Beatz... With A Zed 2, A1, Mix (16).wav",
             "source": "Other"
         },
-        "10": {
+        {
             "info": "SWF containing the highest available quality of B1, B2 and C1.",
             "name": "",
             "source": ""
         },
-        "2": {
+        {
             "info": "Highest quality version of A2.",
             "name": "Rooftop Beatz... With A Zed 2, A2, Mix (17).wav",
             "source": ""
         },
-        "3": {
+        {
             "info": "Highest quality version of A3.",
             "name": "Rooftop Beatz... With A Zed 2, A3, Mix (18).wav",
             "source": ""
         },
-        "4": {
+        {
             "info": "Highest quality version of B3.",
             "name": "Rooftop Beatz... With A Zed 2, B3, Mix (19).wav",
             "source": ""
         },
-        "5": {
+        {
             "info": "Highest quality version of C2.",
             "name": "Rooftop Beatz... With A Zed 2, C2, Mix (20).wav",
             "source": ""
         },
-        "6": {
+        {
             "info": "Highest quality version of C3.",
             "name": "Rooftop Beatz... With A Zed 2, C3, Mix (21).wav",
             "source": ""
         },
-        "7": {
+        {
             "info": "Highest quality version of D1.",
             "name": "Rooftop Beatz... With A Zed 2, D1, Mix (22).wav",
             "source": ""
         },
-        "8": {
+        {
             "info": "Highest quality version of D2.",
             "name": "Rooftop Beatz... With A Zed 2, D2, Mix (23).wav",
             "source": ""
         },
-        "9": {
+        {
             "info": "Highest quality version of D3.",
             "name": "Rooftop Beatz... With A Zed 2, D3, Mix (24).wav",
             "source": ""
         }
-    }
+    ]
 }

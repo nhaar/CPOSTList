@@ -85,51 +85,51 @@
             "Loop C"
         ]
     },
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Full track.",
             "name": "09 - Honolulu Honey.flac",
             "source": "Other"
         },
-        "2": {
+        {
             "info": "Highest quality available for the edit used in Club Penguin.",
             "name": "MUS_11_Igloo_HonoluluHoney.mp3",
             "source": "App"
         },
-        "3": {
+        {
             "info": "Variation A.",
             "name": "9586.mp3",
             "source": "Sample"
         },
-        "4": {
+        {
             "info": "Variation B.",
             "name": "9587.mp3",
             "source": "Sample"
         },
-        "5": {
+        {
             "info": "60sec version.",
             "name": "9588.mp3",
             "source": "Sample"
         },
-        "6": {
+        {
             "info": "30sec version.",
             "name": "9589.mp3",
             "source": "Sample"
         },
-        "7": {
+        {
             "info": "Loop A.",
             "name": "9590.mp3",
             "source": "Sample"
         },
-        "8": {
+        {
             "info": "Loop B.",
             "name": "9591.mp3",
             "source": "Sample"
         },
-        "9": {
+        {
             "info": "Loop C.",
             "name": "9592.mp3",
             "source": "Sample"
         }
-    }
+    ]
 }

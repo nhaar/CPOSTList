@@ -56,46 +56,46 @@
             "Loop E"
         ]
     },
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Full version.",
             "name": "C'est Chaud-I1bIeSObFNY.wav",
             "source": "Youtube"
         },
-        "2": {
+        {
             "info": "Variation version.",
             "name": "9445.mp3",
             "source": "Sample"
         },
-        "3": {
+        {
             "info": "9446.mp3",
             "name": "30 seconds version.",
             "source": "Sample"
         },
-        "4": {
+        {
             "info": "Loop A",
             "name": "9447.mp3",
             "source": "Sample"
         },
-        "5": {
+        {
             "info": "Loop B",
             "name": "9448.mp3",
             "source": "Sample"
         },
-        "6": {
+        {
             "info": "Loop C",
             "name": "9449.mp3",
             "source": "Sample"
         },
-        "7": {
+        {
             "info": "Loop D",
             "name": "9450.mp3",
             "source": "Sample"
         },
-        "8": {
+        {
             "info": "Loop E",
             "name": "9451.mp3",
             "source": "Sample"
         }
-    }
+    ]
 }

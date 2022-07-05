@@ -44,36 +44,36 @@
             "Set of 3 music loops"
         ]
     },
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Highest quality available, but incomplete.",
             "name": "Jingle Bells-182017542.mp3",
             "source": "SoundCloud"
         },
-        "2": {
+        {
             "info": "Highest quality complete version available.",
             "name": "jingle-bells-complete-preview-no-voiceover.mp3",
             "source": "Sample"
         },
-        "3": {
+        {
             "info": "30-secs version.",
             "name": "jingle-bells-30secs-preview-no-voiceover.mp3",
             "source": "Sample"
         },
-        "4": {
+        {
             "info": "Loop 1 from the set of 3 loops.",
             "name": "jingle-bells-no-voiceover-loop01.mp3",
             "source": "Sample"
         },
-        "5": {
+        {
             "info": "Loop 2 from the set of 3 loops.",
             "name": "jingle-bells-complete-preview-no-voiceover.mp3",
             "source": "Sample"
         },
-        "6": {
+        {
             "info": "Loop 3 from the set of 3 loops.",
             "name": "jingle-bells-complete-preview-no-voiceover.mp3",
             "source": "Sample"
         }
-    }
+    ]
 }

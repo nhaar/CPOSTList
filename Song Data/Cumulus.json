@@ -40,16 +40,16 @@
     "Name": "Cumulus",
     "Name_official": 1,
     "Order": 111,
-    "versions": {
-        "1": {
+    "versions": [
+        {
             "info": "Highest quality version.",
             "name": "mn_demo_00.brstm",
             "source": "Game Day"
         },
-        "2": {
+        {
             "info": "Highest quality version of the harpless version.",
             "name": "Music306.swf",
             "source": "SWF 306"
         }
-    }
+    ]
 }
