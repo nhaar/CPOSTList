@@ -1,0 +1,50 @@
+{
+    "name": "Pirates And Monkeys",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Island Adventure 2010 Main Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/e1ufA7zt5BU",
+    "order": 135,
+    "link": "https://youtu.be/eCN-H4Cfnyg",
+    "cp": {
+        "order": 135,
+        "uses": [
+            {
+                "date": "2010/06/17",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Teen Beach Movie Summer Jam",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

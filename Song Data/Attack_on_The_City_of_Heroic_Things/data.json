@@ -1,0 +1,32 @@
+{
+    "name": "Attack on The City of Heroic Things",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "City of Heroes",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=KVRFBFRudhk",
+    "order": 172,
+    "link": "",
+    "cp": {
+        "order": 172,
+        "uses": [
+            {
+                "date": "2012/06/14",
+                "files": "",
+                "info": "",
+                "use": "Marvel Super Hero Takeover"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

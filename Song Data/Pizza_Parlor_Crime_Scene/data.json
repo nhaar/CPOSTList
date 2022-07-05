@@ -1,0 +1,20 @@
+{
+    "name": "Pizza Parlor Crime Scene",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 385",
+    "order": 191,
+    "link": "",
+    "cp": {
+        "order": 191,
+        "uses": [
+            {
+                "date": "2013/04/05",
+                "use": "Operation: Hot Sauce",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

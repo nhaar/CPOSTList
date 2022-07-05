@@ -1,0 +1,60 @@
+{
+    "name": "Haunting of the Viking Opera",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Viking Opera",
+    "sources": "Game Day",
+    "order": 102,
+    "link": "https://www.youtube.com/watch?v=XfcceKzuHHw",
+    "cp": {
+        "order": 102,
+        "uses": [
+            {
+                "date": "2009/05/08",
+                "files": "",
+                "info": "",
+                "use": "Haunting of the Viking Opera"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Island Adventure Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Medieval Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "The Fair (??)"
+            }
+        ]
+    },
+    "gd": {
+        "order": 25,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Fast Freeze"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

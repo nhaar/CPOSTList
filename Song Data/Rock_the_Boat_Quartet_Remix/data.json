@@ -1,0 +1,48 @@
+{
+    "name": "Rock the Boat Quartet Remix",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "CPI SoundCloud + App",
+    "order": 343,
+    "link": "",
+    "cp": {
+        "order": 343,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

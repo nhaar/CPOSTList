@@ -1,0 +1,113 @@
+{
+    "name": "Honolulu Honey",
+    "truename": 1,
+    "artists": "Jeremy Sherman",
+    "altnames": "",
+    "sources": "Other + App + Sample",
+    "sourcelinks": "https://www.neosounds.com/royalty-free-music/songs/2520/honolulu-honey-lynnemusic",
+    "order": 10,
+    "link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
+    "versions": [
+        {
+            "info": "Full track.",
+            "name": "09 - Honolulu Honey.flac",
+            "source": "Other"
+        },
+        {
+            "info": "Highest quality available for the edit used in Club Penguin.",
+            "name": "MUS_11_Igloo_HonoluluHoney.mp3",
+            "source": "App"
+        },
+        {
+            "info": "Variation A.",
+            "name": "9586.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Variation B.",
+            "name": "9587.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "60sec version.",
+            "name": "9588.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "30sec version.",
+            "name": "9589.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop A.",
+            "name": "9590.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop B.",
+            "name": "9591.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop C.",
+            "name": "9592.mp3",
+            "source": "Sample"
+        }
+    ],
+    "cp": {
+        "order": 10,
+        "files": [
+            {
+                "info": "This consists of Loop A, followed by Loop C played twice, then Loop A and finally Loop C again.",
+                "name": "11.swf"
+            }
+        ],
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Winter Luau Party"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Strange Dimension room.",
+                "use": "April Fools Party 2010"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Strange Dimension room.",
+                "use": "April Fools Party 2011"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Paradise room.",
+                "use": "Operation: Blackout"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Town and in Big Momma's.",
+                "use": "Teen Beach Movie Summer Jam"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Town.",
+                "use": "Music Jam 2014"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Played in the Cove.",
+                "use": "Finding Dory Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1
+    }
+}

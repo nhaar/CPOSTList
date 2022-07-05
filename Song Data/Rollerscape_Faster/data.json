@@ -1,0 +1,20 @@
+{
+    "name": "Rollerscape Faster",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Other",
+    "order": 163.3,
+    "link": "",
+    "cp": {
+        "order": 163.3,
+        "uses": [
+            {
+                "date": "2011/11/03",
+                "use": "Pufflescape",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Boss Bullet",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=257",
+    "order": 151.7,
+    "cpu": {
+        "order": 3,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Launch"
+            }
+        ]
+    }
+}

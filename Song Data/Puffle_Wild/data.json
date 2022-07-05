@@ -1,0 +1,37 @@
+{
+    "name": "Puffle Wild",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 324,
+    "link": "",
+    "cp": {
+        "order": 324,
+        "uses": [
+            {
+                "date": "2015/03/25",
+                "use": "Puffle Wild",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Wild",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

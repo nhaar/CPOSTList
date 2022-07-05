@@ -1,0 +1,42 @@
+{
+    "name": "Pirates of Club Penguin",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Crab Battle",
+    "sources": "SoundCloud",
+    "order": 291,
+    "link": "",
+    "cp": {
+        "order": 291,
+        "uses": [
+            {
+                "date": "2014/11/20",
+                "use": "Pirate Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Rockhopper Quest",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

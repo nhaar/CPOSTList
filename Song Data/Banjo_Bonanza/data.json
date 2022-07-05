@@ -1,0 +1,43 @@
+{
+    "name": "Banjo Bonanza",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 362,
+    "link": "",
+    "cp": {
+        "order": 362,
+        "uses": [
+            {
+                "date": "2016/05/18",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Roundup"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Zootopia Party"
+            }
+        ]
+    }
+}

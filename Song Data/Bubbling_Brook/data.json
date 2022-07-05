@@ -1,0 +1,67 @@
+{
+    "name": "Bubbling Brook",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Underwater Expedition Theme, Maze Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/wq9rGY5CBSo",
+    "order": 166,
+    "link": "",
+    "versions": [
+        {
+            "info": "Highest quality version of part 1.",
+            "name": "BubblingBrook.mp3",
+            "source": "Other"
+        },
+        {
+            "info": "Highest quality version of part 2.",
+            "name": "Screenhog Studios - Calm Music [wq9rGY5CBSo].wav",
+            "source": "Youtube"
+        }
+    ],
+    "cp": {
+        "order": 166,
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Part 1 only, was used on mysterious deep.",
+                "use": "Underwater Expedition"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "Part 2 only, was used on the underwater maze.",
+                "use": "Underwater Expedition"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Inside Out Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Rainbow Migration 2018"
+            }
+        ]
+    }
+}

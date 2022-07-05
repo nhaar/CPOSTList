@@ -1,0 +1,55 @@
+{
+    "name": "Rock Rink",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Rock Rink, Let The Game Begin, Rock N Roll",
+    "sources": "SoundCloud + Game Day",
+    "order": 71,
+    "link": "https://www.youtube.com/watch?v=r9eUD9N9gAk",
+    "versions": [
+        {
+            "name": "ig_IH_00.brstm",
+            "info": "Highest quality version, but incomplete, missing the ending.",
+            "source": "Game Day"
+        },
+        {
+            "name": "MUS_271_Igloo_AmbientRiffing.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    ],
+    "cp": {
+        "order": 71,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Penguin Games",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Penguin Cup",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 8,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Goal!",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

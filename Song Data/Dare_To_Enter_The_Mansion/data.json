@@ -1,0 +1,49 @@
+{
+    "name": "Dare To Enter The Mansion",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Haunted Mansion, Turn Back Now",
+    "sources": "SoundCloud + Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "order": 177,
+    "link": "",
+    "cp": {
+        "order": 177,
+        "uses": [
+            {
+                "date": "2012/10/18",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2012"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2014"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2018"
+            }
+        ]
+    }
+}

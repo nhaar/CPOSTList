@@ -1,0 +1,32 @@
+{
+    "name": "System Defender Theme",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "SWF System Defender + Youtube",
+    "order": 147,
+    "link": "https://youtu.be/QVWYOcSHty4",
+    "versions": [
+        {
+            "name": "main.swf",
+            "info": "The SWF contains the highest quality available for the version used in the game.",
+            "source": "SWF main"
+        },
+        {
+            "name": "Club Penguin Music #16 - System Defender-xmnHF_k2y04.wav",
+            "info": "The video contains a few of the loop used in the flash version in the highest quality available.",
+            "source": "Youtube."
+        }
+    ],
+    "cp": {
+        "order": 147,
+        "uses": [
+            {
+                "date": "2011/01/14",
+                "use": "System Defender",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

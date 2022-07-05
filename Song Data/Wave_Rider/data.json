@@ -1,0 +1,26 @@
+{
+    "name": "Wave Rider",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Cool Surf",
+    "sources": "SWF 214",
+    "order": 31,
+    "link": "https://www.youtube.com/watch?v=T9on03cx2EM",
+    "cp": {
+        "order": 31,
+        "files": [
+            {
+                "name": "214.swf",
+                "info": "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped."
+            }
+        ],
+        "uses": [
+            {
+                "date": "2007/05/25",
+                "use": "Cove Opening Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

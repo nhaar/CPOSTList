@@ -1,0 +1,37 @@
+{
+    "name": "Fair Winds",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 294,
+    "link": "",
+    "cp": {
+        "order": 294,
+        "uses": [
+            {
+                "date": "2014/11/20",
+                "files": "",
+                "info": "",
+                "use": "Pirate Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Inside Out Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

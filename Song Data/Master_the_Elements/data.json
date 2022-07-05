@@ -1,0 +1,20 @@
+{
+    "name": "Master the Elements",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Zen Falls, Master of the Elements",
+    "sources": "Other",
+    "order": 144,
+    "link": "https://youtu.be/0ACp6h74n08",
+    "cp": {
+        "order": 142.9,
+        "uses": [
+            {
+                "date": "2010/11/11",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

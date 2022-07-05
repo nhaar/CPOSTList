@@ -1,0 +1,26 @@
+{
+    "name": "Casa Fiesta Exterior",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 292 + Other",
+    "order": 138,
+    "link": "https://youtu.be/-ARoqLtF57g",
+    "cp": {
+        "order": 138,
+        "uses": [
+            {
+                "date": "2010/07/08",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2010"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Anniversary Party (??)"
+            }
+        ]
+    }
+}

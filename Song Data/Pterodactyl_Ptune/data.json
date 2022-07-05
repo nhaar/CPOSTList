@@ -1,0 +1,31 @@
+{
+    "name": "Pterodactyl Ptune",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Pre-Historick Rock, Penguins That Time Forgot Theme",
+    "sources": "Game Day",
+    "order": 63,
+    "link": "https://www.youtube.com/watch?v=aYRe9SlFRV0",
+    "cp": {
+        "order": 63,
+        "uses": [
+            {
+                "date": "2008/06/13",
+                "use": "Penguins That Time Forgot",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 37,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Green Ski Village Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

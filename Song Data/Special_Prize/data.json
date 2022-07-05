@@ -1,0 +1,20 @@
+{
+    "name": "Special Prize",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 821",
+    "order": 300,
+    "link": "",
+    "cp": {
+        "order": 300,
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

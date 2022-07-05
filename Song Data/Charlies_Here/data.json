@@ -1,0 +1,48 @@
+{
+    "name": "Charlie's Here",
+    "truename": 1,
+    "artists": "Doug Frantz",
+    "altnames": "Pizza Parlor Theme",
+    "sources": "Other",
+    "order": 12,
+    "link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
+    "cp": {
+        "order": 12,
+        "uses": [
+            {
+                "date": "2006/02/24",
+                "files": "",
+                "info": "",
+                "use": "Pizza Parlor"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Operation: Tri-ump"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Town"
+            }
+        ]
+    }
+}

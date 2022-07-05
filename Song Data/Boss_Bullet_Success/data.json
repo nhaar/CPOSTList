@@ -1,0 +1,21 @@
+{
+    "name": "Boss Bullet Success",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=390",
+    "order": 151,
+    "link": "https://youtu.be/zCc0K_FXMYM",
+    "cp": {
+        "order": 151,
+        "uses": [
+            {
+                "date": "2011/03/24",
+                "files": "",
+                "info": "",
+                "use": "Puffle Launch"
+            }
+        ]
+    }
+}

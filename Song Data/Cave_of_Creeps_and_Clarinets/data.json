@@ -1,0 +1,43 @@
+{
+    "name": "Cave of Creeps and Clarinets",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Monster Masquerade, Cave of Creeps and Clarinets V2",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/N_fX8t63uJ4",
+    "order": 142,
+    "link": "https://youtu.be/bjsBEMj9Glg",
+    "cp": {
+        "order": 142,
+        "uses": [
+            {
+                "date": "2010/10/28",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2010"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2018"
+            }
+        ]
+    }
+}

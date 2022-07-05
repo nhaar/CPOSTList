@@ -1,0 +1,31 @@
+{
+    "name": "Haunted Mansion",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Island",
+    "order": 162,
+    "link": "",
+    "cp": {
+        "order": 162,
+        "uses": [
+            {
+                "date": "2011/10/20",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2011"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2018"
+            }
+        ]
+    }
+}

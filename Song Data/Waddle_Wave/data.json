@@ -1,0 +1,48 @@
+{
+    "name": "Waddle Wave",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "Bonus Level, Keytar Jam",
+    "sources": "Game Day",
+    "order": 109,
+    "link": "https://www.youtube.com/watch?v=ue6T-RALjig",
+    "cp": {
+        "order": 109,
+        "uses": [
+            {
+                "date": "2009/07/17",
+                "use": "Music Jam 2009",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 17,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Yellow team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

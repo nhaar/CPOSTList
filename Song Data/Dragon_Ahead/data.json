@@ -1,0 +1,20 @@
+{
+    "name": "Dragon Ahead",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "Ye Knight's Quest 2",
+    "sources": "SWF 287",
+    "order": 130,
+    "link": "https://youtu.be/KwLXuQ4abnw",
+    "cp": {
+        "order": 130,
+        "uses": [
+            {
+                "date": "2010/05/07",
+                "files": "",
+                "info": "",
+                "use": "Medieval Party 2010"
+            }
+        ]
+    }
+}

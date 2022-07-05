@@ -1,0 +1,20 @@
+{
+    "name": "Monster Karaoke",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 428",
+    "order": 208,
+    "link": "",
+    "cp": {
+        "order": 208,
+        "uses": [
+            {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

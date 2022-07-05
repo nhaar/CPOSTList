@@ -1,0 +1,42 @@
+{
+    "name": "Spooky Jazz",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 287,
+    "link": "",
+    "cp": {
+        "order": 287,
+        "uses": [
+            {
+                "date": "2014/10/23",
+                "use": "Halloween Party 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Halloween Party 2018",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

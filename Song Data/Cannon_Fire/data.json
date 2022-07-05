@@ -1,0 +1,32 @@
+{
+    "name": "Cannon Fire",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Ship Battle Theme, Adventure Of A Lifetime",
+    "sources": "Youtube + SoundCloud",
+    "sourcelinks": "https://youtu.be/e1ufA7zt5BU?t=548",
+    "order": 137,
+    "link": "https://youtu.be/scxn3O2OVAw",
+    "cp": {
+        "order": 137,
+        "uses": [
+            {
+                "date": "2010/06/17",
+                "files": "",
+                "info": "",
+                "use": "Island Aventure Party 2010"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

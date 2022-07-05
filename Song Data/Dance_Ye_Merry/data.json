@@ -1,0 +1,27 @@
+{
+    "name": "Dance Ye Merry",
+    "truename": 1,
+    "artists": "Milo Deering",
+    "altnames": "St. Patrick's Day Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/RpjBUgLs614",
+    "order": 30,
+    "link": "https://www.youtube.com/watch?v=cMPpQxW6l2k",
+    "cp": {
+        "order": 30.001,
+        "uses": [
+            {
+                "date": "2007/03/17",
+                "files": "",
+                "info": "",
+                "use": "St. Patrick's Day"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "April Fools (??)"
+            }
+        ]
+    }
+}

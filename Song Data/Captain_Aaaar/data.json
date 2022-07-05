@@ -1,0 +1,49 @@
+{
+    "name": "Captain Aaaar",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App + CPI SoundCloud",
+    "order": 380,
+    "link": "",
+    "cp": {
+        "order": 380,
+        "uses": [
+            {
+                "date": "2017/01/04",
+                "files": "",
+                "info": "",
+                "use": "Club Penguin Island Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 0,
+        "files": [],
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "?",
+                "use": "Aunt Arctic Quest"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "?",
+                "use": "Rockhopper Quest"
+            }
+        ]
+    }
+}

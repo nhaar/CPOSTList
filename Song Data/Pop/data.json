@@ -1,0 +1,20 @@
+{
+    "name": "Pop",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Girl Pop",
+    "sources": "SWF 248",
+    "order": 78,
+    "link": "https://www.youtube.com/watch?v=9tvk9NlBmSM",
+    "cp": {
+        "order": 78,
+        "uses": [
+            {
+                "date": "2008/08/22",
+                "use": "Penguin Games",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

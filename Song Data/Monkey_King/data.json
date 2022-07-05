@@ -1,0 +1,21 @@
+{
+    "name": "Monkey King",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Bamboo Forest",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "order": 123,
+    "link": "https://youtu.be/ytZI_o8UZyE",
+    "cp": {
+        "order": 123,
+        "uses": [
+            {
+                "date": "2010/02/12",
+                "use": "Secrets of The Bamboo Forest",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

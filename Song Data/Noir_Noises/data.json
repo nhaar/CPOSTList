@@ -1,0 +1,54 @@
+{
+    "name": "Noir Noises",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Ruby's Theme, Ruby and The Ruby",
+    "sources": "App",
+    "order": 79,
+    "link": "https://youtu.be/aahXSYOwIGQ",
+    "cp": {
+        "order": 79,
+        "uses": [
+            {
+                "date": "2008/09/12",
+                "use": "Ruby and the Ruby",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Operation: Tri-umph",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "?",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

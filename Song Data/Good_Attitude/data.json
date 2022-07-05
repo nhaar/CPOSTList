@@ -1,0 +1,33 @@
+{
+    "name": "Good Attitude",
+    "truename": 1,
+    "artists": "Julio Kladniew",
+    "altnames": "Driving Guitar",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=w0PccSIo-To",
+    "order": 29,
+    "link": "https://www.youtube.com/watch?v=xo3LYO8AkHo",
+    "cp": {
+        "order": 29,
+        "uses": [
+            {
+                "date": "2007/03/16",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2008"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2009"
+            }
+        ]
+    }
+}

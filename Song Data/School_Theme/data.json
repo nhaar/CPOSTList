@@ -1,0 +1,37 @@
+{
+    "name": "School Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App + SoundCloud (NL)",
+    "order": 198,
+    "link": "",
+    "cp": {
+        "order": 198,
+        "uses": [
+            {
+                "date": "2013/07/11",
+                "use": "School",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "School Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "School",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

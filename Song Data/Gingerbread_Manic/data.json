@@ -1,0 +1,44 @@
+{
+    "name": "Gingerbread Manic",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Bakery Room Theme, A Little Holiday Magic",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/VZezeEwBakA",
+    "order": 165,
+    "link": "",
+    "cp": {
+        "order": 165,
+        "uses": [
+            {
+                "date": "2011/12/15",
+                "files": "",
+                "info": "",
+                "use": "Holiday party 2011"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2013"
+            }
+        ]
+    }
+}

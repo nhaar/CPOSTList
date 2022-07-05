@@ -1,0 +1,31 @@
+{
+    "name": "Cruisin' For A Bruisin'",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Other",
+    "order": 217,
+    "link": "https://www.youtube.com/watch?v=4u-kDVbhBzs",
+    "cp": {
+        "order": 217,
+        "uses": [
+            {
+                "date": "2013/08/22",
+                "files": "",
+                "info": "",
+                "use": "Teen Beach Movie Summer Jam"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

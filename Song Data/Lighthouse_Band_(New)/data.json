@@ -1,0 +1,20 @@
+{
+    "name": "Lighthouse Band (New)",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF Lighthouse (2015)",
+    "order": 273,
+    "link": "",
+    "cp": {
+        "order": 273,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Lighthouse",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

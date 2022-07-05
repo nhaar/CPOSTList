@@ -1,0 +1,44 @@
+{
+    "name": "Maybe Baby",
+    "truename": 1,
+    "artists": "Doug Frantz",
+    "altnames": "Jazz Piano, Maybe Lazy, Jazz",
+    "sources": "Other",
+    "sourcelinks": "https://www.youtube.com/watch?v=1NYuIK284e4",
+    "order": 66,
+    "link": "https://www.youtube.com/watch?v=pWiOer4zMIs",
+    "cp": {
+        "order": 30,
+        "uses": [
+            {
+                "date": "2007/03/16",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Music Jam (??)",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Holiday Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

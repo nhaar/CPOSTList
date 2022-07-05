@@ -1,0 +1,21 @@
+{
+    "name": "Card-Jitsu Snow Battle Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Media Server",
+    "sourcelinks": "https://icer.ink/media1.clubpenguin.com/game/mpassets/minigames/cjsnow/en_US/deploy/sound/gameplay/mus_mg_201303_cjsnow_gamewindamb.mp3",
+    "order": 196,
+    "link": "",
+    "cp": {
+        "order": 196,
+        "uses": [
+            {
+                "date": "2013/05/23",
+                "files": "",
+                "info": "",
+                "use": "Card-Jitsu Snow"
+            }
+        ]
+    }
+}

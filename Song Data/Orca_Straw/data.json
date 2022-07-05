@@ -1,0 +1,20 @@
+{
+    "name": "Orca Straw",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Orca",
+    "sources": "Other",
+    "order": 67,
+    "link": "https://youtu.be/ijbtsK8zx_Q",
+    "cp": {
+        "order": 67,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

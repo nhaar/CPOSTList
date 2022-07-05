@@ -1,0 +1,55 @@
+{
+    "name": "Cool In The Lounge",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 299,
+    "link": "",
+    "cp": {
+        "order": 299,
+        "uses": [
+            {
+                "date": "2014/12/18",
+                "files": "",
+                "info": "",
+                "use": "Merry Walrus Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Anniversary Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party (??)"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2014"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Holiday Party 2015"
+            }
+        ]
+    }
+}

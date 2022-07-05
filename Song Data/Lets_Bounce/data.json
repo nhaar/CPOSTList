@@ -1,0 +1,42 @@
+{
+    "name": "Let's Bounce",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 91,
+    "link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
+    "cp": {
+        "order": 99.1,
+        "uses": [
+            {
+                "date": "2009/04/24",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 5,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Minigame title screen",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Beacon Boardwalk",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

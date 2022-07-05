@@ -1,0 +1,37 @@
+{
+    "name": "Glam Jam",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 342,
+    "link": "",
+    "cp": {
+        "order": 342,
+        "uses": [
+            {
+                "date": "2015/08/26",
+                "files": "",
+                "info": "",
+                "use": "Fashion Festival"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Fashion Party"
+            }
+        ]
+    }
+}

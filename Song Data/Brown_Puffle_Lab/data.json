@@ -1,0 +1,73 @@
+{
+    "name": "Brown Puffle Lab",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/VZezeEwBakA",
+    "order": 148,
+    "link": "https://youtu.be/8g1e1DFudgM",
+    "cp": {
+        "order": 148,
+        "uses": [
+            {
+                "date": "2011/01/17",
+                "files": "",
+                "info": "",
+                "use": "Wilderness Expedition"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party (??)"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "School & Skate Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Anniversarty Party (??)"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2015"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "School Party"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

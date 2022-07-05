@@ -1,0 +1,20 @@
+{
+    "name": "Path of the Hydra",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Path to Battle and Victory, Knight Quest Hydra Battle, Chamber of Gems & Place of Puzzles",
+    "sources": "Other",
+    "order": 155,
+    "link": "",
+    "cp": {
+        "order": 155,
+        "uses": [
+            {
+                "date": "2011/05/19",
+                "use": "Medieval Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

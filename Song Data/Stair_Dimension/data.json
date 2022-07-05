@@ -1,0 +1,27 @@
+{
+    "name": "Stair Dimension",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Box Dimension V5",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=eoq6Z0IEbeQ&t=281s",
+    "order": 152,
+    "link": "",
+    "cp": {
+        "order": 152,
+        "uses": [
+            {
+                "date": "2011/03/24",
+                "use": "April Fools 2011",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Waddle On Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

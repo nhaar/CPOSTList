@@ -1,0 +1,48 @@
+{
+    "name": "Reggae Stage",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Caribbean Jam, Music Jam Cove Theme",
+    "sources": "Game Day",
+    "order": 70,
+    "link": "https://www.youtube.com/watch?v=kagPOkdEiM8",
+    "cp": {
+        "order": 70,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Funny Hat Week Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 40,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Red Ski Hill Challenge",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Fashion Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

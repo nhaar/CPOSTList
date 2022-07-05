@@ -1,0 +1,37 @@
+{
+    "name": "Puffle Adventure",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 328,
+    "link": "",
+    "cp": {
+        "order": 328,
+        "uses": [
+            {
+                "date": "2015/03/26",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "",
+                "use": "",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Puffle Party 2015",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

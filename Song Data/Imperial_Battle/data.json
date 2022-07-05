@@ -1,0 +1,27 @@
+{
+    "name": "Imperial Battle",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Inquisitor Battle Theme",
+    "sources": "SC Other",
+    "sourcelinks": "https://soundcloud.com/sergiohorse/imperial-battle",
+    "order": 308,
+    "link": "",
+    "cp": {
+        "order": 308,
+        "uses": [
+            {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Halloween Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

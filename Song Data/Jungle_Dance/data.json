@@ -1,0 +1,43 @@
+{
+    "name": "Jungle Dance",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Island Adventure Dance Club Theme",
+    "sources": "Game Day",
+    "order": 105,
+    "link": "https://www.youtube.com/watch?v=jpl35a6TCOA",
+    "cp": {
+        "order": 105,
+        "uses": [
+            {
+                "date": "2009/06/12",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Rockhopper's Quest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversarty Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 29,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Sumo Smash",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

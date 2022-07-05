@@ -1,0 +1,37 @@
+{
+    "name": "Let It Go",
+    "truename": 1,
+    "artists": "Kristen Anderson-Lopez, Robert Lopez",
+    "altnames": "",
+    "sources": "Other",
+    "order": 278,
+    "link": "https://www.youtube.com/watch?v=KmXKiJu_Q_g",
+    "cp": {
+        "order": 278,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Frozen Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

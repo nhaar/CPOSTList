@@ -1,0 +1,31 @@
+{
+    "name": "Hoy Somos Mas",
+    "truename": 1,
+    "artists": "Violetta",
+    "altnames": "",
+    "sources": "Other",
+    "order": 270,
+    "link": "https://www.youtube.com/watch?v=K6X4zxrBvYM",
+    "cp": {
+        "order": 270,
+        "uses": [
+            {
+                "date": "2014/07/17",
+                "use": "Music Jam 2014",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

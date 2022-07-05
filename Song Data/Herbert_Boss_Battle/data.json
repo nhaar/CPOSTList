@@ -1,0 +1,21 @@
+{
+    "name": "Herbert Boss Battle",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/OfdlpqO0LNo",
+    "order": 158,
+    "link": "",
+    "cp": {
+        "order": 158,
+        "uses": [
+            {
+                "date": "2011/05/31",
+                "files": "",
+                "info": "",
+                "use": "Battle of Doom"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Pizzatron 3000",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App",
+    "order": 27,
+    "link": "https://www.youtube.com/watch?v=1NUZ4fLeMG0",
+    "cp": {
+        "order": 27,
+        "uses": [
+            {
+                "date": "2007/02/26",
+                "use": "Pizzatron 3000",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Pizzatron 3000",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

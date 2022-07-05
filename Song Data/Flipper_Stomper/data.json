@@ -1,0 +1,31 @@
+{
+    "name": "Flipper Stomper",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "",
+    "sources": "Game Day",
+    "order": 65,
+    "link": "https://www.youtube.com/watch?v=0iDwJa1paYc",
+    "cp": {
+        "order": 65,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "files": "",
+                "info": "",
+                "use": "Music Jam 2008"
+            }
+        ]
+    },
+    "gd": {
+        "order": 24,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Dock Challenge"
+            }
+        ]
+    }
+}

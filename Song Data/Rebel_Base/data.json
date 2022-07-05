@@ -1,0 +1,20 @@
+{
+    "name": "Rebel Base",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "order": 305,
+    "link": "",
+    "cp": {
+        "order": 305,
+        "uses": [
+            {
+                "date": "2015/01/22",
+                "use": "Star Wars Rebels Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

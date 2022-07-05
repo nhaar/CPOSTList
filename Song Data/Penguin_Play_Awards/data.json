@@ -1,0 +1,37 @@
+{
+    "name": "Penguin Play Awards",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "The Award Goes To...",
+    "sources": "Game Day",
+    "order": 97,
+    "link": "https://www.youtube.com/watch?v=4J2efFi21hQ",
+    "cp": {
+        "order": 97,
+        "uses": [
+            {
+                "date": "2009/03/20",
+                "use": "Penguin Play Awards",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Hollywood Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 43,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "All temas island conquered cutscene",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

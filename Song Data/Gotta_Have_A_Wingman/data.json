@@ -1,0 +1,60 @@
+{
+    "name": "Gotta Have A Wingman",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "Puffle Party",
+    "sources": "Other + App + Club Penguin Island",
+    "order": 184,
+    "link": "",
+    "cp": {
+        "order": 184,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Penguin Prom"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Music Jam (??)"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Puffle Party 2014"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Town"
+            }
+        ]
+    }
+}

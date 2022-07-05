@@ -1,0 +1,42 @@
+{
+    "name": "Mix Maestro",
+    "truename": 1,
+    "artists": "Rory O'Neill",
+    "altnames": "DJ3K Mix, DJ3K, Mix",
+    "sources": "Game Day",
+    "order": 64,
+    "link": "https://www.youtube.com/watch?v=W4z3l2BnMSQ",
+    "cp": {
+        "order": 64,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "gd": {
+        "order": 18,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Enemy team zone",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

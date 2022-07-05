@@ -1,0 +1,20 @@
+{
+    "name": "Puffle Howitzer",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=R8so7BYd9ZI&t=37s",
+    "order": 151.5,
+    "link": "https://youtu.be/fKRSabWRoPg",
+    "cpu": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Puffle Launch",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

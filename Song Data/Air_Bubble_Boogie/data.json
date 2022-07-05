@@ -1,0 +1,29 @@
+{
+    "name": "Air Bubble Boogie",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Underwater Adventure",
+    "sources": "App",
+    "order": 54,
+    "link": "https://www.youtube.com/watch?v=vi2lh0CnBCI",
+    "cp": {
+        "order": 54,
+        "uses": [
+            {
+                "date": "2008/02/15",
+                "files": "",
+                "info": "",
+                "use": "Sub-Marine Party"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Underwater Adventure"
+            }
+        ]
+    },
+    "app": {
+        "order": 1
+    }
+}

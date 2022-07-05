@@ -1,0 +1,89 @@
+{
+    "name": "Paris St Germain",
+    "truename": 1,
+    "artists": "Milo Deering",
+    "altnames": "Ice Fishing Theme",
+    "sources": "Other",
+    "order": 13,
+    "link": "https://www.youtube.com/watch?v=dhKAcYPWonE",
+    "versions": [
+        {
+            "name": "6_Paris_St._Germain.flac",
+            "info": "Full version.",
+            "source": "Other"
+        },
+        {
+            "name": "paris-st-germain-30secs-preview-no-voiceover.mp3",
+            "info": "30-secs version.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-60secs-preview-no-voiceover.mp3",
+            "info": "60-secs version.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-no-voiceover-loop01.mp3",
+            "info": "Loop 1 from the set of 5 loops.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-no-voiceover-loop02.mp3",
+            "info": "Loop 2 from the set of 5 loops.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-no-voiceover-loop03.mp3",
+            "info": "Loop 3 from the set of 5 loops.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-no-voiceover-loop04.mp3",
+            "info": "Loop 4 from the set of 5 loops.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-no-voiceover-loop05.mp3",
+            "info": "Loop 5 from the set of 5 loops.",
+            "source": "Sample"
+        },
+        {
+            "name": "paris-st-germain-underscore-preview-no-voiceover.mp3",
+            "info": "Underscore version.",
+            "source": "Sample"
+        }
+    ],
+    "cp": {
+        "order": 13,
+        "uses": [
+            {
+                "date": "2006/03/10",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Ice Fishing",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "The Generic Way",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Sparkling Stage, Vegas, Jazzy Lounge",
+    "sources": "App",
+    "order": 72,
+    "link": "https://www.youtube.com/watch?v=opcNfM8GeQo",
+    "cp": {
+        "order": 72,
+        "uses": [
+            {
+                "date": "2008/07/25",
+                "use": "Music Jam 2008",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Dance Contest",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

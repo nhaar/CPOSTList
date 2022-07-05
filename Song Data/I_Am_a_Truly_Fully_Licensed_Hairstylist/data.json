@@ -1,0 +1,20 @@
+{
+    "name": "I Am a Truly Fully Licensed Hairstylist",
+    "truename": 1,
+    "artists": "TAS 1000",
+    "altnames": "",
+    "sources": "A Message For Marta CD",
+    "order": 0.2,
+    "link": "https://www.youtube.com/watch?v=OhbYQUiEqGE",
+    "pc": {
+        "order": 4,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Night Club (Penguin Chat 3)",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

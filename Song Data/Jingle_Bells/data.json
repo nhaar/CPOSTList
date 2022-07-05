@@ -1,0 +1,62 @@
+{
+    "name": "Jingle Bells",
+    "truename": 1,
+    "artists": "Joe",
+    "altnames": "",
+    "sources": "SoundCloud + Other",
+    "sourcelinks": "https://www.shockwave-sound.com/stock-music-track/725/jingle-bells-arr-b-lynne",
+    "order": 8,
+    "link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
+    "versions": [
+        {
+            "info": "Highest quality available, but incomplete.",
+            "name": "Jingle Bells-182017542.mp3",
+            "source": "SoundCloud"
+        },
+        {
+            "info": "Highest quality complete version available.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "30-secs version.",
+            "name": "jingle-bells-30secs-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop 1 from the set of 3 loops.",
+            "name": "jingle-bells-no-voiceover-loop01.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop 2 from the set of 3 loops.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        },
+        {
+            "info": "Loop 3 from the set of 3 loops.",
+            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
+            "source": "Sample"
+        }
+    ],
+    "cp": {
+        "order": 8,
+        "uses": [
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "Holiday Party 2005"
+            },
+            {
+                "date": "?",
+                "files": "?",
+                "info": "",
+                "use": "10th Anniversary Party"
+            }
+        ]
+    },
+    "app": {
+        "order": 1
+    }
+}

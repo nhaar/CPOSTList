@@ -1,0 +1,20 @@
+{
+    "name": "Scare Games Challenge",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF sneak",
+    "order": 210,
+    "link": "",
+    "cp": {
+        "order": 210,
+        "uses": [
+            {
+                "date": "2013/07/27",
+                "use": "Monster University Takeover",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

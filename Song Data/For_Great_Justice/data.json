@@ -1,0 +1,48 @@
+{
+    "name": "For Great Justice",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Epic Squidzoid Fight, Superhero, Shadow Guy and Gamma Gal Vs Squidzoid Theme, Epic",
+    "sources": "Game Day",
+    "order": 51,
+    "link": "https://www.youtube.com/watch?v=5T7iURKM4qU",
+    "cp": {
+        "order": 51,
+        "uses": [
+            {
+                "date": "2008/01/11",
+                "files": "",
+                "info": "",
+                "use": "Squidzoid vs Shadow Guy and Gamma Gal"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "The Fair (??)"
+            }
+        ]
+    },
+    "gd": {
+        "order": 34,
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "files": "",
+                "info": "",
+                "use": "Snow Forts Challenge"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    }
+}

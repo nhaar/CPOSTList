@@ -1,0 +1,20 @@
+{
+    "name": "Norman Swarm V1",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/9O0YDG5FW0U?t=234",
+    "order": 116.5,
+    "link": "https://youtu.be/gM5gNZkVqe0",
+    "cpu": {
+        "order": 0.43,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Norman Swarm Has Been Transformed",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

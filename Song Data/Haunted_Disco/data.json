@@ -1,0 +1,42 @@
+{
+    "name": "Haunted Disco",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "",
+    "sources": "App + Club Penguin Island",
+    "order": 43,
+    "link": "https://www.youtube.com/watch?v=QBw91bBG2i0",
+    "cp": {
+        "order": 43,
+        "uses": [
+            {
+                "date": "2007/10/26",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2007"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Halloween Party 2018"
+            }
+        ]
+    }
+}

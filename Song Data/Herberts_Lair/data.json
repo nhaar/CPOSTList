@@ -1,0 +1,20 @@
+{
+    "name": "Herbert's Lair",
+    "truename": 0,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SWF 384",
+    "order": 190,
+    "link": "",
+    "cp": {
+        "order": 190,
+        "uses": [
+            {
+                "date": "2013/04/05",
+                "files": "",
+                "info": "",
+                "use": "Operation: Hot Sauce"
+            }
+        ]
+    }
+}

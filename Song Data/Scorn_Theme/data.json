@@ -1,0 +1,20 @@
+{
+    "name": "Scorn Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "Mountain of Misery",
+    "sources": "SWF ScornBattle",
+    "order": 170,
+    "link": "",
+    "cp": {
+        "order": 170,
+        "uses": [
+            {
+                "date": "2012/05/17",
+                "use": "Medieval Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

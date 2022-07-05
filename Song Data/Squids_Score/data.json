@@ -1,0 +1,31 @@
+{
+    "name": "Squids Score",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "order": 264,
+    "link": "",
+    "cp": {
+        "order": 264,
+        "uses": [
+            {
+                "date": "2014/06/19",
+                "use": "Penguin Cup",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

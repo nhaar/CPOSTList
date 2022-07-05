@@ -1,0 +1,31 @@
+{
+    "name": "Slush Rush Electro",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "order": 383,
+    "link": "",
+    "cp": {
+        "order": 383,
+        "uses": [
+            {
+                "date": "2017/01/04",
+                "use": "Club Penguin Island Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

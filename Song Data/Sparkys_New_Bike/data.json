@@ -1,0 +1,43 @@
+{
+    "name": "Sparky's New Bike",
+    "truename": 1,
+    "artists": "Paul Sumpter",
+    "altnames": "April Fools Day Music",
+    "sources": "Other",
+    "order": 30.9,
+    "link": "https://www.youtube.com/watch?v=n57NnBmKTns",
+    "cp": {
+        "order": 30.9,
+        "uses": [
+            {
+                "date": "2007/03/30",
+                "use": "April Fools 2007",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Town",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

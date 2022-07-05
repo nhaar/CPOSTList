@@ -1,0 +1,27 @@
+{
+    "name": "Jungle Crab",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Island Adventure Undeground Theme",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=e1ufA7zt5BU&t=170s",
+    "order": 104,
+    "link": "https://www.youtube.com/watch?v=IxPD-LsZxsw",
+    "cp": {
+        "order": 104,
+        "uses": [
+            {
+                "date": "2009/06/12",
+                "use": "Adventure Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Island Adventure Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

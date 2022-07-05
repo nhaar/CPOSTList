@@ -1,0 +1,20 @@
+{
+    "name": "Box Dimension V3",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/eoq6Z0IEbeQ?t=231",
+    "order": 98.7,
+    "link": "https://youtu.be/yPpzFblmVpA",
+    "cpu": {
+        "order": 0.3,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Box Dimension"
+            }
+        ]
+    }
+}

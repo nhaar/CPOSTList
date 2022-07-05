@@ -1,0 +1,20 @@
+{
+    "name": "Bumper Cars",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Bumper Car Rink, Stadium",
+    "sources": "Other",
+    "order": 161,
+    "link": "https://youtu.be/lawkPECXVq8",
+    "cp": {
+        "order": 161,
+        "uses": [
+            {
+                "date": "2011/09/22",
+                "files": "",
+                "info": "",
+                "use": "The Fair 2011"
+            }
+        ]
+    }
+}

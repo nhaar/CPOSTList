@@ -1,0 +1,42 @@
+{
+    "name": "Sugar Shake",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "CPI SoundCloud + App",
+    "order": 319,
+    "link": "",
+    "cp": {
+        "order": 319,
+        "uses": [
+            {
+                "date": "2015/02/19",
+                "use": "SoundStudio Party",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
+    },
+    "cpi": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Sea Caves",
+                "files": "",
+                "info": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Mountain Dojo",
+    "truename": 1,
+    "artists": "Chris Hendricks, Bart Roijmans",
+    "altnames": "Dojo Theme",
+    "sources": "Other",
+    "order": 85,
+    "link": "https://youtu.be/rCyou4Cz3J0",
+    "cp": {
+        "order": 85,
+        "uses": [
+            {
+                "date": "2008/11/14",
+                "files": "",
+                "info": "",
+                "use": "Dojo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Ninja Hideout"
+            }
+        ]
+    }
+}

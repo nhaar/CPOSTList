@@ -1,0 +1,37 @@
+{
+    "name": "Future Odyssey",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "App",
+    "order": 351,
+    "link": "",
+    "cp": {
+        "order": 351,
+        "uses": [
+            {
+                "date": "2015/11/18",
+                "files": "",
+                "info": "",
+                "use": "Operation: Crustacean"
+            }
+        ]
+    },
+    "app": {
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            },
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Operation: Crustacean"
+            }
+        ]
+    }
+}
