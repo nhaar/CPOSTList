@@ -11,10 +11,17 @@
         "uses": [
             {
                 "date": "2007/07/13",
-                "use": "Water Party",
+                "use": "Water Party 2007",
                 "files": "",
                 "info": ""
-            }
+            },
+            { 
+                "date" : "2008/06/13",
+                "end" : "2008/06/17",
+                "use" : "Water Party 2008",
+                "files" : "",
+                "info" : ""
+                }
         ]
     }
 }

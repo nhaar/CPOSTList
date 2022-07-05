@@ -3,9 +3,21 @@
     "truename": 1,
     "artists": "Chris Hendricks",
     "altnames": "Voyage of the Migrator",
-    "sources": "CPI SoundCloud",
+    "sources": "CPI SoundCloud + Other",
     "order": 168,
     "link": "",
+    "versions": [
+        {
+            "name": "On High Seas [478746198].aac",
+            "info": "CPI SoundCloud",
+            "source": ""
+        },
+        {
+            "name": "Voyage_Of_The_Migrator.mp3",
+            "info": "Other",
+            "source": ""
+        }
+    ],
     "cp": {
         "order": 168,
         "uses": [

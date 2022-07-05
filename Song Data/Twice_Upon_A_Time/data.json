@@ -3,9 +3,14 @@
     "truename": 1,
     "artists": "Chris Hendricks",
     "altnames": "Fairy Fables Theme",
-    "sources": "CPI SoundCloud",
+    "sources": "Other",
     "order": 90,
     "link": "https://www.youtube.com/watch?v=DWYDLPWn8dQ",
+    "versions": [{
+        "name" : "39_FairyFables.mp3",
+        "info" : "",
+        "source" : "Other"
+        }],
     "cp": {
         "order": 90,
         "uses": [
