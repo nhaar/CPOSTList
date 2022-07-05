@@ -10,7 +10,7 @@
         "order": 6,
         "uses": [
             {
-                "date": "?",
+                "date": "2005/12/14",
                 "files": "?",
                 "info": "",
                 "use": "Puffle Roundup"
@@ -24,6 +24,14 @@
         ]
     },
     "cpi": {
-        "order": 1
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Puffle Roundup",
+                "files": "",
+                "info": ""
+            }
+        ]
     }
 }

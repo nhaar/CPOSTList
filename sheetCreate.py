@@ -8,30 +8,32 @@ exec(open('dataBuild.py').read())
 ## Define what data is important for the tabs
 
 headers = {
-    'all': [ #Headers for both media and series
-    'Name',
-    'Name_official',
-    'Composers',
-    'Link',
-    'Source Links',
-    'HQ Source(s)',
-    'Alternate Names'
-    ],
-    'media': [ #Headers only for medias
-    'Related To',
-    'Order',
-    'Earliest Date'
-    ],
-    'series': [ #Headers only for series (all medias tab)
-        'Order',
-        'Earliest Date',
-        'Medias'
-    ]
+    'all': { #Headers for both media and series, the lists is [series_order,medias_order]
+    'Name': [1,1],
+    'Artist(s)':[2,2],
+    'Link': [4,4],
+    'HQ Source(s)': [5,7],
+    'Alternate Names': [6,6]
+    },
+    'media': { #Headers only for medias Numbers are order of the collumns
+    'Related To': 5,
+    'Order': 3,
+    'Earliest Date': 8
+},
+    'series': { #Headers only for series (all medias tab)
+        'Order': 3,
+        'Earliest Date': 8,
+        'Medias': 7
+    }
 }
+extra_info = [
+    'truename',
+    'sourcelinks'
+]
 
 series_order = { #to-do: Merge these two order dicts with the one above later
     1 : 'Name',
-    2 : 'Composers',
+    2 : 'Artist(s)',
     3 : 'Order',
     4 : 'Link',
     5 : 'HQ Source(s)',
@@ -42,7 +44,7 @@ series_order = { #to-do: Merge these two order dicts with the one above later
 
 tabs_order = {
     1 : 'Name',
-    2 : 'Composers',
+    2 : 'Artist(s)',
     3: 'Order',
     4: 'Link',
     5: 'Related To',
@@ -66,6 +68,10 @@ for x in headers['media']:
         tabs[y][x] = []
 for x in headers['series']:
     tabs['series'][x] = []
+for x in extra_info:
+    tabs['series'][x] = []
+    for y in medias:
+        tabs[y][x] = []
 
 ordering = {} #To fix order later
 for x in tabs:
@@ -73,52 +79,85 @@ for x in tabs:
 
 # Iterate through every song to populate the tabs
 
-for x in all_data: #all_data is form dataBuild.py
-    song = all_data[x]
+exchanging_all = {'Name' : 'name', 'Artist(s)': 'artists', "Link": 'link', "HQ Source(s)": 'sources', 'Alternate Names': 'altnames'}
+
+def DateStrToVal(x):
+    val = ''
+    for y in x:
+        if y != '/':
+            val += y
+    try:
+        return str(val)
+    except:
+        return '?'
+
+for song in all_data: #all_data is form dataBuild.py
     present_medias = []
+    dates = []
     for media in medias:
         try:
-            dummy = song[media + ' Info']
-            present_medias.append(media)
-            usages = dummy['uses']
+            mediadict = song[media]
+            present_medias.append(media) # Finding all medias present
+            usages = mediadict['uses'] # Find "Related To" based on the uses
             use_str = ''
             for thing in usages:
-                use_str += usages[thing]['use']
-            if use_str[len(use_str)-1] == ' ':
-                all_data[x][media + ' Info']['Related To'] = use_str[:-1]
-            else:
-                all_data[x][media + ' Info']['Related To'] = use_str
+                use_str += thing['use'] + ', '
+            if use_str[len(use_str)-2] == ',': #Remove space at the end if needed
+                use_str = use_str[:-2]
+            tabs[media]['Related To'].append(use_str) #Append Related To
+            thisdate = usages[0]['date']
+            tabs[media]['Earliest Date'].append(thisdate) #Append first use's date to Earliest Date
+            dates.append(thisdate) #For later
         except:
-            pass
+            try:
+                dummy = song[media]
+                print(song['name'] + '       ' + media)
+            except:
+                pass
     for media in present_medias:
-        ordering[media][song['Name']] = song[media + ' Info']['Order']
-        for header in headers['media']:
-            if header != 'Order':
-                try:
-                    tabs[media][header].append(song[media + ' Info'][header])
-                except:
-                    tabs[media][header].append(None)
-    for header in headers['all']:
+        ordering[media][song['name']] = song[media]['order']
+    for x in exchanging_all:
         try:
-            tabs['series'][header].append(song[header])
+            tabs['series'][x].append(song[exchanging_all[x]])
         except:
-            tabs['series'][header].append(None)
+            tabs['series'][x].append(None)
         for media in present_medias:
             try:
-                tabs[media][header].append(song[header])
+                tabs[media][x].append(song[exchanging_all[x]])
             except:
-                tabs[media][header].append(None)
-    for header in ['Earliest Date']:
-        try:
-            tabs['series'][header].append(song[header])
-        except:
-            tabs['series'][header].append(None)
+                tabs[media][x].append(None)
+    nummericaldates = []
+    for value in dates: #Defining Earliest Dates
+        nummericaldates.append(DateStrToVal(value))
+    lowestvalue = 30000000
+    lowpos = 0
+    i = 0
+    for x in nummericaldates:
+        if type(x) == type(1):
+            if x < lowestvalue:
+                x = lowestvalue
+                lowpos = i
+        i += 1
+    try:
+        tabs['series']['Earliest Date'].append(dates[lowpos])
+    except:
+        tabs['series']['Earliest Date'].append('?')
     present_medias = [medias[l]['media'] for l in present_medias]
     media_str = ''
     for x in present_medias:
         media_str += ', ' + x
     tabs['series']['Medias'].append(media_str[2:len(media_str)])
-    ordering['series'][song['Name']] = song['Order']
+    ordering['series'][song['name']] = song['order']
+    for x in extra_info:
+        try:
+            tabs['series'][x].append(song[x])
+        except:
+            tabs['series'][x].append(None)
+        for y in medias:
+            try:
+                tabs[y][x].append(song[x])
+            except:
+                tabs[y][x].append(None)
 
 
 # Fix the non intenger orders
@@ -181,14 +220,14 @@ for k in medias:
             cell = letters[i] + str(j)
             if tabs_order[i] == 'Name':
                 wb[tab][cell].value = column[j-1]
-                if orderedtabs[k]['Name_official'][j-1] == 1:
+                if orderedtabs[k]['truename'][j-1] == 1:
                     wb[tab][cell].font = Font(color='2E47AA')
                 else:
                     wb[tab][cell].font = Font(color='CC0000')
             elif tabs_order[i] == 'HQ Source(s)':
                 wb[tab][cell] = column[j-1]
-                if orderedtabs[k]['Source Links'][j-1] != None:
-                    wb[tab][cell].hyperlink = orderedtabs[k]['Source Links'][j-1]
+                if orderedtabs[k]['sourcelinks'][j-1] != None:
+                    wb[tab][cell].hyperlink = orderedtabs[k]['sourcelinks'][j-1]
                     wb[tab][cell].style = "Hyperlink"
             elif tabs_order[i] == 'Link':
                 if column[j-1] != "" and column[j-1] != None:
@@ -207,14 +246,14 @@ for i in range(1, len(series_order)+1):
         cell = letters[i] + str(j)
         if series_order[i] == 'Name':
             wb[tab][cell].value = column[j-1]
-            if orderedtabs[k]['Name_official'][j-1] == 1:
+            if orderedtabs[k]['truename'][j-1] == 1:
                 wb[tab][cell].font = Font(color='2E47AA')
             else:
                 wb[tab][cell].font = Font(color='CC0000')
         elif series_order[i] == 'HQ Source(s)':
             wb[tab][cell] = column[j-1]
-            if orderedtabs[k]['Source Links'][j-1] != None:
-                wb[tab][cell].hyperlink = orderedtabs[k]['Source Links'][j-1]
+            if orderedtabs[k]['sourcelinks'][j-1] != None:
+                wb[tab][cell].hyperlink = orderedtabs[k]['sourcelinks'][j-1]
                 wb[tab][cell].style = "Hyperlink"
         elif series_order[i] == 'Link':
             wb[tab][cell].hyperlink = column[j-1]

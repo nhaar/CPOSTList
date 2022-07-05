@@ -7,6 +7,14 @@
     "order": 1100,
     "link": "",
     "cpi": {
-        "order": 1100
+        "order": 1100,
+        "uses": [
+            {
+                "date": "?",
+                "use": "?",
+                "files": "",
+                "info": ""
+            }
+        ]
     }
 }

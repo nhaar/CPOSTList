@@ -24,6 +24,14 @@
         ]
     },
     "app": {
-        "order": 1
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "files": "",
+                "info": "",
+                "use": "Igloo"
+            }
+        ]
     }
 }

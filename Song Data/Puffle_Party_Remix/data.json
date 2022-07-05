@@ -28,7 +28,8 @@
         ],
         "uses": [
             {
-                "date": "2010/Feb/18-2010/Feb/25",
+                "date": "2010/02/18",
+                "end": "2010/02/25",
                 "files": "282.swf",
                 "info": "",
                 "use": "Puffle Party 2010"
@@ -36,7 +37,15 @@
         ]
     },
     "app": {
-        "order": 1
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "cpi": {
         "order": 1,

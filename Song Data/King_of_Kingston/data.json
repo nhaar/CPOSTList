@@ -61,7 +61,7 @@
         ],
         "uses": [
             {
-                "date": "?",
+                "date": "2005/10/24",
                 "files": "1.swf",
                 "info": "",
                 "use": "Coffee Shop"
@@ -81,6 +81,14 @@
         ]
     },
     "app": {
-        "order": 1
+        "order": 1,
+        "uses": [
+            {
+                "date": "?",
+                "use": "Coffee Shop",
+                "files": "",
+                "info": ""
+            }
+        ]
     }
 }
