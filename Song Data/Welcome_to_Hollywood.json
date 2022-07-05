@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 185,
         "Earliest Date": "2013/02/14",
-        "Related To": "Hollywood Party, The Fair"
+        "Related To": "Hollywood Party, The Fair",
+        "uses": [
+            {
+                "date": "2013/02/14",
+                "use": "Hollywood Party",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "The Fair (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Norrie Henderson",
     "Alternate Names": "Hollywood Theme"

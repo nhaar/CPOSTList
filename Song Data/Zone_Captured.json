@@ -9,7 +9,15 @@
     "Game Day Info": {
         "Order": 23,
         "Earliest Date": "2010/09/17",
-        "Related To": "Zone Captured"
+        "Related To": "Zone Captured",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Zone Captured",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

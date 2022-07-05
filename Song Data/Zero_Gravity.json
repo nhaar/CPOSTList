@@ -9,12 +9,28 @@
     "CP Flash Info": {
         "Order": 113,
         "Earliest Date": "2009/08/14",
-        "Related To": "Festival Of Flight"
+        "Related To": "Festival Of Flight",
+        "uses": [
+            {
+                "date": "2009/08/14",
+                "use": "Festival Of Flight",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Game Day Info": {
         "Order": 13,
         "Earliest Date": "2010/09/17",
-        "Related To": "Minigame results"
+        "Related To": "Minigame results",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Minigame results",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Rory O'Neill",
     "Alternate Names": ""

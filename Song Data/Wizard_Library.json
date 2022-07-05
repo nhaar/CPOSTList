@@ -9,7 +9,21 @@
     "CP Flash Info": {
         "Order": 221,
         "Earliest Date": "2013/09/19",
-        "Related To": "Medieval Party, Anniversary Party"
+        "Related To": "Medieval Party, Anniversary Party",
+        "uses": [
+            {
+                "date": "2013/09/19",
+                "use": "Medieval Party 2013",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Anniversary Party (??)",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "David Fairfield",
     "Alternate Names": "Wizard Library, Wizard School Observatory"

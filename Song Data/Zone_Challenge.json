@@ -9,7 +9,15 @@
     "Game Day Info": {
         "Order": 20,
         "Earliest Date": "2010/09/17",
-        "Related To": "Zone Challenge Title"
+        "Related To": "Zone Challenge Title",
+        "uses": [
+            {
+                "date": "2010/09/17",
+                "use": "Zone Challenge Title",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "?",
     "Alternate Names": ""

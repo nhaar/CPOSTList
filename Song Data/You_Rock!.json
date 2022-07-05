@@ -9,12 +9,34 @@
     "CP Flash Info": {
         "Order": 140,
         "Earliest Date": "2010/07/08",
-        "Related To": "Music Jam, Make Your Mark: Ultimate Jam"
+        "Related To": "Music Jam, Make Your Mark: Ultimate Jam",
+        "uses": [
+            {
+                "date": "2010/07/08",
+                "use": "Music Jam 2010",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "?",
+                "use": "Make Your Mark: Ultimate Jam",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "App Info": {
         "Order": 1,
         "Earliest Date": "?",
-        "Related To": "Igloo"
+        "Related To": "Igloo",
+        "uses": [
+            {
+                "date": "?",
+                "use": "Igloo",
+                "files": "",
+                "info": ""
+            }
+        ]
     },
     "Composers": "Michael Campitelli",
     "Alternate Names": "Quieter You Rock!, Oh No You Didn't"
