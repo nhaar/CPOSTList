@@ -11,9 +11,17 @@
         "uses": [
             {
                 "date": "2014/03/20",
+                "end": "2014/04/01",
+                "use": "Muppets World Tour",
                 "files": "",
-                "info": "",
-                "use": "Muppter's World Tour"
+                "info": ""
+            },
+            {
+                "date": "2014/08/21",
+                "end": "2014/09/03",
+                "use": "Frozen Party",
+                "files": "",
+                "info": ""
             },
             {
                 "date": "?",

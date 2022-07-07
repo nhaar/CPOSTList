@@ -11,12 +11,21 @@
         "uses": [
             {
                 "date": "2010/07/08",
+                "end": "2010/07/19",
                 "use": "Music Jam 2010",
                 "files": "",
                 "info": ""
             },
             {
-                "date": "?",
+                "date": "2011/06/16",
+                "end": "2011/07/05",
+                "use": "Music Jam 2011",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "2012/07/19",
+                "end": "2012/08/01",
                 "use": "Make Your Mark: Ultimate Jam",
                 "files": "",
                 "info": ""

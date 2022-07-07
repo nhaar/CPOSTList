@@ -76,28 +76,39 @@
                 "use": "April Fools Party 2010"
             },
             {
-                "date": "?",
-                "files": "?",
-                "info": "Played in the Strange Dimension room.",
-                "use": "April Fools Party 2011"
+                "date": "2011/03/24",
+                "end": "2011/04/05",
+                "use": "April Fools Party 2011",
+                "files": "",
+                "info": "Played in the Strange Dimension room."
             },
             {
-                "date": "?",
+                "date": "2012/03/29",
+                "end": "2012/04/04",
+                "use": "April Fools Party 2012",
+                "files": "",
+                "info": "Played in the Strange Dimension room."
+            },
+            {
+                "date": "2012/11/14",
+                "end": "2012/12/06",
                 "files": "?",
                 "info": "Played in the Paradise room.",
                 "use": "Operation: Blackout"
             },
             {
-                "date": "?",
+                "date": "2013/08/22",
+                "end": "2013/09/04",
                 "files": "?",
                 "info": "Played in the Town and in Big Momma's.",
                 "use": "Teen Beach Movie Summer Jam"
             },
             {
-                "date": "?",
-                "files": "?",
-                "info": "Played in the Town.",
-                "use": "Music Jam 2014"
+                "date": "2014/07/17",
+                "end": "2014/07/31",
+                "use": "Music Jam 2014",
+                "files": "",
+                "info": "Played in the Town."
             },
             {
                 "date": "?",

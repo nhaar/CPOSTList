@@ -11,9 +11,10 @@
         "uses": [
             {
                 "date": "2012/02/24",
+                "end": "2012/03/07",
+                "use": "Rockhopper's Quest",
                 "files": "",
-                "info": "",
-                "use": "Rockhopper's Quest"
+                "info": ""
             }
         ]
     }

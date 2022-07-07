@@ -11,9 +11,10 @@
         "uses": [
             {
                 "date": "2009/08/14",
+                "end": "2009/08/20",
+                "use": "Festival of Flight",
                 "files": "",
-                "info": "",
-                "use": "Festivel Of Flight"
+                "info": ""
             },
             {
                 "date": ":",

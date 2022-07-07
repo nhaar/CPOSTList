@@ -11,9 +11,17 @@
         "uses": [
             {
                 "date": "2011/05/19",
+                "end": "2011/05/31",
+                "use": "Medieval Party 2011",
                 "files": "",
-                "info": "",
-                "use": "Medieval Party 2011"
+                "info": ""
+            },
+            {
+                "date": "2012/05/17",
+                "end": "2012/05/30",
+                "use": "Medieval Party 2012",
+                "files": "",
+                "info": ""
             }
         ]
     }

@@ -12,9 +12,17 @@
         "uses": [
             {
                 "date": "2013/12/19",
+                "end": "2014/01/02",
+                "use": "Holiday Party 2013",
                 "files": "",
-                "info": "",
-                "use": "Holiday Party 2013"
+                "info": ""
+            },
+            {
+                "date": "2014/12/18",
+                "end": "2014/12/30",
+                "use": "Merry Walrus Party",
+                "files": "",
+                "info": ""
             }
         ]
     },

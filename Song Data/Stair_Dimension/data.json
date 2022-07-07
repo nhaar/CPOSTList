@@ -12,7 +12,15 @@
         "uses": [
             {
                 "date": "2011/03/24",
-                "use": "April Fools 2011",
+                "end": "2011/04/05",
+                "use": "April Fools Party 2011",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "2012/03/29",
+                "end": "2012/04/04",
+                "use": "April Fools Party 2012",
                 "files": "",
                 "info": ""
             },

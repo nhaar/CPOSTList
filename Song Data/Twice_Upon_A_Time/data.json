@@ -6,11 +6,13 @@
     "sources": "Other",
     "order": 90,
     "link": "https://www.youtube.com/watch?v=DWYDLPWn8dQ",
-    "versions": [{
-        "name" : "39_FairyFables.mp3",
-        "info" : "",
-        "source" : "Other"
-        }],
+    "versions": [
+        {
+            "name": "39_FairyFables.mp3",
+            "info": "",
+            "source": "Other"
+        }
+    ],
     "cp": {
         "order": 90,
         "uses": [
@@ -21,8 +23,9 @@
                 "info": ""
             },
             {
-                "date": "?",
-                "use": "Medieval Party (??)",
+                "date": "2013/09/19",
+                "end": "2013/10/03",
+                "use": "Medieval Party 2013",
                 "files": "",
                 "info": ""
             }

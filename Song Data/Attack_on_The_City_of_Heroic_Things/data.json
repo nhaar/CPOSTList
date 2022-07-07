@@ -12,9 +12,17 @@
         "uses": [
             {
                 "date": "2012/06/14",
+                "end": "2012/07/04",
+                "use": "Marvel Super Hero Takeover 2012",
                 "files": "",
-                "info": "",
-                "use": "Marvel Super Hero Takeover"
+                "info": ""
+            },
+            {
+                "date": "2013/04/25",
+                "end": "2013/05/09",
+                "use": "Marvel Super Hero Takeover 2013",
+                "files": "",
+                "info": ""
             }
         ]
     },

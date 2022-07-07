@@ -31,10 +31,25 @@
                 "info": ""
             },
             {
-                "date": "?",
+                "date": "2011/03/24",
+                "end": "2011/04/05",
+                "use": "April Fools Party 2011",
                 "files": "",
-                "info": "",
-                "use": "April Fools (??)"
+                "info": ""
+            },
+            {
+                "date": "2012/03/15",
+                "end": "2012/03/29",
+                "use": "Puffle Party 2012",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "2012/03/29",
+                "end": "2012/04/04",
+                "use": "April Fools Party 2012",
+                "files": "",
+                "info": ""
             }
         ]
     }

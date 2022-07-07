@@ -11,9 +11,10 @@
         "uses": [
             {
                 "date": "2014/04/17",
+                "end": "2014/05/01",
+                "use": "Puffle Party 2014",
                 "files": "",
-                "info": "",
-                "use": "Puffle Party 2014"
+                "info": ""
             }
         ]
     },

@@ -10,16 +10,18 @@
         "order": 207,
         "uses": [
             {
-                "date": "2013/07/27",
+                "date": "2013/06/27",
+                "end": "2013/07/11",
+                "use": "Monsters University Takeover",
                 "files": "",
-                "info": "",
-                "use": "Monster University Takeover"
+                "info": ""
             },
             {
-                "date": "?",
+                "date": "2014/04/17",
+                "end": "2014/05/01",
+                "use": "Puffle Party 2014",
                 "files": "",
-                "info": "",
-                "use": "Puffle Party (??)"
+                "info": ""
             }
         ]
     },

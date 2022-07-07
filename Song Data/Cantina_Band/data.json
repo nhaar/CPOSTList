@@ -11,9 +11,10 @@
         "uses": [
             {
                 "date": "2013/07/25",
+                "end": "2013/08/15",
+                "use": "Star Wars Takeover",
                 "files": "",
-                "info": "",
-                "use": "Star Wars Takeover"
+                "info": ""
             }
         ]
     }

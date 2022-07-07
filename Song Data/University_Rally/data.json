@@ -10,13 +10,15 @@
         "order": 212,
         "uses": [
             {
-                "date": "2013/07/27",
-                "use": "Monster University Takeover",
+                "date": "2013/06/27",
+                "end": "2013/07/11",
+                "use": "Monsters University Takeover",
                 "files": "",
                 "info": ""
             },
             {
-                "date": "?",
+                "date": "2014/09/18",
+                "end": "2014/10/01",
                 "use": "School & Skate Party",
                 "files": "",
                 "info": ""

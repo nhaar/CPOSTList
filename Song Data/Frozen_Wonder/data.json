@@ -12,9 +12,10 @@
         "uses": [
             {
                 "date": "2014/08/21",
+                "end": "2014/09/03",
+                "use": "Frozen Party",
                 "files": "",
-                "info": "",
-                "use": "Frozen Party"
+                "info": ""
             },
             {
                 "date": "?",

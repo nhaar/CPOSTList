@@ -16,10 +16,25 @@
                 "use": "April Fools Party 2008"
             },
             {
-                "date": "?",
+                "date": "2010/03/31",
+                "end": "2010/04/05",
+                "use": "April Fools 2010",
                 "files": "",
-                "info": "",
-                "use": "The Fair 2014"
+                "info": ""
+            },
+            {
+                "date": "2011/03/24",
+                "end": "2011/04/05",
+                "use": "April Fools Party 2011",
+                "files": "",
+                "info": ""
+            },
+            {
+                "date": "2014/02/20",
+                "end": "2014/03/06",
+                "use": "The Fair 2014",
+                "files": "",
+                "info": ""
             }
         ]
     }
