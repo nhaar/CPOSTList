@@ -3,14 +3,14 @@
     "truename": 1,
     "artists": "?",
     "altnames": "",
-    "sources": "Club Penguin Website + CPI SoundCloud",
+    "sources": "Club Penguin Website + SoundCloud + CPI SoundCloud",
     "order": 219,
     "link": "",
     "cp": {
         "order": 210,
         "uses": [
             {
-                "date": "2013/07/28",
+                "date": "2013/08/28",
                 "use": "?",
                 "files": "",
                 "info": ""
