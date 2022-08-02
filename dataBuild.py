@@ -26,6 +26,10 @@ medias = { #tab: name of the tab on the spreadsheet
     'cpi' : {
         'tab': 'CPI OST',
         'media': 'Club Penguin Island'
+    },
+    'cpyt' : {
+        'tab': 'Club Penguin YouTube OST',
+        'media': 'Club Penguin YouTube'
     }
 }
 

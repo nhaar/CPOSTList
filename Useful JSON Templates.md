@@ -8,7 +8,6 @@ The basic template that every song needs
     "altnames": "",
     "sources": "",
     "sourcelinks": "",
-    "order": 0,
     "link": "",
     "versions": [],
 }
@@ -27,32 +26,7 @@ File Versions template
 Media Info template
 
 ```
-"order": 0,
-"files": [],
-"uses": [{ 
-"date" : "",
-"use" : "",
-"files" : "",
-"info" : ""
-}]
-```
-
-Files template (for Media Info)
-
-```
-{ 
-"name" : "",
-"info" : ""
-}
-```
-
-Uses template (for Media Info)
-
-```
-{ 
-"date" : "",
-"use" : "",
-"files" : "",
-"info" : ""
-}
+"date": "",
+"truedate" : ,
+"uses": ""
 ```

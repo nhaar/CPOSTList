@@ -5,7 +5,6 @@
     "altnames": "",
     "sources": "",
     "sourcelinks": "",
-    "order": 0,
     "link": "",
     "versions": [
         {
@@ -15,20 +14,8 @@
         }
     ],
     "media": {
-        "order": 0,
-        "files": [
-            {
-                "name": "",
-                "info": ""
-            }
-        ],
-        "uses": [
-            {
-                "date": "",
-                "use": "",
-                "files": "",
-                "info": ""
-            }
-        ]
+        "date": "",
+        "truedate" : 0,
+        "uses" : ""
     }
 }
