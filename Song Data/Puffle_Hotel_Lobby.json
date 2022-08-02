@@ -1,0 +1,18 @@
+{
+    "name": "Puffle Hotel Lobby",
+    "truename": 0,
+    "artists": "Norrie Henderson",
+    "altnames": "Puffle Hotel 1",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Puffle Hotel Lobby",
+        "date": "2013/03/21",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Puffle Hotel Lobby",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

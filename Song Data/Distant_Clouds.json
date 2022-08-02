@@ -1,0 +1,23 @@
+{
+    "name": "Distant Clouds",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Cloud Forest",
+        "date": "2013/03/23",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Rainbow Puffle Party, Cloud Forest",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Rainbow Migration 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

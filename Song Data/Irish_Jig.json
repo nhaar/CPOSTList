@@ -1,0 +1,12 @@
+{
+    "name": "Irish Jig",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "CPI SoundCloud",
+    "link": "",
+    "cpi": {
+        "uses": "Rockhopper Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

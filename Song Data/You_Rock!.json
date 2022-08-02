@@ -1,0 +1,18 @@
+{
+    "name": "You Rock!",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "Quieter You Rock!, Oh No You Didn't",
+    "sources": "App",
+    "link": "https://www.youtube.com/watch?v=WLSaYpqagEY",
+    "cp": {
+        "uses": "Music Jam 2010, Music Jam 2011, Make Your Mark: Ultimate Jam",
+        "date": "2010/07/08",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

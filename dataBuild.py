@@ -29,18 +29,22 @@ medias = { #tab: name of the tab on the spreadsheet
     }
 }
 
-# Finding every directory name
+# Finding every file name
 
 directory = 'Song Data'
-folders = []
-for root, directories, files in os.walk(directory):
-    for folder in directories:
-        folders.append(os.path.join(root, folder))
+
+all_files = []
+files = []
+for x in os.walk(directory):
+    all_files.append(x)
+
+for x in all_files[0][2]:
+    files.append(x)
 
 # Iterating through every song and adding to all_data
 
 all_data = []
-for x in folders:
+for x in files:
     print(x)
-    newsong = json.load(open(x+'/data.json', 'r'))
+    newsong = json.load(open('Song Data/' + x, 'r'))
     all_data.append(newsong)

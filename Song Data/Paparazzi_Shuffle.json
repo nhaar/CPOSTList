@@ -1,0 +1,19 @@
+{
+    "name": "Paparazzi Shuffle",
+    "truename": 1,
+    "artists": "Jane Finstrom",
+    "altnames": "Old Tutorial Music",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=hqnvunVQ6UI",
+    "cp": {
+        "files": [
+            {
+                "info": "",
+                "name": "500.swf"
+            }
+        ],
+        "uses": "Website Tutorial",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

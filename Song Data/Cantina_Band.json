@@ -1,0 +1,13 @@
+{
+    "name": "Cantina Band",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=EsvfptdFXf4",
+    "cp": {
+        "uses": "Star Wars Takeover",
+        "date": "2013/07/25",
+        "truedate": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ramp It Up!",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Puffle Coaster 3, Puffle Launch Theme",
+    "sources": "Other",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=690",
+    "link": "https://youtu.be/G6WuZkYdg5w",
+    "cp": {
+        "uses": "Puffle Launch",
+        "date": "2011/03/24",
+        "truedate": 1
+    }
+}

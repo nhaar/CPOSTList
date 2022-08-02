@@ -1,0 +1,24 @@
+{
+    "name": "Smoothie Smash Menu",
+    "truename": 0,
+    "artists": "?",
+    "sources": "App",
+    "versions": [
+        {
+            "info": "",
+            "name": "MUS_MG_SmoothieSmash_MenuAmb.aac",
+            "source": "App"
+        }
+    ],
+    "app": {
+        "files": [
+            {
+                "info": "",
+                "name": "MUS_MG_SmoothieSmash_MenuAmb.aac"
+            }
+        ],
+        "uses": "Smoothie Smash",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

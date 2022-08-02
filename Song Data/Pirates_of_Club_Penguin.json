@@ -1,0 +1,23 @@
+{
+    "name": "Pirates of Club Penguin",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Crab Battle",
+    "sources": "SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Pirate Party 2014",
+        "date": "2014/11/20",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Rockhopper Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

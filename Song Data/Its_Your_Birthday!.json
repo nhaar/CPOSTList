@@ -1,0 +1,23 @@
+{
+    "name": "It's Your Birthday!",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Website + SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "9th Anniversary Party",
+        "date": "2014/10/23",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Halloween Party 2014",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "1st Anniversary Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

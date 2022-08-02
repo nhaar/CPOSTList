@@ -1,0 +1,19 @@
+{
+    "name": "Gotta Get The Gotcha",
+    "truename": 1,
+    "artists": "Dan Petty",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=sv2e3W2ebPc",
+    "link": "",
+    "cp": {
+        "uses": "Halloween Party 2015",
+        "date": "2015/10/21",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

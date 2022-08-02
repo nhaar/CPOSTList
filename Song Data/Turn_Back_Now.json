@@ -1,0 +1,18 @@
+{
+    "name": "Turn Back Now",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Halloween Party 2012, Halloween Party 2013, Halloween Party 2014",
+        "date": "2012/10/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Halloween Party 2014",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

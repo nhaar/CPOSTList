@@ -1,0 +1,23 @@
+{
+    "name": "Stone-Age Party",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Prehistoric Party 2014, The Fair (??), Fashion Festival, Anniversary Party (??), Music Jam (??)",
+        "date": "2014/01/23",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Prehistoric Party, Cove",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Credits",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

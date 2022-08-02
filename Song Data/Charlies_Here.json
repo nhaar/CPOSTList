@@ -1,0 +1,23 @@
+{
+    "name": "Charlie's Here",
+    "truename": 1,
+    "artists": "Skip Peck",
+    "altnames": "Pizza Parlor Theme",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=rqnpacsOQAQ",
+    "cp": {
+        "uses": "Pizza Parlor",
+        "date": "2006/02/24",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Operation: Tri-ump",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Town",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

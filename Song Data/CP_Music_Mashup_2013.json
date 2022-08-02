@@ -1,0 +1,18 @@
+{
+    "name": "CP Music Mashup 2013",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "?, Igloo",
+        "date": "2014/03/28",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

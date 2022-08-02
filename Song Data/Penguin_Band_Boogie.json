@@ -1,0 +1,23 @@
+{
+    "name": "Penguin Band Boogie",
+    "truename": 1,
+    "artists": "Club Penguin Team",
+    "altnames": "Waddle On Dance-A-Thon, Silly To Funky",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=cj06KsXr6lk",
+    "cp": {
+        "uses": "Dance-A-Thon, Music Jam 2009, Dance Contest, Music Jam 2010, Puffle Party 2011, Puffle Party 2012, The Fair 2014",
+        "date": "2009/01/15",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Green team zone",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

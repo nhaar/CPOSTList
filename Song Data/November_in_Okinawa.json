@@ -1,0 +1,26 @@
+{
+    "name": "November in Okinawa",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Cherry Blossoms Fall, Sensei's Mix, Card-Jitsu Party Main Theme",
+    "sources": "Screenhog's Website + Other",
+    "sourcelinks": "http://www.screenhog.com/music",
+    "link": "",
+    "versions": [
+        {
+            "info": "Part 1.",
+            "name": "November+in+Okinawa+2_02.mp3",
+            "source": "Screenhog's Website"
+        },
+        {
+            "info": "Part 2.",
+            "name": "November_in_Okinawa_2_Indoor_02.mp3",
+            "source": "Other"
+        }
+    ],
+    "cp": {
+        "uses": "Card-Jitsu Party 2011, Card-Jitsu Party 2011, Card-Jitsu Party 2013",
+        "date": "2011/11/24",
+        "truedate": 1
+    }
+}

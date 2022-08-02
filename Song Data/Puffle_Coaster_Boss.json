@@ -1,0 +1,14 @@
+{
+    "name": "Puffle Coaster Boss",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Other",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=826",
+    "link": "https://youtu.be/uQTIYljwH9U",
+    "cp": {
+        "uses": "Puffle Launch",
+        "date": "2011/03/24",
+        "truedate": 1
+    }
+}

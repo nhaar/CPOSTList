@@ -1,0 +1,25 @@
+{
+    "name": "Ninja Training",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "SWF 116 + Other",
+    "link": "https://youtu.be/DeDoEAdR0K8",
+    "versions": [
+        {
+            "name": "Card-Jitsu.mp3",
+            "info": "Highest quality available with ambience.",
+            "source": "Other"
+        },
+        {
+            "name": "116.swf",
+            "info": "Highest quality available with no ambience.",
+            "source": "SWF 116"
+        }
+    ],
+    "cp": {
+        "uses": "Card-Jitsu, Card-Jitsu Party 2011, Card-Jitsu Party 2013",
+        "date": "2008/11/17",
+        "truedate": 1
+    }
+}

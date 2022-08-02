@@ -1,0 +1,35 @@
+{
+    "name": "On High Seas",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Voyage of the Migrator",
+    "sources": "CPI SoundCloud + Other",
+    "link": "",
+    "versions": [
+        {
+            "name": "On High Seas [478746198].aac",
+            "info": "CPI SoundCloud",
+            "source": ""
+        },
+        {
+            "name": "Voyage_Of_The_Migrator.mp3",
+            "info": "Other",
+            "source": ""
+        }
+    ],
+    "cp": {
+        "uses": "Rockhopper's Quest, Inside Out Party",
+        "date": "2012/02/24",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Cumulonimbus",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Baloon Ride Theme",
+    "sources": "Game Day + CPI SoundCloud",
+    "link": "https://youtu.be/G0r3_kuGdMg",
+    "cp": {
+        "uses": "Festival of Flight, Halloween Party (??)",
+        "date": "2009/08/14",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Jackhammer! results",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

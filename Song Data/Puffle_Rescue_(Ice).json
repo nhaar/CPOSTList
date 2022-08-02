@@ -1,0 +1,24 @@
+{
+    "name": "Puffle Rescue: Ice Flow",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Screenhog's Website",
+    "sourcelinks": "https://www.screenhog.com/music",
+    "link": "https://youtu.be/AnVLBhvk5As",
+    "cp": {
+        "uses": "Puffle Rescue",
+        "date": "2010/03/15",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Pre-minigame cutscene",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Puffle Rescud",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Water Ninja Battle",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Water Dojo",
+    "sources": "Other",
+    "link": "https://youtu.be/kygNKij8LkM",
+    "cp": {
+        "uses": "Card-Jitsu Water",
+        "date": "2010/11/24",
+        "truedate": 1
+    }
+}

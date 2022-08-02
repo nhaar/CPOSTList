@@ -1,0 +1,23 @@
+{
+    "name": "Let's Bounce",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
+    "cp": {
+        "uses": "Dance Contest",
+        "date": "2009/04/24",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Minigame title screen",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

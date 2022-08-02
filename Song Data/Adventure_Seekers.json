@@ -1,0 +1,18 @@
+{
+    "name": "Adventure Seekers",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Attic Theme",
+    "sources": "SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Lodge Attic",
+        "date": "2015/03/18",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Attic",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Through Mountain Passes",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Through the Mountain Passes",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "link": "",
+    "cp": {
+        "uses": "Card-Jitsu Party 2013, Snow Dojo",
+        "date": "2013/05/23",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Card-Jitsu Snow, Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

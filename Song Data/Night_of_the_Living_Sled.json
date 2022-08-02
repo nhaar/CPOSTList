@@ -1,0 +1,23 @@
+{
+    "name": "Night of the Living Sled",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Club Penguin Island",
+    "link": "https://youtu.be/cTiuCtHoxzw",
+    "cp": {
+        "uses": "Halloween Party",
+        "date": "2009/10/27",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Halloween Party 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

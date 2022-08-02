@@ -1,0 +1,23 @@
+{
+    "name": "The Snow Parade",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App + CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Festival of Snow",
+        "date": "2015/06/30",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

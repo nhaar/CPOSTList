@@ -1,0 +1,24 @@
+{
+    "name": "Organic Journey",
+    "truename": 1,
+    "artists": "Harmonious Wail, Doug Brown",
+    "altnames": "Melodie du Crouton, Old Bean Counters",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
+    "cp": {
+        "files": [
+            {
+                "info": "It contains the first 67 seconds of the full version.",
+                "name": "101.swf"
+            }
+        ],
+        "uses": "Bean Counters",
+        "date": "2005/10/24",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

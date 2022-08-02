@@ -1,0 +1,19 @@
+{
+    "name": "Communication",
+    "truename": 1,
+    "artists": "Bjorn Lynne",
+    "altnames": "Dance Mix 1",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=4KC6q-SKQm4",
+    "cp": {
+        "files": [
+            {
+                "info": "The song is split in 6 clips, with clip 1 being loop 7 and clips 2 to 6 being loops 2 to 6. The clips played progressively at random.",
+                "name": "2.swf"
+            }
+        ],
+        "uses": "Valentine's Day Celebration, Cave Opening Party",
+        "date": "2006/02/14",
+        "truedate": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "All The Way Home",
+    "truename": 1,
+    "artists": "Michael Campitelli",
+    "altnames": "",
+    "sources": "Game Day",
+    "link": "https://youtu.be/w0D_nBnPQFM",
+    "cp": {
+        "uses": "Halloween Party 2009, Mustache Madness, Zootopia Party",
+        "date": "2009/10/27",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Blue Ski Village Challenge",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Zootopia Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Mount Blizzard",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Puffle Coaster 2",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=633",
+    "link": "https://youtu.be/utOImggQAYU",
+    "cpu": {
+        "uses": "Puffle Launch",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

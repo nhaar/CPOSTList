@@ -1,0 +1,13 @@
+{
+    "name": "Techno Cowboy",
+    "truename": 1,
+    "artists": "Marc Pattison",
+    "altnames": "Hard Rock",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=lkfFe36Jzy4",
+    "cp": {
+        "uses": "Igloo",
+        "date": "2006/12/08",
+        "truedate": 1
+    }
+}

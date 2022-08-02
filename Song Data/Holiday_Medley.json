@@ -1,0 +1,23 @@
+{
+    "name": "Holiday Medley",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Christmas Piano Medley, Deck The Halls",
+    "sources": "App",
+    "link": "https://www.youtube.com/watch?v=aXylnDK_4w8",
+    "cp": {
+        "uses": "Holiday Party 2008, Holiday Party 2009, Holiday Party 2010, Holiday Party 2011, Holiday Party 2012, Merry Walrus Party, Anniversarty Party (??)",
+        "date": "2008/12/19",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "?, Holiday Party 2014",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Holiday Party 2017",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

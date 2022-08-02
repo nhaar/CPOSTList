@@ -1,0 +1,23 @@
+{
+    "name": "Party In My Iggy",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud + CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "?, Igloo, Music Jam 2016",
+        "date": "2013/08/28",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Sea Caves",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

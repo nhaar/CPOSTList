@@ -1,0 +1,23 @@
+{
+    "name": "Starting Fresh",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "School & Skate Party",
+        "date": "2014/09/18",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, School Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

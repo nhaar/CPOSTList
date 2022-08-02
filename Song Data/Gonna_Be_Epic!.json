@@ -1,0 +1,24 @@
+{
+    "name": "Gonna Be Epic!",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "Club Penguin Website + CPI SoundCloud",
+    "sourcelinks": "https://web.archive.org/web/20151007195940/http:/www.clubpenguin.com/download/audio/ClubPenguin_GonnaBeEpic.mp3",
+    "link": "",
+    "cp": {
+        "uses": "10th Anniversary Party, Music Jam (??)",
+        "date": "2015/09/30",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Rookie Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

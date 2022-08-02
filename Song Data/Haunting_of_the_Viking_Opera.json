@@ -1,0 +1,23 @@
+{
+    "name": "Haunting of the Viking Opera",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Viking Opera",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=XfcceKzuHHw",
+    "cp": {
+        "uses": "Haunting of the Viking Opera, Island Adventure Party 2010, Medieval Party 2011, Island Adventure Party 2011, Medieval Party 2012, The Fair 2014",
+        "date": "2009/05/08",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Fast Freeze",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

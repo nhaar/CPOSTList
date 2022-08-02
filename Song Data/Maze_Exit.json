@@ -1,0 +1,13 @@
+{
+    "name": "Maze Exit",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF 900",
+    "link": "",
+    "cp": {
+        "uses": "Cave Maze",
+        "date": "2015/04/15",
+        "truedate": 1
+    }
+}

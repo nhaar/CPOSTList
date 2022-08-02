@@ -1,0 +1,19 @@
+{
+    "name": "Chillin' At The Club",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=TXBmbVPoFUU",
+    "link": "",
+    "cp": {
+        "uses": "Club Penguin Island Party",
+        "date": "2017/01/04",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

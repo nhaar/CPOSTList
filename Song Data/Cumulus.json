@@ -1,0 +1,30 @@
+{
+    "name": "Cumulus",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Float in the clouds, Festival of Flight Main Theme, The Shore",
+    "sources": "Game Day + SWF 306",
+    "link": "https://youtu.be/G0r3_kuGdMg",
+    "versions": [
+        {
+            "info": "Highest quality version.",
+            "name": "mn_demo_00.brstm",
+            "source": "Game Day"
+        },
+        {
+            "info": "Highest quality version of the harpless version.",
+            "name": "Music306.swf",
+            "source": "SWF 306"
+        }
+    ],
+    "cp": {
+        "uses": "Festival of Flight, Wilderness Expedition 2011",
+        "date": "2009/08/14",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Single team island conquered cutscene",
+        "date": "2010/09/17",
+        "truedate": 1
+    }
+}

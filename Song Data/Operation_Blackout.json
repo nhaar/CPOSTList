@@ -1,0 +1,18 @@
+{
+    "name": "Operation: Blackout",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "EPF Resistance",
+    "sources": "SoundCloud (NL)",
+    "link": "",
+    "cp": {
+        "uses": "Operation: Blackout, Operation: Puffle, Waddle On Party",
+        "date": "2012/11/14",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

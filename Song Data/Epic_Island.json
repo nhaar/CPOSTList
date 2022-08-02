@@ -1,0 +1,23 @@
+{
+    "name": "Epic Island",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Waddle On Party",
+        "date": "2017/01/31",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Club Penguin Island Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

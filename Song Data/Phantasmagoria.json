@@ -1,0 +1,23 @@
+{
+    "name": "Phantasmagoria",
+    "truename": 1,
+    "artists": "Chris Hendricks, Johann Sebastian Bach",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "link": "https://www.youtube.com/watch?v=sXSvgAZMWZk",
+    "cp": {
+        "uses": "Halloween Party 2008, Halloween Party 2011, Halloween Party 2012, Halloween Party 2014",
+        "date": "2008/10/28",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Halloween Party 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

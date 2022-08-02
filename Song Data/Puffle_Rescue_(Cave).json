@@ -1,0 +1,18 @@
+{
+    "name": "Puffle Rescue: In The Caves",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Game Day",
+    "link": "https://youtu.be/Bp7sDPLBY8I",
+    "cp": {
+        "uses": "Puffle Rescue",
+        "date": "2010/03/15",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Puffle Rescue",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

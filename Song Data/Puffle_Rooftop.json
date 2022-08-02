@@ -1,0 +1,23 @@
+{
+    "name": "Puffle Dance Rock Mix",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Puffle Hotel Rooftop",
+    "sources": "App + CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Rooftop Pool",
+        "date": "2013/03/21",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Rooftop Pool",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Town",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

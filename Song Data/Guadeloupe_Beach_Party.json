@@ -1,0 +1,18 @@
+{
+    "name": "Guadeloupe Beach Party",
+    "truename": 1,
+    "artists": "Slim Pezinj",
+    "altnames": "",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=RtInHTTFcaM",
+    "cp": {
+        "uses": "Summer Party, 10th Anniversary Party",
+        "date": "2006/06/16",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

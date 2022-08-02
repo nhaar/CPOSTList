@@ -1,0 +1,23 @@
+{
+    "name": "Jungle Beats",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Jungle Jangles",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=ELeGyGWYWGs",
+    "cp": {
+        "uses": "Adventure Party, Island Adventure Party 2010, Island Adventure Party 2011, Adventure Party: Temple of Fruit, Anniversarty Party (??), Waddle On Party",
+        "date": "2009/06/12",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Town Challenge",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

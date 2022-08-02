@@ -1,0 +1,18 @@
+{
+    "name": "Ocean Exploring",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Finding Dory Party",
+        "date": "2016/07/06",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Finding Dory Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

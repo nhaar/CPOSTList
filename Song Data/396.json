@@ -1,0 +1,16 @@
+{
+    "name": "396",
+    "truename": 0,
+    "artists": "?",
+    "sources": "App",
+    "cpu": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

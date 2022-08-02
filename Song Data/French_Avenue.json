@@ -1,0 +1,23 @@
+{
+    "name": "French Avenue",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "SoundCloud + App",
+    "link": "",
+    "cp": {
+        "uses": "Muppets World Tour, Puffle Party (??)",
+        "date": "2014/03/20",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Puffle Party 2015",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Summer Splash 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

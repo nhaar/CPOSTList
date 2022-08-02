@@ -1,0 +1,23 @@
+{
+    "name": "Racetrack Rock",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Turbo Race 3000 Theme",
+    "sources": "App + CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Turbo Race 3000, SoundStudio Party",
+        "date": "2014/07/31",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

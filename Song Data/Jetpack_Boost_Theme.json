@@ -1,0 +1,18 @@
+{
+    "name": "Jet Pack Boost Theme",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "App",
+    "link": "",
+    "app": {
+        "uses": "Jet Pack Boost",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Jet Pack Adventure",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

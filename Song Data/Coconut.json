@@ -1,0 +1,23 @@
+{
+    "name": "Coconut",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Candy Dimension",
+    "sources": "App",
+    "link": "https://youtu.be/ZNrLDmo7hTU",
+    "cp": {
+        "uses": "Summer Kickoff Party, April Fools Party 2011, April Fools Party 2012",
+        "date": "2007/06/08",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "?",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Private Eye",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "PSA Award Screen",
+    "sources": "App",
+    "link": "https://youtu.be/Myamxywrf1k",
+    "cp": {
+        "uses": "PSA Missions",
+        "date": "2008/01/21",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Brown Puffle Lab",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://youtu.be/VZezeEwBakA",
+    "link": "https://youtu.be/8g1e1DFudgM",
+    "cp": {
+        "uses": "Wilderness Expedition 2011, Medieval Party 2012, Puffle Party 2014, School & Skate Party, Anniversarty Party (??)",
+        "date": "2011/01/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Puffle Party 2015, School Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

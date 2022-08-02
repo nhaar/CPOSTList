@@ -1,0 +1,14 @@
+{
+    "name": "Imperial March",
+    "truename": 1,
+    "artists": "John Williams",
+    "altnames": "",
+    "sources": "Youtube",
+    "sourcelinks": "https://www.youtube.com/watch?v=-bzWSJG93P8",
+    "link": "https://www.youtube.com/watch?v=-bzWSJG93P8",
+    "cp": {
+        "uses": "Star Wars Takeover",
+        "date": "2013/07/25",
+        "truedate": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "DJ Christmas",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Holiday Celebration, Ravey Xmas, Christmas 1",
+    "sources": "App",
+    "link": "https://www.youtube.com/watch?v=LFUZHKiNMB8",
+    "cp": {
+        "uses": "Holiday Party 2007, Holiday Party 2008, Holiday Party 2009",
+        "date": "2007/12/21",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Holiday Party 2015",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Elite Penguin Force",
+    "truename": 1,
+    "artists": "Chris Hendricks, Bart Roijmans",
+    "altnames": "EPF Command Room Theme",
+    "sources": "Other",
+    "link": "https://youtu.be/Fs43CFTDxrM",
+    "cp": {
+        "uses": "EPF Command Room",
+        "date": "2010/05/27",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

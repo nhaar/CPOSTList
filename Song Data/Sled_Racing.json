@@ -1,0 +1,18 @@
+{
+    "name": "Sled Racing",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=4d3Ka1HUyLs",
+    "cp": {
+        "uses": "Sled Racing, Winter Party",
+        "date": "2009/04/24",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Sled & Slide",
+        "date": "2010/09/17",
+        "truedate": 1
+    }
+}

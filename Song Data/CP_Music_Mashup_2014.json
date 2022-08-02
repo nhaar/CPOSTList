@@ -1,0 +1,18 @@
+{
+    "name": "CP Music Mashup 2014",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "Club Penguin Youtube Channel",
+    "link": "",
+    "cp": {
+        "uses": "?, Igloo",
+        "date": "2014/12/31",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

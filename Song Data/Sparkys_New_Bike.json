@@ -1,0 +1,18 @@
+{
+    "name": "Sparky's New Bike",
+    "truename": 1,
+    "artists": "Paul Sumpter",
+    "altnames": "April Fools Day Music",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=n57NnBmKTns",
+    "cp": {
+        "uses": "April Fools 2007, April Fools 2008, April Fools 2009, April Fools Party 2011, Town",
+        "date": "2007/03/30",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Town",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

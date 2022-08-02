@@ -1,0 +1,18 @@
+{
+    "name": "Kalinka",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Muppets World Tour",
+        "date": "2014/03/20",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

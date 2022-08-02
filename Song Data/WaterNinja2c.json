@@ -1,0 +1,11 @@
+{
+    "name": "WaterNinja2c",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "sources": "Other",
+    "cpu": {
+        "uses": "Card-Jitsu Water",
+        "date": "2010/09/03",
+        "truedate": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Anchors Aweigh",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "",
+    "sources": "Other + App",
+    "link": "",
+    "cp": {
+        "uses": ", Penguin Prom, The Fair (??), Music Jam (??)",
+        "date": "2012/09/05",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

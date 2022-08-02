@@ -1,0 +1,18 @@
+{
+    "name": "University Rally",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Monsters University Takeover Main Theme",
+    "sources": "SoundCloud (NL)",
+    "link": "",
+    "cp": {
+        "uses": "Monsters University Takeover, School & Skate Party",
+        "date": "2013/06/27",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, School Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

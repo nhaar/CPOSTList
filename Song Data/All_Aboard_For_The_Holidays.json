@@ -1,0 +1,24 @@
+{
+    "name": "All Aboard For The Holidays",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "SoundCloud + Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "link": "",
+    "cp": {
+        "uses": "Holiday Party 2013, Merry Walrus Party",
+        "date": "2013/12/19",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Holiday Party 2014",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Holiday Party 2017",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

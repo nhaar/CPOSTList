@@ -1,0 +1,13 @@
+{
+    "name": "PSA Mission Intro Theme",
+    "truename": 0,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SWF intromusic + GarageBand",
+    "link": "https://youtu.be/fqyXO01oL_k",
+    "cp": {
+        "uses": "PSA Missions",
+        "date": "2008/01/21",
+        "truedate": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Steer the Funk",
+    "truename": 1,
+    "artists": "David Fairfield",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Monsters University Takeover, Muppets World Tour",
+        "date": "2013/06/27",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

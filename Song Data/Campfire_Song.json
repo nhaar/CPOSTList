@@ -1,0 +1,18 @@
+{
+    "name": "Campfire Song",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Camp Party 2, Mess Hall, Doodle Dimension",
+    "sources": "App",
+    "link": "https://www.youtube.com/watch?v=_9OqwJPF2qg",
+    "cp": {
+        "uses": "Camp Penguin, April Fools Party 2011, April Fools Party 2012",
+        "date": "2007/08/24",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Norman Swarm",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Norman Swarm #2",
+    "sources": "App",
+    "link": "https://youtu.be/GAvc3QQLB6U",
+    "cp": {
+        "uses": "Norman Swarm Has Been Transformed, Puffle Party 2014, Wilderness Expedition",
+        "date": "2009/11/13",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Puffle Party 2015",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

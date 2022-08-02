@@ -1,0 +1,37 @@
+{
+    "name": "Crossing Over",
+    "truename": 1,
+    "artists": "Bjorn Lynne",
+    "altnames": "Dance Club Theme, Dance Mix 2",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
+    "cp": {
+        "files": [
+            {
+                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random.",
+                "name": "5.swf"
+            },
+            {
+                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random.",
+                "name": "6.swf"
+            },
+            {
+                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D",
+                "name": "673.swf"
+            }
+        ],
+        "uses": "Dance Club",
+        "date": "2005/10/24",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Dance Club",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk, Pirate Expedition",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Puffle Party Remix",
+    "truename": 0,
+    "artists": "Chris Hendricks",
+    "altnames": "Puffle Party (2010)",
+    "sources": "App + Club Penguin Island",
+    "link": "https://youtu.be/N5wlD0vFzHk",
+    "versions": [
+        {
+            "info": "",
+            "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
+            "source": "App"
+        },
+        {
+            "info": "",
+            "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
+            "source": "Club Penguin Island"
+        }
+    ],
+    "cp": {
+        "files": [
+            {
+                "info": "",
+                "name": "282.swf"
+            }
+        ],
+        "uses": "Puffle Party 2010, Puffle Party 2011, Puffle Party 2012",
+        "date": "2010/02/18",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Rookie Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

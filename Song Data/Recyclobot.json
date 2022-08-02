@@ -1,0 +1,23 @@
+{
+    "name": "Recyclobot",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Recycling Plant Theme, Recycle!",
+    "sources": "Game Day",
+    "link": "https://youtu.be/iM8ijGjn9Vo",
+    "cp": {
+        "uses": "Recycling Plant",
+        "date": "2010/04/21",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Jackhammer!",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "cpi": {
+        "uses": "Rookie Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

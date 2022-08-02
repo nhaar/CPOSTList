@@ -1,0 +1,18 @@
+{
+    "name": "The Party Starts Now!",
+    "truename": 1,
+    "artists": "Michelle Lewis, Dan Petty",
+    "altnames": "Ultimate Jam, Party Starts Now",
+    "sources": "Other + Media Server",
+    "link": "",
+    "cp": {
+        "uses": "Igloo, Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016",
+        "date": "2012/07/12",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "What Lurks In The Night",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "What Lurks at Night",
+    "sources": "Norrie Henderson Portfolio",
+    "sourcelinks": "https://www.norriehenderson.com/portfolio",
+    "link": "",
+    "cp": {
+        "uses": "Halloween Party 2013",
+        "date": "2013/10/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Halloween Party 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

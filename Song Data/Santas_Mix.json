@@ -1,0 +1,30 @@
+{
+    "name": "Santa's Mix",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Christmas Theme, Holiday Happiness",
+    "sources": "SoundCloud + App",
+    "link": "https://www.youtube.com/watch?v=JZCEPQWCVrM",
+    "versions": [
+        {
+            "name": "Santa's Mix-182017540.mp3",
+            "info": "Highest quality version, but incomplete, with a fadeout in the end.",
+            "source": "SoundCloud"
+        },
+        {
+            "name": "MUS_254_Igloo_2014_Holiday_SantasMix.mp3",
+            "info": "Highest quality version that is complete.",
+            "source": "App"
+        }
+    ],
+    "cp": {
+        "uses": "Holiday Party 2008, Holiday Party 2009, Holiday Party 2010, Holiday Party 2011, Holiday Party 2012, Holiday Party 2013, Merry Walrus Party",
+        "date": "2008/12/19",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

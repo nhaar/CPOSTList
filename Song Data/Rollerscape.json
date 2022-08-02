@@ -1,0 +1,18 @@
+{
+    "name": "Rollerscape",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Pufflescape Theme",
+    "sources": "Other",
+    "link": "",
+    "cp": {
+        "uses": "Pufflescape",
+        "date": "2011/11/03",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Pufflescape",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

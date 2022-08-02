@@ -1,0 +1,18 @@
+{
+    "name": "Puffle Rescue: Underwater",
+    "truename": 0,
+    "artists": "Rory O'Neill",
+    "altnames": "",
+    "sources": "App",
+    "link": "https://youtu.be/wPNIASd5udk",
+    "cp": {
+        "uses": "Puffle Rescue",
+        "date": "2010/03/15",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Puffle Rescue",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Best Day Ever",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "SoundCloud + App",
+    "link": "",
+    "cp": {
+        "uses": "?, Music Jam 2014, SoundStudio Party",
+        "date": "2014/07/09",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

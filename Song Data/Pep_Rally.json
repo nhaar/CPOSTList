@@ -1,0 +1,23 @@
+{
+    "name": "Pep Rally",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "Team Power, Team Blue Rally, Team Power",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=tSG-oSCoA1Y",
+    "cp": {
+        "uses": "Team Blue's Rally Debut, Puffle Party (??), Hollywood Party, Mine Shacke",
+        "date": "2008/02/08",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Blue team zone",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Mine Shack",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "CPSN",
+    "truename": 1,
+    "artists": "?",
+    "sources": "CPI SoundCloud",
+    "sourcelinks": "https://soundcloud.com/user-764833925/cpsn",
+    "versions": [
+        {
+            "info": "",
+            "name": "CPSN [484983789].mp3",
+            "source": "CPI SoundCloud"
+        }
+    ],
+    "cpi": {
+        "files": [
+            {
+                "info": "",
+                "name": "?"
+            }
+        ],
+        "uses": "Mount Blizzard, Rookie Quest",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

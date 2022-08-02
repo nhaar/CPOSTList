@@ -1,0 +1,18 @@
+{
+    "name": "Herbert Sneak",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Operation: Tri-umph",
+        "date": "2016/02/10",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Operation: Tri-umph",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

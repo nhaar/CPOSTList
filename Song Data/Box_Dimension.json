@@ -1,0 +1,23 @@
+{
+    "name": "Box Dimension",
+    "truename": 1,
+    "artists": "Chris Hendricks",
+    "altnames": "Into The Box Dimension, Box Dimension V6",
+    "sources": "Other",
+    "link": "https://www.youtube.com/watch?v=JlZMvH_ngE0",
+    "cp": {
+        "uses": "Box Dimension",
+        "date": "2009/04/01",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "Yellow Ski Village Challenge",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "cpi": {
+        "uses": "April Fools 2018",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

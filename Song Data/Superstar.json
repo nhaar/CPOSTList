@@ -1,0 +1,18 @@
+{
+    "name": "Superstar",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "Fashion Show",
+    "sources": "App + SoundCloud (NL)",
+    "link": "",
+    "cp": {
+        "uses": "Fashion Show, Clothes Shop, Make Your Mark: Ultimate Jam",
+        "date": "2012/02/01",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Gift Shop",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

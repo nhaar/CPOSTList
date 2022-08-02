@@ -1,0 +1,28 @@
+{
+    "name": "Summer Song",
+    "truename": 1,
+    "artists": "Friction Music",
+    "altnames": "",
+    "sources": "Game Day",
+    "link": "https://www.youtube.com/watch?v=wxw8rsG7miY",
+    "cp": {
+        "uses": "Summer Kickoff Party, Puffle Party 2012, Puffle Party 2013, Puffle Party 2014, Music Jam 2014, Club Penguin Island Party",
+        "date": "2007/06/08",
+        "truedate": 1
+    },
+    "gd": {
+        "uses": "No team zone",
+        "date": "2010/09/17",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo, Puffle Party 2015",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

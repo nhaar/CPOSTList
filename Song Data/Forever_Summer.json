@@ -1,0 +1,23 @@
+{
+    "name": "Forever Summer",
+    "truename": 1,
+    "artists": "Norrie Henderson",
+    "altnames": "",
+    "sources": "CPI SoundCloud",
+    "link": "",
+    "cp": {
+        "uses": "Teen Beach Movie Summer Jam",
+        "date": "2013/08/22",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Beacon Boardwalk",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

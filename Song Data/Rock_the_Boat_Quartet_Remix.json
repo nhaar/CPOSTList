@@ -1,0 +1,23 @@
+{
+    "name": "Rock the Boat Quartet Remix",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "",
+    "sources": "CPI SoundCloud + App",
+    "link": "",
+    "cp": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "app": {
+        "uses": "Igloo, Fashion Party",
+        "date": "2018/12/20",
+        "truedate": 0
+    },
+    "cpi": {
+        "uses": "Town",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}

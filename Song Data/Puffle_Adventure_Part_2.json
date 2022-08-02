@@ -1,0 +1,18 @@
+{
+    "name": "Puffle Adventure Part 2",
+    "truename": 1,
+    "artists": "?",
+    "altnames": "Forest Adventure Part 2",
+    "sources": "App",
+    "link": "",
+    "cp": {
+        "uses": "Wilderness Expedition 2016",
+        "date": "2016/04/20",
+        "truedate": 1
+    },
+    "app": {
+        "uses": "Igloo",
+        "date": "2018/12/20",
+        "truedate": 0
+    }
+}
