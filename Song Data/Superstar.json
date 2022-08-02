@@ -14,5 +14,17 @@
         "uses": "Gift Shop",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_Mobile13_Room_ClothingShopAmb.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "ZtAI15IqbSYl-stream_token=Ws6Zb.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

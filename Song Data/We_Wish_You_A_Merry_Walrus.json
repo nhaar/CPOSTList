@@ -14,5 +14,17 @@
         "uses": "Igloo, Holiday Party 2014, Holiday Party 2015",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "We Wish You A Merry Walrus (Instrumental) [181976111].aac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "We Wish You A Merry Walrus [181976109].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

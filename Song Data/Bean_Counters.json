@@ -15,5 +15,12 @@
         "uses": "Bean Counters",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "BeanCounters_02.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

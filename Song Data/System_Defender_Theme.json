@@ -8,13 +8,13 @@
     "versions": [
         {
             "name": "main.swf",
-            "info": "The SWF contains the highest quality available for the version used in the game.",
-            "source": "SWF main"
+            "info": "",
+            "source": ""
         },
         {
             "name": "Club Penguin Music #16 - System Defender-xmnHF_k2y04.wav",
-            "info": "The video contains a few of the loop used in the flash version in the highest quality available.",
-            "source": "Youtube."
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

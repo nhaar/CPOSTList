@@ -19,5 +19,12 @@
         "uses": "Town",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "Charlies_Here_44k.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

@@ -9,5 +9,12 @@
         "uses": "Igloo, Star Wars Takeover",
         "date": "2013/07/18/1",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "09. Cantina Band.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

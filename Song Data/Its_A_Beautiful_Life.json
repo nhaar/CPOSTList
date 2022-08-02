@@ -5,7 +5,13 @@
     "sources": "Sample",
     "sourcelinks": "https://www.extrememusic.com/albums/2769",
     "link": "",
-    "versions": [],
+    "versions": [
+        {
+            "name": "XCD322_02_2 ITS A BEAUTIFUL LIFE_INSTRUMENTAL.MP3",
+            "info": "",
+            "source": ""
+        }
+    ],
     "cpi": {
         "files": [],
         "uses": "?",

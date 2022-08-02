@@ -8,5 +8,12 @@
         "uses": "Dance Off! Easy",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "SEQ_ig_dancing_00.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

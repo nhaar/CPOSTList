@@ -20,5 +20,17 @@
         "uses": "Holiday Party 2017",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "2013+All+Aboard+For+The+Holidays+-+Norrie+Henderson.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "All Aboard For The Holidays [182017552].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

@@ -9,5 +9,17 @@
         "uses": "Dance Off! Normal, Green Ski Hill Challenge",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_dancing_01.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "SEQ_ig_dancing_01.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

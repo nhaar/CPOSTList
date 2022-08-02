@@ -14,5 +14,17 @@
         "uses": "Pufflescape",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "Rollerscape_Levels_2_Loop_LOOP.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Rollerscape_Levels_2_Intro-TiSh_01_INTRO.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

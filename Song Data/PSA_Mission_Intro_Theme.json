@@ -9,5 +9,37 @@
         "uses": "PSA Missions",
         "date": "2008/01/21/1",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "intromusic.swf",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Secret_Agent_Guitar_01.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Secret_Agent_Guitar_07.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Secret_Agent_Guitar_08.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Secret_Agent_Guitar_09.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Percussion_Combo_13.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

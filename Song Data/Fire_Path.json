@@ -9,5 +9,17 @@
         "uses": "Card-Jitsu Fire",
         "date": "2009/11/13/3",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "FirePath4.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "FirePathVideo.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

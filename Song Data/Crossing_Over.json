@@ -33,5 +33,92 @@
         "uses": "Beacon Boardwalk, Pirate Expedition",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "bjorn_lynne_-_crossing_over_(30-secs_version)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_(60-secs_version)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_(stinger_a)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_(stinger_b)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_(stinger_c)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_(stinger_d)_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "bjorn_lynne_-_crossing_over_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-longer-loop_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-01_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-02_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-03_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-04_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-05_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-06_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-07_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-08_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "crossing-over-loop-09_proud_music.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

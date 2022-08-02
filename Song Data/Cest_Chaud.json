@@ -8,44 +8,44 @@
     "link": "https://youtu.be/0d668Y6Oqfg",
     "versions": [
         {
-            "info": "Full version.",
-            "name": "C'est Chaud-I1bIeSObFNY.wav",
-            "source": "Youtube"
+            "name": "9446.mp3",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Variation version.",
-            "name": "9445.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "9446.mp3",
-            "name": "30 seconds version.",
-            "source": "Sample"
-        },
-        {
-            "info": "Loop A",
             "name": "9447.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop B",
             "name": "9448.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop C",
             "name": "9449.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop D",
             "name": "9450.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop E",
             "name": "9451.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Jeremy Sherman - C'est Chaud.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "jeremy_sherman_-_cest_chaud_underscore_proud_music.wav",
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

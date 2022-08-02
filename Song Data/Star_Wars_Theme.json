@@ -9,5 +9,12 @@
         "uses": "Igloo",
         "date": "2013/07/18/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "John Williams - Main Title.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

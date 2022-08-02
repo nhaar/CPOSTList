@@ -14,5 +14,22 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "Cadence - The Party Starts Now (From - Club Penguin- ).flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "tpsn.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_Master_2013_DR_PartyStartsNow_Inst53Sec.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

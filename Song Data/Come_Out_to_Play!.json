@@ -19,5 +19,17 @@
         "uses": "Summer Splash 2018",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_643_Igloo_2014_ComeOutToPlay.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_SummerSplash2018_ComeOutToPlay.fsb",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

@@ -9,5 +9,17 @@
         "uses": "Medieval Party 2011, Medieval Party 2012",
         "date": "2011/05/19/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "309_Hydra_Suspense.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "309.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

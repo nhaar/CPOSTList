@@ -9,5 +9,17 @@
         "uses": "Town",
         "date": "2014/02/13",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "581.swf",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Club_Penguin_Town_2014_Music_HQ_Short.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

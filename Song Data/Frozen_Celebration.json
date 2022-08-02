@@ -14,5 +14,12 @@
         "uses": "Igloo, Frozen Party",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_958_Igloo_FrozenCelebration.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

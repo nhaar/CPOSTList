@@ -14,5 +14,12 @@
         "uses": "Igloo, Frozen Party",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_962_Igloo_OlafsGreeting.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

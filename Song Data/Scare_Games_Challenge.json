@@ -9,5 +9,12 @@
         "uses": "Monster University Takeover",
         "date": "2013/06/27/4",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "sneak.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

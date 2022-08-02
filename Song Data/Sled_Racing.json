@@ -14,5 +14,12 @@
         "uses": "Sled & Slide",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_bob_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

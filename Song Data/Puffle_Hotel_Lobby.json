@@ -14,5 +14,12 @@
         "uses": "Puffle Hotel Lobby",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_362_EG_Room_HotelLobby_PuffleLobbyAmb.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

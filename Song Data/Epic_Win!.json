@@ -14,5 +14,17 @@
         "uses": "Red Ski Village Challenge",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_ch05.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Rave Wave [148758011].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

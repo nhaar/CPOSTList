@@ -15,5 +15,12 @@
         "uses": "Igloo, Fashion Party",
         "date": "2015/08/31",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "2014NightClubDemo-NorrieHenderson.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

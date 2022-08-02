@@ -9,5 +9,12 @@
         "uses": "Dojo, Ninja Hideout",
         "date": "2008/11/14",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Dojo.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

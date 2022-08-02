@@ -15,5 +15,47 @@
         "uses": "Puffle Roundup",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_MG_PuffleRoundup_SouthernFriedAmb.aac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "484276_Southern_Fried_60.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Southern_Fried_full.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Southern_Fried_60.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Southern_Fried_13.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Southern_Fried_30.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Southern_Fried_alt.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Country_6.wma",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

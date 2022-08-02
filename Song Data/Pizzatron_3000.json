@@ -14,5 +14,12 @@
         "uses": "Pizzatron 3000",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_MG_Pizzatron_GameTheme.aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

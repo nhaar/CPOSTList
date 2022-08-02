@@ -14,5 +14,17 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_Igloo_2013_CoolInTheCold_ID346.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Cadence - Cool in the Cold.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

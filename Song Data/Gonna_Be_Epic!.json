@@ -20,5 +20,17 @@
         "uses": "Rookie Quest",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "ClubPenguin_GonnaBeEpic.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Gonna Be Epic [449061372].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

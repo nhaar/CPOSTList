@@ -9,5 +9,12 @@
         "uses": "Medieval Party 2012",
         "date": "2012/05/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ScornBattle.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

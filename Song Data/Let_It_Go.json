@@ -14,5 +14,12 @@
         "uses": "Igloo, Frozen Party",
         "date": "2014/08/21",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Frozen_Karaoke_-_Let_It_Go_Instrumental_Version.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

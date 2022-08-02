@@ -14,5 +14,17 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_009_Igloo_ImAMod_Instrumental.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Im_A_Mod_Moderator_Rap_Battle_-_Official_Music_Video_-_Disney_Club_Penguin-W4D95vh8BPg.mkv",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

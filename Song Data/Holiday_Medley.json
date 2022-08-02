@@ -19,5 +19,12 @@
         "uses": "Holiday Party 2017",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_Igloo_2012_HolidayMedley_ID538.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

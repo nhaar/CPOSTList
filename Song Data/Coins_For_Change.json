@@ -14,5 +14,12 @@
         "uses": "Igloo",
         "date": "2016/01/31",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_004_Igloo_CoinsForChange.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

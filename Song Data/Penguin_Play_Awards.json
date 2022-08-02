@@ -14,5 +14,12 @@
         "uses": "All temas island conquered cutscene",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "mn_ed_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

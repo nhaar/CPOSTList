@@ -9,5 +9,12 @@
         "uses": "Earth Day 2011",
         "date": "2011/04/21",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "EarthDay2011Forest.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

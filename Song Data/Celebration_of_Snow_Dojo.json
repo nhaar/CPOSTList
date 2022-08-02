@@ -9,5 +9,12 @@
         "uses": "Card-Jitsu Party 2013",
         "date": "2013/05/23/1",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "399.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

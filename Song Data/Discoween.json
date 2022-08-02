@@ -19,5 +19,12 @@
         "uses": "Halloween Party 2018",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_224_Igloo_Discoween.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

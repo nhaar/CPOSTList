@@ -9,5 +9,12 @@
         "uses": "Card-Jitsu Water",
         "date": "2010/11/24",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Water Ninja Battle_02.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

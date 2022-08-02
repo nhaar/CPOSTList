@@ -19,5 +19,17 @@
         "uses": "Summer Splash 2018",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_623_Igloo_2014_Muppets_FrenchAvenue.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "French Avenue [141545581].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

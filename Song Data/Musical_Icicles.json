@@ -9,5 +9,12 @@
         "uses": "Music Jam 2008, Music Jam 2009, Winter Party, Music Jam 2010, Music Jam 2011",
         "date": "2008/07/25/8",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "247_Ambiencophone.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

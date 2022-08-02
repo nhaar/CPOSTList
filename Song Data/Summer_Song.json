@@ -24,5 +24,12 @@
         "uses": "Beacon Boardwalk",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "mn_hub_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

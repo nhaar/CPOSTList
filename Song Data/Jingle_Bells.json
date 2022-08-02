@@ -8,34 +8,39 @@
     "link": "https://www.youtube.com/watch?v=HcGLyhd0Ah8",
     "versions": [
         {
-            "info": "Highest quality available, but incomplete.",
-            "name": "Jingle Bells-182017542.mp3",
-            "source": "SoundCloud"
+            "name": "Lynne_Music_Project_-_Jingle_Bells_Instrumental_Upbeat_Version.flac",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Highest quality complete version available.",
-            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
-            "source": "Sample"
+            "name": "Jingle Bells [182017542].aac",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "30-secs version.",
-            "name": "jingle-bells-30secs-preview-no-voiceover.mp3",
-            "source": "Sample"
+            "name": "bjorn_lynne_-_jingle_bells_(30-secs_version)_proud_music.wav",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop 1 from the set of 3 loops.",
-            "name": "jingle-bells-no-voiceover-loop01.mp3",
-            "source": "Sample"
+            "name": "bjorn_lynne_-_jingle_bells_proud_music.wav",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop 2 from the set of 3 loops.",
-            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
-            "source": "Sample"
+            "name": "jingle-bells-loop-1_proud_music.wav",
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop 3 from the set of 3 loops.",
-            "name": "jingle-bells-complete-preview-no-voiceover.mp3",
-            "source": "Sample"
+            "name": "jingle-bells-loop-2_proud_music.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "jingle-bells-loop-3_proud_music.wav",
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

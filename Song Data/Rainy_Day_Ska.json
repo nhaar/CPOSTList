@@ -9,5 +9,17 @@
         "uses": "Festival of Snow",
         "date": "2007/02/09",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Jeremy_Sherman_-_Rainy_Day_Ska.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "jeremy_sherman_-_rainy_day_ska_underscore_proud_music.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

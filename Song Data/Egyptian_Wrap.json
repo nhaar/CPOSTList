@@ -9,5 +9,12 @@
         "uses": "Quest for the Golden Puffle",
         "date": "2008/04/11",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "34_JumpinEgyptian.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

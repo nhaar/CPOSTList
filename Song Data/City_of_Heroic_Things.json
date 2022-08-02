@@ -10,5 +10,17 @@
         "uses": "Marvel Super Hero Takeover 2012, Marvel Super Hero Takeover 2013",
         "date": "2012/06/14/1",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "CP_Marvel_Superhero_Party-Heroes_of_the_City.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Club Penguin Music #13 - Marvel Superhero Takeover [KVRFBFRudhk].wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

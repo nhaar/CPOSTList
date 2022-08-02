@@ -14,5 +14,12 @@
         "uses": "Dock Challenge",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_ch02.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

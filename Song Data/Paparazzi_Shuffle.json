@@ -15,5 +15,12 @@
         "uses": "Website Tutorial",
         "date": "2006/04/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "Paparazzi Shuffle 44k.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

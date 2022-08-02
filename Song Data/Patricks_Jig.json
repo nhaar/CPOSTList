@@ -14,5 +14,12 @@
         "uses": "Opening cutscene",
         "date": "2010/09/17/4",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "mn_op_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

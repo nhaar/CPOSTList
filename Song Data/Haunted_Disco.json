@@ -19,5 +19,17 @@
         "uses": "Halloween Party 2018",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_781_Igloo_2014_Halloween_HauntedDisco.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_Halloween2018_Boardwalk_Dance_HauntedDisco.fsb",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

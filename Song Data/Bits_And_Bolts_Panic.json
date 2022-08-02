@@ -5,7 +5,13 @@
     "altnames": "",
     "sources": "Other",
     "link": "",
-    "versions": [],
+    "versions": [
+        {
+            "name": "Bits_And_Bolts_2_Panic.wav",
+            "info": "",
+            "source": ""
+        }
+    ],
     "cp": {
         "files": [],
         "uses": "Bits And Bolts",

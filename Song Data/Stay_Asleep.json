@@ -14,5 +14,12 @@
         "uses": "Igloo",
         "date": "2015/07/30",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_936_Igloo_StayAsleep.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

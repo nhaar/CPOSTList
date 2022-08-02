@@ -15,5 +15,17 @@
         "uses": "Bean Balance",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_cbb_00.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "PizzatronOrchestra.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

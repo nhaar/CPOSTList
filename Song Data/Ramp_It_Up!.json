@@ -10,5 +10,12 @@
         "uses": "Puffle Launch",
         "date": "2011/03/24/1",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "PuffleCoaster3_02.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

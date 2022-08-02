@@ -20,5 +20,12 @@
         "uses": "Igloo",
         "date": "2013/08/15",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Project 2020 - Stealth.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

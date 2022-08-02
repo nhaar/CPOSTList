@@ -9,5 +9,12 @@
         "uses": "Pufflescape",
         "date": "2011/11/03/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "rollerscape_FAST_level_ver02-01_LOOP_FAST.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

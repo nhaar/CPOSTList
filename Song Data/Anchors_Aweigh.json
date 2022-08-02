@@ -19,5 +19,17 @@
         "date": "2012/09/05",
         "truedate": 1,
         "uses": "Anchors Aweigh! - Official Music Video - Disney Club Penguin"
-    }
+    },
+    "versions": [
+        {
+            "name": "The Penguin Band - Anchors Aweigh.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_916_Igloo_AnchorsAway_Instrumental.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

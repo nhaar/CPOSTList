@@ -20,7 +20,21 @@
         "date": "2018/12/20",
         "truedate": 0
     },
-    "cpyt": {"date": "2012/10/03",
-    "truedate" : 1,
-    "uses": "Ghosts Just Wanna Dance - Official Music Video - Disney Club Penguin"}
+    "cpyt": {
+        "date": "2012/10/03",
+        "truedate": 1,
+        "uses": "Ghosts Just Wanna Dance - Official Music Video - Disney Club Penguin"
+    },
+    "versions": [
+        {
+            "name": "MUS_Igloo_2013_GhostsJustWannaDance_ID510.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "The Penguin Band - Ghosts Just Wanna Dance.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

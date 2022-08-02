@@ -7,39 +7,39 @@
     "link": "https://www.youtube.com/watch?v=L-im4pRBVlc",
     "versions": [
         {
-            "info": "Loop 1 from the set of 4 loops.",
-            "name": "King of Kingston loop1.wav",
-            "source": "Other"
-        },
-        {
-            "info": "Loop 2 from the set of 4 loops.",
-            "name": "King of Kingston loop2.wav",
-            "source": "Other"
-        },
-        {
-            "info": "Loop 3 from the set of 4 loops.",
-            "name": "King of Kingston loop3.wav",
-            "source": "Other"
-        },
-        {
-            "info": "Loop 4 from the set of 4 loops.",
-            "name": "King of Kingston loop4.wav",
-            "source": "Other"
-        },
-        {
-            "info": "30 seconds version.",
             "name": "king-of-kingston-30secs.wav",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "60 seconds version.",
             "name": "king-of-kingston-60secs.wav",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Full version.",
             "name": "king-of-kingston-complete.wav",
-            "source": "Other"
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "King of Kingston loop1.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "King of Kingston loop2.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "King of Kingston loop3.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "King of Kingston loop4.wav",
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

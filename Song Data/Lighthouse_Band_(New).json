@@ -9,5 +9,12 @@
         "uses": "Lighthouse",
         "date": "2014/07/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "RoomsLight-HolidayParty2015.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

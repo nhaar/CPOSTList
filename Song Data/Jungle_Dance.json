@@ -14,5 +14,12 @@
         "uses": "Sumo Smash",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_sumo_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

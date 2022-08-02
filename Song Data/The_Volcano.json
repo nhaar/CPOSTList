@@ -9,5 +9,12 @@
         "uses": "Fire Dojo",
         "date": "2009/11/13/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "FireRoom.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

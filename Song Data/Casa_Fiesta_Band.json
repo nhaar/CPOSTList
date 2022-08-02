@@ -9,5 +9,17 @@
         "uses": "Music Jam 2010, Music Jam 2011, Music Jam 2015, Music Jam 2016",
         "date": "2010/07/08/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "MusicJam2011Party4.swf",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "RoomsParty7-MusicJam2016.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

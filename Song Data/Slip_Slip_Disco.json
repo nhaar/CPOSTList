@@ -9,5 +9,17 @@
         "uses": "Dance Off! Hard, Yellow Ski Hill Challenge",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_dancing_02.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "SEQ_ig_dancing_02.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

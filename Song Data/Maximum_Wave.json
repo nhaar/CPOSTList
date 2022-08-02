@@ -8,44 +8,44 @@
     "link": "https://www.youtube.com/watch?v=rV0rjUWGysA",
     "versions": [
         {
-            "name": "Cart Surfer HQ Version 48k 24bit.flac",
-            "info": "60-secs version.",
-            "source": "Other"
+            "name": "Cart Surfer HQ Version Extended 48k 24bit.flac",
+            "info": "",
+            "source": ""
         },
         {
-            "name": "Cart Surfer HQ Version Extended 48k 24bit.flac",
-            "info": "90-secs version.",
-            "source": "Other"
+            "name": "Cart Surfer HQ Version 48k 24bit.flac",
+            "info": "",
+            "source": ""
         },
         {
             "name": "Cart Surfer HQ Version Extended Guitarless 48k 24bit.flac",
-            "info": "90-secs version no guitar.",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
             "name": "Cart Surfer HQ Version Extended Less Percussion 44k 16bit.flac",
-            "info": "90-sec less percussion version.",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
             "name": "Cart Surfer HQ Version Minus Guitar 48k 24bit.flac",
-            "info": "60-sec version no guitar.",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
             "name": "Sounddogs-Preview-10376703.mp3",
-            "info": "Loop version.",
-            "source": "Sample"
-        },
-        {
-            "name": "Sounddogs-Preview-10377230.mp3",
-            "info": "Underscore loop version.",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
             "name": "Sounddogs-Preview-10378096.mp3",
-            "info": "30-secs version.",
-            "source": "Sample"
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Sounddogs-Preview-10377230.mp3",
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

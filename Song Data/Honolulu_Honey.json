@@ -8,49 +8,49 @@
     "link": "https://www.youtube.com/watch?v=kejkedNjQ9M",
     "versions": [
         {
-            "info": "Full track.",
             "name": "09 - Honolulu Honey.flac",
-            "source": "Other"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Highest quality available for the edit used in Club Penguin.",
             "name": "MUS_11_Igloo_HonoluluHoney.mp3",
-            "source": "App"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Variation A.",
-            "name": "9586.mp3",
-            "source": "Sample"
-        },
-        {
-            "info": "Variation B.",
             "name": "9587.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "60sec version.",
             "name": "9588.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "30sec version.",
             "name": "9589.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop A.",
             "name": "9590.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop B.",
             "name": "9591.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
         },
         {
-            "info": "Loop C.",
             "name": "9592.mp3",
-            "source": "Sample"
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "9586.mp3",
+            "info": "",
+            "source": ""
         }
     ],
     "cp": {

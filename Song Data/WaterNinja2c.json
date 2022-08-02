@@ -7,5 +7,12 @@
         "uses": "Card-Jitsu Water",
         "date": "2010/09/03",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "WaterNinja2c.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

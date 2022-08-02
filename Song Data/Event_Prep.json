@@ -15,5 +15,27 @@
         "uses": "Igloo, Fashion Party",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "26_Event_Prep_30_-_2123_06_30.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "27_Event_Prep_Underscore_-_2123_06_40.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "06_Event_Prep_-_2123_06.wav",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "25_Event_Prep_60_-_2123_06_60.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

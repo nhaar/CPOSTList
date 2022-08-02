@@ -6,7 +6,13 @@
     "sources": "Sample",
     "sourcelinks": "https://www.extrememusic.com/albums/1751",
     "link": "",
-    "versions": [],
+    "versions": [
+        {
+            "name": "DCD041_10_2 RAGE OF SIN.MP3",
+            "info": "",
+            "source": ""
+        }
+    ],
     "cpi": {
         "files": [],
         "uses": "Aunt Arctic Quest",

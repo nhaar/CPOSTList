@@ -10,5 +10,32 @@
         "uses": "Lighthouse Opening",
         "date": "2006/09/22",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Alehouse_full.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Alehouse_alt.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Alehouse_60.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Alehouse_09.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Alehouse_30.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

@@ -24,5 +24,17 @@
         "uses": "Town",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "mn_menu_00.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Celebration [488806533].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

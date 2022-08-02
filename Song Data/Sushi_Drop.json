@@ -9,5 +9,12 @@
         "uses": "Sudshi Drop",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_MG_SushiDrop_SushiThemeAmb.aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

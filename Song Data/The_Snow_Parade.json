@@ -19,5 +19,17 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_919_Igloo_TheSnowParade.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "The Snow Parade [440725152].aac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

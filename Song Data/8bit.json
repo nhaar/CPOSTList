@@ -9,5 +9,12 @@
         "uses": "April Fools Party 2008, April Fools 2010, April Fools Party 2011, The Fair 2014",
         "date": "2008/03/28/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "231_8BitDance.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

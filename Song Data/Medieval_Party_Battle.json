@@ -14,5 +14,12 @@
         "uses": "Snowball Battle",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "MedievalBattleFull.wav",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

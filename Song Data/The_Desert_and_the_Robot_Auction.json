@@ -9,5 +9,12 @@
         "uses": "Star Wars Takeover",
         "date": "2013/07/25/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "04. The Desert And The Robot Auction.flac",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

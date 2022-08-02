@@ -9,5 +9,17 @@
         "uses": "Zone Captured",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_conquer_00.brstm",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "ig_success_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

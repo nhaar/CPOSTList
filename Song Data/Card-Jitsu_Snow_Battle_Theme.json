@@ -10,5 +10,12 @@
         "uses": "Card-Jitsu Snow",
         "date": "2013/05/23/3",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "mus_mg_201303_cjsnow_gamewindamb.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

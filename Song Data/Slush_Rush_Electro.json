@@ -14,5 +14,12 @@
         "uses": "Igloo",
         "date": "2017/01/31",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_54_Igloo_SlushRushElectro.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

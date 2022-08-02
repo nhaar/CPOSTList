@@ -14,5 +14,12 @@
         "uses": "Green Ski Village Challenge",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_ch09.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

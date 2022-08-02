@@ -9,5 +9,32 @@
         "uses": "Holiday Party",
         "date": "2009/12/18/2",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "light.swf",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "DeckTheHalls7Instruments-Main Three-2.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "DeckTheHalls7Instruments-All Instruments-1.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "DeckTheHalls7Instruments-Brass-3.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "DeckTheHalls7Instruments-Guitars-4.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

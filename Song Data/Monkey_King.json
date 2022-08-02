@@ -10,5 +10,12 @@
         "uses": "Secrets of The Bamboo Forest",
         "date": "2010/02/12",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "Monkey+King.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

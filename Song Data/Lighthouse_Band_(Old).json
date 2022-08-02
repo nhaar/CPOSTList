@@ -14,5 +14,17 @@
         "uses": "Lighthouse",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "light.swf",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_MBL_Room_Lighthouse_Amb.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

@@ -5,7 +5,13 @@
     "sources": "Sample",
     "sourcelinks": "https://www.extrememusic.com/albums/2789",
     "link": "",
-    "versions": [],
+    "versions": [
+        {
+            "name": "XCD329_10 SPAZZ FOR JAZZ.MP3",
+            "info": "",
+            "source": ""
+        }
+    ],
     "cpi": {
         "files": [],
         "uses": "Rookie QUest",

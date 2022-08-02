@@ -14,5 +14,12 @@
         "uses": "Igloo, Holiday Party 2016",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "MUS_227_Igloo_HolidayJingle.mp3",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

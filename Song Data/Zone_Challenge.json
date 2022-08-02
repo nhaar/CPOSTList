@@ -9,5 +9,12 @@
         "uses": "Zone Challenge Title",
         "date": "2010/09/17",
         "truedate": 1
-    }
+    },
+    "versions": [
+        {
+            "name": "ig_challenge_title_00.brstm",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

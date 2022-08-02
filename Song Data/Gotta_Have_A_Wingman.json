@@ -19,5 +19,22 @@
         "uses": "Town",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "Cadence - Puffle Party (Gotta Have a Wingman).flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_Igloo_2013_GottaHaveAWingman_ID387.mp3",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "MUS_Town_Default_GottaHaveAWingman_Instrumental.fsb",
+            "info": "",
+            "source": ""
+        }
+    ]
 }

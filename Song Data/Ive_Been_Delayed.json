@@ -24,5 +24,17 @@
         "uses": "Credits",
         "date": "2018/12/20",
         "truedate": 0
-    }
+    },
+    "versions": [
+        {
+            "name": "02 I've Been Delayed.flac",
+            "info": "",
+            "source": ""
+        },
+        {
+            "name": "Music1162.swf",
+            "info": "",
+            "source": ""
+        }
+    ]
 }
