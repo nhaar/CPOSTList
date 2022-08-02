@@ -1,9 +1,9 @@
 {
-    "name": "PSA Mission Intro Theme",
+    "name": "PSA Mission Intro",
     "truename": 0,
     "artists": "?",
     "altnames": "",
-    "sources": "SWF intromusic + GarageBand",
+    "sources": "SWF intromusic + Logic Pro",
     "link": "https://youtu.be/fqyXO01oL_k",
     "cp": {
         "uses": "PSA Missions",

@@ -6,13 +6,13 @@
     "sources": "App",
     "link": "",
     "cp": {
-        "uses": "Club Penguin Island Party",
+        "uses": "Club Penguin Island Party, Igloo",
         "date": "2017/01/04",
         "truedate": 1
     },
     "app": {
         "uses": "Igloo",
-        "date": "2018/12/20",
+        "date": "2017/01/31",
         "truedate": 0
     }
 }
