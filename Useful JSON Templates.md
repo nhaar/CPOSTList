@@ -42,7 +42,7 @@ The basic template + source and medias
 "name" : "",
 "info" : "",
 "source" : "",
-"sourcelinks: ""
+"sourcelinks": ""
 }],
     "": {
     "date": "",
