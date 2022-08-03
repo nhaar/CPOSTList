@@ -6,12 +6,6 @@
     "sources": "Other",
     "link": "https://www.youtube.com/watch?v=6lxYnuPakC8",
     "cp": {
-        "files": [
-            {
-                "info": "It contains the first 67 seconds of the full version.",
-                "name": "101.swf"
-            }
-        ],
         "uses": "Bean Counters",
         "date": "2005/10/24/2",
         "truedate": 1
@@ -25,7 +19,7 @@
         {
             "name": "Organic Journey 44k.flac",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }

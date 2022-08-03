@@ -20,42 +20,44 @@
         {
             "name": "MUS_MG_PuffleRoundup_SouthernFriedAmb.aac",
             "info": "",
-            "source": ""
+            "source": "App"
         },
         {
             "name": "484276_Southern_Fried_60.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample"
         },
         {
             "name": "Southern_Fried_full.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample",
+            "sourcelinks": "http://web.archive.org/web/20130627124656/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_full.mp3"
         },
         {
             "name": "Southern_Fried_60.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample"
         },
         {
             "name": "Southern_Fried_13.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample"
         },
         {
             "name": "Southern_Fried_30.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample"
         },
         {
             "name": "Southern_Fried_alt.mp3",
             "info": "",
-            "source": ""
+            "source": "Sample",
+            "sourcelinkls" : "http://web.archive.org/web/20160414151733/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_alt.mp3"
         },
         {
             "name": "Country_6.wma",
             "info": "",
-            "source": ""
+            "source": "John Deere: American Farmer"
         }
     ]
 }

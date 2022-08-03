@@ -6,12 +6,6 @@
     "sources": "SWF 214",
     "link": "https://www.youtube.com/watch?v=T9on03cx2EM",
     "cp": {
-        "files": [
-            {
-                "name": "214.swf",
-                "info": "The song is divided in 6 clips, that played in the order: 1, 2, 3, 4, 3, 5, 6, and then looped."
-            }
-        ],
         "uses": "Cove Opening Party",
         "date": "2007/05/25",
         "truedate": 1
@@ -20,7 +14,7 @@
         {
             "name": "214.swf",
             "info": "",
-            "source": ""
+            "source": "SWF 214"
         }
     ]
 }

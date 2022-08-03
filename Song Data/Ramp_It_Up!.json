@@ -4,7 +4,6 @@
     "artists": "Chris Hendricks",
     "altnames": "Puffle Coaster 3, Puffle Launch Theme",
     "sources": "Other",
-    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=690",
     "link": "https://youtu.be/G6WuZkYdg5w",
     "cp": {
         "uses": "Puffle Launch",
@@ -15,7 +14,7 @@
         {
             "name": "PuffleCoaster3_02.mp3",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }

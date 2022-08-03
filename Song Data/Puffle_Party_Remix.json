@@ -9,21 +9,15 @@
         {
             "name": "MUS_Quest_Rookie_Medium_PuffleParty.fsb",
             "info": "",
-            "source": ""
+            "source": "Club Penguin Island"
         },
         {
             "name": "MUS_647_Igloo_2014_PuffleParty.mp3",
             "info": "",
-            "source": ""
+            "source": "App"
         }
     ],
     "cp": {
-        "files": [
-            {
-                "info": "",
-                "name": "282.swf"
-            }
-        ],
         "uses": "Puffle Party 2010, Puffle Party 2011, Puffle Party 2012",
         "date": "2010/02/18",
         "truedate": 1

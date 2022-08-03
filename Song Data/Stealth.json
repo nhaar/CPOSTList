@@ -6,12 +6,6 @@
     "sources": "Other",
     "link": "https://www.youtube.com/watch?v=eKZj-tyRg78",
     "cp": {
-        "files": [
-            {
-                "info": "It consisted of 3 clips, loops A to C, played progressively at random.",
-                "name": "7.swf"
-            }
-        ],
         "uses": "PSQ HQ, Everyday Phoning Facility",
         "date": "2006/04/21",
         "truedate": 0
@@ -25,7 +19,7 @@
         {
             "name": "Project 2020 - Stealth.flac",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }

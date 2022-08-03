@@ -19,17 +19,22 @@
         {
             "name": "Cadence - The Party Starts Now (From - Club Penguin- ).flac",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "tpsn.mp3",
             "info": "",
-            "source": ""
+            "source": "Media Server"
         },
         {
             "name": "MUS_Master_2013_DR_PartyStartsNow_Inst53Sec.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
+        },
+        {
+            "name": "French/tpsn.mp3",
+            "info": "",
+            "source": "Media Server"
         }
     ]
 }

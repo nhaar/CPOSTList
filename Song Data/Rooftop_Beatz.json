@@ -9,61 +9,55 @@
         {
             "name": "Rooftop Beatz... With A Zed 2, A1, Mix (16).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, A2, Mix (17).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, A3, Mix (18).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, B3, Mix (19).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, C2, Mix (20).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, C3, Mix (21).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, D1, Mix (22).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, D2, Mix (23).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "Rooftop Beatz... With A Zed 2, D3, Mix (24).wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "MusicJam2011Party2.swf",
             "info": "",
-            "source": ""
+            "source": "SWF Night Club Rooftop"
         }
     ],
     "cp": {
-        "files": [
-            {
-                "info": "Party SWF from Music Jam 2011.",
-                "name": "party2.swf"
-            }
-        ],
         "uses": "Music Jam 2011",
         "date": "2011/06/16/2",
         "truedate": 0

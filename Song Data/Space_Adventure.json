@@ -10,22 +10,24 @@
         {
             "name": "30.swf",
             "info": "",
-            "source": ""
+            "source": "SWF 30"
         },
         {
             "name": "#WaddleOn  - Episode 14 - With Gary! - Club Penguin-gp40tqdm638.mkv",
             "info": "",
-            "source": ""
+            "source": "Club Penguin Youtube Channel"
         },
         {
             "name": "Club Penguin - Space Adventure [XxoEDiwd6bU].opus",
             "info": "",
-            "source": ""
+            "source": "Youtube",
+            "sourcelinks": "https://www.youtube.com/watch?v=XxoEDiwd6bU"
         },
         {
             "name": "ClubPenguin -Space Adventure(Stage Play) [atcWcTDrWVI].opus",
             "info": "",
-            "source": ""
+            "source": "Youtube",
+            "sourcelinks": "https://www.youtube.com/watch?v=atcWcTDrWVI"
         }
     ],
     "cp": {
