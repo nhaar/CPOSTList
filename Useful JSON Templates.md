@@ -18,7 +18,7 @@ File Versions template
 "name" : "",
 "info" : "",
 "source" : "",
-"sourcelinks: ""
+"sourcelinks": ""
 }
 ```
 
@@ -38,16 +38,18 @@ The basic template + source and medias
     "artists": "",
     "altnames": "",
     "link": "",
-    "versions": [{
-"name" : "",
-"info" : "",
-"source" : "",
-"sourcelinks": ""
-}],
+    "versions": [
+        {
+            "name": "",
+            "info": "",
+            "source": "",
+            "sourcelinks": ""
+        }
+    ],
     "": {
-    "date": "",
-"truedate" : ,
-"uses": ""
+        "date": "",
+        "truedate": ,
+        "uses": ""
     }
 }
 ```
