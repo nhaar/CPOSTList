@@ -101,6 +101,7 @@ def DateNumber(x):
     return date_number * 100 + new_number
 
 for song in all_data: #all_data is form dataBuild.py
+    print(song['name'])
     present_medias = []
     dates = []
     for media in medias:
