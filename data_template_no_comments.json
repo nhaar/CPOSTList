@@ -3,14 +3,13 @@
     "truename": 0,
     "artists": "",
     "altnames": "",
-    "sources": "",
-    "sourcelinks": "",
     "link": "",
     "versions": [
         {
             "name": "",
             "info": "",
-            "source": ""
+            "source": "",
+            "sourcelinks": ""
         }
     ],
     "media": {
