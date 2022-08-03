@@ -2,8 +2,6 @@
     "name": "Puffle Bullet",
     "truename": 1,
     "artists": "Chris Hendricks",
-    "sources": "Youtube",
-    "sourcelinks": "https://youtu.be/R8so7BYd9ZI?t=112",
     "link": "https://youtu.be/NGaz1aJki7Y",
     "cpu": {
         "uses": "Puffle Launch",

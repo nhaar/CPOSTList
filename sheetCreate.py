@@ -120,6 +120,29 @@ for song in all_data: #all_data is form dataBuild.py
                 dummy = song[media]
             except:
                 pass
+     # Getting the sources and sourcelinks from the medias   
+    versions = song['versions']
+    sources = [] # Storing the strings
+    sourcelinks = []
+    for x in versions:
+        sources.append(x['source'])
+        try:# In case there is no sourcelinks or source
+            sourcelinks.append(x['sourcelinks'])
+        except:
+            pass
+    sources = list(set(sources)) #Removing duplicates
+    sourcelinks = list(set(sourcelinks))
+    source = '' # Strings that will contain the sources
+    sourcelink = ''
+    for x in sources: #Making them neat strings
+        source += ' + ' + x
+    source = source[3:]
+    for x in sourcelinks:
+        sourcelink += ',' + x
+    sourcelink = sourcelink[1:]
+    song['sources'] = source
+    if sourcelink != '': #Only add if there is a link
+        song['sourcelinks'] = sourcelink
     for media in present_medias:
         ordering[media][song['name']] = DateNumber(song[media]['date'])
     for x in exchanging_all:

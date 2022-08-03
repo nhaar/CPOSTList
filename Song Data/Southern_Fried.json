@@ -3,8 +3,6 @@
     "truename": 1,
     "artists": "Gavin Courtie, Liz Radford",
     "altnames": "Surprise Party Music",
-    "sources": "App + Sample + John Deere: American Farmer",
-    "sourcelinks": "http://web.archive.org/web/20130627124656/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_full.mp3,http://web.archive.org/web/20160414151733/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_alt.mp3",
     "link": "https://www.youtube.com/watch?v=D-s3-ntrAMI",
     "cp": {
         "uses": "Western Party, Surprise Party",
@@ -52,7 +50,7 @@
             "name": "Southern_Fried_alt.mp3",
             "info": "",
             "source": "Sample",
-            "sourcelinkls" : "http://web.archive.org/web/20160414151733/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_alt.mp3"
+            "sourcelinkls": "http://web.archive.org/web/20160414151733/http://www.royaltyfreemusic.com/mp3/studiocutz-full/Southern_Fried_alt.mp3"
         },
         {
             "name": "Country_6.wma",

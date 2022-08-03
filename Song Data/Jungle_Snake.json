@@ -2,7 +2,6 @@
     "name": "Jungle Snake",
     "truename": 1,
     "artists": "Chris Hendricks",
-    "sources": "Other",
     "cpu": {
         "uses": "Island Adventure Party",
         "date": "2018/12/20",
