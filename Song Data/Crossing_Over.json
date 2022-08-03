@@ -6,20 +6,6 @@
     "sources": "Other",
     "link": "https://www.youtube.com/watch?v=qHru2E7bPR4",
     "cp": {
-        "files": [
-            {
-                "info": "It is divided in 7 sounds clips, clip 1 is Loop A, clips 2-7 are loops D-I. The segments were played progressively at random.",
-                "name": "5.swf"
-            },
-            {
-                "info": "It is divided in 6 sound clips, clip 1 is Loop A, clip 2 is Loop B, clips 3-5 are Loops D-F and clip 6 is Loop I. Volume was reduced and it played segments progressively at random.",
-                "name": "6.swf"
-            },
-            {
-                "info": "Consists of one clip of Loops A-I played sequentially, followed by Loop I and Loop D",
-                "name": "673.swf"
-            }
-        ],
         "uses": "Dance Club",
         "date": "2005/10/24/3",
         "truedate": 1
@@ -38,87 +24,87 @@
         {
             "name": "bjorn_lynne_-_crossing_over_(30-secs_version)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_(60-secs_version)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_(stinger_a)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_(stinger_b)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_(stinger_c)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_(stinger_d)_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "bjorn_lynne_-_crossing_over_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-longer-loop_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-01_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-02_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-03_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-04_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-05_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-06_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-07_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-08_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "crossing-over-loop-09_proud_music.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }

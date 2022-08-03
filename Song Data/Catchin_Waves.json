@@ -10,17 +10,19 @@
         {
             "name": "113.swf",
             "info": "",
-            "source": ""
+            "source": "SWF 113"
         },
         {
             "name": "Spoiler Alert Episode 17 - April Fools! [wtAFhpxLnD0].opus",
             "info": "",
-            "source": ""
+            "source": "Youtube",
+            "sourcelinks": "https://www.youtube.com/watch?v=wtAFhpxLnD0"
         },
         {
             "name": "Club Penguin - Red Puffle's Cartoon Short-yDeofwSWodk.mkv",
             "info": "",
-            "source": ""
+            "source": "Club Penguin Youtube",
+            "sourcelinks": "https://archive.org/details/ClubPenguinYoutubeChannelArchive"
         }
     ],
     "cp": {

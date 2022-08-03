@@ -4,7 +4,6 @@
     "artists": "Curt Macdonald",
     "altnames": "",
     "sources": "Other",
-    "sourcelinks": "https://web.archive.org/web/20210928075227oe_/https://s3.amazonaws.com/preview.freshmusic.com/2123/2123_06.m4a",
     "link": "https://youtu.be/clyysAx8yGc",
     "cp": {
         "uses": "Sports Party, Penguin Games, Puffle Party 2011, Puffle party 2012, Puffle Party 2012",
@@ -20,22 +19,22 @@
         {
             "name": "26_Event_Prep_30_-_2123_06_30.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "27_Event_Prep_Underscore_-_2123_06_40.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "06_Event_Prep_-_2123_06.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "25_Event_Prep_60_-_2123_06_60.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }

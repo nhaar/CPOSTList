@@ -1,5 +1,5 @@
 {
-    "name": "Icy Groove",
+    "name": "Dance Off! Normal",
     "truename": 0,
     "artists": "?",
     "altnames": "",
@@ -14,12 +14,12 @@
         {
             "name": "ig_dancing_01.brstm",
             "info": "",
-            "source": ""
+            "source": "Game Day"
         },
         {
             "name": "SEQ_ig_dancing_01.flac",
             "info": "",
-            "source": ""
+            "source": "Game Day (Sequenced)"
         }
     ]
 }

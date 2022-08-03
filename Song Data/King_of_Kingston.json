@@ -9,54 +9,40 @@
         {
             "name": "king-of-kingston-30secs.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "king-of-kingston-60secs.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "king-of-kingston-complete.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "King of Kingston loop1.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "King of Kingston loop2.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "King of Kingston loop3.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         },
         {
             "name": "King of Kingston loop4.wav",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ],
     "cp": {
-        "files": [
-            {
-                "info": "It used the four loops, played randomly in order",
-                "name": "1.swf"
-            },
-            {
-                "info": "All 4 loops played sequentially, with ambience noise",
-                "name": "429.swf"
-            },
-            {
-                "info": "All 4 loops palyed sequentially, with ambience noises",
-                "name": "669.swf"
-            }
-        ],
         "uses": "Coffee Shop, Coffee Shop, Coffee Shop",
         "date": "2005/10/24/1",
         "truedate": 1

@@ -8,16 +8,10 @@
         {
             "name": "Chillin' At The Club [440725104].aac",
             "info": "",
-            "source": ""
+            "source": "CPI SoundCloud"
         }
     ],
     "cpi": {
-        "files": [
-            {
-                "info": "",
-                "name": "?"
-            }
-        ],
         "uses": "Login Screen",
         "date": "2018/12/20",
         "truedate": 0

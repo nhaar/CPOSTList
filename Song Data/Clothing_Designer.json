@@ -8,16 +8,11 @@
         {
             "name": "Clothing Designer [440725173].mp3",
             "info": "",
-            "source": ""
+            "source": "CPI SoundCloud",
+            "sourcelinks": "https://soundcloud.com/user-764833925/clothing-designer"
         }
     ],
     "cpi": {
-        "files": [
-            {
-                "info": "",
-                "name": "?"
-            }
-        ],
         "uses": "Clothing Customizer",
         "date": "2018/12/20",
         "truedate": 0

@@ -4,7 +4,6 @@
     "artists": "Chris Hendricks",
     "altnames": "",
     "sources": "Game Day + Screenhog's Website",
-    "sourcelinks": "http://www.screenhog.com/music",
     "link": "https://youtu.be/7Fj6UDpugIY",
     "cp": {
         "uses": "Igloo",
@@ -20,12 +19,12 @@
         {
             "name": "ig_cbb_00.brstm",
             "info": "",
-            "source": ""
+            "source": "Game Day"
         },
         {
             "name": "PizzatronOrchestra.mp3",
             "info": "",
-            "source": ""
+            "source": "Other"
         }
     ]
 }
