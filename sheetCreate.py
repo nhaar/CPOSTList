@@ -114,7 +114,7 @@ for song in all_data: #all_data is form dataBuild.py
                 tabs[media]['Earliest Date'].append(thisdate) #Append first use's date to Earliest Date
             else:
                 tabs[media]['Earliest Date'].append('?') #Default Unknown date
-            dates.append(thisdate) #For later
+            dates.append(mediadict['date']) #For later
         except:
             try:
                 dummy = song[media]
@@ -157,18 +157,18 @@ for song in all_data: #all_data is form dataBuild.py
                 tabs[media][x].append(None)
     nummericaldates = []
     for value in dates: #Defining Earliest Dates
-        nummericaldates.append(DateStrToVal(value))
+        nummericaldates.append(DateStrToVal(ProperDate(value)))
     lowestvalue = 30000000
     lowpos = 0
     i = 0
     for x in nummericaldates:
         if type(x) == type(1):
             if x < lowestvalue:
-                x = lowestvalue
+                lowestvalue = x
                 lowpos = i
         i += 1
     try:
-        tabs['series']['Earliest Date'].append(dates[lowpos])
+        tabs['series']['Earliest Date'].append(ProperDate(dates[lowpos]))
     except:
         tabs['series']['Earliest Date'].append('?')
     present_medias = [medias[l]['media'] for l in present_medias]
