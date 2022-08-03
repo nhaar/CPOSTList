@@ -5,19 +5,24 @@
     "altnames": "",
     "link": "",
     "cp": {
-        "uses": "?, Igloo, Music Jam 2016",
-        "date": "2013/08/28",
-        "truedate": 1
+        "uses": "Igloo, Music Jam 2016",
+        "date": "2013/10/31",
+        "truedate": 0
     },
     "app": {
         "uses": "Igloo",
-        "date": "2018/12/20",
+        "date": "2013/10/31",
         "truedate": 0
     },
     "cpi": {
         "uses": "Sea Caves",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2013/08/28",
+        "truedate": 1,
+        "uses": "Club Penguin - Party In My Iggy - Cadence and the Penguin Band - Official Music Video"
     },
     "versions": [
         {

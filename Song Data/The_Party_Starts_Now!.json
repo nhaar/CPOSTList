@@ -6,13 +6,18 @@
     "link": "",
     "cp": {
         "uses": "Igloo, Make Your Mark: Ultimate Jam, Penguin Prom, SoundStudio Party, Music Jam 2016",
-        "date": "2012/07/12",
-        "truedate": 1
+        "date": "2012/07/31",
+        "truedate": 0
     },
     "app": {
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2012/07/12",
+        "truedate": 1,
+        "uses": "The Party Starts Now! - Official Music Video - Disney Club Penguin"
     },
     "versions": [
         {

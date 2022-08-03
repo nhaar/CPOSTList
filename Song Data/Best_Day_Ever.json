@@ -5,7 +5,7 @@
     "altnames": "",
     "link": "",
     "cp": {
-        "uses": "?, Music Jam 2014, SoundStudio Party",
+        "uses": "Igloo, Music Jam 2014, SoundStudio Party",
         "date": "2014/07/09",
         "truedate": 1
     },
@@ -13,6 +13,11 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2014/07/09",
+        "truedate": 1,
+        "uses": "Best Day Ever - Official Music Video - Disney Club Penguin"
     },
     "versions": [
         {

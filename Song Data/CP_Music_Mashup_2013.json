@@ -5,14 +5,19 @@
     "altnames": "",
     "link": "",
     "cp": {
-        "uses": "?, Igloo",
-        "date": "2014/03/28",
-        "truedate": 1
+        "uses": "Igloo",
+        "date": "2017/02/28",
+        "truedate": 0
     },
     "app": {
         "uses": "Igloo",
-        "date": "2018/12/20",
+        "date": "2017/02/28",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2014/03/28",
+        "truedate": 1,
+        "uses": "The Best of 2013 Mashup Remix - Music Video - Club Penguin"
     },
     "versions": [
         {

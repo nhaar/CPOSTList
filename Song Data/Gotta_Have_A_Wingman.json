@@ -5,19 +5,24 @@
     "altnames": "Puffle Party",
     "link": "",
     "cp": {
-        "uses": "?, Igloo, Penguin Prom, Music Jam (??)",
-        "date": "2013/02/25",
-        "truedate": 1
+        "uses": "Igloo, Penguin Prom, Music Jam (??)",
+        "date": "2013/04/30",
+        "truedate": 0
     },
     "app": {
         "uses": "Igloo, Puffle Party 2014",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2013/08/15",
+        "truedate": 1
     },
     "cpi": {
         "uses": "Town",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2013/02/25",
+        "truedate": 1,
+        "uses": "Puffle Party (Gotta Have a Wingman) - Official Music Video - Disney Club Penguin"
     },
     "versions": [
         {

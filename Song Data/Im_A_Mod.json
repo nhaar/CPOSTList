@@ -5,14 +5,19 @@
     "altnames": "",
     "link": "",
     "cp": {
-        "uses": "?, Igloo",
-        "date": "2014/09/26",
-        "truedate": 1
+        "uses": "Igloo",
+        "date": "2016/01/31",
+        "truedate": 0
     },
     "app": {
         "uses": "Igloo",
-        "date": "2018/12/20",
+        "date": "2016/01/31",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2014/09/26",
+        "truedate": 1,
+        "uses": "I'm A Mod (Moderator Rap Battle) - Official Music Video - Disney Club Penguin"
     },
     "versions": [
         {

@@ -14,6 +14,11 @@
         "date": "2016/01/31",
         "truedate": 0
     },
+    "cpyt": {
+        "date": "2011/12/28",
+        "truedate": 1,
+        "uses": "Club Penguin: Coins For Change: Haiti Update"
+    },
     "versions": [
         {
             "name": "MUS_004_Igloo_CoinsForChange.mp3",

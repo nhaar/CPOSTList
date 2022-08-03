@@ -5,14 +5,19 @@
     "altnames": "",
     "link": "",
     "cp": {
-        "uses": "?, Cave Maze, Operation: Tri-umph",
-        "date": "2012/11/23",
+        "uses": "Igloo, Cave Maze, Operation: Tri-umph",
+        "date": "2013/01/10",
         "truedate": 1
     },
     "app": {
         "uses": "Igloo",
-        "date": "2018/12/20",
+        "date": "2015/05/31",
         "truedate": 0
+    },
+    "cpyt": {
+        "date": "2012/11/23",
+        "truedate": 1,
+        "uses": "Club Penguin App and Herbert Style! - Official Music Video - Disney Club Penguin"
     },
     "versions": [
         {
