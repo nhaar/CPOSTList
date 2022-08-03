@@ -42,10 +42,12 @@ This is the data template to be used, comments written after the # symbol.
 About the dates: The date format must be written in the format YYYY/MM/DD, all in numbers, eg. 2022/02/02. This is what the scrip uses to define the order of things. However, if multiple music show up in the same date, one can add an extra value, which can be a floating point or just integer and that sets the priority, for example:
 1. 2022/02/02/2
 2. 2022/02/02/1.5
+
 If the script sees these two values, it will give priority to the lowest value, so first it will use the 1.5 one, and then the 2 one. It is recommended using floating points only when changing order when there are many songs already for example, you can change the order of:
 * 2022/02/02/1
 * 2022/02/02/2
 * 2022/02/02/3
+
 By using a floating point:
 * 2022/02/02/1
 * 2022/02/02/0.9 -> This will now come first
