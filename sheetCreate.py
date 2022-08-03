@@ -9,6 +9,7 @@ exec(open('dataBuild.py').read())
 
 headers = {
     'all': { #Headers for both media and series, the lists is [series_order,medias_order]
+        # These [1,1] and etc lists are a failed attempt at making this code more dynamic and I have not bothered to fix it yet
     'Name': [1,1],
     'Artist(s)':[2,2],
     'Link': [4,4],
@@ -162,7 +163,7 @@ for song in all_data: #all_data is form dataBuild.py
     lowpos = 0
     i = 0
     for x in nummericaldates:
-        if type(x) == type(1):
+        if type(x) == type(1.0):
             if x < lowestvalue:
                 lowestvalue = x
                 lowpos = i
