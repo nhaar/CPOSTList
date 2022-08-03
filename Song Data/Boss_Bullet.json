@@ -2,6 +2,7 @@
     "name": "Boss Bullet",
     "truename": 1,
     "artists": "Chris Hendricks",
+    "link": "https://youtu.be/2NBYPMdHZuA",
     "cpu": {
         "uses": "Puffle Launch",
         "date": "2011/03/24/0.3",
