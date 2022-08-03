@@ -86,7 +86,7 @@ def DateStrToVal(x):
     for y in x:
         if y != '/':
             val += y
-    return int(val)
+    return float(val)
 
 def ProperDate(x):
     return x[0:10]
@@ -94,7 +94,7 @@ def ProperDate(x):
 def DateNumber(x):
     date_number = DateStrToVal(ProperDate(x))
     if len(x) > 10:
-        new_number = int(x[11:])
+        new_number = float(x[11:])
     else:
         new_number = 99
     return date_number * 100 + new_number
