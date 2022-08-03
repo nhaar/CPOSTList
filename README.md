@@ -52,6 +52,7 @@ By using a floating point:
 * 2022/02/02/1
 * 2022/02/02/0.9 -> This will now come first
 * 2022/02/02/3
+
 Please keep on mind that python is accurate up to 16 decimal places.
 
 There are a handful of media codes you can use:
