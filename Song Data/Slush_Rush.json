@@ -3,6 +3,11 @@
     "truename": 1,
     "artists": "?",
     "link": "",
+    "app": {
+        "date": "2014/08/07",
+        "truedate": 0,
+        "uses": "Sled Racer"
+    },
     "cpi": {
         "uses": "?",
         "date": "2018/12/20",
@@ -13,6 +18,12 @@
             "name": "Slush Rush [488806542].aac",
             "info": "",
             "source": "CPI SoundCloud"
+        },
+        {
+            "name": "Club_Penguin_-_Sled_Racer_Theme.mp3",
+            "info": "",
+            "source": "",
+            "sourcelinks": ""
         }
     ]
 }
