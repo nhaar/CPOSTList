@@ -1,12 +1,13 @@
 {
     "name": "Cadence Quest End",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
+    "altnames": "Cadence End Screen",
     "link": "",
     "cpi": {
         "uses": "Cadence Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2018/02/07",
+        "truedate": 1
     },
     "versions": [
         {

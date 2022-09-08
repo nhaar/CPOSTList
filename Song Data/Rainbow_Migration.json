@@ -1,12 +1,13 @@
 {
     "name": "Rainbow Migration",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
+    "altnames": "Brightest Days",
     "link": "",
     "cpi": {
-        "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Igloo",
+        "date": "2018/01/24",
+        "truedate": 1
     },
     "versions": [
         {

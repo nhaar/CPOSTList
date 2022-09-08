@@ -1,7 +1,7 @@
 {
     "name": "Dub-Style Step",
     "truename": 1,
-    "artists": "?",
+    "artists": "Norrie Henderson",
     "altnames": "",
     "link": "",
     "cp": {
@@ -15,9 +15,9 @@
         "truedate": 0
     },
     "cpi": {
-        "uses": "Sea Caves",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Party Submarine",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

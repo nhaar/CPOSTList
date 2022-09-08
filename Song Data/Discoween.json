@@ -1,7 +1,7 @@
 {
     "name": "Discoween",
     "truename": 1,
-    "artists": "?",
+    "artists": "Friction Music",
     "altnames": "Halloween Dance Mix,Halloween Dance, Halloween Disco, Halloween Jam",
     "link": "https://www.youtube.com/watch?v=r5gu4qG_JtE",
     "cp": {
@@ -16,8 +16,8 @@
     },
     "cpi": {
         "uses": "Halloween Party 2018",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2018/10/17",
+        "truedate": 1
     },
     "versions": [
         {

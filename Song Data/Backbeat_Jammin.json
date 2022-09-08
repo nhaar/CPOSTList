@@ -2,7 +2,7 @@
     "name": "Backbeat Jammin'",
     "truename": 1,
     "artists": "Michael Campitelli",
-    "altnames": "Easy Island Music, Rocksteady",
+    "altnames": "Easy Island Music, Rocksteady, Steel Drum Ping-Pong",
     "link": "https://www.youtube.com/watch?v=bcgjyP29z14",
     "cp": {
         "uses": "Music Jam 2009, Music Jam 2011",
@@ -11,8 +11,8 @@
     },
     "cpi": {
         "uses": "Beacon Boardwalk",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

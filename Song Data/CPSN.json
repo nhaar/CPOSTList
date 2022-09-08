@@ -1,7 +1,7 @@
 {
     "name": "CPSN",
     "truename": 1,
-    "artists": "?",
+    "artists": "Norrie Henderson",
     "versions": [
         {
             "name": "CPSN [484983789].aac",
@@ -11,14 +11,8 @@
         }
     ],
     "cpi": {
-        "files": [
-            {
-                "info": "",
-                "name": "?"
-            }
-        ],
         "uses": "Mount Blizzard, Rookie Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2017/05/24",
+        "truedate": 1
     }
 }

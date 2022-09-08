@@ -1,12 +1,12 @@
 {
     "name": "Perfect Day",
     "truename": 1,
-    "artists": "?",
+    "artists": "Michelle R. Lewis and Dan Petty",
     "link": "",
     "cpi": {
         "uses": "Cadence Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2018/02/07",
+        "truedate": 1
     },
     "versions": [
         {

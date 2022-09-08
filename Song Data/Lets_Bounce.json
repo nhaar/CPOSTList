@@ -1,7 +1,7 @@
 {
     "name": "Let's Bounce",
     "truename": 1,
-    "artists": "?",
+    "artists": "Friction Music",
     "altnames": "",
     "link": "https://www.youtube.com/watch?v=MsHFBYHrmR4",
     "cp": {
@@ -15,9 +15,9 @@
         "truedate": 1
     },
     "cpi": {
-        "uses": "Beacon Boardwalk",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Beacon Boardwalk, Trampoline",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

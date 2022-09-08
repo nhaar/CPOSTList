@@ -1,12 +1,13 @@
 {
-    "name": "Stage Surf Pop",
+    "name": "Beachtime Bop",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield, Toby Hulse",
+    "altnames": "Stage Surf Pop, Beach Jammin",
     "link": "",
     "cpi": {
-        "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Beach Stage",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

@@ -2,7 +2,7 @@
     "name": "Cave of Battle",
     "truename": 1,
     "artists": "Chris Hendricks",
-    "altnames": "Hydra Electric Damage",
+    "altnames": "Hydra Electric Damage, A Time For Heroes",
     "link": "https://youtu.be/dnsdDres7sE",
     "versions": [
         {
@@ -19,7 +19,7 @@
     },
     "cpi": {
         "uses": "Rockhopper Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2016/12/08",
+        "truedate": 1
     }
 }

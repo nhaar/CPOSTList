@@ -1,7 +1,7 @@
 {
     "name": "Pirates of Club Penguin",
     "truename": 1,
-    "artists": "?",
+    "artists": "Norrie Henderson",
     "altnames": "Crab Battle",
     "link": "",
     "cp": {
@@ -15,9 +15,9 @@
         "truedate": 0
     },
     "cpi": {
-        "uses": "Rockhopper Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Aunt Arctic Quest, Rockhopper Quest",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

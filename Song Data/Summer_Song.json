@@ -21,14 +21,20 @@
     },
     "cpi": {
         "uses": "Beacon Boardwalk",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {
             "name": "mn_hub_00.brstm",
             "info": "",
             "source": "Game Day"
+        },
+        {
+            "name": "216.swf",
+            "info": "",
+            "source": "SWF 216",
+            "sourcelinks": ""
         }
     ]
 }

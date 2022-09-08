@@ -2,7 +2,7 @@
     "name": "Welcome Home",
     "truename": 1,
     "artists": "David Fairfield",
-    "altnames": "",
+    "altnames": "Aunt Arctic",
     "link": "",
     "cp": {
         "uses": "Waddle On Party",
@@ -13,6 +13,11 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpi": {
+        "date": "2016/12/08",
+        "truedate": 1,
+        "uses": "Aunt Arctice Quest"
     },
     "versions": [
         {

@@ -1,7 +1,7 @@
 {
     "name": "We Are The Penguins",
     "truename": 1,
-    "artists": "?",
+    "artists": "Michelle R. Lewis, Dan Petty, David Fairfield",
     "altnames": "",
     "link": "",
     "versions": [
@@ -12,8 +12,8 @@
         }
     ],
     "cpi": {
-        "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Dance Battle",
+        "date": "2017/10/18",
+        "truedate": 1
     }
 }

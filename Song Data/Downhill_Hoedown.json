@@ -1,12 +1,12 @@
 {
     "name": "Downhill Hoedown",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
     "link": "",
     "cpi": {
         "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2017/05/24",
+        "truedate": 1
     },
     "versions": [
         {

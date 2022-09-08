@@ -1,8 +1,8 @@
 {
     "name": "The Woods",
     "truename": 0,
-    "artists": "?",
-    "altnames": "",
+    "artists": "Norrie Henderson",
+    "altnames": "Wild Woods",
     "link": "",
     "cp": {
         "uses": "Puffle Wild",
@@ -13,6 +13,11 @@
         "uses": "Igloo, Puffle Wild",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpi": {
+        "date": "2017/10/18",
+        "truedate": 1,
+        "uses": "Town"
     },
     "versions": [
         {

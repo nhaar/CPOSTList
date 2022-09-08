@@ -1,7 +1,7 @@
 {
     "name": "Penguin Band Boogie",
     "truename": 1,
-    "artists": "Club Penguin Team",
+    "artists": "Rory O'Neill",
     "altnames": "Waddle On Dance-A-Thon, Silly To Funky",
     "link": "https://www.youtube.com/watch?v=cj06KsXr6lk",
     "cp": {
@@ -18,6 +18,11 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpi": {
+        "date": "2016/12/08",
+        "truedate": 1,
+        "uses": "Party Submarine"
     },
     "versions": [
         {

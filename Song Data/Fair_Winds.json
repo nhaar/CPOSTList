@@ -14,6 +14,11 @@
         "date": "2018/12/20",
         "truedate": 0
     },
+    "cpi": {
+        "date": "2016/12/08",
+        "truedate": 1,
+        "uses": "Rockhopper Quest"
+    },
     "versions": [
         {
             "name": "Fair Winds [177356192].aac",

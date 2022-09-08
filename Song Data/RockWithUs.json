@@ -1,0 +1,19 @@
+{
+    "name": "Rock With Us",
+    "truename": 1,
+    "artists": "Toby Hulse",
+    "altnames": "Stage Rock",
+    "link": "",
+    "versions": [
+        {
+            "name": "Stage Rock [484983615].aac",
+            "info": "",
+            "source": "CPI SoundCloud"
+        }
+    ],
+    "cpi": {
+        "date": "2016/12/08",
+        "truedate": 1,
+        "uses": "Beach Stage"
+    }
+}

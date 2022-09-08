@@ -1,12 +1,13 @@
 {
     "name": "Rookie",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
+    "altnames": "New Recruit",
     "link": "",
     "cpi": {
-        "uses": "Rookie Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Aunt Arcitc Quest, Rookie Quest",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

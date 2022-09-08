@@ -1,13 +1,13 @@
 {
-    "name": "Jet Pack Boost Theme",
+    "name": "Jetpack Boost Theme",
     "truename": 1,
     "artists": "?",
     "altnames": "",
     "link": "",
     "app": {
-        "uses": "Jet Pack Boost",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Jetpack Boost",
+        "date": "2013/08/29",
+        "truedate": 1
     },
     "cpi": {
         "uses": "Jet Pack Adventure",

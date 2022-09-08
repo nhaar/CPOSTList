@@ -1,12 +1,12 @@
 {
     "name": "Another Day in the Sun",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
     "link": "",
     "cpi": {
         "uses": "Aunt Arctic Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

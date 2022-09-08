@@ -1,7 +1,7 @@
 {
     "name": "Slush Rush",
     "truename": 1,
-    "artists": "?",
+    "artists": "Norrie Henderson",
     "link": "",
     "app": {
         "date": "2014/08/07",
@@ -10,8 +10,8 @@
     },
     "cpi": {
         "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2017/05/24",
+        "truedate": 1
     },
     "versions": [
         {

@@ -1,12 +1,12 @@
 {
     "name": "Whistle Folk",
     "truename": 1,
-    "artists": "?",
+    "artists": "Toby Hulse",
     "link": "",
     "cpi": {
-        "uses": "?",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Town",
+        "date": "2017/10/18",
+        "truedate": 1
     },
     "versions": [
         {

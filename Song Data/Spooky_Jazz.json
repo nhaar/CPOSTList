@@ -1,7 +1,7 @@
 {
     "name": "Spooky Jazz",
     "truename": 1,
-    "artists": "David Fairfield",
+    "artists": "Norrie Henderson",
     "altnames": "",
     "link": "",
     "cp": {
@@ -16,8 +16,8 @@
     },
     "cpi": {
         "uses": "Halloween Party 2018",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2018/10/17",
+        "truedate": 1
     },
     "versions": [
         {

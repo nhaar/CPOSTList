@@ -1,7 +1,7 @@
 {
     "name": "You Got This",
     "truename": 1,
-    "artists": "?",
+    "artists": "Michelle R. Lewis and Dan Petty",
     "altnames": "",
     "link": "",
     "cp": {
@@ -13,6 +13,11 @@
         "uses": "Igloo",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cpi": {
+        "date": "2017/10/18",
+        "truedate": 1,
+        "uses": "Dance Battle"
     },
     "versions": [
         {

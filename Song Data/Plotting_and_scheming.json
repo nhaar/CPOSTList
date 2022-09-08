@@ -1,12 +1,13 @@
 {
     "name": "Plotting and Scheming",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
+    "altnames": "Evil Monologue, Herbert (Low)",
     "link": "",
     "cpi": {
-        "uses": "Rockhopper Quest",
-        "date": "2018/12/20",
-        "truedate": 0
+        "uses": "Aunt Arctic Quest, Rockhopper Quest",
+        "date": "2016/12/08",
+        "truedate": 1
     },
     "versions": [
         {

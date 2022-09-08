@@ -1,7 +1,8 @@
 {
-    "name": "Clothing Designer",
+    "name": "Groovy Style",
     "truename": 1,
-    "artists": "?",
+    "artists": "David Fairfield",
+    "altnames": "Clothing Designer",
     "versions": [
         {
             "name": "Clothing Designer [440725173].mp3",
@@ -12,7 +13,7 @@
     ],
     "cpi": {
         "uses": "Clothing Customizer",
-        "date": "2018/12/20",
-        "truedate": 0
+        "date": "2016/12/08",
+        "truedate": 1
     }
 }

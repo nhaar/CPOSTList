@@ -7,11 +7,22 @@
             "name": "MUS_MG_SmoothieSmash_MenuAmb.aac",
             "info": "",
             "source": "App"
+        },
+        {
+            "name": "splashBGM.swf",
+            "info": "",
+            "source": "Club Penguin SWF",
+            "sourcelinks": ""
         }
     ],
     "app": {
         "uses": "Smoothie Smash",
         "date": "2018/12/20",
         "truedate": 0
+    },
+    "cp": {
+        "date": "2012/08/30",
+        "truedate": 1,
+        "uses": ""
     }
 }

@@ -14,6 +14,11 @@
         "date": "2018/12/20",
         "truedate": 0
     },
+    "cpi": {
+        "date": "2016/12/08",
+        "truedate": 1,
+        "uses": "Party Submarine"
+    },
     "versions": [
         {
             "name": "Hello Yellow! [148758020].aac",

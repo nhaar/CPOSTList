@@ -14,6 +14,11 @@
         "date": "2018/12/20",
         "truedate": 0
     },
+    "cpi": {
+        "uses": "Login Screen",
+        "date": "2016/12/08",
+        "truedate": 1
+    },
     "versions": [
         {
             "name": "Chillin+at+the+Club+WIP+03.mp3",
