@@ -1,3 +1,6 @@
+# ***WARNING***
+This project is no longer being mantained! The project has moved to the [Club Penguin Music Wiki!](https://github.com/nhaar/cp-music-wiki)
+
 # Welcome to the Club Penguin OST List!
 
 This project aims to document the Club Penguin OST as much as it is possible. This repository is for those who are interested in contributing to the project, if you want to see the data, you should check out the [google sheets page](https://docs.google.com/spreadsheets/d/140Kui6g27N4FXXKX844JWxprgJ6xwbSBso8AGXaLYLM/edit#gid=1754104519). The main goal is to list basic information and information about the high quality sources, in-depth information of each song can be found in the [Club Penguin Music Wiki](https://clubpenguinmusic.miraheze.org/wiki/Main_Page).
